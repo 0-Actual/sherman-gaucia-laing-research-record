@@ -23,6 +23,6 @@ Do not use private archives, emails or laptop data in a public response merely b
 
 The initial maintenance schedule can be a daily Eastern-time review after the actual repository is available, with notifications for material findings. Routine checks and replies occur through configured tasks or active work sessions; this assistant is not continuously present between runs.
 
-No maintenance automation has been activated in this preparation because the destination repository is not yet accessible. PUBLICATION_STATUS.json must record the real automation identifier and confirmed schedule if activation succeeds. A planned schedule is not a running task. Any owner-imposed rest interval remains applicable.
+No maintenance automation is currently active. The public repository is now available; scheduling remains a separate uncompleted operation. PUBLICATION_STATUS.json must record the real automation identifier and confirmed schedule if activation succeeds. A planned schedule is not a running task. Any owner-imposed rest interval remains applicable.
 
 For each review, inspect new events since the last recorded checkpoint, avoid duplicate replies, make only evidence-supported changes, and report changes or specific blockers to Sherman. If there is no material change, avoid sending repetitive notices.

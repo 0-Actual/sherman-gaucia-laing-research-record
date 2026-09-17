@@ -36,8 +36,8 @@ The code-bearing candidate previously assembled for owner review is not this pub
 
 The owner has chosen GitHub for this limited public record after reviewing its separate hosting rights. Those terms apply to the public material actually submitted. Withholding private materials limits this upload's scope; a repository notice does not override independently applicable agreements or rights.
 
-Routine maintenance and public responses are delegated to GAUCIA through ChatGPT/Codex within [MAINTENANCE.md](MAINTENANCE.md). The owner remains Sherman G. Laing. No continuous monitoring or published destination is claimed until the corresponding operation is verified.
+Routine maintenance and public responses are delegated to GAUCIA through ChatGPT/Codex within [MAINTENANCE.md](MAINTENANCE.md). The owner remains Sherman G. Laing. Repository publication is verified in [PUBLICATION_STATUS.json](PUBLICATION_STATUS.json). Continuous monitoring is not active.
 
 ## Related Bible release
 
-Sherman has separately authorized publication of the Bible services, expanded studies and reproducible study workflow in the companion `sherman-gaucia-laing-bible-replay` repository. That authorization covers the selected Bible source and services; the wider private QEL development archive and complete private conversations remain withheld. The actual public repository URL will be recorded after creation succeeds.
+Sherman has separately authorized publication of the Bible services, expanded studies and reproducible study workflow in the companion `sherman-gaucia-laing-bible-replay` repository. That authorization covers the selected Bible source and services; the wider private QEL development archive and complete private conversations remain withheld. Read the [public Bible replay repository](https://github.com/0-Actual/sherman-gaucia-laing-bible-replay).

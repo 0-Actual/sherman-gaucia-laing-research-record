@@ -1,64 +1,64 @@
 {
-  "schema": "qel-file-inventory/1",
-  "purpose": "Unsigned staging file inventory; not a cryptographic identity or owner signature",
-  "files": [
-    {
-      "path": ".github/ISSUE_TEMPLATE/research-question.md",
-      "bytes": 564
-    },
-    {
-      "path": ".github/PULL_REQUEST_TEMPLATE.md",
-      "bytes": 402
-    },
-    {
-      "path": "ATTRIBUTION.md",
-      "bytes": 1694
-    },
-    {
-      "path": "CITATION.cff",
-      "bytes": 470
-    },
-    {
-      "path": "DATA_SHARING_STATEMENT.md",
-      "bytes": 3524
-    },
-    {
-      "path": "LICENSE.md",
-      "bytes": 9441
-    },
-    {
-      "path": "MAINTENANCE.md",
-      "bytes": 3008
-    },
-    {
-      "path": "OWNER_STATEMENT.md",
-      "bytes": 2520
-    },
-    {
-      "path": "PUBLICATION_STATUS.json",
-      "bytes": 2205
-    },
-    {
-      "path": "README.md",
-      "bytes": 4438
-    },
-    {
-      "path": "RESEARCH_ACCOUNT.md",
-      "bytes": 8070
-    },
-    {
-      "path": "SOURCE_NOTES.md",
-      "bytes": 5544
-    },
-    {
-      "path": "TIMELINE.md",
-      "bytes": 54278
-    },
-    {
-      "path": "timeline.json",
-      "bytes": 138873
-    }
-  ],
-  "new_cryptographic_fingerprints": false,
-  "owner_signature": null
+    "schema":  "qel-file-inventory/1",
+    "purpose":  "Unsigned staging file inventory; not a cryptographic identity or owner signature",
+    "files":  [
+                  {
+                      "path":  ".github/ISSUE_TEMPLATE/research-question.md",
+                      "bytes":  564
+                  },
+                  {
+                      "path":  ".github/PULL_REQUEST_TEMPLATE.md",
+                      "bytes":  402
+                  },
+                  {
+                      "path":  "ATTRIBUTION.md",
+                      "bytes":  1694
+                  },
+                  {
+                      "path":  "CITATION.cff",
+                      "bytes":  470
+                  },
+                  {
+                      "path":  "DATA_SHARING_STATEMENT.md",
+                      "bytes":  3524
+                  },
+                  {
+                      "path":  "LICENSE.md",
+                      "bytes":  9441
+                  },
+                  {
+                      "path":  "MAINTENANCE.md",
+                      "bytes":  3025
+                  },
+                  {
+                      "path":  "OWNER_STATEMENT.md",
+                      "bytes":  2520
+                  },
+                  {
+                      "path":  "PUBLICATION_STATUS.json",
+                      "bytes":  2944
+                  },
+                  {
+                      "path":  "README.md",
+                      "bytes":  4488
+                  },
+                  {
+                      "path":  "RESEARCH_ACCOUNT.md",
+                      "bytes":  8070
+                  },
+                  {
+                      "path":  "SOURCE_NOTES.md",
+                      "bytes":  5544
+                  },
+                  {
+                      "path":  "TIMELINE.md",
+                      "bytes":  54278
+                  },
+                  {
+                      "path":  "timeline.json",
+                      "bytes":  138873
+                  }
+              ],
+    "new_cryptographic_fingerprints":  false,
+    "owner_signature":  null
 }
