@@ -21,8 +21,10 @@ Do not use private archives, emails or laptop data in a public response merely b
 
 ## Scheduling and actual availability
 
-The initial maintenance schedule can be a daily Eastern-time review after the actual repository is available, with notifications for material findings. Routine checks and replies occur through configured tasks or active work sessions; this assistant is not continuously present between runs.
+One maintenance task covering only `0-Actual/sherman-gaucia-laing-bible-replay` and `0-Actual/sherman-gaucia-laing-research-record` is configured and enabled for a daily review at 8:00 a.m. America/New_York, starting September 18, 2026. The task uses flexible scheduling, so its execution time may vary. Its maintenance configuration was confirmed on September 17, 2026; the first scheduled run has not yet been verified. The task identifier is retained in the owner's private operational receipt and is not published here.
 
-No maintenance automation is currently active. The public repository is now available; scheduling remains a separate uncompleted operation. PUBLICATION_STATUS.json must record the real automation identifier and confirmed schedule if activation succeeds. A planned schedule is not a running task. Any owner-imposed rest interval remains applicable.
+The configured task is authorized to perform the routine maintenance and public responses described above. On September 17, 2026, the connected GitHub app successfully accepted a create-tree request for each repository that reproduced its existing tree without changing published content. This verifies that endpoint's write permission; public-comment posting has not been separately tested. If any operation encounters a permission failure, stop that operation and report the specific blocker; do not bypass the denial. Access granted to the connection beyond these two repositories does not expand this maintenance task's scope.
+
+Routine checks and replies occur during scheduled or active work sessions. This assistant is not continuously present between runs, and an enabled task is not proof of a completed run. PUBLICATION_STATUS.json records the confirmed configuration and verification limits. Any owner-imposed rest interval remains applicable.
 
 For each review, inspect new events since the last recorded checkpoint, avoid duplicate replies, make only evidence-supported changes, and report changes or specific blockers to Sherman. If there is no material change, avoid sending repetitive notices.

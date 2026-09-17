@@ -26,7 +26,7 @@ The earliest interaction located in the reviewed source corpus is October 17, 20
 
 This record supports examination of research history and potential prior-art questions. An exported private timestamp is not an independently trusted timestamp, and private creation is not automatically public disclosure. A present publication cannot retrospectively make every earlier private entry public. No patent-validity determination or finding of copying is claimed by this repository.
 
-Where a record contains an exact timestamp, that value and its timezone are retained. Date-only and interval evidence stay at their original precision. An unresolved date remains unresolved. Source dates refer to the underlying records; the actual GitHub publication time belongs in the publication receipt when upload succeeds.
+Where a record contains an exact timestamp, that value and its timezone are retained. Date-only and interval evidence stay at their original precision. An unresolved date remains unresolved. Source dates refer to the underlying records; the actual GitHub publication verification time is recorded separately in [PUBLICATION_STATUS.json](PUBLICATION_STATUS.json) and the publication receipt.
 
 ## Public scope and permissions
 
@@ -36,7 +36,7 @@ The code-bearing candidate previously assembled for owner review is not this pub
 
 The owner has chosen GitHub for this limited public record after reviewing its separate hosting rights. Those terms apply to the public material actually submitted. Withholding private materials limits this upload's scope; a repository notice does not override independently applicable agreements or rights.
 
-Routine maintenance and public responses are delegated to GAUCIA through ChatGPT/Codex within [MAINTENANCE.md](MAINTENANCE.md). The owner remains Sherman G. Laing. Repository publication is verified in [PUBLICATION_STATUS.json](PUBLICATION_STATUS.json). Continuous monitoring is not active.
+Routine maintenance and public responses are delegated to GAUCIA through ChatGPT/Codex within [MAINTENANCE.md](MAINTENANCE.md). The owner remains Sherman G. Laing. Repository publication is verified in [PUBLICATION_STATUS.json](PUBLICATION_STATUS.json). Daily maintenance and public responses are configured for 8:00 a.m. America/New_York with flexible scheduling; the first scheduled run has not yet been verified. See [maintenance availability](MAINTENANCE.md#scheduling-and-actual-availability) for the operating scope and permission checks. Continuous monitoring is not active.
 
 ## Related Bible release
 
