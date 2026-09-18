@@ -1,0 +1,355 @@
+{
+  "agent": "GAUCIA through ChatGPT/Codex",
+  "count": 42,
+  "finding": "Metadata discrepancy; cause unresolved. Not proof of corrupted structures. Scalar summaries did not use nat.",
+  "modification_notice": "Selected fields extracted and counts computed from the unchanged source archive; source rights retained. No NIST endorsement.",
+  "new_cryptographic_witness": false,
+  "owner": "Sherman Gaucia Laing / Quantum.Earth.Laing",
+  "owner_signature": null,
+  "owner_supplied_time_literal": "9:15 p.m. EST",
+  "records": [
+    {
+      "coordinate_count": 16,
+      "formula": "YBr3",
+      "jid": "JVASP-13526",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 2,
+      "formula": "S",
+      "jid": "JVASP-75379",
+      "nat_field": 1,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 2
+    },
+    {
+      "coordinate_count": 12,
+      "formula": "WS2",
+      "jid": "JVASP-68932",
+      "nat_field": 6,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 12
+    },
+    {
+      "coordinate_count": 9,
+      "formula": "HgBr2",
+      "jid": "JVASP-60484",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 3.0,
+      "supplied_structure_atom_count": 9
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "CS2",
+      "jid": "JVASP-6895",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 8,
+      "formula": "SnS",
+      "jid": "JVASP-19586",
+      "nat_field": 4,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 8
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "TaSe2",
+      "jid": "JVASP-5926",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 8,
+      "formula": "BaS",
+      "jid": "JVASP-9044",
+      "nat_field": 4,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 8
+    },
+    {
+      "coordinate_count": 12,
+      "formula": "TbCBr",
+      "jid": "JVASP-27848",
+      "nat_field": 6,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 12
+    },
+    {
+      "coordinate_count": 12,
+      "formula": "BiS2",
+      "jid": "JVASP-28270",
+      "nat_field": 6,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 12
+    },
+    {
+      "coordinate_count": 18,
+      "formula": "Rb2Pd3S4",
+      "jid": "JVASP-9023",
+      "nat_field": 9,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 18
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "TaS2",
+      "jid": "JVASP-5959",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 10,
+      "formula": "Li4O",
+      "jid": "JVASP-9032",
+      "nat_field": 5,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 10
+    },
+    {
+      "coordinate_count": 8,
+      "formula": "PbS",
+      "jid": "JVASP-5890",
+      "nat_field": 4,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 8
+    },
+    {
+      "coordinate_count": 24,
+      "formula": "SiP",
+      "jid": "JVASP-27741",
+      "nat_field": 12,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 24
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "AlCl3",
+      "jid": "JVASP-6100",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "CrI2",
+      "jid": "JVASP-6397",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 20,
+      "formula": "NbS2Cl2",
+      "jid": "JVASP-6256",
+      "nat_field": 10,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 20
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "IrBr3",
+      "jid": "JVASP-6202",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "CrCl3",
+      "jid": "JVASP-6943",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "IrCl3",
+      "jid": "JVASP-6136",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "BiI",
+      "jid": "JVASP-6955",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "RhCl3",
+      "jid": "JVASP-6148",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "RhBr3",
+      "jid": "JVASP-6085",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "PbBr2",
+      "jid": "JVASP-6751",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 20,
+      "formula": "TaCl4",
+      "jid": "JVASP-6802",
+      "nat_field": 10,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 20
+    },
+    {
+      "coordinate_count": 18,
+      "formula": "BaB2Se6",
+      "jid": "JVASP-27781",
+      "nat_field": 9,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 18
+    },
+    {
+      "coordinate_count": 10,
+      "formula": "CoH2O2",
+      "jid": "JVASP-28106",
+      "nat_field": 5,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 10
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "HgI2",
+      "jid": "JVASP-20004",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "Te2Au",
+      "jid": "JVASP-27775",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "MoS2",
+      "jid": "JVASP-730",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "CoO2",
+      "jid": "JVASP-31379",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 20,
+      "formula": "NbCl4",
+      "jid": "JVASP-6823",
+      "nat_field": 10,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 20
+    },
+    {
+      "coordinate_count": 8,
+      "formula": "BaSe",
+      "jid": "JVASP-9008",
+      "nat_field": 4,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 8
+    },
+    {
+      "coordinate_count": 20,
+      "formula": "CdPS3",
+      "jid": "JVASP-6322",
+      "nat_field": 10,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 20
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "YCl3",
+      "jid": "JVASP-20014",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 20,
+      "formula": "NbSe2Br2",
+      "jid": "JVASP-14420",
+      "nat_field": 10,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 20
+    },
+    {
+      "coordinate_count": 8,
+      "formula": "PbS",
+      "jid": "JVASP-5917",
+      "nat_field": 4,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 8
+    },
+    {
+      "coordinate_count": 16,
+      "formula": "PS",
+      "jid": "JVASP-20054",
+      "nat_field": 8,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 16
+    },
+    {
+      "coordinate_count": 20,
+      "formula": "ThTe2I2",
+      "jid": "JVASP-28006",
+      "nat_field": 10,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 20
+    },
+    {
+      "coordinate_count": 6,
+      "formula": "Tl2O",
+      "jid": "JVASP-28013",
+      "nat_field": 3,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 6
+    },
+    {
+      "coordinate_count": 8,
+      "formula": "B",
+      "jid": "JVASP-153104",
+      "nat_field": 4,
+      "ratio_structure_atoms_to_nat": 2.0,
+      "supplied_structure_atom_count": 8
+    }
+  ],
+  "source_author": "Kamal Choudhary",
+  "source_doi": "10.6084/m9.figshare.6815705.v8",
+  "source_file_id": 38521268,
+  "source_file_name": "d2-12-12-2022.json.zip",
+  "source_license": "CC BY 4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "time_note": "Owner-provided label is preserved verbatim; it is not the measured execution time or a trusted timestamp. Actual run timestamps are separately recorded in UTC."
+}

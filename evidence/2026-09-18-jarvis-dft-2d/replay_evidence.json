@@ -1,0 +1,77 @@
+{
+  "agent": "GAUCIA through ChatGPT/Codex",
+  "catalog_records": 1109,
+  "checks": {
+    "bandgap_no_negative_numeric_values": true,
+    "catalog_count_matches_download": false,
+    "coordinate_shapes_and_element_counts_consistent": true,
+    "field_classification_totals_match": true,
+    "identifiers_present_and_unique": true,
+    "nat_metadata_matches_supplied_structure": false,
+    "records_nonempty": true
+  },
+  "code_publication": "Analysis source code is retained in the owner private review package; not included in this public evidence selection. Public readers can independently verify selected counts from the cited source file.",
+  "commands": [
+    "python analyze.py",
+    "python analyze.py --output replay"
+  ],
+  "distinct_jids": 1103,
+  "final_analysis_run": {
+    "architecture": "x86_64",
+    "dependencies": "Python standard library only",
+    "elapsed_seconds": 1.6917715249946923,
+    "execution_utc": "2026-09-18T01:11:34.580384+00:00",
+    "logical_cpu_count": 9,
+    "measurement_scope": "One small file in this execution environment; not a laptop or large-scale performance claim",
+    "memory_measurement_scope": "tracemalloc Python allocations; not process RSS or laptop memory",
+    "network_operations_in_analysis": 0,
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "python_tracked_peak_bytes": 113852701,
+    "python_version": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "random_seed": null,
+    "timing_scope": "Read/decompress/parse/analyze/write analysis and index, with tracemalloc enabled; download excluded"
+  },
+  "independent_review": "Second agent independently checked source records and scalar statistics; not independent laboratory validation",
+  "measured_records": 1103,
+  "modification_notice": "Selected fields extracted and counts computed from the unchanged source archive; source rights retained. No NIST endorsement.",
+  "network_operations_during_analysis": 0,
+  "new_cryptographic_witness": false,
+  "owner": "Sherman Gaucia Laing / Quantum.Earth.Laing",
+  "owner_signature": null,
+  "owner_supplied_time_literal": "9:15 p.m. EST",
+  "randomness": "none",
+  "replay_run": {
+    "architecture": "x86_64",
+    "dependencies": "Python standard library only",
+    "elapsed_seconds": 2.091641733997676,
+    "execution_utc": "2026-09-18T01:12:03.433950+00:00",
+    "logical_cpu_count": 9,
+    "measurement_scope": "One small file in this execution environment; not a laptop or large-scale performance claim",
+    "memory_measurement_scope": "tracemalloc Python allocations; not process RSS or laptop memory",
+    "network_operations_in_analysis": 0,
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "python_tracked_peak_bytes": 113852477,
+    "python_version": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "random_seed": null,
+    "timing_scope": "Read/decompress/parse/analyze/write analysis and index, with tracemalloc enabled; download excluded"
+  },
+  "replay_verification": {
+    "all_deterministic_outputs_match": true,
+    "files_equal": {
+      "analysis.json": true,
+      "checks.json": true,
+      "record_index.json": true
+    },
+    "method": "Direct byte comparison of outputs from two separate Python process runs",
+    "metrics_excluded": "timestamps and measured timing/allocation vary by run",
+    "verified_utc": "2026-09-18T01:13:42.423869+00:00"
+  },
+  "scope": "Descriptive review of existing DFT predictions, not a new DFT or quantum-circuit simulation",
+  "source_author": "Kamal Choudhary",
+  "source_doi": "10.6084/m9.figshare.6815705.v8",
+  "source_file_id": 38521268,
+  "source_file_name": "d2-12-12-2022.json.zip",
+  "source_license": "CC BY 4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "time_note": "Owner-provided label is preserved verbatim; it is not the measured execution time or a trusted timestamp. Actual run timestamps are separately recorded in UTC."
+}

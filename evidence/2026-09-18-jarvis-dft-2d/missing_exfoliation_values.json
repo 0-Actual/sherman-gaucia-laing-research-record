@@ -1,0 +1,1797 @@
+{
+  "agent": "GAUCIA through ChatGPT/Codex",
+  "field": "exfoliation_energy",
+  "missing_count": 355,
+  "modification_notice": "Selected fields extracted and counts computed from the unchanged source archive; source rights retained. No NIST endorsement.",
+  "new_cryptographic_witness": false,
+  "numeric_count": 748,
+  "owner": "Sherman Gaucia Laing / Quantum.Earth.Laing",
+  "owner_signature": null,
+  "owner_supplied_time_literal": "9:15 p.m. EST",
+  "records": [
+    {
+      "formula": "UTe3",
+      "jid": "JVASP-76308",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiI3",
+      "jid": "JVASP-76515",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ScHCl",
+      "jid": "JVASP-27901",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Bi2Pt",
+      "jid": "JVASP-76516",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "InCuP2Se6",
+      "jid": "JVASP-76309",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrI2",
+      "jid": "JVASP-76525",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CuBr",
+      "jid": "JVASP-76312",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TeH2O4",
+      "jid": "JVASP-76562",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "As2S3",
+      "jid": "JVASP-76567",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PuIO",
+      "jid": "JVASP-76576",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbI2",
+      "jid": "JVASP-76581",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TbCl3",
+      "jid": "JVASP-76319",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "FeCl2",
+      "jid": "JVASP-60480",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GaAgP2Se6",
+      "jid": "JVASP-60543",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Nb3IrS8",
+      "jid": "JVASP-76583",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ErHCl",
+      "jid": "JVASP-76322",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Li2UBr6",
+      "jid": "JVASP-76584",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-76334",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GaAgP2Se6",
+      "jid": "JVASP-76598",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AlPd5I2",
+      "jid": "JVASP-76341",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiBr3",
+      "jid": "JVASP-76604",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NiCl2",
+      "jid": "JVASP-76342",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YIO",
+      "jid": "JVASP-76608",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "UBrO2",
+      "jid": "JVASP-76343",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TmClO",
+      "jid": "JVASP-76609",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CaClF",
+      "jid": "JVASP-76344",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TmBrO",
+      "jid": "JVASP-76611",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoH2SeO4",
+      "jid": "JVASP-60391",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "UIN",
+      "jid": "JVASP-76349",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YBr3",
+      "jid": "JVASP-76613",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Nb3Br8",
+      "jid": "JVASP-76350",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PrBrO",
+      "jid": "JVASP-76619",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiAsO4",
+      "jid": "JVASP-76353",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MoSe2",
+      "jid": "JVASP-76621",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NdBr3",
+      "jid": "JVASP-76355",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Nb3I8",
+      "jid": "JVASP-60296",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbSe2",
+      "jid": "JVASP-76622",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TcP3",
+      "jid": "JVASP-76360",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrFeCl6",
+      "jid": "JVASP-13600",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "WO2F2",
+      "jid": "JVASP-76628",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Nb2SiTe4",
+      "jid": "JVASP-76377",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YBrO",
+      "jid": "JVASP-76634",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoTeO4",
+      "jid": "JVASP-76637",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Co3As",
+      "jid": "JVASP-6892",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Na3S2",
+      "jid": "JVASP-7039",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "K2YO2",
+      "jid": "JVASP-9056",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CeSiI",
+      "jid": "JVASP-76387",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiSe2",
+      "jid": "JVASP-6841",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Pr3OsI3",
+      "jid": "JVASP-76528",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TmClO",
+      "jid": "JVASP-76640",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TaSe3",
+      "jid": "JVASP-76389",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoO2",
+      "jid": "JVASP-76648",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbSe2",
+      "jid": "JVASP-5899",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "UCO5",
+      "jid": "JVASP-76390",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BN",
+      "jid": "JVASP-76649",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NdBr3",
+      "jid": "JVASP-60300",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "VBrO",
+      "jid": "JVASP-76412",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ta2PdS6",
+      "jid": "JVASP-76651",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoO2",
+      "jid": "JVASP-76414",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ta2PdSe6",
+      "jid": "JVASP-76652",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiTeBr",
+      "jid": "JVASP-76415",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SnSe",
+      "jid": "JVASP-76659",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "UTeN",
+      "jid": "JVASP-76416",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SiAs2",
+      "jid": "JVASP-76667",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiNbS4",
+      "jid": "JVASP-76417",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SiP",
+      "jid": "JVASP-60301",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TcP3",
+      "jid": "JVASP-60305",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SbPO4",
+      "jid": "JVASP-76418",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrSiTe3",
+      "jid": "JVASP-76420",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiClO",
+      "jid": "JVASP-75097",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbI2",
+      "jid": "JVASP-76440",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CI2",
+      "jid": "JVASP-75120",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrGeTe3",
+      "jid": "JVASP-76444",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbTe5Pd",
+      "jid": "JVASP-60315",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-60407",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Te2W",
+      "jid": "JVASP-75057",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YClO",
+      "jid": "JVASP-76457",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "F",
+      "jid": "JVASP-75224",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-76462",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "S",
+      "jid": "JVASP-75379",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "N",
+      "jid": "JVASP-75069",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NiTe",
+      "jid": "JVASP-75072",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NpIO",
+      "jid": "JVASP-76468",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B",
+      "jid": "JVASP-75077",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "VS2",
+      "jid": "JVASP-76471",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-60243",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrCl3",
+      "jid": "JVASP-76498",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "InAgP2Se6",
+      "jid": "JVASP-75089",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "InSiTe3",
+      "jid": "JVASP-76505",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GaSe",
+      "jid": "JVASP-76507",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "W3O8",
+      "jid": "JVASP-75420",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "HfBrN",
+      "jid": "JVASP-76508",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CdBr2",
+      "jid": "JVASP-76511",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CdBr2",
+      "jid": "JVASP-76512",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GaSe",
+      "jid": "JVASP-6877",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoAs2",
+      "jid": "JVASP-6637",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrI3",
+      "jid": "JVASP-76195",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-5989",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CeTe3",
+      "jid": "JVASP-60485",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NiSe2",
+      "jid": "JVASP-7015",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AuSe2",
+      "jid": "JVASP-6601",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "FeTe2",
+      "jid": "JVASP-6847",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "RbNd2Se2",
+      "jid": "JVASP-9020",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ReS2",
+      "jid": "JVASP-60488",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbI2",
+      "jid": "JVASP-60491",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbI2",
+      "jid": "JVASP-60493",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ge2Te",
+      "jid": "JVASP-13647",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SmTe3",
+      "jid": "JVASP-20060",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YCI",
+      "jid": "JVASP-60258",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TlS2",
+      "jid": "JVASP-14455",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ErHCl",
+      "jid": "JVASP-60267",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ScHCl",
+      "jid": "JVASP-60268",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YBr3",
+      "jid": "JVASP-60558",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ReBiO4",
+      "jid": "JVASP-60285",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Nb2SiTe4",
+      "jid": "JVASP-60322",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "RuCl2O",
+      "jid": "JVASP-60324",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "WO2F2",
+      "jid": "JVASP-60573",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoTeO4",
+      "jid": "JVASP-60582",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZnAs2O4",
+      "jid": "JVASP-60331",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CeSi2Au4",
+      "jid": "JVASP-60499",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PaCl2O",
+      "jid": "JVASP-60500",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TaFeTe3",
+      "jid": "JVASP-60603",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SnSe",
+      "jid": "JVASP-60604",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SnSe",
+      "jid": "JVASP-6025",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SiAs2",
+      "jid": "JVASP-60612",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrSb2",
+      "jid": "JVASP-6880",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MgAl2S3",
+      "jid": "JVASP-6640",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaAl2Cl8",
+      "jid": "JVASP-60340",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PrTe2Se",
+      "jid": "JVASP-60341",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LaIO",
+      "jid": "JVASP-60346",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "UB2O6",
+      "jid": "JVASP-60348",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Zr2HBr2",
+      "jid": "JVASP-60514",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ThI4",
+      "jid": "JVASP-60291",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PuIO",
+      "jid": "JVASP-60521",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "UTe5",
+      "jid": "JVASP-60522",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoCl2O8",
+      "jid": "JVASP-60353",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Nb3IrS8",
+      "jid": "JVASP-60528",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Li2UBr6",
+      "jid": "JVASP-60529",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Y2GeI2",
+      "jid": "JVASP-60530",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MoCl3",
+      "jid": "JVASP-60536",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrCl3",
+      "jid": "JVASP-60443",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrSiTe3",
+      "jid": "JVASP-60365",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NdTe2Se",
+      "jid": "JVASP-60367",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "C",
+      "jid": "JVASP-60368",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MoCl3",
+      "jid": "JVASP-60454",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Bi2Pt",
+      "jid": "JVASP-60461",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GeSe",
+      "jid": "JVASP-28152",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Li2UI6",
+      "jid": "JVASP-60474",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaB2Se6",
+      "jid": "JVASP-60475",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "HfMo2O8",
+      "jid": "JVASP-60537",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LaHBr2",
+      "jid": "JVASP-60542",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LaBi2O4",
+      "jid": "JVASP-28176",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaS",
+      "jid": "JVASP-9044",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrBr2",
+      "jid": "JVASP-77586",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoTe2",
+      "jid": "JVASP-77587",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Cr3Te4",
+      "jid": "JVASP-77592",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TlCl",
+      "jid": "JVASP-77594",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiSe",
+      "jid": "JVASP-78001",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NdGe2",
+      "jid": "JVASP-77596",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TePb",
+      "jid": "JVASP-77598",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Al2Os",
+      "jid": "JVASP-77602",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "UBrO2",
+      "jid": "JVASP-78002",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NiS",
+      "jid": "JVASP-77603",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AgCNO",
+      "jid": "JVASP-78008",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ag2Se",
+      "jid": "JVASP-77606",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LuSb2",
+      "jid": "JVASP-78009",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "VSe",
+      "jid": "JVASP-77610",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TlPt2Se3",
+      "jid": "JVASP-78010",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbO",
+      "jid": "JVASP-77611",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrSiSe",
+      "jid": "JVASP-78011",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaSi2",
+      "jid": "JVASP-77612",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaCu",
+      "jid": "JVASP-77613",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CuI",
+      "jid": "JVASP-78013",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ag2S",
+      "jid": "JVASP-77643",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "FeCo3O8",
+      "jid": "JVASP-78014",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AgF2",
+      "jid": "JVASP-77650",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrBr3",
+      "jid": "JVASP-77653",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiAu",
+      "jid": "JVASP-78015",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AgCl",
+      "jid": "JVASP-77658",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "I",
+      "jid": "JVASP-78019",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SmGe2",
+      "jid": "JVASP-77660",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MnAl2S4",
+      "jid": "JVASP-78021",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NaHO",
+      "jid": "JVASP-77663",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ag2SeO4",
+      "jid": "JVASP-78024",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Nb2SiTe4",
+      "jid": "JVASP-77665",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiO2",
+      "jid": "JVASP-77671",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ba2InBrO3",
+      "jid": "JVASP-78027",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PdCl2",
+      "jid": "JVASP-77673",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sb2TeSe2",
+      "jid": "JVASP-78030",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SnF4",
+      "jid": "JVASP-78033",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SbClO",
+      "jid": "JVASP-77675",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CdH2O2",
+      "jid": "JVASP-78034",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Si",
+      "jid": "JVASP-77684",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CeTe2",
+      "jid": "JVASP-78035",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SbBrO",
+      "jid": "JVASP-77690",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MoO2",
+      "jid": "JVASP-78036",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-77693",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "RbSb2Se4",
+      "jid": "JVASP-78037",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZnSiO3",
+      "jid": "JVASP-77694",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TbHO2",
+      "jid": "JVASP-78041",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaSn4O8",
+      "jid": "JVASP-77697",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NaLi2As",
+      "jid": "JVASP-77698",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Fe3Se4",
+      "jid": "JVASP-78042",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BN",
+      "jid": "JVASP-77700",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "K2As2Pd",
+      "jid": "JVASP-77701",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "P",
+      "jid": "JVASP-77702",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ag2SO4",
+      "jid": "JVASP-77706",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CN2",
+      "jid": "JVASP-77713",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Co3SbO8",
+      "jid": "JVASP-77991",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbTlBr4O",
+      "jid": "JVASP-77993",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YBiO3",
+      "jid": "JVASP-77994",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Li2NiO2",
+      "jid": "JVASP-77996",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "HgIBr",
+      "jid": "JVASP-77997",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "C3N4",
+      "jid": "JVASP-77998",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrF2",
+      "jid": "JVASP-77580",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "RhO2",
+      "jid": "JVASP-77581",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MnS2",
+      "jid": "JVASP-77582",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AgI",
+      "jid": "JVASP-77583",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "HfSiTe",
+      "jid": "JVASP-19990",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CaO2",
+      "jid": "JVASP-77584",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbF4",
+      "jid": "JVASP-77585",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrBrO",
+      "jid": "JVASP-28185",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CeSe2",
+      "jid": "JVASP-27846",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NiBi2",
+      "jid": "JVASP-6694",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiRh2",
+      "jid": "JVASP-6700",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Mn2Bi",
+      "jid": "JVASP-6703",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MnC2O6",
+      "jid": "JVASP-28218",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiPt2",
+      "jid": "JVASP-6712",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "FeCoO4",
+      "jid": "JVASP-28236",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TbCBr",
+      "jid": "JVASP-27848",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B3P2",
+      "jid": "JVASP-27866",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GeTe4As2",
+      "jid": "JVASP-27869",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AgClO4",
+      "jid": "JVASP-27889",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "VS2",
+      "jid": "JVASP-6862",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sr3Si2",
+      "jid": "JVASP-6625",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CaN",
+      "jid": "JVASP-6631",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PtN2",
+      "jid": "JVASP-6634",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrTe2",
+      "jid": "JVASP-6865",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-5992",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Li4O",
+      "jid": "JVASP-9032",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LiTi2S4",
+      "jid": "JVASP-6886",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "InSe2",
+      "jid": "JVASP-6661",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Pt2Pb",
+      "jid": "JVASP-6670",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrSe2",
+      "jid": "JVASP-6889",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sr2N2Cl",
+      "jid": "JVASP-9035",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sr2BrN2",
+      "jid": "JVASP-9038",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BeCl2",
+      "jid": "JVASP-6061",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sr2In2I5",
+      "jid": "JVASP-6904",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sr2H3",
+      "jid": "JVASP-6910",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MnH2",
+      "jid": "JVASP-6913",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ca2H3",
+      "jid": "JVASP-6916",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AlCl2",
+      "jid": "JVASP-6919",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TlSn2",
+      "jid": "JVASP-6925",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ErHCl",
+      "jid": "JVASP-27900",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NiBr2",
+      "jid": "JVASP-8945",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NaSn2S4",
+      "jid": "JVASP-6949",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LiSn2S2",
+      "jid": "JVASP-6952",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MoS2Cl3",
+      "jid": "JVASP-6967",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ba2P2Cl",
+      "jid": "JVASP-8954",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BiSe2",
+      "jid": "JVASP-6970",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "W2N",
+      "jid": "JVASP-5941",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "P3Se4I2",
+      "jid": "JVASP-6775",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ScSi4",
+      "jid": "JVASP-6982",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B2PCl2",
+      "jid": "JVASP-6778",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ca2I2N",
+      "jid": "JVASP-6985",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LaBr2",
+      "jid": "JVASP-6556",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaMgBi",
+      "jid": "JVASP-8975",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PPdSe",
+      "jid": "JVASP-6292",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TaCl4",
+      "jid": "JVASP-6802",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CdCl2",
+      "jid": "JVASP-19998",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbI2",
+      "jid": "JVASP-19999",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaLi2Si2",
+      "jid": "JVASP-7057",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrTe5",
+      "jid": "JVASP-13514",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PuIO",
+      "jid": "JVASP-13521",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CoH2O2",
+      "jid": "JVASP-28106",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "P",
+      "jid": "JVASP-9572",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ca2SiBr",
+      "jid": "JVASP-19565",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SbCl5",
+      "jid": "JVASP-20005",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MgCl2",
+      "jid": "JVASP-20007",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MoN",
+      "jid": "JVASP-13586",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "P",
+      "jid": "JVASP-76290",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Zr2HBr2",
+      "jid": "JVASP-14433",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SiAs",
+      "jid": "JVASP-76297",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbS2",
+      "jid": "JVASP-76298",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "FeSe",
+      "jid": "JVASP-76299",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "InSe",
+      "jid": "JVASP-76306",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Na4LiN2",
+      "jid": "JVASP-7024",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SiCl4",
+      "jid": "JVASP-19550",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Ba2AgP",
+      "jid": "JVASP-9071",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YCI",
+      "jid": "JVASP-76313",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiCl3",
+      "jid": "JVASP-76536",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Tl2AgTe2",
+      "jid": "JVASP-6835",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TlSbSe4",
+      "jid": "JVASP-13564",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LiTi2Se4",
+      "jid": "JVASP-7036",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LiSi5Pd",
+      "jid": "JVASP-13568",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "HC2O2",
+      "jid": "JVASP-20011",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GeSb2Te4",
+      "jid": "JVASP-31363",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sb2Te2Se",
+      "jid": "JVASP-31366",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbI2",
+      "jid": "JVASP-76548",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Sb4S5Cl2",
+      "jid": "JVASP-6583",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Tl2BiSe2",
+      "jid": "JVASP-8990",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiCl3",
+      "jid": "JVASP-76318",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Re3Se4Cl",
+      "jid": "JVASP-76549",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "GeBi2Te4",
+      "jid": "JVASP-6481",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MnO2",
+      "jid": "JVASP-27978",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MnI2",
+      "jid": "JVASP-20017",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TeAuI",
+      "jid": "JVASP-27923",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TiTe2",
+      "jid": "JVASP-7000",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Na2NbS2",
+      "jid": "JVASP-9047",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "K2NbS2",
+      "jid": "JVASP-9050",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Na2NbSe2",
+      "jid": "JVASP-9053",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrTe2",
+      "jid": "JVASP-7033",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "Na2InO2",
+      "jid": "JVASP-9041",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrBr",
+      "jid": "JVASP-27984",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ReS2",
+      "jid": "JVASP-6022",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PrTe2Se",
+      "jid": "JVASP-27952",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CaSi",
+      "jid": "JVASP-19993",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "K2YTe2",
+      "jid": "JVASP-13562",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AuSeBr",
+      "jid": "JVASP-19536",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaSe",
+      "jid": "JVASP-9008",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "K2SnS2",
+      "jid": "JVASP-7030",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "VBrO",
+      "jid": "JVASP-6235",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "SiI3",
+      "jid": "JVASP-6502",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "PbS",
+      "jid": "JVASP-5917",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "W6CCl8",
+      "jid": "JVASP-20042",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "BaZnBi",
+      "jid": "JVASP-13619",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LaIO",
+      "jid": "JVASP-20044",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NdTe2Se",
+      "jid": "JVASP-13627",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrHCl",
+      "jid": "JVASP-113306",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CaGaN",
+      "jid": "JVASP-113338",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NaMgSb",
+      "jid": "JVASP-113346",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ErTe3",
+      "jid": "JVASP-113359",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "AcSe3",
+      "jid": "JVASP-113387",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "YScC2SNCl",
+      "jid": "JVASP-155139",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrScCBrO",
+      "jid": "JVASP-155145",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "HfTiCO2",
+      "jid": "JVASP-155148",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B2N",
+      "jid": "JVASP-153099",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B2O",
+      "jid": "JVASP-153100",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B",
+      "jid": "JVASP-153101",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CaC6",
+      "jid": "JVASP-153102",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CaRu2N2",
+      "jid": "JVASP-153103",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B",
+      "jid": "JVASP-153104",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "CrF3",
+      "jid": "JVASP-153105",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbTe2",
+      "jid": "JVASP-153106",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LiBC",
+      "jid": "JVASP-153108",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "LiC6",
+      "jid": "JVASP-153109",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MgB2",
+      "jid": "JVASP-153113",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "MgBH",
+      "jid": "JVASP-153114",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbC",
+      "jid": "JVASP-153115",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ScC",
+      "jid": "JVASP-153117",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "NbTe2",
+      "jid": "JVASP-153118",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "TaTe2",
+      "jid": "JVASP-153119",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "B3W2",
+      "jid": "JVASP-153120",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "ZrSiS",
+      "jid": "JVASP-153121",
+      "raw_exfoliation_energy": "na"
+    },
+    {
+      "formula": "W2N3",
+      "jid": "JVASP-153122",
+      "raw_exfoliation_energy": "na"
+    }
+  ],
+  "source_author": "Kamal Choudhary",
+  "source_doi": "10.6084/m9.figshare.6815705.v8",
+  "source_file_id": 38521268,
+  "source_file_name": "d2-12-12-2022.json.zip",
+  "source_license": "CC BY 4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "time_note": "Owner-provided label is preserved verbatim; it is not the measured execution time or a trusted timestamp. Actual run timestamps are separately recorded in UTC.",
+  "total_records": 1103,
+  "treatment": "Excluded from numeric summaries, never replaced with zero"
+}
