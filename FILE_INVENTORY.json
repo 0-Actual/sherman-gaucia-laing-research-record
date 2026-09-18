@@ -23,32 +23,20 @@
       "bytes": 3524
     },
     {
-      "path": "evidence/2026-09-18-jarvis-dft-2d/atom_count_differences.json",
-      "bytes": 9471
-    },
-    {
-      "path": "evidence/2026-09-18-jarvis-dft-2d/missing_exfoliation_values.json",
-      "bytes": 37939
-    },
-    {
-      "path": "evidence/2026-09-18-jarvis-dft-2d/README.md",
-      "bytes": 6065
-    },
-    {
-      "path": "evidence/2026-09-18-jarvis-dft-2d/replay_evidence.json",
-      "bytes": 3935
-    },
-    {
       "path": "LICENSE.md",
       "bytes": 9441
     },
     {
       "path": "MAINTENANCE.md",
-      "bytes": 3863
+      "bytes": 4299
     },
     {
       "path": "OWNER_STATEMENT.md",
       "bytes": 2520
+    },
+    {
+      "path": "PUBLICATION_REVIEW.md",
+      "bytes": 2880
     },
     {
       "path": "PUBLICATION_STATUS.json",
@@ -56,7 +44,7 @@
     },
     {
       "path": "README.md",
-      "bytes": 5022
+      "bytes": 5190
     },
     {
       "path": "RESEARCH_ACCOUNT.md",
@@ -67,12 +55,36 @@
       "bytes": 5544
     },
     {
-      "path": "timeline.json",
-      "bytes": 138873
-    },
-    {
       "path": "TIMELINE.md",
       "bytes": 54278
+    },
+    {
+      "path": "evidence/2026-09-18-jarvis-dft-2d/FULL_STUDY_UPDATE.md",
+      "bytes": 8136
+    },
+    {
+      "path": "evidence/2026-09-18-jarvis-dft-2d/README.md",
+      "bytes": 6887
+    },
+    {
+      "path": "evidence/2026-09-18-jarvis-dft-2d/atom_count_differences.json",
+      "bytes": 9471
+    },
+    {
+      "path": "evidence/2026-09-18-jarvis-dft-2d/followup_evidence.json",
+      "bytes": 36896
+    },
+    {
+      "path": "evidence/2026-09-18-jarvis-dft-2d/missing_exfoliation_values.json",
+      "bytes": 37939
+    },
+    {
+      "path": "evidence/2026-09-18-jarvis-dft-2d/replay_evidence.json",
+      "bytes": 3935
+    },
+    {
+      "path": "timeline.json",
+      "bytes": 138873
     }
   ],
   "new_cryptographic_fingerprints": false,

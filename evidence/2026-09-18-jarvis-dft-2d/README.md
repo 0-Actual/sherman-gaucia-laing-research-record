@@ -4,7 +4,11 @@ Sherman Gaucia Laing / Quantum.Earth.Laing. Analysis and documentary preparation
 
 **Owner-supplied timestamp: 9:15 p.m. EST, preserved verbatim.** The actual analysis and replay timestamps below are machine-recorded UTC values. The owner label is not used to backdate execution or GitHub publication, and neither is claimed to be a trusted or signed timestamp. This review does not change QEL's inception chronology.
 
-## Scope and findings
+## Current interpretation — updated 18 September 2026 UTC
+
+**Read the [full-study follow-up](FULL_STUDY_UPDATE.md) alongside the original observations below.** The count of 42 atom-count differences is unchanged. A later geometric diagnostic supports a repeated-cell interpretation in 40 cases; JVASP-60484 and JVASP-6751 remain unresolved. It does not prove the historical cause. The follow-up also documents the complete 65-field study, additional missingness, formula/tensor issues, and duplicate descriptors. [Structured follow-up evidence](followup_evidence.json).
+
+## Initial inspection scope and findings
 
 This is an inspection of published JARVIS DFT data. No new DFT calculation, quantum-circuit simulation, AI training, materials discovery, or quantum advantage demonstration was performed.
 
@@ -30,7 +34,7 @@ Two review checks remain flagged: the catalog/file count difference and the atom
 
 ## All 42 atom-count differences
 
-For these records, the `nat` metadata field differs from the number of elements in the supplied `atoms` structure. The coordinate count matches the element count. Forty-one structures contain twice the `nat` count and one contains three times that count. A cell-representation difference is a possible explanation, **not a verified cause**. Records were preserved unchanged and were not classified as corrupt or deleted. The scalar summaries did not use `nat`.
+For these records, the `nat` metadata field differs from the number of elements in the supplied `atoms` structure. The coordinate count matches the element count. Forty-one structures contain twice the `nat` count and one contains three times that count. The initial inspection proposed a cell-representation difference as a possible explanation, **not a verified cause**. The later [full-study diagnostic](FULL_STUDY_UPDATE.md) supplies structural support for that interpretation in 40 cases while leaving two unresolved; the historical export cause remains unverified. Records were preserved unchanged and were not classified as corrupt or deleted. The scalar summaries did not use `nat`.
 
 | Record ID | Formula | `nat` field | Supplied structure atoms | Structure / `nat` |
 |---|---|---:|---:|---:|

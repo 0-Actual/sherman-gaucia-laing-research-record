@@ -1,0 +1,1634 @@
+{
+  "schema": "qel-jarvis-study-followup/1",
+  "owner": "Sherman Gaucia Laing",
+  "prepared_by": "GAUCIA through ChatGPT/Codex",
+  "prepared_utc": "2026-09-18T02:43:17.444616+00:00",
+  "status": "Dated follow-up to the initial inspection; observed counts retained",
+  "original_publication_commit": "2b3d0363b2ed30ba333723347dc36c6a4fadb3ce",
+  "source": {
+    "author": "Kamal Choudhary",
+    "doi": "10.6084/m9.figshare.6815705.v8",
+    "file_id": 38521268,
+    "archive": "d2-12-12-2022.json.zip",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_modified": false,
+    "modification_notice": "Selected fields, computed diagnostics, counts and interpretations from the unchanged source; not an unchanged full dataset"
+  },
+  "scope": {
+    "records": 1103,
+    "top_level_fields": 65,
+    "scalar_leaf_occurrences": 1861469,
+    "linked_raw_archives_downloaded_for_census": 0
+  },
+  "retained_observations": {
+    "atom_count_differences": 42,
+    "missing_exfoliation_values": 355,
+    "numeric_exfoliation_values": 748,
+    "catalog_count_at_initial_review": 1109,
+    "catalog_difference_explanation": "Unresolved"
+  },
+  "atom_count_followup": {
+    "method": "Periodic translation diagnostic: candidate shifts from same-species sites, distinct same-species matches within 0.001 angstrom with nearby periodic images. Limited geometric diagnostic, not crystallographic standardization.",
+    "tolerance_angstrom": 0.001,
+    "supporting_repeated_cell_interpretation_jids": [
+      "JVASP-13526",
+      "JVASP-75379",
+      "JVASP-68932",
+      "JVASP-6895",
+      "JVASP-19586",
+      "JVASP-5926",
+      "JVASP-9044",
+      "JVASP-27848",
+      "JVASP-28270",
+      "JVASP-9023",
+      "JVASP-5959",
+      "JVASP-9032",
+      "JVASP-5890",
+      "JVASP-27741",
+      "JVASP-6100",
+      "JVASP-6397",
+      "JVASP-6256",
+      "JVASP-6202",
+      "JVASP-6943",
+      "JVASP-6136",
+      "JVASP-6955",
+      "JVASP-6148",
+      "JVASP-6085",
+      "JVASP-6802",
+      "JVASP-27781",
+      "JVASP-28106",
+      "JVASP-20004",
+      "JVASP-27775",
+      "JVASP-730",
+      "JVASP-31379",
+      "JVASP-6823",
+      "JVASP-9008",
+      "JVASP-6322",
+      "JVASP-20014",
+      "JVASP-14420",
+      "JVASP-5917",
+      "JVASP-20054",
+      "JVASP-28006",
+      "JVASP-28013",
+      "JVASP-153104"
+    ],
+    "unresolved_jids": [
+      "JVASP-60484",
+      "JVASP-6751"
+    ],
+    "cause_proven": false,
+    "records": [
+      {
+        "jid": "JVASP-13526",
+        "formula": "YBr3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Y": 4,
+          "Br": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000011014510192,
+              0.49999994691206606,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-75379",
+        "formula": "S",
+        "nat": 1,
+        "structure_count": 2,
+        "ratio": 2.0,
+        "species_counts": {
+          "S": 2
+        },
+        "space_group_symbol": "P4/mmm",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.9999853416111928,
+              0.49999951414428845,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-68932",
+        "formula": "WS2",
+        "nat": 6,
+        "structure_count": 12,
+        "ratio": 2.0,
+        "species_counts": {
+          "W": 4,
+          "S": 8
+        },
+        "space_group_symbol": "P-1",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999960615560319,
+              0.4999945043291664,
+              0.9999996267349167
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-60484",
+        "formula": "HgBr2",
+        "nat": 3,
+        "structure_count": 9,
+        "ratio": 3.0,
+        "species_counts": {
+          "Hg": 3,
+          "Br": 6
+        },
+        "space_group_symbol": "P-3m1",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 1,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6895",
+        "formula": "CS2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "C": 2,
+          "S": 4
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000000265154889,
+              0.49999968499102376,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-19586",
+        "formula": "SnS",
+        "nat": 4,
+        "structure_count": 8,
+        "ratio": 2.0,
+        "species_counts": {
+          "Sn": 4,
+          "S": 4
+        },
+        "space_group_symbol": "Aem2",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000003810284832,
+              0.49999972762749234,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-5926",
+        "formula": "TaSe2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ta": 2,
+          "Se": 4
+        },
+        "space_group_symbol": "P-6m2",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.49999799591804206,
+              0.5000476427887122,
+              0.9999990455312044
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-9044",
+        "formula": "BaS",
+        "nat": 4,
+        "structure_count": 8,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ba": 4,
+          "S": 4
+        },
+        "space_group_symbol": "P-1",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.49999988655034233,
+              0.4999999020904811,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-27848",
+        "formula": "TbCBr",
+        "nat": 6,
+        "structure_count": 12,
+        "ratio": 2.0,
+        "species_counts": {
+          "Tb": 4,
+          "C": 4,
+          "Br": 4
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999999398193054,
+              0.5000003658202036,
+              0.9999999973689084
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-28270",
+        "formula": "BiS2",
+        "nat": 6,
+        "structure_count": 12,
+        "ratio": 2.0,
+        "species_counts": {
+          "Bi": 4,
+          "S": 8
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000000210456229,
+              0.5000004501100007,
+              2.3136676963186886e-08
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-9023",
+        "formula": "Rb2Pd3S4",
+        "nat": 9,
+        "structure_count": 18,
+        "ratio": 2.0,
+        "species_counts": {
+          "Rb": 4,
+          "Pd": 6,
+          "S": 8
+        },
+        "space_group_symbol": "P6/mmm",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999999069567631,
+              0.49999999185800514,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-5959",
+        "formula": "TaS2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ta": 2,
+          "S": 4
+        },
+        "space_group_symbol": "P-6m2",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000003289686027,
+              0.4999997773371165,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-9032",
+        "formula": "Li4O",
+        "nat": 5,
+        "structure_count": 10,
+        "ratio": 2.0,
+        "species_counts": {
+          "Li": 8,
+          "O": 2
+        },
+        "space_group_symbol": "P4/mmm",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999996412368146,
+              0.5000003587631854,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-5890",
+        "formula": "PbS",
+        "nat": 4,
+        "structure_count": 8,
+        "ratio": 2.0,
+        "species_counts": {
+          "Pb": 4,
+          "S": 4
+        },
+        "space_group_symbol": "P4/nmm",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000002071791096,
+              0.5000003561580194,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-27741",
+        "formula": "SiP",
+        "nat": 12,
+        "structure_count": 24,
+        "ratio": 2.0,
+        "species_counts": {
+          "Si": 12,
+          "P": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.49999985166537153,
+              0.5000001119846189,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6100",
+        "formula": "AlCl3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Al": 4,
+          "Cl": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000003356961145,
+              0.499998928914945,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6397",
+        "formula": "CrI2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Cr": 2,
+          "I": 4
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999999177682919,
+              0.5000003629780975,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6256",
+        "formula": "NbS2Cl2",
+        "nat": 10,
+        "structure_count": 20,
+        "ratio": 2.0,
+        "species_counts": {
+          "Nb": 4,
+          "S": 8,
+          "Cl": 8
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999998324477357,
+              0.5000001877547784,
+              4.691219607222408e-09
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6202",
+        "formula": "IrBr3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ir": 4,
+          "Br": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000006719408331,
+              0.5000001605404323,
+              9.999999224241662e-07
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6943",
+        "formula": "CrCl3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Cr": 4,
+          "Cl": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999986237918538,
+              0.500000010331197,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6136",
+        "formula": "IrCl3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ir": 4,
+          "Cl": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999993119858035,
+              0.5000001741691568,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6955",
+        "formula": "BiI",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Bi": 8,
+          "I": 8
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999998392035308,
+              0.4999995330703596,
+              6.7350301030666415e-09
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6148",
+        "formula": "RhCl3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Rh": 4,
+          "Cl": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999996522095408,
+              0.5000000630538676,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6085",
+        "formula": "RhBr3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Rh": 4,
+          "Br": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000003889062199,
+              0.5000001292355623,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6751",
+        "formula": "PbBr2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Pb": 2,
+          "Br": 4
+        },
+        "space_group_symbol": "P-3m1",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 1,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6802",
+        "formula": "TaCl4",
+        "nat": 10,
+        "structure_count": 20,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ta": 4,
+          "Cl": 16
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.49999985663708646,
+              0.4999995584839617,
+              0.9999993253310252
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-27781",
+        "formula": "BaB2Se6",
+        "nat": 9,
+        "structure_count": 18,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ba": 2,
+          "B": 4,
+          "Se": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000001984704396,
+              0.49999983945129406,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-28106",
+        "formula": "CoH2O2",
+        "nat": 5,
+        "structure_count": 10,
+        "ratio": 2.0,
+        "species_counts": {
+          "Co": 2,
+          "H": 4,
+          "O": 4
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000001799903044,
+              0.5000005621095371,
+              2.1160582175383524e-09
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-20004",
+        "formula": "HgI2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Hg": 2,
+          "I": 4
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.49999968225587355,
+              0.5000002243327712,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-27775",
+        "formula": "Te2Au",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Te": 4,
+          "Au": 2
+        },
+        "space_group_symbol": "P-3m1",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999984516357434,
+              0.5000000863974566,
+              3.517420280041428e-08
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-730",
+        "formula": "MoS2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Mo": 2,
+          "S": 4
+        },
+        "space_group_symbol": "R-3m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000004407415297,
+              0.4999993080184153,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-31379",
+        "formula": "CoO2",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Co": 2,
+          "O": 4
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000004069618598,
+              0.500000799251286,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6823",
+        "formula": "NbCl4",
+        "nat": 10,
+        "structure_count": 20,
+        "ratio": 2.0,
+        "species_counts": {
+          "Nb": 4,
+          "Cl": 16
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999999696591748,
+              0.5000000595367649,
+              3.0685641520811213e-07
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-9008",
+        "formula": "BaSe",
+        "nat": 4,
+        "structure_count": 8,
+        "ratio": 2.0,
+        "species_counts": {
+          "Ba": 4,
+          "Se": 4
+        },
+        "space_group_symbol": "P2_1/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.500000045188975,
+              0.4999998453825164,
+              0.9999999369354803
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-6322",
+        "formula": "CdPS3",
+        "nat": 10,
+        "structure_count": 20,
+        "ratio": 2.0,
+        "species_counts": {
+          "Cd": 4,
+          "P": 4,
+          "S": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.4999998197188651,
+              0.49999996349850373,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-20014",
+        "formula": "YCl3",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "Y": 4,
+          "Cl": 12
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000000034969594,
+              0.5000000653431931,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-14420",
+        "formula": "NbSe2Br2",
+        "nat": 10,
+        "structure_count": 20,
+        "ratio": 2.0,
+        "species_counts": {
+          "Nb": 4,
+          "Se": 8,
+          "Br": 8
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000000922369532,
+              0.5000000300701776,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-5917",
+        "formula": "PbS",
+        "nat": 4,
+        "structure_count": 8,
+        "ratio": 2.0,
+        "species_counts": {
+          "Pb": 4,
+          "S": 4
+        },
+        "space_group_symbol": "P4/nmm",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000004121271188,
+              0.5000001485969662,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-20054",
+        "formula": "PS",
+        "nat": 8,
+        "structure_count": 16,
+        "ratio": 2.0,
+        "species_counts": {
+          "P": 8,
+          "S": 8
+        },
+        "space_group_symbol": "C2",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000000171639828,
+              0.500000169922219,
+              0.0
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-28006",
+        "formula": "ThTe2I2",
+        "nat": 10,
+        "structure_count": 20,
+        "ratio": 2.0,
+        "species_counts": {
+          "Th": 4,
+          "Te": 8,
+          "I": 8
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.5000003360700355,
+              0.4999998937816253,
+              1.2714888153464443e-07
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-28013",
+        "formula": "Tl2O",
+        "nat": 3,
+        "structure_count": 6,
+        "ratio": 2.0,
+        "species_counts": {
+          "Tl": 4,
+          "O": 2
+        },
+        "space_group_symbol": "C2/m",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.499999916278168,
+              0.5000003721792242,
+              0.9999999331792111
+            ]
+          ]
+        }
+      },
+      {
+        "jid": "JVASP-153104",
+        "formula": "B",
+        "nat": 4,
+        "structure_count": 8,
+        "ratio": 2.0,
+        "species_counts": {
+          "B": 8
+        },
+        "space_group_symbol": "Cmmm",
+        "translation_diagnostic": {
+          "tolerance_angstrom": 0.001,
+          "translation_count": 2,
+          "accepted_fractional_shifts": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.499999977496283,
+              0.4999993750627769,
+              0.0
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "formula_composition_disagreement_jids": [
+    "JVASP-60545",
+    "JVASP-27866",
+    "JVASP-20042",
+    "JVASP-28027"
+  ],
+  "elastic": {
+    "tensors_present": 229,
+    "nonfinite_components": 20,
+    "nonfinite_records": [
+      {
+        "jid": "JVASP-75350",
+        "shape": [
+          6,
+          6
+        ],
+        "all_finite": false,
+        "nonfinite_indices": [
+          [
+            2,
+            1
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      },
+      {
+        "jid": "JVASP-27906",
+        "shape": [
+          6,
+          6
+        ],
+        "all_finite": false,
+        "nonfinite_indices": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      },
+      {
+        "jid": "JVASP-27834",
+        "shape": [
+          6,
+          6
+        ],
+        "all_finite": false,
+        "nonfinite_indices": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      },
+      {
+        "jid": "JVASP-27856",
+        "shape": [
+          6,
+          6
+        ],
+        "all_finite": false,
+        "nonfinite_indices": [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      }
+    ],
+    "extreme_finite_component_record": "JVASP-28262",
+    "interpretation": "Raw-output and exporter conventions need review before physical use; no universal mechanical stability claim"
+  },
+  "all_empty_top_level_fields": [
+    "Tc_supercon",
+    "bulk_modulus_kv",
+    "dfpt_piezo_max_dielectric",
+    "dfpt_piezo_max_dielectric_electronic",
+    "dfpt_piezo_max_dielectric_ionic",
+    "dfpt_piezo_max_dij",
+    "dfpt_piezo_max_eij",
+    "dimensionality",
+    "efg",
+    "icsd",
+    "max_efg",
+    "max_ir_mode",
+    "min_ir_mode",
+    "poisson",
+    "shear_modulus_gv"
+  ],
+  "ehull": {
+    "all_1103_stored_values_zero": true,
+    "interpretation": "Constant field supplies no stability ranking; not proof of universal stability"
+  },
+  "descriptors": {
+    "vector_length": 1557,
+    "values_inspected": 1717371,
+    "all_values_finite": true,
+    "constant_zero_columns": 77,
+    "variable_columns": 1480,
+    "duplicate_vector_groups": [
+      [
+        "JVASP-76515",
+        "JVASP-60460"
+      ],
+      [
+        "JVASP-76516",
+        "JVASP-60461"
+      ],
+      [
+        "JVASP-76525",
+        "JVASP-60470"
+      ],
+      [
+        "JVASP-60235",
+        "JVASP-76290"
+      ],
+      [
+        "JVASP-76581",
+        "JVASP-60526"
+      ],
+      [
+        "JVASP-76322",
+        "JVASP-60267"
+      ],
+      [
+        "JVASP-76334",
+        "JVASP-60279"
+      ],
+      [
+        "JVASP-76342",
+        "JVASP-60287"
+      ],
+      [
+        "JVASP-76609",
+        "JVASP-60554"
+      ],
+      [
+        "JVASP-76344",
+        "JVASP-60289"
+      ],
+      [
+        "JVASP-76611",
+        "JVASP-60556"
+      ],
+      [
+        "JVASP-76349",
+        "JVASP-60294"
+      ],
+      [
+        "JVASP-76621",
+        "JVASP-60566"
+      ],
+      [
+        "JVASP-76622",
+        "JVASP-60567"
+      ],
+      [
+        "JVASP-76377",
+        "JVASP-60322"
+      ],
+      [
+        "JVASP-60402",
+        "JVASP-76457"
+      ],
+      [
+        "JVASP-76649",
+        "JVASP-60594"
+      ],
+      [
+        "JVASP-76412",
+        "JVASP-60357"
+      ],
+      [
+        "JVASP-76414",
+        "JVASP-60359"
+      ],
+      [
+        "JVASP-76415",
+        "JVASP-60360"
+      ],
+      [
+        "JVASP-76659",
+        "JVASP-60604"
+      ],
+      [
+        "JVASP-76440",
+        "JVASP-60385"
+      ],
+      [
+        "JVASP-60407",
+        "JVASP-76462"
+      ],
+      [
+        "JVASP-60416",
+        "JVASP-76471"
+      ],
+      [
+        "JVASP-60243",
+        "JVASP-76298"
+      ],
+      [
+        "JVASP-76498",
+        "JVASP-60443"
+      ],
+      [
+        "JVASP-60244",
+        "JVASP-76299"
+      ],
+      [
+        "JVASP-76507",
+        "JVASP-60452"
+      ],
+      [
+        "JVASP-76508",
+        "JVASP-60453"
+      ],
+      [
+        "JVASP-76511",
+        "JVASP-60456"
+      ],
+      [
+        "JVASP-76512",
+        "JVASP-60457"
+      ],
+      [
+        "JVASP-5989",
+        "JVASP-5992"
+      ],
+      [
+        "JVASP-60251",
+        "JVASP-76306"
+      ],
+      [
+        "JVASP-60493",
+        "JVASP-76548"
+      ]
+    ],
+    "duplicates_keep_together_in_future_train_test_split": true,
+    "missing_targets_not_imputed": true,
+    "negative_packing_fraction_entries_under_current_mapping": [
+      {
+        "jid": "JVASP-76576",
+        "formula": "PuIO",
+        "descriptor_index": 440,
+        "value": -20110295296.50658
+      },
+      {
+        "jid": "JVASP-60413",
+        "formula": "NpIO",
+        "descriptor_index": 440,
+        "value": -20268517701.71004
+      },
+      {
+        "jid": "JVASP-76468",
+        "formula": "NpIO",
+        "descriptor_index": 440,
+        "value": -20259968938.03959
+      },
+      {
+        "jid": "JVASP-60500",
+        "formula": "PaCl2O",
+        "descriptor_index": 440,
+        "value": -13583191848.83016
+      },
+      {
+        "jid": "JVASP-60521",
+        "formula": "PuIO",
+        "descriptor_index": 440,
+        "value": -20129098174.91213
+      },
+      {
+        "jid": "JVASP-13521",
+        "formula": "PuIO",
+        "descriptor_index": 440,
+        "value": -20113762158.4566
+      },
+      {
+        "jid": "JVASP-19545",
+        "formula": "PuBrO",
+        "descriptor_index": 440,
+        "value": -21417564345.25172
+      },
+      {
+        "jid": "JVASP-27928",
+        "formula": "NpO2F2",
+        "descriptor_index": 440,
+        "value": -6579938371.65774
+      },
+      {
+        "jid": "JVASP-113387",
+        "formula": "AcSe3",
+        "descriptor_index": 440,
+        "value": -6548345272.00092
+      }
+    ],
+    "density_difference_count_above_0_001_under_current_mapping": 1007,
+    "historical_descriptor_generation_revision_verified": false
+  },
+  "interpretation_limits": [
+    "Current upstream code does not prove the historical exporter version for every 2022 record.",
+    "Slab cell density and response quantities require vacuum-aware conventions.",
+    "Formation energy is not equivalent to phase stability.",
+    "Calculated method-dependent bandgaps are not experimental validation.",
+    "Electronic thermal transport scaling must be established before physical-unit use.",
+    "Negative vibration entries do not alone certify instability.",
+    "No new DFT calculation, physical experiment, or quantum-circuit simulation was performed for this census.",
+    "This public selection withholds analysis source and is not a self-contained replay package."
+  ],
+  "replay": {
+    "all_field_profile_exact_replay": true,
+    "structure_evidence_exact_replay": true,
+    "comparison_method": "Direct byte comparison of deterministic outputs; timing and environment measurements retained separately in owner record"
+  },
+  "owner_signature": null,
+  "new_cryptographic_witness": null,
+  "git_commit_identifiers": "Platform object references, not owner or SGL Prime signatures"
+}

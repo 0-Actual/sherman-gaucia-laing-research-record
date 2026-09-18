@@ -9,7 +9,8 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
-| [JARVIS data review](evidence/2026-09-18-jarvis-dft-2d/README.md) | Offline analysis replay, missing values, and atom-count metadata differences; owner timestamp 9:15 p.m. EST |
+| [JARVIS data review](evidence/2026-09-18-jarvis-dft-2d/README.md) | Initial inspection plus dated full-study follow-up: 40 supported repeated-cell interpretations, two unresolved cases, and the complete 65-field review |
+| [Publication review](PUBLICATION_REVIEW.md) | Required study, execution evidence and disclosure checks before publication |
 | [Research account](RESEARCH_ACCOUNT.md) | What the reviewed evidence establishes, work undertaken and timeframes |
 | [Shared-data statement](DATA_SHARING_STATEMENT.md) | Sherman's account that most of this work used “Improve for all” shared data |
 | [Timeline](TIMELINE.md) | Chronological research events with supported dates and precision labels |
@@ -42,4 +43,3 @@ Routine maintenance and public responses are delegated to GAUCIA through ChatGPT
 ## Related Bible release
 
 Sherman has separately authorized publication of the Bible services, expanded studies and reproducible study workflow in the companion `sherman-gaucia-laing-bible-replay` repository. That authorization covers the selected Bible source and services; the wider private QEL development archive and complete private conversations remain withheld. Read the [public Bible replay repository](https://github.com/0-Actual/sherman-gaucia-laing-bible-replay).
-
