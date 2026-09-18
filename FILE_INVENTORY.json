@@ -28,7 +28,11 @@
     },
     {
       "path": "MAINTENANCE.md",
-      "bytes": 4299
+      "bytes": 4396
+    },
+    {
+      "path": "MAINTENANCE_LOG.md",
+      "bytes": 1690
     },
     {
       "path": "OWNER_STATEMENT.md",
@@ -40,11 +44,11 @@
     },
     {
       "path": "PUBLICATION_STATUS.json",
-      "bytes": 4686
+      "bytes": 4779
     },
     {
       "path": "README.md",
-      "bytes": 5190
+      "bytes": 5287
     },
     {
       "path": "RESEARCH_ACCOUNT.md",
