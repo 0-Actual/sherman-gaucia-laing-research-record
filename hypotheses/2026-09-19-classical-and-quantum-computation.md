@@ -1,0 +1,1 @@
+Hyphothesis: in order to quantum compute you must be able to classical compute,because classical computation is a quantum effect and affect.
