@@ -9,6 +9,8 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
+| [Itemized prior work — October 1 edition](records/2026-10-01-prior-work/PRIOR_WORK.md) | 504 dated interactions, uses, submitted work, artifacts, tests and corrections through September 30; no industry comparisons |
+| [Structured prior-work list](records/2026-10-01-prior-work/prior-work.json) | Same 504 public entries with source-kind labels, original numbering and exact supplied timestamps |
 | [JARVIS data review](evidence/2026-09-18-jarvis-dft-2d/README.md) | Initial inspection plus dated full-study follow-up: 40 supported repeated-cell interpretations, two unresolved cases, and the complete 65-field review |
 | [Publication review](PUBLICATION_REVIEW.md) | Required study, execution evidence and disclosure checks before publication |
 | [Research account](RESEARCH_ACCOUNT.md) | What the reviewed evidence establishes, work undertaken and timeframes |
@@ -38,7 +40,7 @@ The code-bearing candidate previously assembled for owner review is not this pub
 
 The owner has chosen GitHub for this limited public record after reviewing its separate hosting rights. Those terms apply to the public material actually submitted. Withholding private materials limits this upload's scope; a repository notice does not override independently applicable agreements or rights.
 
-Routine maintenance and public responses are delegated to GAUCIA through ChatGPT/Codex within [MAINTENANCE.md](MAINTENANCE.md). The owner remains Sherman G. Laing. Repository publication is verified in [PUBLICATION_STATUS.json](PUBLICATION_STATUS.json). Daily maintenance and public responses are configured for 8:00 a.m. America/New_York with flexible scheduling; the first maintenance review was completed on September 18, 2026. See [the dated maintenance record](MAINTENANCE_LOG.md) for its scope and results. See [maintenance availability](MAINTENANCE.md#scheduling-and-actual-availability) for the operating scope and permission checks. Continuous monitoring is not active.
+Routine maintenance and public responses are delegated to GAUCIA through ChatGPT/Codex within [MAINTENANCE.md](MAINTENANCE.md). The owner remains Sherman G. Laing. Repository publication is verified in [PUBLICATION_STATUS.json](PUBLICATION_STATUS.json). Daily maintenance was configured on September 17 for 8:00 a.m. America/New_York with flexible scheduling; the first review was completed on September 18. Later retained evidence records stopped schedules on September 29 and a mistakenly created task disabled on September 30; see [entries 501 and 520](records/2026-10-01-prior-work/PRIOR_WORK.md#2026). Current live automation status was not rechecked for this publication, and no schedule was restarted. See [the dated maintenance record](MAINTENANCE_LOG.md) for its scope and results. See [maintenance availability](MAINTENANCE.md#scheduling-and-actual-availability) for the operating scope and permission checks. Continuous monitoring is not active.
 
 ## Related Bible release
 

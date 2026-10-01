@@ -1,6 +1,6 @@
 {
   "schema": "qel-file-inventory/1",
-  "purpose": "Unsigned staging file inventory; not a cryptographic identity or owner signature",
+  "purpose": "Unsigned documentary file inventory; not a cryptographic identity or owner signature. Excludes the inventory itself.",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/research-question.md",
@@ -28,11 +28,11 @@
     },
     {
       "path": "MAINTENANCE.md",
-      "bytes": 4396
+      "bytes": 4911
     },
     {
       "path": "MAINTENANCE_LOG.md",
-      "bytes": 1690
+      "bytes": 3451
     },
     {
       "path": "OWNER_STATEMENT.md",
@@ -44,11 +44,11 @@
     },
     {
       "path": "PUBLICATION_STATUS.json",
-      "bytes": 4779
+      "bytes": 7039
     },
     {
       "path": "README.md",
-      "bytes": 5287
+      "bytes": 5965
     },
     {
       "path": "RESEARCH_ACCOUNT.md",
@@ -87,10 +87,27 @@
       "bytes": 3935
     },
     {
+      "path": "hypotheses/2026-09-19-classical-and-quantum-computation.md",
+      "bytes": 140
+    },
+    {
+      "path": "records/2026-10-01-prior-work/EDITION_REVIEW.md",
+      "bytes": 3427
+    },
+    {
+      "path": "records/2026-10-01-prior-work/PRIOR_WORK.md",
+      "bytes": 202221
+    },
+    {
+      "path": "records/2026-10-01-prior-work/prior-work.json",
+      "bytes": 289580
+    },
+    {
       "path": "timeline.json",
       "bytes": 138873
     }
   ],
   "new_cryptographic_fingerprints": false,
-  "owner_signature": null
+  "owner_signature": null,
+  "reviewed_edition_date": "2026-10-01"
 }
