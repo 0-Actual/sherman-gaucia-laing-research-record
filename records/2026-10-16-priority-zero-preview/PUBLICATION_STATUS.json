@@ -1,0 +1,15 @@
+{
+  "schema": "priority-zero-preview-status/1",
+  "version": "preview.1",
+  "prepared_date": "2026-10-16",
+  "owner_approval": "Approved for publication of this partial research preview",
+  "owner_approval_date": "2026-10-16",
+  "publication_record": {
+    "repository_edition": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/tree/main/records/2026-10-16-priority-zero-preview",
+    "commit_history": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commits/main/records/2026-10-16-priority-zero-preview",
+    "evidence_rule": "Public availability and publication time are established by the containing GitHub commit and successful readback, not by the approval date."
+  },
+  "signature": "No authenticated owner signature is supplied by this preview.",
+  "maintenance_automation": "No maintenance automation or live alert has been activated for this selection.",
+  "scientific_scope": "Documentary preview; no implementation code, record-level research data, or full reproduction claim."
+}

@@ -9,6 +9,7 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
+| [Priority Zero — October 16 limited preview](records/2026-10-16-priority-zero-preview/README.md) | Owner-approved partial research preview: selected chronology, aggregate findings, corrections and limitations; implementation and full reproduction materials withheld |
 | [Itemized prior work — October 1 edition](records/2026-10-01-prior-work/PRIOR_WORK.md) | 504 dated interactions, uses, submitted work, artifacts, tests and corrections through September 30; no industry comparisons |
 | [Structured prior-work list](records/2026-10-01-prior-work/prior-work.json) | Same 504 public entries with source-kind labels, original numbering and exact supplied timestamps |
 | [JARVIS data review](evidence/2026-09-18-jarvis-dft-2d/README.md) | Initial inspection plus dated full-study follow-up: 40 supported repeated-cell interpretations, two unresolved cases, and the complete 65-field review |

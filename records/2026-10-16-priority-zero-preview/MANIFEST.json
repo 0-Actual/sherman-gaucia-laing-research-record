@@ -1,0 +1,57 @@
+{
+  "schema": "priority-zero-preview-manifest/1",
+  "version": "preview.1",
+  "scope": "Ten payloads; this manifest excludes itself. Only public-preview identities are included.",
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "bytes": 1670,
+      "sha256": "d46c812c56a1987ffb7e58502aa34cb3b15ef18325f566348f303bc1c913610c"
+    },
+    {
+      "path": "CITATION.json",
+      "bytes": 1035,
+      "sha256": "73dd0117081c4d1525f07ae16d3c526a8e5f0db64306d5777495c7d8211a0b8e"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 9441,
+      "sha256": "11cf176ed702f9cbf81d7a49a8121b59706a7a70ea79f4e5de3ec8bb8d703ae2"
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "bytes": 1048,
+      "sha256": "47b0cfe682132fd1be2f3c9277f7be8ea40dcf61a6325709c9a3648ec751aaff"
+    },
+    {
+      "path": "PUBLICATION_STATUS.json",
+      "bytes": 1042,
+      "sha256": "78b5dd2f9fa59e80cf47f7ffcdcbbdc300de96020bb8367baff8c85b9fd863ab"
+    },
+    {
+      "path": "PUBLICATION_STATUS.md",
+      "bytes": 1326,
+      "sha256": "eb18083cd4025cd750bd6052292cf30f254e5472ed000599a5296a7ea2636589"
+    },
+    {
+      "path": "QUESTIONS_AND_INVITATION.md",
+      "bytes": 2668,
+      "sha256": "a5696633ae22d38e1b14046455ccb66aa8c201cd0e72e6a2f47313ee4dc9cf92"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1430,
+      "sha256": "fbcca06cdda067b484ad01e0af14a8d59180e5062419461fe06c0051cbb681a4"
+    },
+    {
+      "path": "RESEARCH_OVERVIEW.md",
+      "bytes": 5411,
+      "sha256": "34a667231d1a6919429408cad2a7ee82cfd5392d0cb516417dbd03b57f95ba64"
+    },
+    {
+      "path": "SCOPE_AND_REVIEW.md",
+      "bytes": 2908,
+      "sha256": "d865f9d28042b089089338448ff2ef47e61f5ef87f7d9a717a6457ab6482c0bf"
+    }
+  ]
+}
