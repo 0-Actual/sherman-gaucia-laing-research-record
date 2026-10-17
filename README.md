@@ -24,7 +24,9 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 | [Attribution](ATTRIBUTION.md) | Human direction and disclosed AI assistance |
 | [License](LICENSE.md) | Noncommercial research and evaluation terms |
 | [Maintenance](MAINTENANCE.md) | Maintenance responsibilities and public-response boundaries |
-| [Expanded-edition publication receipt](PRIORITY_ZERO_20261017_PUBLICATION_RECEIPT.json) | Exact release commit, file identities and signature verification |
+| [Revision 2 corrections and checks](records/2026-10-17-priority-zero-expanded/PUBLICATION_REVIEW_R2.md) | Confirmed defects, corrections, regression evidence and remaining limits |
+| [Revision 2 publication receipt](PRIORITY_ZERO_20261017_R2_PUBLICATION_RECEIPT.json) | Current corrected edition, exact file identities and verified commit signatures |
+| [Original expanded-edition receipt](PRIORITY_ZERO_20261017_PUBLICATION_RECEIPT.json) | Historical first-edition commit and file identities; superseded by revision 2 |
 | [Earlier publication status](PUBLICATION_STATUS.json) | Historical publication and automation records |
 
 ## Dates and prior-art research
