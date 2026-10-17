@@ -1,0 +1,71 @@
+{
+  "source_sha256": "5753f8e3ec90186ebf322416f9a536c873afddbe72de5520c6f1d9c369268d07",
+  "upstream_revision": "9abc9182d06dbd28330af888306031269d57a175",
+  "methods_executed_unmodified": [
+    "_await_task_safely",
+    "_cleanup_tasks",
+    "_drain_event_queue",
+    "_drain_input_guardrail_queue",
+    "cancel",
+    "stream_events"
+  ],
+  "tests_run": 6,
+  "failures": 0,
+  "errors": 0,
+  "observations": [
+    {
+      "case": "consumer cancelled in queue wait",
+      "cancel_mode": "immediate",
+      "producer_done": true,
+      "producer_cancellation_requested": true,
+      "active_consumers": 0,
+      "producer_finally_observed": true
+    },
+    {
+      "case": "consumer cancelled in body",
+      "cancel_mode": null,
+      "producer_done": false,
+      "producer_cancellation_requested": false,
+      "active_consumers": 0,
+      "producer_finally_observed": false
+    },
+    {
+      "case": "explicit close before producer release",
+      "cancel_mode": null,
+      "producer_done": false,
+      "producer_cancellation_requested": false,
+      "active_consumers": 0,
+      "producer_finally_observed": false
+    },
+    {
+      "case": "explicit cancel then close",
+      "cancel_mode": "immediate",
+      "producer_done": true,
+      "producer_cancellation_requested": true,
+      "active_consumers": 0,
+      "producer_finally_observed": true
+    },
+    {
+      "case": "normal exhaustion",
+      "cancel_mode": null,
+      "producer_done": true,
+      "producer_cancellation_requested": false,
+      "active_consumers": 0,
+      "producer_finally_observed": true
+    },
+    {
+      "case": "consumer raises in body",
+      "cancel_mode": null,
+      "producer_done": false,
+      "producer_cancellation_requested": false,
+      "active_consumers": 0,
+      "producer_finally_observed": false
+    }
+  ],
+  "limits": [
+    "Source-method harness, not full SDK import or Runner integration.",
+    "Synthetic producer and queues; no model, tool, provider, billing, tracing or sandbox execution.",
+    "Error and provider/sandbox cleanup boundaries are stubbed; full lifecycle safety is unverified.",
+    "Existing issue 5386 is independently authored; this is corroboration, not a new discovery."
+  ]
+}

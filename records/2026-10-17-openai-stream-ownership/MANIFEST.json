@@ -1,0 +1,76 @@
+{
+  "schema": "qel-file-manifest-v1",
+  "edition": "openai-stream-ownership-20261017",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "size": 2451,
+      "sha256": "1557694416bfe310ef75945b89aadf9c17f2cf2d5358c250708fa9d682421dd6"
+    },
+    {
+      "path": "FINDINGS.md",
+      "size": 5623,
+      "sha256": "3c64f4ceece3f332d2984ecec68ce8e973703804a60ea664453bb328b5082068"
+    },
+    {
+      "path": "LICENSE-SCOPE.md",
+      "size": 1828,
+      "sha256": "5d751facfddf053edeb24f65aa7fc954b8a68f73a47f8ca59d3b7a24b9d66a37"
+    },
+    {
+      "path": "LICENSE.md",
+      "size": 9441,
+      "sha256": "11cf176ed702f9cbf81d7a49a8121b59706a7a70ea79f4e5de3ec8bb8d703ae2"
+    },
+    {
+      "path": "README.md",
+      "size": 4885,
+      "sha256": "33c6192df80f5315170246607f7ce2cdcc733ab613e398f1ec5e4527f35c335b"
+    },
+    {
+      "path": "SOURCE_PROBE_RESULTS.json",
+      "size": 2285,
+      "sha256": "7f0502437787d8160239b74eaafbe0a2a2b53e526e99cdf32205adde3648857f"
+    },
+    {
+      "path": "UPSTREAM_LICENSE.txt",
+      "size": 1063,
+      "sha256": "13df7812ca53ecaae1cb4a868844bb598373047ae1d580e4debfbef1dd5b6915"
+    },
+    {
+      "path": "VALIDATION.json",
+      "size": 1435,
+      "sha256": "bdf2104d89f817243e8495ff6c2aabb8cf990434fd9cc4cd9f1eea85f24d22ea"
+    },
+    {
+      "path": "owned_stream.py",
+      "size": 3670,
+      "sha256": "9c9fc6b9b7279cac94e0b057d6404d16b590a18f5e9104bec9e7d578f2baa494"
+    },
+    {
+      "path": "probe_source.py",
+      "size": 9274,
+      "sha256": "deba772dbd9d0eeea9bca95ed8d1065a67d1f1259b9eca421079eb50d4704ed2"
+    },
+    {
+      "path": "requirements-tested-windows.txt",
+      "size": 749,
+      "sha256": "a29b20bece2468bdef1373c65e4ef46795569b2add323da534864e9ffd2b65ef"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 22,
+      "sha256": "9eb4543f2b48872fe1fa7dfcd7e1e2198364042b7b4b7d83da0f47797c1e25e7"
+    },
+    {
+      "path": "test_owned_stream.py",
+      "size": 8649,
+      "sha256": "0e3070604b3dfe25e75f30f76ca3059a9336dd2404c41bff5af1f8abe0114871"
+    },
+    {
+      "path": "upstream_result.py",
+      "size": 58296,
+      "sha256": "5753f8e3ec90186ebf322416f9a536c873afddbe72de5520c6f1d9c369268d07"
+    }
+  ]
+}

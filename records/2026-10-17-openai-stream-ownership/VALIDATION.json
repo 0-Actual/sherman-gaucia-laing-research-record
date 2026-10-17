@@ -1,0 +1,24 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows",
+  "sdk_version": "0.24.0",
+  "installed_sdk_result_sha256": "5753f8e3ec90186ebf322416f9a536c873afddbe72de5520c6f1d9c369268d07",
+  "pinned_main_result_sha256": "5753f8e3ec90186ebf322416f9a536c873afddbe72de5520c6f1d9c369268d07",
+  "sdk_integration_cases_passed": 8,
+  "protocol_cleanup_cases_passed": 2,
+  "source_method_probe_cases_passed": 6,
+  "source_method_probe_revision": "9abc9182d06dbd28330af888306031269d57a175",
+  "models": "agents.testing.ScriptedModel only; no live model calls",
+  "tracing": "disabled through RunConfig in all SDK integration fixtures",
+  "independent_review": false,
+  "limits": [
+    "Source-method harness, not full SDK import or Runner integration.",
+    "Synthetic producer and queues; no model, tool, provider, billing, tracing or sandbox execution.",
+    "Error and provider/sandbox cleanup boundaries are stubbed; full lifecycle safety is unverified.",
+    "Existing issue 5386 is independently authored; this is corroboration, not a new discovery.",
+    "Full SDK tests use the released package, not a complete pinned-main checkout.",
+    "No real provider, transport, storage backend, sandbox or physical quantum execution.",
+    "Windows/Python 3.12 observed; other supported environments not tested here.",
+    "SDK source-method probe results are corroboration of existing issue 5386, not an original discovery."
+  ]
+}

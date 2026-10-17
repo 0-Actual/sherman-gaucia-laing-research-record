@@ -1,0 +1,9 @@
+# License and attribution scope
+
+The original additions in this packet are provided under the unchanged Quantum.Earth.Laing Noncommercial Research and Evaluation License in [LICENSE.md](LICENSE.md), only to the extent of rights controlled by the licensor. These additions are `owned_stream.py`, the independently prepared test and probe harnesses, and this packet's original explanatory text and evidence arrangement. Attribution: Sherman G. Laing / Quantum.Earth.Laing. The work was prepared with ChatGPT/Codex assistance under the owner's direction; AI assistance does not establish copyrightability of every element.
+
+`upstream_result.py` is an unchanged OpenAI Agents Python SDK source file from commit `9abc9182d06dbd28330af888306031269d57a175`. It remains under OpenAI's MIT license, reproduced in [UPSTREAM_LICENSE.txt](UPSTREAM_LICENSE.txt). The project's noncommercial terms do not replace or restrict that separate grant. The installed Agents SDK and its dependencies are separate third-party packages and retain their own licenses; they are not bundled in this packet.
+
+The existing public issue [openai/openai-agents-python#5386](https://github.com/openai/openai-agents-python/issues/5386) was reported by `sushantsimpplr`. The source-method probe corroborates that report. We do not claim to have discovered the original issue. The wrapper uses the SDK's public interface and copies no SDK implementation into `owned_stream.py`.
+
+This packet is published to the owner's research repository. It is not a submission to OpenAI, an accepted contribution, an OpenAI endorsement, a bounty award or an acceptance of a new contributor agreement. Facts, ideas, methods and independently created implementations are subject to the limits already stated in section 8 of the owner's license. No broader exclusivity is claimed.
