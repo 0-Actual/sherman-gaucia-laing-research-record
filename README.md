@@ -50,3 +50,8 @@ Routine maintenance and public responses are delegated to GAUCIA through ChatGPT
 ## Related Bible release
 
 Sherman has separately authorized publication of the Bible services, expanded studies and reproducible study workflow in the companion `sherman-gaucia-laing-bible-replay` repository. That authorization covers the selected Bible source and services; the October 17 research edition separately identifies its expanded code/data selection, while complete private conversations remain withheld. Read the [public Bible replay repository](https://github.com/0-Actual/sherman-gaucia-laing-bible-replay).
+
+## OpenAI Agents SDK — stream ownership study
+
+[Read the October 17 assessment, optional wrapper and reproducible tests](records/2026-10-17-openai-stream-ownership/README.md). This is an owner-repository application-level solution for an existing upstream cancellation report, with attribution, an unchanged noncommercial license for original additions and separate upstream MIT rights. It is not an OpenAI submission or endorsement.
+
