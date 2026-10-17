@@ -55,3 +55,7 @@ Sherman has separately authorized publication of the Bible services, expanded st
 
 [Read the October 17 assessment, optional wrapper and reproducible tests](records/2026-10-17-openai-stream-ownership/README.md). This is an owner-repository application-level solution for an existing upstream cancellation report, with attribution, an unchanged noncommercial license for original additions and separate upstream MIT rights. It is not an OpenAI submission or endorsement.
 
+
+## OpenAI Agents SDK — severity-first review
+
+The [approval controls and shell-result integrity study](records/2026-10-17-openai-severity-review/README.md) records eight passing approval checks and a tested correction for the publicly reported empty-shell-result defect. The final baseline has four reproduced failures among 32 cases; the isolated candidate passes all 32. The packet includes source attribution, the one-line MIT-derived patch, reproducible tests, mathematical invariants, and a ranked remaining-work queue. Original additions retain this repository's existing license; upstream rights remain separate.
