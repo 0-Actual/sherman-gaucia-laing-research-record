@@ -1,0 +1,20 @@
+{
+  "started_utc": "2026-10-17T21:34:19.620677+00:00",
+  "finished_utc": "2026-10-17T21:35:03.127000+00:00",
+  "mode": "isolated_candidate",
+  "python": "3.12.14",
+  "platform": "win32",
+  "sdk_version": "0.24.0",
+  "baseline_sha256": "d7c5000ce55675eb016c0cf53fd89c3cc0d40d66cc7f86459c14a60d40238d70",
+  "test_sha256": "7376088b0cc5a80f1f3ba22c0e9752d5e13e0ed7c22c27d3a06147545b19c677",
+  "evaluator_sha256": "12b80348ba944836ce33add46856f884eaf4186509996df470098ce171b71c0e",
+  "candidate_sha256": "6b431942d1a68d74e8699c5215e5a78c477acf6678b8bb69c524906331f5303b",
+  "tests_run": 32,
+  "failed_tests": [],
+  "error_tests": [],
+  "skipped_tests": [],
+  "passed": true,
+  "live_model_requests": false,
+  "real_shell_commands": false,
+  "installed_files_changed": false
+}

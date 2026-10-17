@@ -1,0 +1,9 @@
+# License and attribution scope
+
+Original test/evaluation material (`test_integrity.py`, `evaluate.py`) and original explanatory material use the unchanged [Quantum.Earth.Laing Noncommercial Research and Evaluation License](LICENSE.md), to the extent of rights controlled by the licensor. Attribution: Sherman G. Laing / Quantum.Earth.Laing, prepared with ChatGPT/Codex assistance. AI assistance does not establish copyrightability of every element. This packet is source-available research, not a claim of unrestricted open-source licensing.
+
+`candidate_tool_actions.py` is a modified copy of OpenAI's `src/agents/run_internal/tool_actions.py` at commit `9abc9182d06dbd28330af888306031269d57a175`. It and `empty_structured_shell.diff` remain under the upstream [MIT license](UPSTREAM_LICENSE.txt). The complete modification is the predicate shown in the diff. The owner's noncommercial terms do not replace or restrict that MIT grant. Installed dependencies retain their own licenses and are not bundled.
+
+Credit **BlueX888** for the report, reproduction, diagnosis and suggested distinction between structured results and display text in [issue 5348](https://github.com/openai/openai-agents-python/issues/5348). Credit the recorded maintainer response for the explicit quiet-output alternative and **zhgao** for the related fork proposal linked there. This assessment does not claim original discovery of the defect or exclusive rights to its general remedy. The independently prepared test matrix adds bounded local evidence.
+
+No source was submitted to OpenAI and no new contributor agreement was accepted. Publication does not establish endorsement, a bounty, compensation, institutional copying, or ownership of facts, ideas, methods or independently created implementations. Existing private research boundaries remain unchanged.

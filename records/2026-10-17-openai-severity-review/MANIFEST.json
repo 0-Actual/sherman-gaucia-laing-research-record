@@ -1,0 +1,90 @@
+{
+  "edition": "openai-severity-review-20261017",
+  "upstream_commit": "9abc9182d06dbd28330af888306031269d57a175",
+  "files": [
+    {
+      "path": "BASELINE_RESULTS.json",
+      "bytes": 980,
+      "sha256": "88beae38d76b04a418ea89a1347d4ab458b4046587bd13e7e1e4f06b27308d69",
+      "git_blob_sha": "a59a2056e35d458fe71238dc5aec1d2302a2dfb4"
+    },
+    {
+      "path": "CANDIDATE_RESULTS.json",
+      "bytes": 792,
+      "sha256": "6edd52c355fb5f0fb18d8dbc10f54845f73f0198849e86ebb7c5a5d5f67be421",
+      "git_blob_sha": "b04461639c24dbda5ccd0fa6ce82128fcd56aa45"
+    },
+    {
+      "path": "candidate_tool_actions.py",
+      "bytes": 43354,
+      "sha256": "6b431942d1a68d74e8699c5215e5a78c477acf6678b8bb69c524906331f5303b",
+      "git_blob_sha": "18ae37b7723449fd94c3ba6219cb66210b52d699"
+    },
+    {
+      "path": "empty_structured_shell.diff",
+      "bytes": 448,
+      "sha256": "560560bca9cec5b5cf72460b1ad6511d6fac778cc32e9366baa4a2193dc35b3e",
+      "git_blob_sha": "737be077aa0f9c4a8614d99b294d3fa1a6b3813e"
+    },
+    {
+      "path": "evaluate.py",
+      "bytes": 3198,
+      "sha256": "12b80348ba944836ce33add46856f884eaf4186509996df470098ce171b71c0e",
+      "git_blob_sha": "7947ff98d8a10dc95e3b5cd1d62bcae6dfd36a45"
+    },
+    {
+      "path": "FINDINGS.md",
+      "bytes": 4283,
+      "sha256": "c64e51111341de7af5ae49f5e49f0c2e87bceda803d8c40c0159ceada9c11ee3",
+      "git_blob_sha": "0f3baa9292d442aac2cd54c8685831b9bff6e1df"
+    },
+    {
+      "path": "LICENSE-SCOPE.md",
+      "bytes": 1837,
+      "sha256": "72f08880d83eac8d2bf242c0bfab31dfd937869cc467386d64a1acd47e2383f8",
+      "git_blob_sha": "6cabdbc06d5eb61852dd804b25d7f3be24ae31ea"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 9441,
+      "sha256": "11cf176ed702f9cbf81d7a49a8121b59706a7a70ea79f4e5de3ec8bb8d703ae2",
+      "git_blob_sha": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6523,
+      "sha256": "6e7343d38b4f64386bb661d498db1517e433b1295a80fdf71e7b7994947f9f12",
+      "git_blob_sha": "e65b5010716c469b9b0bef0e397cd35208b83004"
+    },
+    {
+      "path": "requirements-tested-windows.txt",
+      "bytes": 749,
+      "sha256": "a29b20bece2468bdef1373c65e4ef46795569b2add323da534864e9ffd2b65ef",
+      "git_blob_sha": "fc39e04eacb6e7ab759088c66eedafc4992f603a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 22,
+      "sha256": "9eb4543f2b48872fe1fa7dfcd7e1e2198364042b7b4b7d83da0f47797c1e25e7",
+      "git_blob_sha": "ee90d01053f24422456679fc6eec2241c43a6f8a"
+    },
+    {
+      "path": "REVIEW_QUEUE.md",
+      "bytes": 2936,
+      "sha256": "4f54ad742b97147ecb832df5f9e50efa68a013e33b411825d7582bd698409398",
+      "git_blob_sha": "0f5890e6a61cbac4a1a997193cf952b43a4f089c"
+    },
+    {
+      "path": "test_integrity.py",
+      "bytes": 9752,
+      "sha256": "7376088b0cc5a80f1f3ba22c0e9752d5e13e0ed7c22c27d3a06147545b19c677",
+      "git_blob_sha": "00217f33c5bf16c12e8b6f515250a9f0aebb8790"
+    },
+    {
+      "path": "UPSTREAM_LICENSE.txt",
+      "bytes": 1063,
+      "sha256": "13df7812ca53ecaae1cb4a868844bb598373047ae1d580e4debfbef1dd5b6915",
+      "git_blob_sha": "e5ad2c5aa30343f143a5c418004ca1a8d2cfaff4"
+    }
+  ]
+}
