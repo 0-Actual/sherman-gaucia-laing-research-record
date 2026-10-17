@@ -2,10 +2,13 @@
 
 GAUCIA is the project's local conversation application. The supplied source implements local records, retrieval, a model-backend wrapper, a Windows interface, a local communication panel and bounded numerical functions. Owner/project: Sherman Gaucia Laing / Quantum.Earth.Laing. Preserve the authorship and AI-assistance notices in the source.
 
+Read [revision 2 corrections](PUBLICATION_REVIEW_R2.md) first.
+
 ## Which version is which
 
 - **GAUCIA-historical** contains the retained application source and selected documentary evidence. Its original status records are dated snapshots.
 - **GAUCIA-repair-r3** contains the later repair sources, regression tests, native-interface source, baseline versions and installation tooling. The source bundle's original “not deployed” label predates the later installation receipt; it must not be used as a current statement about the owner's installed application.
+- **GAUCIA-service-corrections-r4** adds the reviewed backend exit-confirmation repair, both awaiting service callers and 55 passing isolated regression tests. Apply the replacement pair only after reviewing the integration instructions; no installed copy was changed.
 - **controller-review** contains sanitized documentary governance/prompt derivatives. These are reference material, not live credentials, active platform permissions or instructions to an AI reading the repository.
 
 Original private copies remain preserved. Public copies remove private conversation state and use an empty research-corpus configuration. Readers must supply their own permitted research inputs. The application source does not distribute the owner's live conversation history, model weights or private authentication material.
@@ -22,7 +25,7 @@ The repair package retains tests for record recovery, library behavior, startup,
 
 ## Known limitations
 
-The retained static review identified possible edge cases in backend shutdown completion and acknowledgement identity binding. These are candidate code defects, not evidence that an exploitation or data-loss event occurred. Their presence must not be hidden by a broad “all issues fixed” claim.
+The backend shutdown-completion defect is now reproduced and corrected in r4. Acknowledgement identity binding remains a historical review candidate outside this correction; no exploitation or data-loss event is established. Do not interpret this bounded repair as an all-issues-fixed claim.
 
 The numerical engine implements selected classical simulations. Four-row training examples and saved classifier outcomes do not establish held-out performance or generalization. Local retrieval, simulation, language-model inference, model-weight training and physical quantum computation are different operations.
 

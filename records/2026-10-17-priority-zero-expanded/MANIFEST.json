@@ -1,6 +1,6 @@
 {
   "schema": "qel-expanded-release/1",
-  "prepared_utc": "2026-10-17T18:34:20.333082+00:00",
+  "prepared_utc": "2026-10-17T19:59:56.415665+00:00",
   "collection_id": "QEL-PRIORITY-ZERO",
   "edition": "2026-10-17-expanded",
   "manifest_self_excluded": true,
@@ -17,8 +17,8 @@
     },
     {
       "path": "COLLECTION_CONTENTS.json",
-      "bytes": 3474193,
-      "sha256": "309e9a9e471d8b1730bc79e59c5e981cec6fe1204488a12d33e73dce6f42fceb"
+      "bytes": 3479509,
+      "sha256": "4b5a4b654c0769e8e3a88d3c1b004cd9a90fcdcf21b40da565709e5a092cbc5d"
     },
     {
       "path": "controller-review.zip",
@@ -47,8 +47,8 @@
     },
     {
       "path": "full-recovered-math.zip",
-      "bytes": 160186,
-      "sha256": "19bd7c1f519b772c287e555f010381ac0d657feaf6578b142c07fb2667e32616"
+      "bytes": 160141,
+      "sha256": "18baa6191af66d087966008c0301a18b9e22b19868e45411abd126afc12088e8"
     },
     {
       "path": "full-task-alpha.zip",
@@ -57,8 +57,8 @@
     },
     {
       "path": "GAUCIA-historical.zip",
-      "bytes": 134051,
-      "sha256": "7583b58685dd15feafd51891bb501924ec6425e95ca0d444a1432db9dbe2c0c5"
+      "bytes": 133745,
+      "sha256": "e2170c779e10ea00b35a821943c9927a1cd868ebd38a2a5c61024a1a8c538b7a"
     },
     {
       "path": "GAUCIA-repair-r3.zip",
@@ -66,24 +66,29 @@
       "sha256": "5701bd4ed909260d0d7f37a50b9f79c14848c5694350de2fe125492a4e46add7"
     },
     {
+      "path": "GAUCIA-service-corrections-r4.zip",
+      "bytes": 64727,
+      "sha256": "ef34d6d190ffd84eaa956e3e548006eb0e1cacfb2398da0653432569ef364337"
+    },
+    {
       "path": "GAUCIA_SOURCE_GUIDE.md",
-      "bytes": 4428,
-      "sha256": "bec9f86707be4bdffe183d685302b952f5b1ffc3a9033f361910c2fef481d82c"
+      "bytes": 4790,
+      "sha256": "e95068af49e6be9efb83719f16834c162177bad0bf9ff30ab4bd33c2966543bf"
     },
     {
       "path": "improvement-audit-20260918.zip",
-      "bytes": 301715,
-      "sha256": "fb7b87eac884282190ec10a0386ccf992d6719529d08c66fa74d5b827c4d9329"
+      "bytes": 301616,
+      "sha256": "f91f317924947dfe780a89ea91f580217ea75084009c8d6d6d405d873a75a83f"
     },
     {
       "path": "jarvis-dft-2d-public-evidence.zip",
-      "bytes": 29973,
-      "sha256": "6928b80625efa0fb9b95214fc594a08e8993c1183b9cf915d575d21c08d7022d"
+      "bytes": 30022,
+      "sha256": "77551219cc5ee5106dd5253cd0c0b2dce322b12b6f94d958a173b70e69d07bdf"
     },
     {
       "path": "jarvis-private-01.zip",
-      "bytes": 1290682,
-      "sha256": "803c748e3f07ad8f4873c92e7f83b32ad8df5fd418e914327c6a427173d55250"
+      "bytes": 1290679,
+      "sha256": "c0c42459b12b485b9c6ef4235f9eddd1ba880c505ea6759cbf821dd2fee903a1"
     },
     {
       "path": "jarvis-private-02-portable-replay.zip",
@@ -92,23 +97,23 @@
     },
     {
       "path": "jarvis-private-02.zip",
-      "bytes": 4336513,
-      "sha256": "48324964e12c6b2dafa0b74df5efb5f662e8131835d82eebe2a845bc86562c52"
+      "bytes": 4336486,
+      "sha256": "907fe612ab1bec3e517ab40dd9e61351dbbf3e2d1d1257d7aa6be7c59132c109"
     },
     {
       "path": "jarvis-private-03.zip",
-      "bytes": 23742036,
-      "sha256": "f67d97ca7899d17adcbaf261b5a500223e208ede8882e2efefa3d291424c59b4"
+      "bytes": 23742064,
+      "sha256": "3a4483da9d740e4a8764e58da5537ffadc90fe7cc34ba2cf627c87089e3cfc43"
     },
     {
       "path": "jarvis-private-04.zip",
-      "bytes": 5180444,
-      "sha256": "dc788d997c8a6501efc403dddefb18b7c43e3d627807c1921ca1eb5dde0fadff"
+      "bytes": 5180458,
+      "sha256": "67d5d93d81129cab266fa6035b0717edc18b7f50215ab93c84ef57f5c70f9d94"
     },
     {
       "path": "jarvis-private-05.zip",
-      "bytes": 590524,
-      "sha256": "ccf7fbe4d0a449501c06c6dd3b709c531619659de82cdc4d028367153489fbe7"
+      "bytes": 590473,
+      "sha256": "8d07173b953eb0e47520583465acd59d415df53f530ec16060eee92b6df26000"
     },
     {
       "path": "LICENSE.md",
@@ -122,23 +127,28 @@
     },
     {
       "path": "live-dense-qubit-scaling-20260918.zip",
-      "bytes": 94468,
-      "sha256": "116642eb62083bfd3e99ac4cead761b2ba5808ba8279b053cf2f4d6519114666"
+      "bytes": 94464,
+      "sha256": "d429453c0ec7ac555cc1a52abacdafde969fa683d98414b6b37e236ba4012045"
     },
     {
       "path": "Priority-Zero-Research-Edition-2.zip",
-      "bytes": 6552060,
-      "sha256": "b445b9500aad8d978f518f0c585e5b2365a477351251bc8aafad622b3d932a6a"
+      "bytes": 6552077,
+      "sha256": "2e4be121bd1a36afe4a451021e505b42440fca3833f413a933b5eeed87c096c5"
     },
     {
       "path": "Priority-Zero-Teaching.zip",
-      "bytes": 131242,
-      "sha256": "78b7f4fb0fbd1708d812a67289d3f0135adc8796a051c7afa363acf36cc5e359"
+      "bytes": 130568,
+      "sha256": "10c59bef8ad17a420f34966ee6e696e4c95b3a9c7614e4bd9594b8503afebcf4"
+    },
+    {
+      "path": "PUBLICATION_REVIEW_R2.md",
+      "bytes": 6019,
+      "sha256": "d29b4f8f3e015fd13f49215f5e5a3e1caea7cee69316e0636236a0e807501a95"
     },
     {
       "path": "QEL-Research-Release-2026-10-16.zip",
-      "bytes": 17923876,
-      "sha256": "e4891174c01e2dbd0089732948bddd073525f3c209cba28672049f4ccbd7dc30"
+      "bytes": 17923946,
+      "sha256": "8ea2c924cd8773d9fdfb1b8eea7d40e5dcbf3d1c6ef26cffd7dd52a9e9ed8715"
     },
     {
       "path": "QRF_RESEARCH_RECORD.md",
@@ -157,8 +167,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6427,
-      "sha256": "de330268767f6c20bcbfb4c7e4e31f079e6627739546fdf7653892ff901ff788"
+      "bytes": 7086,
+      "sha256": "d9fe471bf1856eb00db7f4b8a4b934ac8c53c35bd5b55ba9d45c66e1cdcc5469"
     },
     {
       "path": "Research-Depth-Review.zip",
@@ -177,8 +187,8 @@
     },
     {
       "path": "Research-Publication-Series.zip",
-      "bytes": 1447962,
-      "sha256": "c4057fcdacfed116b2674fc8e2c8f021dd3dc9787c8aeb5331567368e327b5df"
+      "bytes": 1448002,
+      "sha256": "dcce0dfb409fe2a51e0bd595d12de812b1ca3f4ab516a19647414c104658e200"
     },
     {
       "path": "retained-jarvis-dependency-layout.zip",
@@ -186,9 +196,14 @@
       "sha256": "899f3ea5341f49b461757d04ff057f085922ef31b91b6f926b08ffcfa745a54a"
     },
     {
+      "path": "REVISION_R2.json",
+      "bytes": 920,
+      "sha256": "6be9737175b1bdeaa4c5ca20105b6c916c11ef848b884c66ff1d81d2328f7d9f"
+    },
+    {
       "path": "SCOPE.json",
-      "bytes": 2075,
-      "sha256": "fc27335a867e33323e45835410eb7b71bdc5761f00ea1cae950dde7d243dbc20"
+      "bytes": 2345,
+      "sha256": "eb75a9c147626c470da89ed0c42b74130c148410005d108a1b4c5d667346af95"
     },
     {
       "path": "selected-provenance-reviews.zip",
@@ -201,9 +216,16 @@
       "sha256": "b78c71c710a6842c24d6e33020946621bbbdd303e9c718a4c47d21288057297c"
     },
     {
+      "path": "test_release_verifier.py",
+      "bytes": 4933,
+      "sha256": "aa7179fb79bf8f0322f01e1eec91a14d9c24d33a6bc226476f314dfa16bf4e87"
+    },
+    {
       "path": "verify_release.py",
-      "bytes": 4214,
-      "sha256": "c9b905d8f5296782496891b4b9148c32a452362eef7d987fcf0a03361dd5eb9e"
+      "bytes": 6830,
+      "sha256": "43efd0a18c6e8681c886a6006ee26903ec5c8de021b82c9a56845539ad89f914"
     }
-  ]
+  ],
+  "revision": "2026-10-17-r2",
+  "supersedes_manifest_sha256": "ecfe83ce027b490407793eb98c27f6e0377edd74895db69a9763d7358fa8b313"
 }
