@@ -1,0 +1,307 @@
+{
+  "schema": "qel-priority-zero-publication-receipt/1",
+  "edition": "2026-10-17-expanded",
+  "owner": "Sherman Gaucia Laing / Quantum.Earth.Laing",
+  "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/tree/main/records/2026-10-17-priority-zero-expanded",
+  "owner_reported_authorization_time": "October 17, 2026, 2:01 p.m. Eastern; minute precision, owner-reported",
+  "main_publication_observed_utc": "2026-10-17 19:15:36 UTC",
+  "release_commit": "9219be1567682d29cd574a6e8e1748404516a4d2",
+  "release_tree": "3dfbfe5da72822f65e39d53be82341dac652f844",
+  "manifest_sha256": "ecfe83ce027b490407793eb98c27f6e0377edd74895db69a9763d7358fa8b313",
+  "verification": {
+    "all_41_distribution_file_sizes_and_git_blob_identities_match_local": true,
+    "prior_repository_files_preserved": 38,
+    "new_edition_files": 41,
+    "local_archive_payload_members_verified": 13235,
+    "verifier_tests_passed": 8,
+    "new_sanitized_entries_checked": 276,
+    "json_nonstring_value_checks": 134,
+    "independent_peer_review": false,
+    "scientific_suites_rerun": false
+  },
+  "signed_commits": [
+    {
+      "sha": "133877e66fce8a43ae1a1c02c9c87fa4a9ae289f",
+      "committed_at": "2026-10-17T19:04:21Z",
+      "committer": "GitHub",
+      "github_verified": true,
+      "reason": "valid",
+      "verified_at": "2026-10-17T19:04:26Z"
+    },
+    {
+      "sha": "fe555e0e7ea4c37509aebe0e8c628a49da8693b8",
+      "committed_at": "2026-10-17T19:09:32Z",
+      "committer": "GitHub",
+      "github_verified": true,
+      "reason": "valid",
+      "verified_at": "2026-10-17T19:09:38Z"
+    },
+    {
+      "sha": "9219be1567682d29cd574a6e8e1748404516a4d2",
+      "committed_at": "2026-10-17T19:13:37Z",
+      "committer": "GitHub",
+      "github_verified": true,
+      "reason": "valid",
+      "verified_at": "2026-10-17T19:13:49Z"
+    }
+  ],
+  "signature_boundary": "These are GitHub-verified web-flow commit signatures. No owner-controlled signing key, independent trusted timestamp, scientific certification, or retroactive signature of earlier commits is claimed.",
+  "scope": {
+    "source_entries_screened": 13842,
+    "included_overlapping_source_entries": 13206,
+    "exact": 12930,
+    "sanitized": 276,
+    "withheld": 636,
+    "collections": 29,
+    "license": "Existing noncommercial license unchanged; prior and third-party grants preserved",
+    "limits": "Retained screened selection, not a complete laptop/Library/USB mirror. QRF is documentary; two referenced GAUCIA audit dependencies are absent from the local selection."
+  },
+  "files": [
+    {
+      "path": "august21-successor-integration.zip",
+      "bytes": 500443,
+      "sha256": "7480ff4f511abe39fd4fb629f186baa6b0cef812f7899722dd0f3606b7c3a2cf",
+      "git_blob_sha1": "e4d74c72434568ee6a16444af1d2cbdaa5a8969a"
+    },
+    {
+      "path": "AUTHOR_STATEMENT.md",
+      "bytes": 1005,
+      "sha256": "53ab00ca5eca7f7bd4b194e42e7f8646972dcc691d15921fd82e5a696c0d430c",
+      "git_blob_sha1": "d68c12d43563bb615550c9c4a7a1f39047801d03"
+    },
+    {
+      "path": "COLLECTION_CONTENTS.json",
+      "bytes": 3474193,
+      "sha256": "309e9a9e471d8b1730bc79e59c5e981cec6fe1204488a12d33e73dce6f42fceb",
+      "git_blob_sha1": "5790fc3dc66f3d528493bc67bc24fe0cce3991f0"
+    },
+    {
+      "path": "controller-review.zip",
+      "bytes": 19529,
+      "sha256": "ad1e92c9664b07c9e63232796bd6bb9661d6728311eff663d5fa8ec4f57d4116",
+      "git_blob_sha1": "a93417206b8e8bff69966d5939b3bcce8cd5e9ca"
+    },
+    {
+      "path": "DEDICATION.md",
+      "bytes": 135,
+      "sha256": "ab6569fe80b446363c4009d6ca0274d9e33d8ded07901d1248fee239012b5dbb",
+      "git_blob_sha1": "18c55074ffc9c8ec97addc5e05df741f1ba44318"
+    },
+    {
+      "path": "full-historical-core.zip",
+      "bytes": 28819,
+      "sha256": "e06a0efc5415d24d467ac63ec72750fa241f8f67fe466508084ff1247fc7ad6d",
+      "git_blob_sha1": "dad49d1fc0e97b05ec2e119a172f1c3c0dce0767"
+    },
+    {
+      "path": "full-jarvis-aluminum.zip",
+      "bytes": 536965,
+      "sha256": "072478526185bcbe288b1e63f73bc66025432700f5a1a50edcec534b4722b4e0",
+      "git_blob_sha1": "8c94707f7679a840462a56470d6a08bda69c1c41"
+    },
+    {
+      "path": "full-qel-performance.zip",
+      "bytes": 1516532,
+      "sha256": "6e39dd9ac1dcb17bc28de37e15856fd54a50b36f1ae68822f03fd2a56b2cc188",
+      "git_blob_sha1": "2e863b76d90e3a96af7fe064ef42c8933abdf0ed"
+    },
+    {
+      "path": "full-recovered-math.zip",
+      "bytes": 160186,
+      "sha256": "19bd7c1f519b772c287e555f010381ac0d657feaf6578b142c07fb2667e32616",
+      "git_blob_sha1": "14f7ec22726a9484c0e5c117dd00e62a1f37916c"
+    },
+    {
+      "path": "full-task-alpha.zip",
+      "bytes": 102417,
+      "sha256": "c9ab91cefbdf896278af674ae910af268dd55334af28ec1f51705804b9599270",
+      "git_blob_sha1": "f628f596f825f7aad4d57b8423c7ace180a6241a"
+    },
+    {
+      "path": "GAUCIA-historical.zip",
+      "bytes": 134051,
+      "sha256": "7583b58685dd15feafd51891bb501924ec6425e95ca0d444a1432db9dbe2c0c5",
+      "git_blob_sha1": "4b836f5e306cfbf29ebcbc71a0c8f53fbecf8b4b"
+    },
+    {
+      "path": "GAUCIA-repair-r3.zip",
+      "bytes": 148873,
+      "sha256": "5701bd4ed909260d0d7f37a50b9f79c14848c5694350de2fe125492a4e46add7",
+      "git_blob_sha1": "d4e5a248058e527a219983af161779812b219b05"
+    },
+    {
+      "path": "GAUCIA_SOURCE_GUIDE.md",
+      "bytes": 4428,
+      "sha256": "bec9f86707be4bdffe183d685302b952f5b1ffc3a9033f361910c2fef481d82c",
+      "git_blob_sha1": "d94913ba7c495c3e280db9ecf2bbea0a289b3a4f"
+    },
+    {
+      "path": "improvement-audit-20260918.zip",
+      "bytes": 301715,
+      "sha256": "fb7b87eac884282190ec10a0386ccf992d6719529d08c66fa74d5b827c4d9329",
+      "git_blob_sha1": "6ab3d0710eccb869a44063d3a3071c80c0127efa"
+    },
+    {
+      "path": "jarvis-dft-2d-public-evidence.zip",
+      "bytes": 29973,
+      "sha256": "6928b80625efa0fb9b95214fc594a08e8993c1183b9cf915d575d21c08d7022d",
+      "git_blob_sha1": "d72f8201a17b52d18246a2e6aa757b06e85a2298"
+    },
+    {
+      "path": "jarvis-private-01.zip",
+      "bytes": 1290682,
+      "sha256": "803c748e3f07ad8f4873c92e7f83b32ad8df5fd418e914327c6a427173d55250",
+      "git_blob_sha1": "b7c0b90ab13fbc6332b3f4f4ee821489918874de"
+    },
+    {
+      "path": "jarvis-private-02-portable-replay.zip",
+      "bytes": 622913,
+      "sha256": "68774a97d645e879f9100363eca589be3aafa0d3fa10f6fd200451307972e7ac",
+      "git_blob_sha1": "66891c169736ed7038c6b3351e9e4a0228bdf865"
+    },
+    {
+      "path": "jarvis-private-02.zip",
+      "bytes": 4336513,
+      "sha256": "48324964e12c6b2dafa0b74df5efb5f662e8131835d82eebe2a845bc86562c52",
+      "git_blob_sha1": "8009e392fd5e108b30e74858d485bb49ef53b0d6"
+    },
+    {
+      "path": "jarvis-private-03.zip",
+      "bytes": 23742036,
+      "sha256": "f67d97ca7899d17adcbaf261b5a500223e208ede8882e2efefa3d291424c59b4",
+      "git_blob_sha1": "73be8e1bd9a6e21aa97e134e47444811fb5b5ade"
+    },
+    {
+      "path": "jarvis-private-04.zip",
+      "bytes": 5180444,
+      "sha256": "dc788d997c8a6501efc403dddefb18b7c43e3d627807c1921ca1eb5dde0fadff",
+      "git_blob_sha1": "67f70ef32c0dbc61631536206ff3b08f3026c536"
+    },
+    {
+      "path": "jarvis-private-05.zip",
+      "bytes": 590524,
+      "sha256": "ccf7fbe4d0a449501c06c6dd3b709c531619659de82cdc4d028367153489fbe7",
+      "git_blob_sha1": "21f2bc1bb3ff025e102e003abafb95a9e4c9912e"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 9441,
+      "sha256": "11cf176ed702f9cbf81d7a49a8121b59706a7a70ea79f4e5de3ec8bb8d703ae2",
+      "git_blob_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb"
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "bytes": 1931,
+      "sha256": "fbf0026fdb1d425c4100149dd781f42fb71743e63ece91c673badc2803ed8882",
+      "git_blob_sha1": "fbcd600460da7e5f16044d67cdeeda6cc753ca80"
+    },
+    {
+      "path": "live-dense-qubit-scaling-20260918.zip",
+      "bytes": 94468,
+      "sha256": "116642eb62083bfd3e99ac4cead761b2ba5808ba8279b053cf2f4d6519114666",
+      "git_blob_sha1": "675d753ae29dec35cdf53390bcb7a259aad3583a"
+    },
+    {
+      "path": "MANIFEST.json",
+      "bytes": 6653,
+      "sha256": "ecfe83ce027b490407793eb98c27f6e0377edd74895db69a9763d7358fa8b313",
+      "git_blob_sha1": "6fded4d057b3c1e919ce158d8681047ee9b8bb78"
+    },
+    {
+      "path": "Priority-Zero-Research-Edition-2.zip",
+      "bytes": 6552060,
+      "sha256": "b445b9500aad8d978f518f0c585e5b2365a477351251bc8aafad622b3d932a6a",
+      "git_blob_sha1": "7f28e2e8e002868872b3ecfcd3d3860547698fe0"
+    },
+    {
+      "path": "Priority-Zero-Teaching.zip",
+      "bytes": 131242,
+      "sha256": "78b7f4fb0fbd1708d812a67289d3f0135adc8796a051c7afa363acf36cc5e359",
+      "git_blob_sha1": "955cb99afc8435cc9739fa189a9696f0e8ea66af"
+    },
+    {
+      "path": "QEL-Research-Release-2026-10-16.zip",
+      "bytes": 17923876,
+      "sha256": "e4891174c01e2dbd0089732948bddd073525f3c209cba28672049f4ccbd7dc30",
+      "git_blob_sha1": "719060d0df72928924fee153419fe556257b7bc9"
+    },
+    {
+      "path": "QRF_RESEARCH_RECORD.md",
+      "bytes": 3155,
+      "sha256": "69a4424822efb1c0382d8f5bc6751c1247327e4b260a6c5dbc45766210a79222",
+      "git_blob_sha1": "a7264a5baacb67f8d656feda348d7e0a94ba70e8"
+    },
+    {
+      "path": "Quantum-Research.zip",
+      "bytes": 515882,
+      "sha256": "e01adc989ee51cc9c5cbfbadaabd66501971fc224cd8d8d24b6c34eb8b271aac",
+      "git_blob_sha1": "bbafbc4d208124535bd271aea27ce2d05320d0a4"
+    },
+    {
+      "path": "READING_ORDER.md",
+      "bytes": 3466,
+      "sha256": "bea752ce55fed4ad674ceb4621532a40bdc07af4737d885387978514c9c212b6",
+      "git_blob_sha1": "46983c8fd9bda2503c46f43c0bd797f9bbe60aeb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6427,
+      "sha256": "de330268767f6c20bcbfb4c7e4e31f079e6627739546fdf7653892ff901ff788",
+      "git_blob_sha1": "4ce3862550549d464041d96d29caecd2dcb5624f"
+    },
+    {
+      "path": "Research-Depth-Review.zip",
+      "bytes": 35190,
+      "sha256": "14f90dcdb90ba76cac38d59514da23fa4dd8c344a83e6fd4a542b9355e5133ac",
+      "git_blob_sha1": "3d3e9008758c787aa16f0271aa862eabc5c2b021"
+    },
+    {
+      "path": "Research-Learning-History.zip",
+      "bytes": 276721,
+      "sha256": "1777a7798ec8eea1dfe060aca22daf4efd275e645d492937365bda43ae7e9dbd",
+      "git_blob_sha1": "872b85d97e6d17e4645c3514a8e6f4484651a64c"
+    },
+    {
+      "path": "Research-Process-Review.zip",
+      "bytes": 40093,
+      "sha256": "499cc1220f4604c427ea3a77129f879e903164b196654ac61d246ff7aff83751",
+      "git_blob_sha1": "37dddd5a6451394293e2a171f1fc3297e58026a3"
+    },
+    {
+      "path": "Research-Publication-Series.zip",
+      "bytes": 1447962,
+      "sha256": "c4057fcdacfed116b2674fc8e2c8f021dd3dc9787c8aeb5331567368e327b5df",
+      "git_blob_sha1": "a28a4fc29be8a08809f42d75ec657a460ce05604"
+    },
+    {
+      "path": "retained-jarvis-dependency-layout.zip",
+      "bytes": 61989,
+      "sha256": "899f3ea5341f49b461757d04ff057f085922ef31b91b6f926b08ffcfa745a54a",
+      "git_blob_sha1": "9af01032b5fcd7a62909f99db8c0b6d3060c0853"
+    },
+    {
+      "path": "SCOPE.json",
+      "bytes": 2075,
+      "sha256": "fc27335a867e33323e45835410eb7b71bdc5761f00ea1cae950dde7d243dbc20",
+      "git_blob_sha1": "449a9dc3ad9aee11e056ab99131fdd887f2d45df"
+    },
+    {
+      "path": "selected-provenance-reviews.zip",
+      "bytes": 6838,
+      "sha256": "d6503de9324a7d69cb859b6e3ab4c4578bf20f2b644612f705a5c33b13b187c6",
+      "git_blob_sha1": "4615a1b1819782c60d9b87d0c84be2ceb467c4cf"
+    },
+    {
+      "path": "structured-state-research-implementation.zip",
+      "bytes": 18794,
+      "sha256": "b78c71c710a6842c24d6e33020946621bbbdd303e9c718a4c47d21288057297c",
+      "git_blob_sha1": "2352569a8243380bfed598160f2fe040f08d3b96"
+    },
+    {
+      "path": "verify_release.py",
+      "bytes": 4214,
+      "sha256": "c9b905d8f5296782496891b4b9148c32a452362eef7d987fcf0a03361dd5eb9e",
+      "git_blob_sha1": "d057853a89710b6f0983ce27db10dfce308358e1"
+    }
+  ]
+}
