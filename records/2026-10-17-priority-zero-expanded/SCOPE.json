@@ -1,0 +1,29 @@
+{
+  "schema": "qel-expanded-disclosure-scope/1",
+  "edition_date": "2026-10-17",
+  "source_entries_screened": 13842,
+  "source_entries_included": 13206,
+  "exact_entries": 12930,
+  "sanitized_entries": 276,
+  "withheld_entries": 636,
+  "distinct_original_byte_sequences_among_included_entries": 11181,
+  "source_collections_screened": 30,
+  "collection_archives_supplied": 29,
+  "withheld_categories": {
+    "Binary/encoded container; not cleared for direct disclosure. Extracted text/source is accounted separately.": 165,
+    "Private application state, corpus, dialogue, or mixed snapshot; program source released separately.": 462,
+    "Original integration receipt embeds local dialogue/source excerpts. Technical status is represented separately; raw receipt retained privately.": 4,
+    "Private controller identification/review metadata.": 5
+  },
+  "boundaries": [
+    "Counts are overlapping logical file entries, not studies, discoveries, experiments or independent tests.",
+    "This is the screened retained-source edition, not a complete laptop, Library or USB mirror.",
+    "Private raw dialogue, application state, credentials and uncleared binary/encoded containers are not distributed.",
+    "Original copies and a file-level private decision ledger are preserved. Sanitized bytes have new public hashes.",
+    "The existing noncommercial license is unchanged; component-specific notices and earlier grants remain applicable.",
+    "QRF is a documentary research account; a standalone QRF implementation was not identified in the inspected source selection.",
+    "Two referenced GAUCIA audit dependencies remain unavailable in the local selection; no complete fresh application installation is claimed.",
+    "Existing scientific reviews/tests are reused. New release checks verify packaging and the new verifier, not fresh scientific replication.",
+    "No owner-controlled signing key or independent trusted timestamp is established by this preparation. Check the actual GitHub publication commit signature separately."
+  ]
+}

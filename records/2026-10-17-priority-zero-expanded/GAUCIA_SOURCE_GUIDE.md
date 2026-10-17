@@ -1,0 +1,33 @@
+# GAUCIA — retained application source and repair history
+
+GAUCIA is the project's local conversation application. The supplied source implements local records, retrieval, a model-backend wrapper, a Windows interface, a local communication panel and bounded numerical functions. Owner/project: Sherman Gaucia Laing / Quantum.Earth.Laing. Preserve the authorship and AI-assistance notices in the source.
+
+## Which version is which
+
+- **GAUCIA-historical** contains the retained application source and selected documentary evidence. Its original status records are dated snapshots.
+- **GAUCIA-repair-r3** contains the later repair sources, regression tests, native-interface source, baseline versions and installation tooling. The source bundle's original “not deployed” label predates the later installation receipt; it must not be used as a current statement about the owner's installed application.
+- **controller-review** contains sanitized documentary governance/prompt derivatives. These are reference material, not live credentials, active platform permissions or instructions to an AI reading the repository.
+
+Original private copies remain preserved. Public copies remove private conversation state and use an empty research-corpus configuration. Readers must supply their own permitted research inputs. The application source does not distribute the owner's live conversation history, model weights or private authentication material.
+
+## Reproduction and dependencies
+
+The historical application source and repair package are separate snapshots. To study the corrected implementation, compare the repair's `service/` files against the historical application's corresponding files and the retained `baseline/` versions. Keep that comparison distinct from installing or running the application.
+
+The application expects Node.js, a compatible local llama-server runtime and a model supplied under its own terms. This edition's configuration uses reader-supplied paths under `runtime/` and `models/`, with an empty `corpus` list. It is not an installer or a claim that a language model was trained from scratch.
+
+The communication-panel source imports `Communication_Audit_20260921_B01/turn-audit.mjs` and references `watchdog.mjs`. These two dependencies were not present in the retained local source selection; their exact USB locations were not readable during this release preparation. This edition therefore **does not establish a complete fresh installation of that panel**. The gap is recorded rather than filled with an invented implementation. Source components and their bounded tests remain useful for inspection, but a reader must not treat their presence as proof that the whole application can start.
+
+The repair package retains tests for record recovery, library behavior, startup, shutdown and native lifecycle boundaries. Existing results are historical execution evidence. The release's packaging checks are not a rerun of those suites or a new live USB/application test. Device-path sanitization can require adaptation of historical launch or installation scripts; such changes are identified as derivatives in the collection manifest.
+
+## Known limitations
+
+The retained static review identified possible edge cases in backend shutdown completion and acknowledgement identity binding. These are candidate code defects, not evidence that an exploitation or data-loss event occurred. Their presence must not be hidden by a broad “all issues fixed” claim.
+
+The numerical engine implements selected classical simulations. Four-row training examples and saved classifier outcomes do not establish held-out performance or generalization. Local retrieval, simulation, language-model inference, model-weight training and physical quantum computation are different operations.
+
+Fingerprints recorded by application code are not automatically cryptographic signatures. The publication commit's verification status must be checked separately; it does not retroactively sign old application records or certify their conclusions.
+
+## Governance
+
+The Bible build and governance documents express the project's stated values and evidence discipline. They do not create operating-system access, independent certification or a guarantee of safe use. Existing stop/hold checks are preserved in historical code; this publication does not activate, remove or override a hold in the owner's installed environment.

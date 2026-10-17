@@ -1,0 +1,209 @@
+{
+  "schema": "qel-expanded-release/1",
+  "prepared_utc": "2026-10-17T18:34:20.333082+00:00",
+  "collection_id": "QEL-PRIORITY-ZERO",
+  "edition": "2026-10-17-expanded",
+  "manifest_self_excluded": true,
+  "files": [
+    {
+      "path": "august21-successor-integration.zip",
+      "bytes": 500443,
+      "sha256": "7480ff4f511abe39fd4fb629f186baa6b0cef812f7899722dd0f3606b7c3a2cf"
+    },
+    {
+      "path": "AUTHOR_STATEMENT.md",
+      "bytes": 1005,
+      "sha256": "53ab00ca5eca7f7bd4b194e42e7f8646972dcc691d15921fd82e5a696c0d430c"
+    },
+    {
+      "path": "COLLECTION_CONTENTS.json",
+      "bytes": 3474193,
+      "sha256": "309e9a9e471d8b1730bc79e59c5e981cec6fe1204488a12d33e73dce6f42fceb"
+    },
+    {
+      "path": "controller-review.zip",
+      "bytes": 19529,
+      "sha256": "ad1e92c9664b07c9e63232796bd6bb9661d6728311eff663d5fa8ec4f57d4116"
+    },
+    {
+      "path": "DEDICATION.md",
+      "bytes": 135,
+      "sha256": "ab6569fe80b446363c4009d6ca0274d9e33d8ded07901d1248fee239012b5dbb"
+    },
+    {
+      "path": "full-historical-core.zip",
+      "bytes": 28819,
+      "sha256": "e06a0efc5415d24d467ac63ec72750fa241f8f67fe466508084ff1247fc7ad6d"
+    },
+    {
+      "path": "full-jarvis-aluminum.zip",
+      "bytes": 536965,
+      "sha256": "072478526185bcbe288b1e63f73bc66025432700f5a1a50edcec534b4722b4e0"
+    },
+    {
+      "path": "full-qel-performance.zip",
+      "bytes": 1516532,
+      "sha256": "6e39dd9ac1dcb17bc28de37e15856fd54a50b36f1ae68822f03fd2a56b2cc188"
+    },
+    {
+      "path": "full-recovered-math.zip",
+      "bytes": 160186,
+      "sha256": "19bd7c1f519b772c287e555f010381ac0d657feaf6578b142c07fb2667e32616"
+    },
+    {
+      "path": "full-task-alpha.zip",
+      "bytes": 102417,
+      "sha256": "c9ab91cefbdf896278af674ae910af268dd55334af28ec1f51705804b9599270"
+    },
+    {
+      "path": "GAUCIA-historical.zip",
+      "bytes": 134051,
+      "sha256": "7583b58685dd15feafd51891bb501924ec6425e95ca0d444a1432db9dbe2c0c5"
+    },
+    {
+      "path": "GAUCIA-repair-r3.zip",
+      "bytes": 148873,
+      "sha256": "5701bd4ed909260d0d7f37a50b9f79c14848c5694350de2fe125492a4e46add7"
+    },
+    {
+      "path": "GAUCIA_SOURCE_GUIDE.md",
+      "bytes": 4428,
+      "sha256": "bec9f86707be4bdffe183d685302b952f5b1ffc3a9033f361910c2fef481d82c"
+    },
+    {
+      "path": "improvement-audit-20260918.zip",
+      "bytes": 301715,
+      "sha256": "fb7b87eac884282190ec10a0386ccf992d6719529d08c66fa74d5b827c4d9329"
+    },
+    {
+      "path": "jarvis-dft-2d-public-evidence.zip",
+      "bytes": 29973,
+      "sha256": "6928b80625efa0fb9b95214fc594a08e8993c1183b9cf915d575d21c08d7022d"
+    },
+    {
+      "path": "jarvis-private-01.zip",
+      "bytes": 1290682,
+      "sha256": "803c748e3f07ad8f4873c92e7f83b32ad8df5fd418e914327c6a427173d55250"
+    },
+    {
+      "path": "jarvis-private-02-portable-replay.zip",
+      "bytes": 622913,
+      "sha256": "68774a97d645e879f9100363eca589be3aafa0d3fa10f6fd200451307972e7ac"
+    },
+    {
+      "path": "jarvis-private-02.zip",
+      "bytes": 4336513,
+      "sha256": "48324964e12c6b2dafa0b74df5efb5f662e8131835d82eebe2a845bc86562c52"
+    },
+    {
+      "path": "jarvis-private-03.zip",
+      "bytes": 23742036,
+      "sha256": "f67d97ca7899d17adcbaf261b5a500223e208ede8882e2efefa3d291424c59b4"
+    },
+    {
+      "path": "jarvis-private-04.zip",
+      "bytes": 5180444,
+      "sha256": "dc788d997c8a6501efc403dddefb18b7c43e3d627807c1921ca1eb5dde0fadff"
+    },
+    {
+      "path": "jarvis-private-05.zip",
+      "bytes": 590524,
+      "sha256": "ccf7fbe4d0a449501c06c6dd3b709c531619659de82cdc4d028367153489fbe7"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 9441,
+      "sha256": "11cf176ed702f9cbf81d7a49a8121b59706a7a70ea79f4e5de3ec8bb8d703ae2"
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "bytes": 1931,
+      "sha256": "fbf0026fdb1d425c4100149dd781f42fb71743e63ece91c673badc2803ed8882"
+    },
+    {
+      "path": "live-dense-qubit-scaling-20260918.zip",
+      "bytes": 94468,
+      "sha256": "116642eb62083bfd3e99ac4cead761b2ba5808ba8279b053cf2f4d6519114666"
+    },
+    {
+      "path": "Priority-Zero-Research-Edition-2.zip",
+      "bytes": 6552060,
+      "sha256": "b445b9500aad8d978f518f0c585e5b2365a477351251bc8aafad622b3d932a6a"
+    },
+    {
+      "path": "Priority-Zero-Teaching.zip",
+      "bytes": 131242,
+      "sha256": "78b7f4fb0fbd1708d812a67289d3f0135adc8796a051c7afa363acf36cc5e359"
+    },
+    {
+      "path": "QEL-Research-Release-2026-10-16.zip",
+      "bytes": 17923876,
+      "sha256": "e4891174c01e2dbd0089732948bddd073525f3c209cba28672049f4ccbd7dc30"
+    },
+    {
+      "path": "QRF_RESEARCH_RECORD.md",
+      "bytes": 3155,
+      "sha256": "69a4424822efb1c0382d8f5bc6751c1247327e4b260a6c5dbc45766210a79222"
+    },
+    {
+      "path": "Quantum-Research.zip",
+      "bytes": 515882,
+      "sha256": "e01adc989ee51cc9c5cbfbadaabd66501971fc224cd8d8d24b6c34eb8b271aac"
+    },
+    {
+      "path": "READING_ORDER.md",
+      "bytes": 3466,
+      "sha256": "bea752ce55fed4ad674ceb4621532a40bdc07af4737d885387978514c9c212b6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6427,
+      "sha256": "de330268767f6c20bcbfb4c7e4e31f079e6627739546fdf7653892ff901ff788"
+    },
+    {
+      "path": "Research-Depth-Review.zip",
+      "bytes": 35190,
+      "sha256": "14f90dcdb90ba76cac38d59514da23fa4dd8c344a83e6fd4a542b9355e5133ac"
+    },
+    {
+      "path": "Research-Learning-History.zip",
+      "bytes": 276721,
+      "sha256": "1777a7798ec8eea1dfe060aca22daf4efd275e645d492937365bda43ae7e9dbd"
+    },
+    {
+      "path": "Research-Process-Review.zip",
+      "bytes": 40093,
+      "sha256": "499cc1220f4604c427ea3a77129f879e903164b196654ac61d246ff7aff83751"
+    },
+    {
+      "path": "Research-Publication-Series.zip",
+      "bytes": 1447962,
+      "sha256": "c4057fcdacfed116b2674fc8e2c8f021dd3dc9787c8aeb5331567368e327b5df"
+    },
+    {
+      "path": "retained-jarvis-dependency-layout.zip",
+      "bytes": 61989,
+      "sha256": "899f3ea5341f49b461757d04ff057f085922ef31b91b6f926b08ffcfa745a54a"
+    },
+    {
+      "path": "SCOPE.json",
+      "bytes": 2075,
+      "sha256": "fc27335a867e33323e45835410eb7b71bdc5761f00ea1cae950dde7d243dbc20"
+    },
+    {
+      "path": "selected-provenance-reviews.zip",
+      "bytes": 6838,
+      "sha256": "d6503de9324a7d69cb859b6e3ab4c4578bf20f2b644612f705a5c33b13b187c6"
+    },
+    {
+      "path": "structured-state-research-implementation.zip",
+      "bytes": 18794,
+      "sha256": "b78c71c710a6842c24d6e33020946621bbbdd303e9c718a4c47d21288057297c"
+    },
+    {
+      "path": "verify_release.py",
+      "bytes": 4214,
+      "sha256": "c9b905d8f5296782496891b4b9148c32a452362eef7d987fcf0a03361dd5eb9e"
+    }
+  ]
+}
