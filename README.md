@@ -9,6 +9,7 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
+| [OpenAI mathematics review and exact finite checks](records/2026-10-17-openai-mathematics-review/README.md) | Pinned whole-repository structural review, 72 finite identity checks, declared proof limits, reproducible scripts and a constructive invitation to discussion |
 | [Priority Zero — October 17 expanded research release](records/2026-10-17-priority-zero-expanded/README.md) | Source collections, data, corrections, failures, GAUCIA sources, QRF research account, privacy boundaries and an anniversary dedication |
 | [Priority Zero — October 16 limited preview](records/2026-10-16-priority-zero-preview/README.md) | Owner-approved partial research preview: selected chronology, aggregate findings, corrections and limitations; implementation and full reproduction materials withheld |
 | [Itemized prior work — October 1 edition](records/2026-10-01-prior-work/PRIOR_WORK.md) | 504 dated interactions, uses, submitted work, artifacts, tests and corrections through September 30; no industry comparisons |
@@ -59,3 +60,4 @@ Sherman has separately authorized publication of the Bible services, expanded st
 ## OpenAI Agents SDK — severity-first review
 
 The [approval controls and shell-result integrity study](records/2026-10-17-openai-severity-review/README.md) records eight passing approval checks and a tested correction for the publicly reported empty-shell-result defect. The final baseline has four reproduced failures among 32 cases; the isolated candidate passes all 32. The packet includes source attribution, the one-line MIT-derived patch, reproducible tests, mathematical invariants, and a ranked remaining-work queue. Original additions retain this repository's existing license; upstream rights remain separate.
+
