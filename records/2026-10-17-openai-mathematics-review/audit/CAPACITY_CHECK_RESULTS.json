@@ -1,0 +1,914 @@
+{
+  "status": "pass",
+  "utc": "2026-10-17T22:40:49.389802+00:00",
+  "script_sha256": "67df9e2bf67ecb6221bec58261587cac2d959d63ba5691cb5fb866ba9e5c48ec",
+  "transition_scenarios": 8,
+  "exact_parameter_cases": 72,
+  "identity_cases_passed": 72,
+  "energy_dual_stability_cases_passed": 60,
+  "invalid_forward_in_place_of_adjoint_detected_scenarios": 4,
+  "ideal_density": {
+    "leading_rational_factor": "1/8",
+    "correction_rational_factor": "3/128",
+    "expression": "zeta(3/2)/(8*pi^(3/2))*t^(-3/2) + 3*zeta(5/2)/(128*pi^(3/2))*t^(-5/2)",
+    "t": "beta*S"
+  },
+  "cases": [
+    {
+      "case": "immediate_killing",
+      "trial": "0",
+      "c": "0",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "0",
+      "c": "1/2",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "0",
+      "c": "1",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "2/3",
+      "c": "0",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "2/3",
+      "c": "1",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "immediate_killing",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "0",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "0",
+      "c": "0",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "0",
+      "c": "1/2",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "0",
+      "c": "1",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "2/3",
+      "c": "0",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "2/3",
+      "c": "1",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "self_loop",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "2/3",
+      "hitting": [
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "0",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "0",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "0",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "2/3",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "2/3",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "non_symmetric",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "0",
+      "c": "0",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "0",
+      "c": "1/2",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "0",
+      "c": "1",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "2/3",
+      "c": "0",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "2/3",
+      "c": "1",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "three_state_leak",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "49/180",
+      "hitting": [
+        "1",
+        "4/9",
+        "5/36"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "0",
+      "c": "0",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "0",
+      "c": "1/2",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "0",
+      "c": "1",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "2/3",
+      "c": "0",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "2/3",
+      "c": "1",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "closed_cycle",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "1",
+      "hitting": [
+        "1",
+        "1",
+        "1"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "0",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "0",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "0",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "2/3",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "2/3",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "unreachable_recurrent_class",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "0",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "0",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "0",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "2/3",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "2/3",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "explicit_killed_coordinate",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "1/3",
+      "hitting": [
+        "1",
+        "2/3",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "0",
+      "c": "0",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "0",
+      "c": "1/2",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "0",
+      "c": "1",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "2/3",
+      "c": "0",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "2/3",
+      "c": "1/2",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "2/3",
+      "c": "1",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "-3/2",
+      "c": "0",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": true
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "-3/2",
+      "c": "1/2",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    },
+    {
+      "case": "absorbing_target",
+      "trial": "-3/2",
+      "c": "1",
+      "q": "1",
+      "hitting": [
+        "1",
+        "0",
+        "0"
+      ],
+      "identities_pass": true,
+      "stability_bound_checked": false
+    }
+  ],
+  "limits": [
+    "Finite cases support the checked identities; they do not prove the entire theorem.",
+    "The exact Gaussian arithmetic checks coefficient normalization, not the paper's interaction-error estimate.",
+    "No Lean build, infinite-volume computation, quantum hardware or private research implementation used."
+  ]
+}
