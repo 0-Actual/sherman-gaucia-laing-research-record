@@ -1,0 +1,20 @@
+--- a/lean/docs/342.md
++++ b/lean/docs/342.md
+@@ -2,11 +2,16 @@
+ 
+ The following describes the scope of the Lean formalization related to the following accompanying paper(s):
+ 
+-- [Taming implies compatibility on four-manifolds](../../preprints/Taming-implies-compatibility-on-four-manifolds-September-23-2026/paper.pdf)
++- [Taming implies compatibility on four-manifolds, revised edition](../../preprints/Taming-implies-compatibility-on-four-manifolds-October-6-2026/paper.pdf)
++- [Previously cited September 23 edition](../../preprints/Taming-implies-compatibility-on-four-manifolds-September-23-2026/paper.pdf)
+ 
+ ## Scope
+ 
+ Donaldson's tamed-to-compatible conjecture asks whether an almost-complex structure tamed by a symplectic form also admits a compatible symplectic form. The formalized result establishes this for every closed connected smooth four-manifold, keeping the almost-complex structure fixed. No integrability assumption or prescribed cohomology class for the compatible form is required.
++
++## Version scope
++
++The October 6 edition corrects the discussion of compatible and tamed cones. The formalized result described above concerns the existence of a compatible symplectic form. This scope note does not certify every secondary cone identity in either manuscript edition. The previous edition remains linked for the revision record.
+ 
+ ## Comparator links
+ 

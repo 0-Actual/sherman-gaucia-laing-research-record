@@ -1,0 +1,111 @@
+{
+  "created_utc": "2026-10-17T23:01:27.359139+00:00",
+  "files": [
+    {
+      "path": "analyze_map.py",
+      "bytes": 6237,
+      "sha256": "004105359668409b8f190387dd93766eca6a4366bef46b367f9afb8908d444ea"
+    },
+    {
+      "path": "audit/CAPACITY_CHECK_RESULTS.json",
+      "bytes": 18563,
+      "sha256": "572db1dbd076b6424744a586f9cac10c558d35d6939ddcd6a47d00f227ca17ad"
+    },
+    {
+      "path": "CATALOGUE_RECONCILIATION.json",
+      "bytes": 26986,
+      "sha256": "4603cff8921ac08741e41ca472e1868b9c4900e2bf910ed78df1f31b19c641c6"
+    },
+    {
+      "path": "check_capacity.py",
+      "bytes": 6665,
+      "sha256": "67df9e2bf67ecb6221bec58261587cac2d959d63ba5691cb5fb866ba9e5c48ec"
+    },
+    {
+      "path": "FAMILY_COVERAGE.json",
+      "bytes": 258818,
+      "sha256": "b5a886a19671d959068497c7096591abe29a734c5c40603703b3e5f267af0ef3"
+    },
+    {
+      "path": "FINDINGS.json",
+      "bytes": 2277,
+      "sha256": "17de58f92f4b2ed5417c5d9719039460626d4f9cf9b15838defa5fd6b1228378"
+    },
+    {
+      "path": "FOUNDATION_REVIEW.md",
+      "bytes": 6352,
+      "sha256": "47d70ecb4201a50ea0d86f793f062a1896d088ff1f67dd7bb018b98a702220c1"
+    },
+    {
+      "path": "FULL_SCAN_SUMMARY.json",
+      "bytes": 1017,
+      "sha256": "4539f3751a51f580ea206ac413ecfed91c6c007902c297fce4a8a8301855f11c"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 9441,
+      "sha256": "11cf176ed702f9cbf81d7a49a8121b59706a7a70ea79f4e5de3ec8bb8d703ae2"
+    },
+    {
+      "path": "OWNERSHIP_AND_REUSE.md",
+      "bytes": 1570,
+      "sha256": "4140ffbd53225deb6f2f93c0ade908efdbbbf07229754643b4356a7402e5f52f"
+    },
+    {
+      "path": "prepare_inventory.py",
+      "bytes": 1849,
+      "sha256": "fe66cca9d60f00ed9f76554b55cfedbfa3e480b255fe70ea7dc5383ba332d73e"
+    },
+    {
+      "path": "PROPOSED_SCOPE_NOTE.diff",
+      "bytes": 1383,
+      "sha256": "996449395ffef0c499e8cb982d2ceaae95cf2b5ab6f7c8d47c00ed83b9612942"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4359,
+      "sha256": "b4f1c72fc747170e8b50b24f3349f1b42b19155b639a1264d9ae157024b7a88f"
+    },
+    {
+      "path": "REPRODUCE.md",
+      "bytes": 2248,
+      "sha256": "7bca6790ac2c9758d5493f9c086d345d21008fcfb685751b22d13617bf44e541"
+    },
+    {
+      "path": "REVIEW_QUEUE.json",
+      "bytes": 83828,
+      "sha256": "b4c6a92217b0dd99d6c9cd8efa6a2dfc2a1532745cb71c62dbfe22f64b6e1495"
+    },
+    {
+      "path": "REVIEWER_CORRECTIONS.md",
+      "bytes": 1029,
+      "sha256": "f76d66000f3ffde8f449fdecb88bf3ea25c4ff9a89226edb2cdc03733f33d218"
+    },
+    {
+      "path": "SOURCE_RECEIPT.json",
+      "bytes": 6663,
+      "sha256": "14358edbcee62d41b052289a094ab1e5a669fea4d5577767bae4d2398afc53f9"
+    },
+    {
+      "path": "stream_audit.py",
+      "bytes": 8777,
+      "sha256": "cfc6c12c26031a4a180409d5791cf9531a296ce4f1804170e603786366cc2bfc"
+    },
+    {
+      "path": "STRUCTURAL_REVIEW_SUMMARY.json",
+      "bytes": 1984,
+      "sha256": "2d2287217e1fbf134b2d8c39069c850217c901f135b105934f9c12dc4363ee2b"
+    },
+    {
+      "path": "TAMING_SCOPE_NOTE.proposed.md",
+      "bytes": 1908,
+      "sha256": "5c2d6c7ea8d3a9ce0e13fcd407a69971864b7efc1f9a90d0df0eaaabd9b2446c"
+    },
+    {
+      "path": "UPSTREAM_LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    }
+  ],
+  "publication_status": "edition_manifest; publication verification recorded separately"
+}

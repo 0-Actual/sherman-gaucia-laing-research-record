@@ -1,0 +1,28 @@
+{
+  "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "completed_utc": "2026-10-17T22:39:20.615627+00:00",
+  "new_files_checked": 133956,
+  "reused_files": 0,
+  "expected_tree_files": 133956,
+  "archive_files_seen": 133956,
+  "file_records": 133956,
+  "bytes": 2214297896,
+  "physical_text_lines": 30198391,
+  "content_states": {
+    "binary_identity_verified": 790,
+    "lexically_scanned_not_semantically_reviewed": 133166
+  },
+  "distinct_text_blobs": 2795,
+  "import_edges": 336036,
+  "lexical_markers": 844,
+  "exceptions": 0,
+  "processing_seconds": 741.55,
+  "semantic_proof_review_complete": false,
+  "lean_build_run": false,
+  "comparator_run": false,
+  "limits": [
+    "Lexical markers can be comments, permitted axioms or intended comparison targets; none is automatically a defect.",
+    "Archived versions, duplicate bytes and current manuscripts are different populations.",
+    "Full file-byte coverage is not full semantic review or a correctness certificate."
+  ]
+}

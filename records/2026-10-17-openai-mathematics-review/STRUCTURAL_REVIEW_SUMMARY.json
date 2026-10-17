@@ -1,0 +1,70 @@
+{
+  "families": 372,
+  "current_manuscript_paths": 719,
+  "formal_source_paths": 173,
+  "scope_note_paper_paths": 341,
+  "scope_paths_missing_from_tree": [],
+  "comparator_configs": 416,
+  "comparator_interface_exceptions": 0,
+  "permitted_axiom_counts": {
+    "propext": 416,
+    "Quot.sound": 416,
+    "Classical.choice": 416
+  },
+  "unresolved_OAI_import_candidates": 0,
+  "scan_exceptions": 0,
+  "lexical_marker_groups": [
+    {
+      "kind": "admit",
+      "classification": "comparison_target_candidate",
+      "occurrences": 1,
+      "files": 1
+    },
+    {
+      "kind": "admit",
+      "classification": "lexical_candidate_not_confirmed_defect",
+      "occurrences": 177,
+      "files": 170
+    },
+    {
+      "kind": "axiom",
+      "classification": "comparison_target_candidate",
+      "occurrences": 1,
+      "files": 1
+    },
+    {
+      "kind": "axiom",
+      "classification": "lexical_candidate_not_confirmed_defect",
+      "occurrences": 125,
+      "files": 111
+    },
+    {
+      "kind": "sorry",
+      "classification": "comparison_target_candidate",
+      "occurrences": 539,
+      "files": 415
+    },
+    {
+      "kind": "unsafe",
+      "classification": "lexical_candidate_not_confirmed_defect",
+      "occurrences": 1,
+      "files": 1
+    }
+  ],
+  "selected_closures": [
+    {
+      "family": "003",
+      "root": "lean/OAI/NumberTheory/DirichletL/Nonvanishing.lean",
+      "internal_modules": 2924,
+      "physical_lines": 486490,
+      "note": "Import closure, not a minimal theorem dependency slice or semantic verification. External library dependencies are excluded."
+    },
+    {
+      "family": "271",
+      "root": "lean/OAI/MathematicalPhysics/Heisenberg/Main.lean",
+      "internal_modules": 128,
+      "physical_lines": 25400,
+      "note": "Import closure, not a minimal theorem dependency slice or semantic verification. External library dependencies are excluded."
+    }
+  ]
+}

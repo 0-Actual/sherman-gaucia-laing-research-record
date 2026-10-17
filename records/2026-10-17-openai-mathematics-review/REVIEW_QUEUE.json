@@ -1,0 +1,2606 @@
+[
+  {
+    "family": "001",
+    "title": "Milne’s rationality conjecture and algebraic specialization.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "002",
+    "title": "The full BSD formula from low Selmer corank.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "003",
+    "title": "The quasi-Riemann hypothesis.",
+    "status": "exploratory_source_review_deferred",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "004",
+    "title": "Hilbert’s tenth problem over ℚ.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "005",
+    "title": "Irrationality of Catalan’s constant.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "006",
+    "title": "Goldfeld’s conjecture: densities and mean analytic rank.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "007",
+    "title": "Ordinary two-point correlations and the corrected Elliott conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "008",
+    "title": "The Deligne–Drinfeld conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "009",
+    "title": "Function-field reconstruction from Milnor K-theory and Galois data.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "010",
+    "title": "Unrestricted pro-modularity at the prime two.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "011",
+    "title": "Prime-factor statistics of $`p-1`$.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "012",
+    "title": "Independent largest prime factors of consecutive integers.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "013",
+    "title": "Ostmann’s inverse Goldbach conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "014",
+    "title": "Restricted geometric Langlands, global Arthur enhancements, and generic Ramanujan.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "015",
+    "title": "Torus-packet equidistribution in prime, quartic, and sextic degrees.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "016",
+    "title": "Zilber–Pink in abelian varieties and the Siegel threefold.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "017",
+    "title": "The irrationality exponent of <i>π</i> is 2.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "018",
+    "title": "The Margulis–Platonov conjecture over global fields.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "019",
+    "title": "The local <i>p</i>-adic section conjecture and global consequences.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "020",
+    "title": "Squarefree quartics and power-free polynomial values.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "021",
+    "title": "A quadratic bound for Jacobsthal’s function.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "022",
+    "title": "The weak inhomogeneous Duffin–Schaeffer conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "023",
+    "title": "Patterson's first moment for cubic Gauss sums.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "024",
+    "title": "An asymptotic formula for the number of totients.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "025",
+    "title": "Short Egyptian fractions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "026",
+    "title": "Positive lower density of large prime gaps.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "027",
+    "title": "Potential integral density on curve character varieties.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "028",
+    "title": "Uniformly bounded components of Gaussian-prime graphs.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "029",
+    "title": "Primitive roots for every admissible integer base.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "030",
+    "title": "Modularity of elliptic curves over imaginary quadratic fields.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "031",
+    "title": "Uchida’s conjecture for open homomorphisms of Galois groups.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "032",
+    "title": "The rational Hodge conjecture for CM abelian varieties.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "033",
+    "title": "Iitaka subadditivity, variation, and logarithmic additivity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "034",
+    "title": "Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "035",
+    "title": "Log-canonical threefold abundance in numerical dimension one.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "036",
+    "title": "Numerical semiampleness and generalized minimal models.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "037",
+    "title": "The ordinary-double-point volume gap.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "038",
+    "title": "Fujita’s freeness conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "039",
+    "title": "Nagata’s conjecture and maximal Seshadri constants.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "040",
+    "title": "Bloch’s conjecture for complex surfaces.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "041",
+    "title": "Hyperkähler SYZ and projective-space bases.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "042",
+    "title": "Oka classification for minimal compact complex surfaces: Kodaira dimension zero and class VII.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "043",
+    "title": "<i>P</i> = <i>W</i> for fixed-determinant SL<sub><i>n</i></sub> moduli spaces.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "044",
+    "title": "The equivariant cohomological Hikita conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "046",
+    "title": "Shafarevich counterexamples in dimension two and with large fundamental group.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "047",
+    "title": "Zariski cancellation and affine fibrations over the complex numbers.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "048",
+    "title": "A characteristic-zero counterexample to Lipman–Zariski.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "049",
+    "title": "A stable-coordinate counterexample in four variables.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "050",
+    "title": "A counterexample to Griffiths’ positivity conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "051",
+    "title": "Kobayashi’s canonical-ampleness conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "052",
+    "title": "Tangent splittings and product decompositions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "053",
+    "title": "A counterexample to Pixton completeness in Chow.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "054",
+    "title": "Irrational cubic fourfolds with Hodge-theoretic and categorical K3 associations.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "055",
+    "title": "Gepner symmetry and large-volume stability on threefolds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "056",
+    "title": "Termination of projective and Kähler fourfold minimal model programs.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "057",
+    "title": "Fundamental groups of special complex varieties and root orbifolds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "058",
+    "title": "Semialgebraic universal covers and bounded domains.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "059",
+    "title": "Counterexamples to Zariski’s multiplicity conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "060",
+    "title": "The Global Spherical Shell conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "062",
+    "title": "Projective contact classification and the LeBrun–Salamon conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "063",
+    "title": "The generalized Mukai conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "064",
+    "title": "Topological triviality of <i>μ</i>-constant surface singularities.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "065",
+    "title": "Virasoro constraints for complete intersections and projective-bundle towers.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "066",
+    "title": "Bounded klt complements for Fano contractions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "067",
+    "title": "The Campana–Peternell conjecture in dimension six.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "068",
+    "title": "Anticanonical nonvanishing in every dimension.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "069",
+    "title": "Global quantum geometric Langlands at irrational level.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "071",
+    "title": "Koebe’s circle-domain conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "072",
+    "title": "Brennan's conjecture and the integral-means spectrum.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "073",
+    "title": "The Falconer distance conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "074",
+    "title": "Kakeya in three and four dimensions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "075",
+    "title": "The $`L\\log L`$ Fourier-convergence conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "076",
+    "title": "Real ultraflat Littlewood polynomials and unbounded binary merit factors.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "077",
+    "title": "Fourier restriction for positively curved surfaces.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "078",
+    "title": "The three-dimensional Bochner–Riesz conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "079",
+    "title": "Local smoothing in three dimensions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "080",
+    "title": "The exact Sobolev endpoint for Schrödinger convergence.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "081",
+    "title": "Riesz transforms and rectifiability in higher codimension.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "082",
+    "title": "Annular variation and dyadic absolute bounds for the triangular Hilbert transform.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "083",
+    "title": "Hilbert transforms along Lipschitz directions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "084",
+    "title": "The geometric case of the Erdős similarity conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "085",
+    "title": "Endpoint Sobolev regularity of centered disk averages.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "086",
+    "title": "An <i>L</i><sup>3</sup> bound for the trilinear Hilbert transform.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "087",
+    "title": "The Mahler conjectures, functional inequalities and polar-product symplectic width.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "088",
+    "title": "Sharp projection-body inequalities and a counterexample to simplex maximization.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "089",
+    "title": "Bounded-distortion <i>L</i><sub>1</sub> embeddings of planar and bounded-treewidth graphs.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "090",
+    "title": "Triangular-lattice optimality, long-range Riesz and Coulomb energies, and spherical logarithmic energy.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "091",
+    "title": "Logarithmic and <i>L</i><sub><i>p</i></sub> Brunn–Minkowski inequalities and the B-conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "092",
+    "title": "The optimal order of convex-body covering density.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "093",
+    "title": "Dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "094",
+    "title": "Subpolynomial dimension reduction in <i>L</i><sub><i>p</i></sub>.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "095",
+    "title": "Hyperbolicity cones without semidefinite lifts.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "096",
+    "title": "The Gaussian propeller conjecture in every dimension.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "097",
+    "title": "The Euclidean Steinitz–Bergström bound.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "098",
+    "title": "Compact counterexamples to bi-Lipschitz dimension reduction.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "099",
+    "title": "The sharp exponential scale of edit-distance distortion.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "100",
+    "title": "Cylinder coverings below the half-area bound.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "101",
+    "title": "The sharp simplex conjecture for isotropic constants.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "102",
+    "title": "The Unique Games Conjecture and optimal approximation thresholds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "103",
+    "title": "Exact derandomization of logarithmic space: $`\\mathsf L=\\mathsf{RL}=\\mathsf{BPL}`$.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "104",
+    "title": "Quasipolynomial algorithms for mean-payoff, stochastic and parity games.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "105",
+    "title": "Perfect completeness for 2-to-1 games.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "106",
+    "title": "Hardness of coloring three-colorable graphs.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "107",
+    "title": "Matrix multiplication with exponent at most 9/4.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "108",
+    "title": "A cubic permanent–determinant lower bound.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "109",
+    "title": "Integer multiplication below $`n\\log n`$.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "110",
+    "title": "Optimal-order randomized <i>k</i>-server on arbitrary metrics.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "111",
+    "title": "One-sample matroid prophet inequalities against an almighty adversary.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "112",
+    "title": "Beyond the square-root exponent for depth-three circuits.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "113",
+    "title": "Approximate counting and entropy of perfect matchings.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "114",
+    "title": "Approximate counting of common integer polymatroid bases.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "115",
+    "title": "Sampling and counting contingency tables with arbitrary margins.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "116",
+    "title": "Uniform black-box noncommutative identity testing across characteristics.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "117",
+    "title": "Uniform sparsest cut: hardness and semidefinite gaps.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "118",
+    "title": "Bin packing and unbounded configuration-LP gaps.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "119",
+    "title": "The Courtade–Kumar and Hellinger conjectures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "120",
+    "title": "Almost-linear-time exact matching and prescribed-degree factors in general graphs.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "121",
+    "title": "Almost-linear approximation of edit distance.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "122",
+    "title": "Quantitative trace-reconstruction bounds with a uniform decoder.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "124",
+    "title": "Polynomial-time scheduling on three identical machines.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "125",
+    "title": "The metric <i>k</i>-median approximation threshold and recovery.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "126",
+    "title": "Exponential semidefinite complexity of perfect matching.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "127",
+    "title": "Average sensitivity of polynomial threshold functions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "128",
+    "title": "A factor-two approximation for shortest common superstring.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "129",
+    "title": "Exponential state costs for two-way automata.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "130",
+    "title": "Exact Fourier transforms below $`n\\log n`$.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "131",
+    "title": "Rapid mixing of graph switches for every degree sequence.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "132",
+    "title": "A superquadratic separation of sensitivity and block sensitivity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "133",
+    "title": "The computational complexity of Weisfeiler–Leman refinement.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "134",
+    "title": "Generalized star height at most three.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "135",
+    "title": "Homogeneous depth-five lower bounds for iterated matrix multiplication.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "136",
+    "title": "A quasilinear PCP theorem for PPAD.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "137",
+    "title": "One-tape time simulation in two-fifths-power space.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "138",
+    "title": "Subset Sum in $`O(2^{0.49n})`$ time.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "139",
+    "title": "Subpolynomial query complexity for log-concave sampling.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "140",
+    "title": "Memory–sample lower bounds for noiseless Gaussian regression.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "141",
+    "title": "Existential–universal real sentences in the counting hierarchy.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "142",
+    "title": "Deterministic polynomial factorization over prime fields.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "143",
+    "title": "Hilbert's sixteenth problem: uniform bounds for limit cycles.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "144",
+    "title": "Banach’s simple Lebesgue-spectrum problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "145",
+    "title": "Rokhlin’s multiple-mixing problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "146",
+    "title": "Positive metric entropy for the standard map.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "147",
+    "title": "The near-boundary Birkhoff conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "148",
+    "title": "The entropy-rate dimension formula for self-similar measures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "149",
+    "title": "Classwise permanence for weakly reversible mass-action systems.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "150",
+    "title": "Weak mixing of triangular billiards with an irrational angle.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "151",
+    "title": "A <i>C</i><sup>1</sup> counterexample to the entropy conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "152",
+    "title": "Zero entropy does not guarantee a smooth positive-volume model.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "153",
+    "title": "Arithmetic classification and non-Pisot singularity for Bernoulli convolutions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "154",
+    "title": "Pointwise multiple ergodic averages for mixing transformations.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "155",
+    "title": "A counterexample to periodic tiling in dimension three.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "156",
+    "title": "Borsuk's conjecture fails in dimension nine.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "157",
+    "title": "Graph coloring, clique minors, and Colin de Verdière invariants.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "158",
+    "title": "The Euclidean plane cannot be colored with five colors.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "159",
+    "title": "Erdős’s reciprocal-sum conjecture and quasipolynomial Szemerédi bounds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "160",
+    "title": "Superexponential van der Waerden numbers.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "161",
+    "title": "Counterexamples to Sidorenko’s conjecture and the forcing conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "162",
+    "title": "Counterexamples to Ryser’s covering conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "164",
+    "title": "Hindman’s finite sums and products conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "165",
+    "title": "The Harary–Hill and Zarankiewicz crossing-number formulas.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "166",
+    "title": "The higher-dimensional Erdős distinct-distances conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "167",
+    "title": "Planar distinct distances and unit-distance bounds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "168",
+    "title": "Combinatorial invariance of Kazhdan–Lusztig polynomials.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "169",
+    "title": "Shareshian–Wachs elementary positivity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "170",
+    "title": "Sharp logarithmic exponents for off-diagonal Ramsey numbers.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "171",
+    "title": "The hypercube Ramsey conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "172",
+    "title": "Classification of finite Euclidean Ramsey configurations.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "173",
+    "title": "Seymour’s second-neighborhood conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "174",
+    "title": "Deterministic construction of strong thin spanning trees.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "175",
+    "title": "Talagrand’s expectation thresholds, discrete convexity, and graph decompositions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "176",
+    "title": "The second Kahn–Kalai conjecture with an edge-count bound.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "177",
+    "title": "Bounded-degree coboundary expanders.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "178",
+    "title": "Deterministic nonbipartite Ramanujan graphs in every fixed degree.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "179",
+    "title": "The circulant Hadamard and Barker-sequence conjectures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "180",
+    "title": "Barnette’s Hamiltonian-cycle conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "181",
+    "title": "The Erdős–Gallai cycle-decomposition conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "182",
+    "title": "Power savings for intersective polynomial differences and prime arguments.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "183",
+    "title": "Power savings for planar halving lines and <i>k</i>-sets.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "184",
+    "title": "Correspondence coloring with a fixed forbidden subgraph.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "185",
+    "title": "Counterexamples to infinite matroid intersection and packing/covering.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "186",
+    "title": "Uniform influence and sharp thresholds for graph and hypergraph properties.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "187",
+    "title": "Snaky in 21 Maker moves.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "188",
+    "title": "The sharp terminal leave in random triangle removal.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "189",
+    "title": "Cycle–clique Ramsey numbers.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "190",
+    "title": "Polynomial removal fails for ordered binary matrices.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "191",
+    "title": "A power improvement in the Heilbronn triangle lower bound.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "192",
+    "title": "Boolean functions violate the square-root degree bound by arbitrary factors.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "193",
+    "title": "Serre’s intersection-multiplicity conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "194",
+    "title": "Lech’s multiplicity conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "195",
+    "title": "A counterexample to the small Cohen–Macaulay module conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "196",
+    "title": "A counterexample to Kaplansky’s zero-divisor conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "197",
+    "title": "A torsion-free group algebra that is not directly finite.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "198",
+    "title": "A counterexample to finitistic-dimension finiteness.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "199",
+    "title": "Counterexamples to Auslander–Reiten, Tachikawa and related homological conjectures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "200",
+    "title": "Eisenbud–Green–Harris and lex-plus-powers.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "201",
+    "title": "A counterexample to Kurosh’s division-ring problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "202",
+    "title": "The blockwise Alperin weight conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "203",
+    "title": "Donovan's conjecture over fields and complete mixed-characteristic DVRs.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "204",
+    "title": "Tensor saturation for even spin groups.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "205",
+    "title": "Saxl’s conjecture and universal tensor squares.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "206",
+    "title": "Finite lattice representation and undecidability.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "207",
+    "title": "The ℓ¹-Bass conjecture for all discrete groups.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "208",
+    "title": "Finite symmetric tensor categories and the Verlinde tower.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "209",
+    "title": "Integral counterexamples to Gersten’s conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "210",
+    "title": "Foulkes' conjecture for sixth powers and quadratic stabilization.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "211",
+    "title": "The geometric phase diagram, diffusion, and spectra of random planar maps.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "212",
+    "title": "Planar first-passage geometry and the absence of bigeodesics.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "213",
+    "title": "Critical percolation on every quasi-transitive graph.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "214",
+    "title": "The Benjamini–Schramm nonuniqueness conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "215",
+    "title": "Canonical $`O(3)`$ continuum limit and exact $`O(4)`$ mass asymptotics.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "216",
+    "title": "Critical and near-critical XY scaling and BKT universality.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "217",
+    "title": "The low-temperature Sherrington–Kirkpatrick fluctuation law.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "218",
+    "title": "Conformal universality for weakly interacting and random-bond Ising models.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "219",
+    "title": "GOE bulk universality for regular graphs with weak Anderson disorder.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "220",
+    "title": "Directional zero–one laws beyond iid environments and iid ballisticity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "221",
+    "title": "The Mézard–Parisi formula for diluted spin glasses.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "222",
+    "title": "Perceptron free energies and microscopic jamming exponents.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "223",
+    "title": "Random-cluster interfaces: critical, disordered, thermal, and natural-time scaling.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "224",
+    "title": "Critical and quenched near-critical universality for Poisson–Voronoi percolation.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "225",
+    "title": "Gaussian free field limits throughout the balanced six-vertex regime.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "226",
+    "title": "The double-dimer loop ensemble converges to CLE<sub>4</sub>.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "227",
+    "title": "Critical SK autocorrelation processes and dynamics across the temperature transition.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "228",
+    "title": "Continuum phase transitions for radial pair potentials.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "229",
+    "title": "Exact three- and four-state reconstruction thresholds and four-state tree capacity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "230",
+    "title": "Exact Hausdorff gauges for SLE.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "231",
+    "title": "The free uniform spanning forest is a factor of IID.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "232",
+    "title": "Gaussian fields and interfaces for triangular-lattice Lipschitz heights.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "233",
+    "title": "The joint critical Ashkin–Teller current limit.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "234",
+    "title": "All-temperature pressure of orthogonally invariant Ising spin glasses.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "235",
+    "title": "Limiting random SAT thresholds, sharp variance and computability.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "236",
+    "title": "The exact factor-of-IID threshold for free Ising spins on trees.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "237",
+    "title": "The three-quarter exponent for honeycomb self-avoiding walk.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "238",
+    "title": "Optimal logarithmic mixing of the Thorp shuffle.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "239",
+    "title": "Sharp singularity rates for symmetric random sign matrices.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "240",
+    "title": "Shelah's eventual categoricity and the prescribed-threshold obstruction.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "241",
+    "title": "Rigidity of the Turing degrees.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "242",
+    "title": "Single-fold Diophantine representations and undecidability under an at-most-one-solution promise.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "243",
+    "title": "Separating choiceless counting from polynomial time and witnessed choice.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "244",
+    "title": "The Partition Principle does not imply Choice.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "245",
+    "title": "Weak normalization implies strong normalization in pure type systems.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "246",
+    "title": "Cannon's conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "247",
+    "title": "An infinite finitely presented residually finite 2-group and a finitely presented nil algebra.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "248",
+    "title": "Thompson's group <i>F</i> is nonamenable.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "249",
+    "title": "A finitely generated Eilenberg–Ganea counterexample.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "250",
+    "title": "Boone–Higman embeddings with higher finiteness.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "251",
+    "title": "Amenability, unitarizability, and strong Ulam stability.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "252",
+    "title": "A torsion-free hyperbolic group that is neither residually finite nor linear over any field.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "253",
+    "title": "An infinite finitely presented simple amenable group.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "254",
+    "title": "Classifying spaces and geometric obstructions for Artin groups.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "255",
+    "title": "Quasi-isometric recognition of virtually polycyclic groups.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "256",
+    "title": "Nonsingular systems of equations over arbitrary groups.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "257",
+    "title": "A hyperbolic group without a geometric CAT(0) action.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "258",
+    "title": "Gersten’s conjecture and virtual compact specialness of one-relator groups.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "259",
+    "title": "A group without fixed price.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "260",
+    "title": "Spacetime Penrose inequalities: enclosing area, charge, rotation, and anti-de Sitter extensions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "261",
+    "title": "Localization and delocalization in the Anderson model.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "262",
+    "title": "Sharp finite-matrix Lieb–Thirring inequalities and all equality cases.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "263",
+    "title": "The ionization and generalized ionization conjectures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "264",
+    "title": "Strong cosmic censorship near two-ended Kerr data.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "265",
+    "title": "Area laws and tensor networks for two-dimensional gapped systems.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "266",
+    "title": "Exactly three mutually unbiased bases in dimension six.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "267",
+    "title": "Positive-temperature Bose–Einstein condensation and exact quantum depletion.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "268",
+    "title": "The spin-one Haldane gap.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "269",
+    "title": "Uniform Laughlin gap and stability under bounded scalar disorder.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "270",
+    "title": "Threshold and positive-energy bound states of the BFSS matrix model.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "271",
+    "title": "Bloch's law, its lattice correction, and the spherical magnetization law.",
+    "status": "active_foundation_review",
+    "whole_family_proof_verified": false,
+    "priority": 1
+  },
+  {
+    "family": "272",
+    "title": "Entanglement without distillable secret key.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "273",
+    "title": "The entropy photon-number inequality.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "274",
+    "title": "Parity is not in QAC<sup>0</sup>.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "275",
+    "title": "QMA-hardness of continuum Coulomb energy.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "276",
+    "title": "Classical capacity of generalized amplitude damping.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "277",
+    "title": "Threshold repetition for entangled games.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "278",
+    "title": "Failure of Kohn–Sham ensemble representation.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "279",
+    "title": "Exact quantum factoring over a fixed finite gate set.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "280",
+    "title": "Unitary vertex operator algebras and conformal nets.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "281",
+    "title": "QAOA attains the SK optimum in the thermodynamic-first limit.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "282",
+    "title": "From scale symmetry to local conformal symmetry in four-dimensional QFT.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "283",
+    "title": "Polynomial-time unitary synthesis from a Boolean oracle.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "284",
+    "title": "The optimal quartic separation between randomized and quantum queries.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "285",
+    "title": "Counterexamples to Baum–Connes and Kadison–Kaplansky.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "286",
+    "title": "Rigidity and arithmetic of lattice von Neumann algebras.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "287",
+    "title": "Isomorphism of the free group factors.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "288",
+    "title": "Kadison's similarity conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "289",
+    "title": "Strong Kadison–Kastler stability and its spatial boundaries.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "290",
+    "title": "Relative bicentralizers and modular spectral recovery.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "291",
+    "title": "Cuntz comparison, nuclear dimension, and equivariant Jiang–Su stability.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "292",
+    "title": "Kirchberg's $`\\mathcal O_2`$ norm-ultrapower embedding problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "293",
+    "title": "Invariant projections, hyperinvariant subspaces, and transitive algebras.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "294",
+    "title": "Kaplansky's quasitrace conjecture and failure of tensor-product stable finiteness.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "295",
+    "title": "The Kadison–Ringrose cohomology conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "296",
+    "title": "The generator problem for finite factors.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "297",
+    "title": "A ZFC counterexample to Naimark's problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "298",
+    "title": "Two notions of free entropy differ even when both are finite.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "299",
+    "title": "The Kirchberg–Rørdam character criterion and infinite tensor-power Jiang–Su stability.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "300",
+    "title": "Approximation and quadratic strong-operator paving.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "301",
+    "title": "Trace cones and Razak–Jacelon stabilization.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "302",
+    "title": "Radius of comparison equals half the mean dimension.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "303",
+    "title": "Weak pure infiniteness and Cuntz-algebra absorption.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "304",
+    "title": "The Hilbert–Smith conjecture in every dimension.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "305",
+    "title": "Four-dimensional disk embedding and Wall's conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "306",
+    "title": "The purely cosmetic surgery conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "307",
+    "title": "Failure of rational injectivity for maximal coarse assembly.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "308",
+    "title": "Finite Smith–Toda complexes at every height.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "309",
+    "title": "The Kervaire invariant problem at the prime three.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "310",
+    "title": "Quillen's conjecture in rational homology.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "311",
+    "title": "The Hovey–Strickland and Chai conjectures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "312",
+    "title": "The Grothendieck homotopy hypothesis.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "313",
+    "title": "Finite generation for the $`K(n)`$-local sphere.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "314",
+    "title": "Cyclic length and chromatic fixed-point loss.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "315",
+    "title": "The four-dimensional Singer conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "316",
+    "title": "Curtis’s conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "317",
+    "title": "Thomason model structures in all strict higher dimensions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "318",
+    "title": "Chromatic splitting: filtrations and counterexamples.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "319",
+    "title": "Counterexamples to finite generation at chromatic height two.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "320",
+    "title": "Nonhomeomorphic closed aspherical four-manifolds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "321",
+    "title": "A counterexample to Wall's finite D(2) problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "322",
+    "title": "Tingley’s sphere-isometry problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "323",
+    "title": "Independence of the separable quotient problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "324",
+    "title": "Lipschitz equivalent Banach spaces need not be linearly isomorphic.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "325",
+    "title": "The complete Crouzeix conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "326",
+    "title": "The cotype–cotype conjecture under the approximation property.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "327",
+    "title": "Markov type characterizes superreflexivity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "328",
+    "title": "Nonexpansive fixed points in reflexive Banach spaces.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "329",
+    "title": "A counterexample to metric-entropy duality.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "330",
+    "title": "A uniformly discrete counterexample to bounded approximation in Lipschitz-free spaces.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "331",
+    "title": "Reflexive midpoint convexity and diamond distortion.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "332",
+    "title": "Metric Markov cotype of <i>ℓ</i><sub>1</sub> and Hilbert-space Lipschitz extension.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "333",
+    "title": "Smooth isometric immersions of surfaces into ℝ<sup>4</sup>.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "334",
+    "title": "A smooth surface metric with no local isometric immersion in ℝ<sup>3</sup>.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "335",
+    "title": "Gromov’s integral scalar-curvature bound for simplicial volume.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "336",
+    "title": "Spectral scalar curvature, Urysohn width, and macroscopic dimension.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "337",
+    "title": "Sharp Cartan–Hadamard isoperimetry and rigidity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "338",
+    "title": "Yau's uniformization conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "339",
+    "title": "Katok's entropy rigidity conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "340",
+    "title": "A counterexample to the nearby Lagrangian conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "341",
+    "title": "Donaldson's hypersymplectic deformation conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "342",
+    "title": "Donaldson's tamed-to-compatible conjecture.",
+    "status": "navigation_correction_prepared",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "343",
+    "title": "Symplectic ball packing in higher dimensions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "344",
+    "title": "The metric Blaschke conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "345",
+    "title": "Infinitely many closed geodesics on Riemannian spheres and closed three-manifolds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "346",
+    "title": "Sharp singular-set bounds for stationary integral varifolds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "347",
+    "title": "Counterexamples to stable-Morse and strong Arnold fixed-point bounds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "348",
+    "title": "Nonnegative-curvature Einstein classification and an <i>L</i><sup>2</sup> topological gap.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "349",
+    "title": "The Solomon–Yau least-volume conjecture.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "350",
+    "title": "Yau’s nodal bounds: surfaces and higher dimensions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "351",
+    "title": "Scalar curvature and finite-time Ricci-flow singularities.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "352",
+    "title": "A finite-time singularity of Calabi flow.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "353",
+    "title": "Affine Bernstein rigidity through dimension nine and a smooth dimension-ten counterexample.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "354",
+    "title": "The isoperimetric profile of the cubic three-torus.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "355",
+    "title": "Unique tangent flows at the first surface singularity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "356",
+    "title": "Gigli’s characterization of Alexandrov curvature.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "357",
+    "title": "Bi-Lipschitz coordinates at every regular RCD point.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "358",
+    "title": "A three-manifold without conjugate points or nonpositive curvature.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "359",
+    "title": "Negative Kähler curvature without bounded holomorphic coordinates.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "360",
+    "title": "Weak MTW curvature gives convexity and regular optimal transport.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "361",
+    "title": "Failure of integer-degree harmonic dimension comparison.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "362",
+    "title": "Global smoothness for relativistic Vlasov–Maxwell.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "363",
+    "title": "Nonuniqueness with local conservation for the hard-sphere Boltzmann equation.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "364",
+    "title": "Kinetic limits and fluctuations over the Boltzmann lifespan.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "365",
+    "title": "Joint metric and connection recovery from one boundary patch.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "366",
+    "title": "The planar Mumford–Shah regularity conjecture and local weak-<i>L</i><sup>4</sup> gradient bounds.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "367",
+    "title": "The critical dimension for the one-phase Bernoulli problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "368",
+    "title": "The three-dimensional Ball–Evans approximation problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "369",
+    "title": "The hot spots conjecture for simply connected planar domains.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "370",
+    "title": "The Lane–Emden and Hénon–Lane–Emden conjectures.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "371",
+    "title": "Stable blowup for the defocusing Schrödinger equation.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "372",
+    "title": "Global uniqueness in smooth isotropic elasticity.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "373",
+    "title": "Nonattainment of the three-marginal Coulomb Monge problem.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "374",
+    "title": "Sharp one-third stability of Brenier maps.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "375",
+    "title": "De Giorgi's conjecture in dimension eight.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "376",
+    "title": "Universal computation in forced Navier–Stokes flows.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  },
+  {
+    "family": "377",
+    "title": "Interior $`C^{1,\\alpha}`$ regularity for infinity-harmonic functions.",
+    "status": "queued_after_repository_structural_review",
+    "whole_family_proof_verified": false,
+    "priority": null
+  }
+]

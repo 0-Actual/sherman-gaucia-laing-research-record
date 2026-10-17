@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MATH-001",
+    "classification": "repository_integrity_check_passed",
+    "finding": "All 133,956 file bodies match the pinned Git blob identities; 133,166 UTF-8 text bodies scanned, 790 binary bodies identity-checked.",
+    "limits": "No semantic correctness or PDF rendering certificate."
+  },
+  {
+    "id": "MATH-002",
+    "classification": "declared_formal_scope_clarification",
+    "finding": "Family 271 lists four current manuscripts; its scope note names the spontaneous-magnetization manuscript specifically.",
+    "limits": "The scope note does not by itself verify the other three claims. This is not a newly discovered mathematical error."
+  },
+  {
+    "id": "MATH-003",
+    "classification": "finite_mathematical_checks_passed",
+    "finding": "72 exact parameter cases pass the finite capacity identities; 60 cases also receive a checked energy-dual stability certificate. The ideal-density coefficient agrees.",
+    "limits": "12 remaining stability subchecks lack the selected zero-slack certificate; their identities passed. No infinite-volume theorem or full paper is certified."
+  },
+  {
+    "id": "MATH-004",
+    "classification": "version_navigation_mismatch",
+    "finding": "Family 342 links the October 6 revised paper, while its scope note and YAML source list still point to September 23. A scope-note proposal links both and clarifies its limited theorem coverage.",
+    "limits": "No claim that the main formalized theorem is false. No upstream file changed and no Comparator run."
+  },
+  {
+    "id": "MATH-005",
+    "classification": "reviewer_error_corrected_and_preserved",
+    "finding": "Our first path parser omitted the CAT(0) manuscript and counted 718. The repaired parser reconciles 719 unique current manuscript links in 372 families.",
+    "limits": "The omission was ours, not an upstream defect; first outputs remain in the private evidence directory."
+  },
+  {
+    "id": "MATH-006",
+    "classification": "previously_reported_upstream_corrections",
+    "finding": "OpenAI history records three withdrawals, fourteen revised manuscripts and thirteen citation updates.",
+    "limits": "These counts describe upstream records, not new discoveries by this review. Categories and proof status must remain separate."
+  }
+]
