@@ -1,0 +1,29 @@
+{
+  "revision": "2026-10-17-r2",
+  "built_utc": "2026-10-17T19:38:20.212236+00:00",
+  "modified_historical_entries": 59,
+  "newly_sanitized_previously_exact_entries": 33,
+  "links": {
+    "unavailable_source_labeled": 66,
+    "relinked": 241
+  },
+  "historical_source_archives": 29,
+  "new_correction_archives": 1,
+  "correction_archive_payload_files": 16,
+  "baseline_source_entries": 13206,
+  "exact_source_entries": 12897,
+  "derivative_source_entries": 309,
+  "structural_review_counts": {
+    "entries_read": 13276,
+    "python_entries": 144,
+    "json_entries": 11340
+  },
+  "unique_python_parses": 113,
+  "unique_json_parses": 9987,
+  "schema": "qel-publication-revision/1",
+  "original_release_commit": "9219be1567682d29cd574a6e8e1748404516a4d2",
+  "backend_tests_passed": 55,
+  "verifier_tests_passed": 15,
+  "original_license_unchanged": true,
+  "independent_peer_review": false
+}

@@ -3,12 +3,12 @@
   "edition_date": "2026-10-17",
   "source_entries_screened": 13842,
   "source_entries_included": 13206,
-  "exact_entries": 12930,
-  "sanitized_entries": 276,
+  "exact_entries": 12897,
+  "sanitized_entries": 309,
   "withheld_entries": 636,
   "distinct_original_byte_sequences_among_included_entries": 11181,
   "source_collections_screened": 30,
-  "collection_archives_supplied": 29,
+  "collection_archives_supplied": 30,
   "withheld_categories": {
     "Binary/encoded container; not cleared for direct disclosure. Extracted text/source is accounted separately.": 165,
     "Private application state, corpus, dialogue, or mixed snapshot; program source released separately.": 462,
@@ -24,6 +24,9 @@
     "QRF is a documentary research account; a standalone QRF implementation was not identified in the inspected source selection.",
     "Two referenced GAUCIA audit dependencies remain unavailable in the local selection; no complete fresh application installation is claimed.",
     "Existing scientific reviews/tests are reused. New release checks verify packaging and the new verifier, not fresh scientific replication.",
-    "No owner-controlled signing key or independent trusted timestamp is established by this preparation. Check the actual GitHub publication commit signature separately."
-  ]
+    "No owner-controlled signing key or independent trusted timestamp is established by this preparation. Check the actual GitHub publication commit signature separately.",
+    "The 13,206 retained source entries exclude the newly authored r4 correction archive. Thirty archives means 29 retained source collections plus one service-correction/test collection."
+  ],
+  "revision": "2026-10-17-r2",
+  "new_correction_archive_payload_files": 16
 }
