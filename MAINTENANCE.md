@@ -1,5 +1,13 @@
 # Maintenance and public responses
 
+## Current availability — October 18, 2026
+
+Maintenance is best effort and depends on the owner's available time and computing resources. This repository does not promise continuous monitoring, automatic replies, a fixed review schedule, a response deadline or ongoing support for every published study. Review and corrections occur during owner-directed work sessions; gaps between sessions are expected. Publication does not establish that an unattended maintenance service is running.
+
+Public questions and reproducibility reports may be submitted through this repository's Issues. Use GitHub's private vulnerability reporting option for suspected security vulnerabilities; do not post credentials or sensitive material publicly. A submission does not guarantee a response or a fix. Historical schedules below are retained as evidence and are not a current service commitment.
+
+The owner requested this clarification on October 18, 2026. It narrows the availability commitment without changing ownership, the license, the published evidence or the boundaries on disclosure. No recurring task is created or restarted by this notice.
+
 Sherman G. Laing has delegated routine maintenance and responses for this work to GAUCIA through ChatGPT/Codex. Sherman remains the project owner and the person authorized to grant commercial permissions. This file records the operating scope; it is not an owner-controlled digital signature or a claim that an automated service is running.
 
 ## Delegated routine work
@@ -31,6 +39,7 @@ Later retained evidence reports zero enabled schedules after the owner-requested
 
 The original configuration authorized the routine maintenance and public responses described above. On September 17, 2026, the connected GitHub app successfully accepted a create-tree request for each repository that reproduced its existing tree without changing published content. This verifies that endpoint's write permission; public-comment posting has not been separately tested. If any operation encounters a permission failure, stop that operation and report the specific blocker; do not bypass the denial. Access granted to the connection beyond these two repositories does not expand this maintenance task's scope.
 
-Routine checks and replies occur during scheduled or active work sessions. This assistant is not continuously present between runs, and an enabled task is not proof of a completed run. PUBLICATION_STATUS.json distinguishes the historical configuration, retained stop evidence and current verification limits. Any owner-imposed rest interval remains applicable.
+Routine checks and replies occur during owner-directed active work sessions when resources permit. This assistant is not continuously present between runs, and an enabled task is not proof of a completed run. PUBLICATION_STATUS.json distinguishes the historical configuration, retained stop evidence and current verification limits. Any owner-imposed rest interval remains applicable.
 
 For each review, inspect new events since the last recorded checkpoint, avoid duplicate replies, make only evidence-supported changes, and report changes or specific blockers to Sherman. If there is no material change, avoid sending repetitive notices.
+
