@@ -9,6 +9,7 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
+| [GitHub Actions command-output study](records/2026-10-17-github-actions-output-review/README.md) | Reproduced final-line loss and Unicode chunk corruption; local correction, 100 regression cases, source attribution and explicit validation limits |
 | [OpenAI mathematics review and exact finite checks](records/2026-10-17-openai-mathematics-review/README.md) | Pinned whole-repository structural review, 72 finite identity checks, declared proof limits, reproducible scripts and a constructive invitation to discussion |
 | [Priority Zero — October 17 expanded research release](records/2026-10-17-priority-zero-expanded/README.md) | Source collections, data, corrections, failures, GAUCIA sources, QRF research account, privacy boundaries and an anniversary dedication |
 | [Priority Zero — October 16 limited preview](records/2026-10-16-priority-zero-preview/README.md) | Owner-approved partial research preview: selected chronology, aggregate findings, corrections and limitations; implementation and full reproduction materials withheld |
