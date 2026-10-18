@@ -1,0 +1,3151 @@
+{
+  "schema": "qel-publication-reference-attestation-v1",
+  "prepared_at_utc": "2026-10-18T06:20:39.950512+00:00",
+  "attestation_date": "2026-10-18",
+  "signing_date_timezone": "America/New_York",
+  "owner": "Sherman Gaucia Laing",
+  "account": "0-Actual",
+  "signing_fingerprint": "FA8C7305ABE0E48D4CECEF700097816F47090DA3",
+  "statement": "At the owner's explicit request, this present-day signature acknowledges the listed versions as part of Sherman Gaucia Laing's published research and contribution record, including retained mistakes, corrections and third-party attribution. The signature applies to the exact bytes of this manifest.",
+  "scope": "Pinned main histories of the research and Bible repositories; unique contribution commits on every observed non-main branch of the four listed forks. Fork main baselines are references only, not claimed owner-authored work.",
+  "not_asserted": [
+    "Retroactive signatures on original commits",
+    "Independent proof of original creation dates",
+    "Exclusive ownership of upstream code or public mathematics",
+    "Scientific correctness or certification",
+    "Upstream acceptance, endorsement, merger or payment",
+    "Coverage of private, deleted or otherwise unlisted publications"
+  ],
+  "date_semantics": "Git author/committer dates are recorded metadata. The detached OpenPGP signature records the actual signing time. This attestation does not backdate authentication.",
+  "rights": "Existing repository license and all applicable third-party notices remain unchanged. Signing a reference does not relicense its contents.",
+  "verification_scope": "GitHub API signature observations, complete parent closure of the two main histories, and reconstructed SHA-1 identities of every tree in the two current snapshots. Previously verified blob bodies and scientific tests were not rerun.",
+  "counts": {
+    "repositories": 6,
+    "main_history_commits": 45,
+    "unique_fork_contribution_commits": 16,
+    "total_unique_commit_references": 61,
+    "current_snapshot_files": 246,
+    "git_trees_reconstructed": 31,
+    "previous_signature_reasons": {
+      "valid": 34,
+      "unsigned": 27
+    }
+  },
+  "publication_repositories": [
+    {
+      "repository": "0-Actual/sherman-gaucia-laing-research-record",
+      "ref": "main",
+      "head": "f988f284a904591f266b6ade672d0635bcede0f2",
+      "tree": "15785f73e6a70aec519daf8998e2667bc3ce3c8f",
+      "history_scope": "All commits reachable from this pinned main head; parent closure checked through its root.",
+      "commit_count": 36,
+      "history": [
+        {
+          "sha": "67042b453320cf082f9c9da578c05ef32031364a",
+          "tree": "6ab73b057457e1fec4fc59d014d3580a8d09696a",
+          "parents": [],
+          "recorded_author_time": "2026-09-17T21:18:17Z",
+          "recorded_committer_time": "2026-09-17T21:18:17Z",
+          "subject": "Initial commit",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/67042b453320cf082f9c9da578c05ef32031364a",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-09-17T21:18:18Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "65fc2e14f43c4df797db718906f0a0f75081216b",
+          "tree": "05a120130d056c80639048d4ea3d86c88322d0b7",
+          "parents": [
+            "67042b453320cf082f9c9da578c05ef32031364a"
+          ],
+          "recorded_author_time": "2026-09-17T21:18:26Z",
+          "recorded_committer_time": "2026-09-17T21:18:26Z",
+          "subject": "Publish Sherman Gaucia Laing selected Bible and research materials under included noncommercial terms",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/65fc2e14f43c4df797db718906f0a0f75081216b",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "97af3f669c542a28297e116dd3799690f52a634b",
+          "tree": "5b256b79ed7f8d0cd128c99ed3761a08ef342bbc",
+          "parents": [
+            "65fc2e14f43c4df797db718906f0a0f75081216b"
+          ],
+          "recorded_author_time": "2026-09-17T21:18:58Z",
+          "recorded_committer_time": "2026-09-17T21:18:58Z",
+          "subject": "Record verified public URLs, publication time and evidence boundaries",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/97af3f669c542a28297e116dd3799690f52a634b",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "d1c15c0be0d8ba4064910c2554cc5f879a99d0fa",
+          "tree": "245b4dce78f2b85ad0ce692b59c7c9afa1332ba7",
+          "parents": [
+            "97af3f669c542a28297e116dd3799690f52a634b"
+          ],
+          "recorded_author_time": "2026-09-17T22:02:20Z",
+          "recorded_committer_time": "2026-09-17T22:02:20Z",
+          "subject": "Record verified connector access and enabled routine maintenance",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/d1c15c0be0d8ba4064910c2554cc5f879a99d0fa",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "2b3d0363b2ed30ba333723347dc36c6a4fadb3ce",
+          "tree": "fd615a698cac69b97e46c4562b72ca6d7a8a6ca9",
+          "parents": [
+            "d1c15c0be0d8ba4064910c2554cc5f879a99d0fa"
+          ],
+          "recorded_author_time": "2026-09-18T01:20:04Z",
+          "recorded_committer_time": "2026-09-18T01:20:04Z",
+          "subject": "Record JARVIS replay, missing values and atom counts at owner's 9:15 p.m. EST checkpoint",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/2b3d0363b2ed30ba333723347dc36c6a4fadb3ce",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "be4ff95f44134964a611248b1f3581961e12ebc5",
+          "tree": "7027d5dabdf2404e43f4bc429c22a3f5e5dae124",
+          "parents": [
+            "2b3d0363b2ed30ba333723347dc36c6a4fadb3ce"
+          ],
+          "recorded_author_time": "2026-09-18T02:43:43Z",
+          "recorded_committer_time": "2026-09-18T02:43:43Z",
+          "subject": "Clarify JARVIS atom-count interpretation after full study and require evidence review before publication",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/be4ff95f44134964a611248b1f3581961e12ebc5",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "251a5f0254092651b99b2f50b61b48686b0875c6",
+          "tree": "cb130419e6b4edc16cc2d86cfbc8eecaebc09b9e",
+          "parents": [
+            "be4ff95f44134964a611248b1f3581961e12ebc5"
+          ],
+          "recorded_author_time": "2026-09-18T12:15:13Z",
+          "recorded_committer_time": "2026-09-18T12:15:13Z",
+          "subject": "Record first GAUCIA maintenance review and refresh public status",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/251a5f0254092651b99b2f50b61b48686b0875c6",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "1e97b07a0d34d190937f4d0238ced51876227eff",
+          "tree": "6d9e9eb73b5633c81eee4627856bff59b0daee8b",
+          "parents": [
+            "251a5f0254092651b99b2f50b61b48686b0875c6"
+          ],
+          "recorded_author_time": "2026-09-19T04:56:10Z",
+          "recorded_committer_time": "2026-09-19T04:56:10Z",
+          "subject": "Record Sherman G. Laing's classical and quantum computation hypothesis",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/1e97b07a0d34d190937f4d0238ced51876227eff",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "f56f010386cb5d08c2c1f0168f7627fe81186463",
+          "tree": "06f7f992937463c2878f209a3b202f4e5b3220ad",
+          "parents": [
+            "1e97b07a0d34d190937f4d0238ced51876227eff"
+          ],
+          "recorded_author_time": "2026-10-01T15:21:57Z",
+          "recorded_committer_time": "2026-10-01T15:21:57Z",
+          "subject": "Publish itemized prior-work chronology without industry comparisons",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/f56f010386cb5d08c2c1f0168f7627fe81186463",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "4633ba76461713832f6d051460010a23d0ea25e9",
+          "tree": "a191cebe5e2edf35eb2caf0326980e26420c7911",
+          "parents": [
+            "f56f010386cb5d08c2c1f0168f7627fe81186463"
+          ],
+          "recorded_author_time": "2026-10-16T23:25:45Z",
+          "recorded_committer_time": "2026-10-16T23:25:45Z",
+          "subject": "Publish owner-approved Priority Zero partial research preview",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/4633ba76461713832f6d051460010a23d0ea25e9",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "133877e66fce8a43ae1a1c02c9c87fa4a9ae289f",
+          "tree": "10f24e2b98f19e6b3415c3a09eef2579a2585d1d",
+          "parents": [
+            "4633ba76461713832f6d051460010a23d0ea25e9"
+          ],
+          "recorded_author_time": "2026-10-17T19:04:21Z",
+          "recorded_committer_time": "2026-10-17T19:04:21Z",
+          "subject": "Stage screened JARVIS source archive",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/133877e66fce8a43ae1a1c02c9c87fa4a9ae289f",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T19:04:26Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "fe555e0e7ea4c37509aebe0e8c628a49da8693b8",
+          "tree": "e1a5d89c9895a15e1d219855007bf464405faaf0",
+          "parents": [
+            "133877e66fce8a43ae1a1c02c9c87fa4a9ae289f"
+          ],
+          "recorded_author_time": "2026-10-17T19:09:32Z",
+          "recorded_committer_time": "2026-10-17T19:09:32Z",
+          "subject": "Stage reviewed research and JARVIS collections",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/fe555e0e7ea4c37509aebe0e8c628a49da8693b8",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T19:09:38Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "9219be1567682d29cd574a6e8e1748404516a4d2",
+          "tree": "3dfbfe5da72822f65e39d53be82341dac652f844",
+          "parents": [
+            "fe555e0e7ea4c37509aebe0e8c628a49da8693b8"
+          ],
+          "recorded_author_time": "2026-10-17T19:13:37Z",
+          "recorded_committer_time": "2026-10-17T19:13:37Z",
+          "subject": "Complete Priority Zero expanded research edition",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/9219be1567682d29cd574a6e8e1748404516a4d2",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T19:13:49Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "ffbfbac9d22a7dc81a4f021ee85bdd935f757d54",
+          "tree": "6487daad1eef611516daaf88e855c17f165c2d3a",
+          "parents": [
+            "9219be1567682d29cd574a6e8e1748404516a4d2"
+          ],
+          "recorded_author_time": "2026-10-17T19:18:27Z",
+          "recorded_committer_time": "2026-10-17T19:18:27Z",
+          "subject": "Link expanded release and verified publication receipt",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/ffbfbac9d22a7dc81a4f021ee85bdd935f757d54",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T19:18:29Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "eea5ce841bb618cb475e6182ba6be53b83994775",
+          "tree": "7d458c79abf0c61ff97c18c234ca2d4c404fdcc4",
+          "parents": [
+            "ffbfbac9d22a7dc81a4f021ee85bdd935f757d54"
+          ],
+          "recorded_author_time": "2026-10-17T19:59:00Z",
+          "recorded_committer_time": "2026-10-17T19:59:00Z",
+          "subject": "Sanitize retained source metadata for revision 2",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/eea5ce841bb618cb475e6182ba6be53b83994775",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T19:59:06Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "38e282e557bf425ffad5b2c100b36d28c85bd44e",
+          "tree": "20d63528fe585f828c45add39f035186ea5545ea",
+          "parents": [
+            "eea5ce841bb618cb475e6182ba6be53b83994775"
+          ],
+          "recorded_author_time": "2026-10-17T20:12:02Z",
+          "recorded_committer_time": "2026-10-17T20:12:02Z",
+          "subject": "Correct source references and device metadata",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/38e282e557bf425ffad5b2c100b36d28c85bd44e",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T20:12:08Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "1e5abf506377258d0b82de24e9917d9606aecab8",
+          "tree": "b0d47792c7306099af0ca0371d27e3685066eb3e",
+          "parents": [
+            "38e282e557bf425ffad5b2c100b36d28c85bd44e"
+          ],
+          "recorded_author_time": "2026-10-17T20:22:25Z",
+          "recorded_committer_time": "2026-10-17T20:22:25Z",
+          "subject": "Publish reviewed Priority Zero revision 2",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/1e5abf506377258d0b82de24e9917d9606aecab8",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T20:22:32Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "cc2f138da77ee914c08a63efccf1056f67889d3e",
+          "tree": "65c43b161e85581fa79ee479b8f7f13319ce9660",
+          "parents": [
+            "1e5abf506377258d0b82de24e9917d9606aecab8"
+          ],
+          "recorded_author_time": "2026-10-17T20:26:19Z",
+          "recorded_committer_time": "2026-10-17T20:26:19Z",
+          "subject": "Link the reviewed revision and verification receipt",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/cc2f138da77ee914c08a63efccf1056f67889d3e",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T20:26:21Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "53081f952b1490a73fd37c8eb145c145bfd98a2b",
+          "tree": "d473fa586e3f7b479a43822e12a0f9c7c52c895e",
+          "parents": [
+            "cc2f138da77ee914c08a63efccf1056f67889d3e"
+          ],
+          "recorded_author_time": "2026-10-17T21:01:47Z",
+          "recorded_committer_time": "2026-10-17T21:01:47Z",
+          "subject": "Add the stream ownership study and reproduction guide",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/53081f952b1490a73fd37c8eb145c145bfd98a2b",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T21:01:48Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "ca838efc04c93c49f00f6317fc18ada1c10bfde2",
+          "tree": "cb4cf352d667eaa7f2e01bc7108df45415a35fd2",
+          "parents": [
+            "53081f952b1490a73fd37c8eb145c145bfd98a2b"
+          ],
+          "recorded_author_time": "2026-10-17T21:05:39Z",
+          "recorded_committer_time": "2026-10-17T21:05:39Z",
+          "subject": "Publish tested stream ownership wrapper and attributed evidence",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/ca838efc04c93c49f00f6317fc18ada1c10bfde2",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T21:05:42Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "9be4039c2811afd25596a7cc41c706bcc072c8f4",
+          "tree": "81ac7108107d5523bfd461d68d82628b38207266",
+          "parents": [
+            "ca838efc04c93c49f00f6317fc18ada1c10bfde2"
+          ],
+          "recorded_author_time": "2026-10-17T21:06:35Z",
+          "recorded_committer_time": "2026-10-17T21:06:35Z",
+          "subject": "Link the OpenAI stream ownership assessment",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/9be4039c2811afd25596a7cc41c706bcc072c8f4",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T21:06:36Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "e8a949b4e99e717ee99b32f7795b696a40934710",
+          "tree": "985622443de6b824bb18ca9c8d58c40ff9ec70ab",
+          "parents": [
+            "9be4039c2811afd25596a7cc41c706bcc072c8f4"
+          ],
+          "recorded_author_time": "2026-10-17T21:36:26Z",
+          "recorded_committer_time": "2026-10-17T21:36:26Z",
+          "subject": "Document severity-first approval and shell-result review",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/e8a949b4e99e717ee99b32f7795b696a40934710",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T21:36:26Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "42bf82f4cf2e499e522e70d1b4b3c48d43b06be9",
+          "tree": "7ed5c843a6c6a9fa73017513766f371720caa4ca",
+          "parents": [
+            "e8a949b4e99e717ee99b32f7795b696a40934710"
+          ],
+          "recorded_author_time": "2026-10-17T21:39:27Z",
+          "recorded_committer_time": "2026-10-17T21:39:27Z",
+          "subject": "Add reproduced shell-result fix and 32-case verification",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/42bf82f4cf2e499e522e70d1b4b3c48d43b06be9",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T21:39:29Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "7ef44fb36c7d333e9eda136cccb52442c45f9d60",
+          "tree": "a1ed945976d9192ee0fe5eb5b5c5ec113fbb87d8",
+          "parents": [
+            "42bf82f4cf2e499e522e70d1b4b3c48d43b06be9"
+          ],
+          "recorded_author_time": "2026-10-17T21:40:43Z",
+          "recorded_committer_time": "2026-10-17T21:40:43Z",
+          "subject": "Link the severity-first OpenAI assessment",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/7ef44fb36c7d333e9eda136cccb52442c45f9d60",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T21:40:44Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "c6b2130b7e82496f8c959c1dc080fbdf1f64eb69",
+          "tree": "7edc1d53e8cf61d0700a39de06d7fe15749eef33",
+          "parents": [
+            "7ef44fb36c7d333e9eda136cccb52442c45f9d60"
+          ],
+          "recorded_author_time": "2026-10-17T23:03:34Z",
+          "recorded_committer_time": "2026-10-17T23:03:34Z",
+          "subject": "Document the OpenAI mathematics review and its proof limits",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/c6b2130b7e82496f8c959c1dc080fbdf1f64eb69",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T23:03:35Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "697112b289e94fcb999c145432f1c4eb056299b1",
+          "tree": "515a36b0226d3801c0be04ec1344a1259cfecf74",
+          "parents": [
+            "c6b2130b7e82496f8c959c1dc080fbdf1f64eb69"
+          ],
+          "recorded_author_time": "2026-10-17T23:07:47Z",
+          "recorded_committer_time": "2026-10-17T23:07:47Z",
+          "subject": "Add reproducible mathematics checks, source accounting and review queue",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/697112b289e94fcb999c145432f1c4eb056299b1",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T23:07:50Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "b7cf351ff0a3bbd7e08058127943f1879a0eaf8d",
+          "tree": "37f7ea0d593cb917b88ee3b3bfc10f78cec65a3a",
+          "parents": [
+            "697112b289e94fcb999c145432f1c4eb056299b1"
+          ],
+          "recorded_author_time": "2026-10-17T23:08:37Z",
+          "recorded_committer_time": "2026-10-17T23:08:37Z",
+          "subject": "Preserve exact capacity identities and coefficient-check evidence",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/b7cf351ff0a3bbd7e08058127943f1879a0eaf8d",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T23:08:38Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "6297a82af806d47ef7d9a497ea9ec1a58a30ef23",
+          "tree": "df3a86d347be6d21d7de7a6234a33876045ae87d",
+          "parents": [
+            "b7cf351ff0a3bbd7e08058127943f1879a0eaf8d"
+          ],
+          "recorded_author_time": "2026-10-17T23:09:55Z",
+          "recorded_committer_time": "2026-10-17T23:09:55Z",
+          "subject": "Link the mathematics review and invitation to reproducible scrutiny",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/6297a82af806d47ef7d9a497ea9ec1a58a30ef23",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T23:09:56Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "e01bfde297c742494fb3edfe5929fa18212f6dce",
+          "tree": "69621fc969b8afb7cdc3f2058e7718ba4492be7a",
+          "parents": [
+            "6297a82af806d47ef7d9a497ea9ec1a58a30ef23"
+          ],
+          "recorded_author_time": "2026-10-17T23:18:35Z",
+          "recorded_committer_time": "2026-10-17T23:18:35Z",
+          "subject": "Preserve the executed result file with its exact manifest-bound bytes",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/e01bfde297c742494fb3edfe5929fa18212f6dce",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T23:18:36Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "788df42a5b65b48f1d15e11240cf67bc00213a47",
+          "tree": "7411584ff1fed4c1248f024034035ff86ef99e3a",
+          "parents": [
+            "e01bfde297c742494fb3edfe5929fa18212f6dce"
+          ],
+          "recorded_author_time": "2026-10-18T00:50:27Z",
+          "recorded_committer_time": "2026-10-18T00:50:27Z",
+          "subject": "Publish GitHub Actions output-integrity study and evidence limits",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/788df42a5b65b48f1d15e11240cf67bc00213a47",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T00:50:28Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "c6ba4e1993662280af3057d15454c9909ee2222a",
+          "tree": "2dc159b4c4fe45c9ba1fcd11e4c04c2b87f7c193",
+          "parents": [
+            "788df42a5b65b48f1d15e11240cf67bc00213a47"
+          ],
+          "recorded_author_time": "2026-10-18T00:53:01Z",
+          "recorded_committer_time": "2026-10-18T00:53:01Z",
+          "subject": "Add tested output correction, 100-case results and locked reproduction harness",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/c6ba4e1993662280af3057d15454c9909ee2222a",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T00:53:05Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "fd5e1b0e795110eeec742e12867a9771f848ca36",
+          "tree": "5af04f15724976f26d76726917eaab6e26c86dc2",
+          "parents": [
+            "c6ba4e1993662280af3057d15454c9909ee2222a"
+          ],
+          "recorded_author_time": "2026-10-18T00:56:48Z",
+          "recorded_committer_time": "2026-10-18T00:56:48Z",
+          "subject": "Link the GitHub Actions output study from the research index",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/fd5e1b0e795110eeec742e12867a9771f848ca36",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T00:56:49Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "956e2c113cb36655e53448b1590a5dfb45a03a6b",
+          "tree": "1cb50985b87fe89e2430fe13aabc88e8499ab3ba",
+          "parents": [
+            "fd5e1b0e795110eeec742e12867a9771f848ca36"
+          ],
+          "recorded_author_time": "2026-10-18T01:10:15Z",
+          "recorded_committer_time": "2026-10-18T01:10:15Z",
+          "subject": "Correct research citation scope and label the historical inventory",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/956e2c113cb36655e53448b1590a5dfb45a03a6b",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T01:10:16Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "67a3e61d56b2fd6cf3b3d50b44f3c760ff6949df",
+          "tree": "d6f33b9dd022d965a5558cfaae7cb4f393d5835f",
+          "parents": [
+            "956e2c113cb36655e53448b1590a5dfb45a03a6b"
+          ],
+          "recorded_author_time": "2026-10-18T02:42:42Z",
+          "recorded_committer_time": "2026-10-18T02:42:42Z",
+          "subject": "Publish preserved Optax MultiSteps numerical study",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/67a3e61d56b2fd6cf3b3d50b44f3c760ff6949df",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T02:42:43Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "2e532a1ac4bf0ee178f968264b6d66b5cf89fbe2",
+          "tree": "29686a715b5ad29c77c417f9726988360e017f49",
+          "parents": [
+            "67a3e61d56b2fd6cf3b3d50b44f3c760ff6949df"
+          ],
+          "recorded_author_time": "2026-10-18T02:53:27Z",
+          "recorded_committer_time": "2026-10-18T02:53:27Z",
+          "subject": "Add Optax patch, reproducible results and preserved failure evidence",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/2e532a1ac4bf0ee178f968264b6d66b5cf89fbe2",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T02:53:30Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "f988f284a904591f266b6ade672d0635bcede0f2",
+          "tree": "15785f73e6a70aec519daf8998e2667bc3ce3c8f",
+          "parents": [
+            "2e532a1ac4bf0ee178f968264b6d66b5cf89fbe2"
+          ],
+          "recorded_author_time": "2026-10-18T02:54:42Z",
+          "recorded_committer_time": "2026-10-18T02:54:42Z",
+          "subject": "Link the preserved Optax study from the research record",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/commit/f988f284a904591f266b6ade672d0635bcede0f2",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T02:54:43Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        }
+      ],
+      "observed_branches": [
+        {
+          "name": "main",
+          "head": "f988f284a904591f266b6ade672d0635bcede0f2"
+        },
+        {
+          "name": "openai-mathematics-review-20261017",
+          "head": "e01bfde297c742494fb3edfe5929fa18212f6dce"
+        },
+        {
+          "name": "openai-severity-review-20261017",
+          "head": "7ef44fb36c7d333e9eda136cccb52442c45f9d60"
+        },
+        {
+          "name": "openai-stream-ownership-20261017",
+          "head": "9be4039c2811afd25596a7cc41c706bcc072c8f4"
+        },
+        {
+          "name": "priority-zero-expanded-20261017",
+          "head": "9219be1567682d29cd574a6e8e1748404516a4d2"
+        },
+        {
+          "name": "priority-zero-review-r2-20261017",
+          "head": "cc2f138da77ee914c08a63efccf1056f67889d3e"
+        }
+      ],
+      "snapshot_file_count": 170,
+      "snapshot_files": [
+        {
+          "path": ".github/ISSUE_TEMPLATE/research-question.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9e1a3db2a919226c7dcd32ad1213c9bc31f9a352",
+          "bytes": 564
+        },
+        {
+          "path": ".github/PULL_REQUEST_TEMPLATE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "4e211e0a5d11c861b4946e83f05320a22ca377ec",
+          "bytes": 402
+        },
+        {
+          "path": "ATTRIBUTION.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d013217e72c543f0138b0d6ccb648ba3ba50075a",
+          "bytes": 1694
+        },
+        {
+          "path": "CITATION.cff",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7d19f24c72d10333ffbacd71201b405eb9cce63a",
+          "bytes": 563
+        },
+        {
+          "path": "DATA_SHARING_STATEMENT.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "23aa3c203da3c940ee99da54da3c20b13ec59bd6",
+          "bytes": 3524
+        },
+        {
+          "path": "FILE_INVENTORY.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "c517fbb69817946682eb4fa4ffac5fc1c03d3a1f",
+          "bytes": 2753
+        },
+        {
+          "path": "LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "MAINTENANCE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "8cff8f003476e5a0a1632f8d35b8276e2c547628",
+          "bytes": 4911
+        },
+        {
+          "path": "MAINTENANCE_LOG.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9967e698e2af6379a952bda1a76a9a59bc6fde68",
+          "bytes": 3451
+        },
+        {
+          "path": "OWNER_STATEMENT.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d1349358eda6b43b783050988bf205bdeebf3fe0",
+          "bytes": 2520
+        },
+        {
+          "path": "PRIORITY_ZERO_20261017_PUBLICATION_RECEIPT.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "3c10d5c3353a592c7636af38d37d5d2b3c3a0faf",
+          "bytes": 11896
+        },
+        {
+          "path": "PRIORITY_ZERO_20261017_R2_PUBLICATION_RECEIPT.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e625942ae40ec1e20690455131070829b6f80bfd",
+          "bytes": 13231
+        },
+        {
+          "path": "PUBLICATION_REVIEW.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "46fb081a86bb08369fc845766963fc5b008d53f1",
+          "bytes": 2880
+        },
+        {
+          "path": "PUBLICATION_STATUS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "8e3bed393f4d915fae07cd58752da77a84170096",
+          "bytes": 7039
+        },
+        {
+          "path": "README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "30d8939f0f9f6e7e0c17669ece0e01039ed3bef5",
+          "bytes": 9716
+        },
+        {
+          "path": "RESEARCH_ACCOUNT.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "659819e656162bb0a0749163bc8124f255e4c8a1",
+          "bytes": 8070
+        },
+        {
+          "path": "REVIEW_UPDATES_20261017.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "630a2383b1dd54e4c598a69283fc23b70f48a6c3",
+          "bytes": 2719
+        },
+        {
+          "path": "SOURCE_NOTES.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f944be9a481fb194fe47d2b2c136d40d750040e2",
+          "bytes": 5544
+        },
+        {
+          "path": "TIMELINE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "c36463c4d3f8fa17a3e7c5430eb3eb3265587228",
+          "bytes": 54278
+        },
+        {
+          "path": "evidence/2026-09-18-jarvis-dft-2d/FULL_STUDY_UPDATE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "892e29eeced6c7bf9b50b91ca5dda4ec5e2c1a6c",
+          "bytes": 8136
+        },
+        {
+          "path": "evidence/2026-09-18-jarvis-dft-2d/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "ead797efa4cfdfd0448b0d4309000c95bac16616",
+          "bytes": 6887
+        },
+        {
+          "path": "evidence/2026-09-18-jarvis-dft-2d/atom_count_differences.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "62fdfba608bd17c1620342c77285526fbd48f1d3",
+          "bytes": 9471
+        },
+        {
+          "path": "evidence/2026-09-18-jarvis-dft-2d/followup_evidence.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "09bf7292440d611b0b3e507862a8e554ee85e421",
+          "bytes": 36896
+        },
+        {
+          "path": "evidence/2026-09-18-jarvis-dft-2d/missing_exfoliation_values.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e87e086717f12eb75166547f997a9c7ad90a679f",
+          "bytes": 37939
+        },
+        {
+          "path": "evidence/2026-09-18-jarvis-dft-2d/replay_evidence.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "df8ef6e0ccbce8b60496c4e7c62a7745086e0670",
+          "bytes": 3935
+        },
+        {
+          "path": "hypotheses/2026-09-19-classical-and-quantum-computation.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "56997d41e5d6797fb2ea9969c3796852de130b36",
+          "bytes": 140
+        },
+        {
+          "path": "records/2026-10-01-prior-work/EDITION_REVIEW.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "577fa48490139228d6d49b05568992ff8cf0a5ae",
+          "bytes": 3427
+        },
+        {
+          "path": "records/2026-10-01-prior-work/PRIOR_WORK.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d857c0bc38c298ebb9d876a5a2751c70bca91c4f",
+          "bytes": 202221
+        },
+        {
+          "path": "records/2026-10-01-prior-work/prior-work.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "8c9bece63abcdd3e3a56a3e57a1ae8de730625ba",
+          "bytes": 289580
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/ATTRIBUTION.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "382b0b667f8552ccfad3d1e7810ca4444f92fea1",
+          "bytes": 1670
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/CITATION.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "17fddc97f7839da77a773bdd3fb6b3ca9f909d9e",
+          "bytes": 1035
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/LICENSE_SCOPE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "4dd987fcf4d6e2c1ec7caaf58bd54ee91dba4d04",
+          "bytes": 1048
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fcf386f606c834394dcf29903bb9489e6bb322c0",
+          "bytes": 1777
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/PUBLICATION_STATUS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f41d0eb39a77515a72792507fc859813d4202934",
+          "bytes": 1042
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/PUBLICATION_STATUS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d3e3ef21534b57ebf95a88801103ca34ffbf3647",
+          "bytes": 1326
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/QUESTIONS_AND_INVITATION.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "efdb9f660c6a82fb53d19b146745ad5e511e2ea1",
+          "bytes": 2668
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d0909770c59fa53a90163925ded6802f09872916",
+          "bytes": 1430
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/RESEARCH_OVERVIEW.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "89eaf0049b5177ffca4db2d08e4642edc4ece1e8",
+          "bytes": 5411
+        },
+        {
+          "path": "records/2026-10-16-priority-zero-preview/SCOPE_AND_REVIEW.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "694f02a9d1bec6906da442fcbe73e8cdafe3c6aa",
+          "bytes": 2908
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/CASE_RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "78bf377cf7760e1f8f1f067e8cb6a5a37a94b4bc",
+          "bytes": 22726
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/CORRECTIONS_AND_LIMITS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "5df685a52bbe81d80dadf14261fb25f14c3bc716",
+          "bytes": 2838
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "c4e07d1e76d1953c98d5b661cc394fd9c068c6b5",
+          "bytes": 4083
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "efe9897b07622a4166dbee248ceb47e0820ad557",
+          "bytes": 4890
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/REPRODUCE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "16428fd804af588ada27d4972436b826209b1a75",
+          "bytes": 2995
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "423712018a3f403b4635ee8b4ea6c98839da854b",
+          "bytes": 1577
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/RIGHTS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "0b25e311cd7ef6b56314d5e4cd9c9c65f1a2ec38",
+          "bytes": 1645
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/SOURCE_MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "2bde67e6e5ff8d7cbdfab44a2fc1e2b019e0e5f2",
+          "bytes": 5133
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/UPSTREAM_LICENSE.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "dbae2edb2c8ca2cf3ce4abe863b6e6dff5970f99",
+          "bytes": 1068
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/correction.patch",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9406593178c4b1e0599a4e33b42d4e6f39690354",
+          "bytes": 13716
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/output-lines-integration.test.ts",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "8077c26ba9cd99fd2d390776395507c5d478954d",
+          "bytes": 2632
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/output-lines.test.ts",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "c3896533b1921880769814236eb3e37cb69bb37a",
+          "bytes": 7255
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/prepare-candidate.cjs",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08de8a0a42421b80a4ca2df2793c438a8c68c28d",
+          "bytes": 3184
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/prepare_review.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "4ae00a6e2f12a41deb8c6a9114d04163e684edc0",
+          "bytes": 2209
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/setup-tests.cjs",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f39d8ec2660693c4bf2bbaad969c8f192d0040ad",
+          "bytes": 1272
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/tooling-package-lock.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "10407ac51b30eb3c964a1036d3cdf17e64ea6c5b",
+          "bytes": 136286
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/tooling-package.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "dbe03b235f29bb63414053be5b85602ed05e189c",
+          "bytes": 246
+        },
+        {
+          "path": "records/2026-10-17-github-actions-output-review/toolrunner.corrected.ts",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1c5038b7db0eb1ed125d62f371d9c75f86b6d8fe",
+          "bytes": 21551
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/CATALOGUE_RECONCILIATION.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "00236c2a75d15c9907bbed0a5120c3e0ee7c5657",
+          "bytes": 26986
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/FAMILY_COVERAGE.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "59d751e4ed6d195e806b8ed8f6d6e157fd30c1a2",
+          "bytes": 258818
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/FINDINGS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "0cb52901fb2b9415f2a7c9a0ac4440701414b103",
+          "bytes": 2277
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/FOUNDATION_REVIEW.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "63a6fd3171ff15819f291dadae8ab9795cee4f1d",
+          "bytes": 6352
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/FULL_SCAN_SUMMARY.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "baa6aa88e6fd27a935709914eda5e63add283ccb",
+          "bytes": 1017
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d3e9a4b8e11d7f5874bddd745623159fb8da4052",
+          "bytes": 3422
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/OWNERSHIP_AND_REUSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "0fc50db98b7d67d4c01fa4f254462842ae892803",
+          "bytes": 1570
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/PROPOSED_SCOPE_NOTE.diff",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "ff69707c405d512e03cb186680a03f79c20dcc52",
+          "bytes": 1383
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "62a753caf7bcf1dc7eda9841327af951acaf907d",
+          "bytes": 4359
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/REPRODUCE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "316c6cd4a5a2fc204c45f6ce8021164567e51ab2",
+          "bytes": 2248
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/REVIEWER_CORRECTIONS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b5151883edf205797799814abfc3bfb3dc5c849d",
+          "bytes": 1029
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/REVIEW_QUEUE.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e7a14af6eaab30344dd36d5cce6a4785e71a85c8",
+          "bytes": 83828
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/SOURCE_RECEIPT.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b7a14d1367af96806b72621826556139b9b6b274",
+          "bytes": 6663
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/STRUCTURAL_REVIEW_SUMMARY.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "faed92f999a442d9d9289f5a067d7ea38ffe4ec5",
+          "bytes": 1984
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/TAMING_SCOPE_NOTE.proposed.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9b022e7afbbae8e819bfbe61c60b4d0b970d1089",
+          "bytes": 1908
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/UPSTREAM_LICENSE.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+          "bytes": 11357
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/analyze_map.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1168ce08b900c5bd7a36553a110df336365d879c",
+          "bytes": 6237
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/audit/CAPACITY_CHECK_RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "955c01bd30d24407ae08b1145e3c94c447ea9672",
+          "bytes": 18563
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/check_capacity.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "4cb43f5694da58d2808d9f7f0ee4b94ff9513535",
+          "bytes": 6665
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/prepare_inventory.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "5f6a8751c56c234080c04dab81b314528ebf69b6",
+          "bytes": 1849
+        },
+        {
+          "path": "records/2026-10-17-openai-mathematics-review/stream_audit.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "57d6449513b9702611013b437108f90822d06d80",
+          "bytes": 8777
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/BASELINE_RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "a59a2056e35d458fe71238dc5aec1d2302a2dfb4",
+          "bytes": 980
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/CANDIDATE_RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b04461639c24dbda5ccd0fa6ce82128fcd56aa45",
+          "bytes": 792
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/FINDINGS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "0f3baa9292d442aac2cd54c8685831b9bff6e1df",
+          "bytes": 4283
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/LICENSE-SCOPE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "6cabdbc06d5eb61852dd804b25d7f3be24ae31ea",
+          "bytes": 1837
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "2e74e61defc4920e1f156b634b484cbb90dade2f",
+          "bytes": 3193
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e65b5010716c469b9b0bef0e397cd35208b83004",
+          "bytes": 6523
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/REVIEW_QUEUE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "0f5890e6a61cbac4a1a997193cf952b43a4f089c",
+          "bytes": 2936
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/UPSTREAM_LICENSE.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e5ad2c5aa30343f143a5c418004ca1a8d2cfaff4",
+          "bytes": 1063
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/candidate_tool_actions.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "18ae37b7723449fd94c3ba6219cb66210b52d699",
+          "bytes": 43354
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/empty_structured_shell.diff",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "737be077aa0f9c4a8614d99b294d3fa1a6b3813e",
+          "bytes": 448
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/evaluate.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7947ff98d8a10dc95e3b5cd1d62bcae6dfd36a45",
+          "bytes": 3198
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/requirements-tested-windows.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fc39e04eacb6e7ab759088c66eedafc4992f603a",
+          "bytes": 749
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/requirements.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "ee90d01053f24422456679fc6eec2241c43a6f8a",
+          "bytes": 22
+        },
+        {
+          "path": "records/2026-10-17-openai-severity-review/test_integrity.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "00217f33c5bf16c12e8b6f515250a9f0aebb8790",
+          "bytes": 9752
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/CHANGELOG.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b17ccdb95db40eb3c10ed929e9339902368efa6c",
+          "bytes": 2451
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/FINDINGS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "5ef1798a69299646d64846224a42cdd47e70bace",
+          "bytes": 5623
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/LICENSE-SCOPE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d3ef88b9b76618fee6cb10a3f7229ea795beec42",
+          "bytes": 1828
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "5c43ffb5a3e502a323beab02ab8341ab3f833b22",
+          "bytes": 2288
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d3e6dfe9b6a92e541995fbfa34f112d999944171",
+          "bytes": 4885
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/SOURCE_PROBE_RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "82acf609ac66284ede983ab0d59736570121fcfb",
+          "bytes": 2285
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/UPSTREAM_LICENSE.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e5ad2c5aa30343f143a5c418004ca1a8d2cfaff4",
+          "bytes": 1063
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/VALIDATION.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "17df8f6b3a65afe8bb6362dc87afb480b30dc2ae",
+          "bytes": 1435
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/owned_stream.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7a63fd5fe408b90badcc7629792e327b12144db6",
+          "bytes": 3670
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/probe_source.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9ca5e43e218e0650f9899e6cba10545d908fe8ac",
+          "bytes": 9274
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/requirements-tested-windows.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fc39e04eacb6e7ab759088c66eedafc4992f603a",
+          "bytes": 749
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/requirements.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "ee90d01053f24422456679fc6eec2241c43a6f8a",
+          "bytes": 22
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/test_owned_stream.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d613ea2290ea4f188e97d7322920457c04498330",
+          "bytes": 8649
+        },
+        {
+          "path": "records/2026-10-17-openai-stream-ownership/upstream_result.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "36c9cc9c0d901821a65dbc3725a06c6687079f7f",
+          "bytes": 58296
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/CORRECTIONS_AND_LIMITS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "479e975236f3e84780d8205ba67931669bc61c29",
+          "bytes": 3247
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/FINDINGS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "2732e0943449926f29d35422d951d74e95143178",
+          "bytes": 3967
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/HOSTED_TEST_EVIDENCE.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f1801e74c2516b6cdac62b43fbc20872d4f34508",
+          "bytes": 6634
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1e25ce5065e92946d5191cce2593ecdc63e34aa1",
+          "bytes": 2061
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fd5b9bbfd00f7c2cb58b70e01f031dd2107fe92b",
+          "bytes": 2963
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/REPRODUCE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "2d227841b30b9158a5c757080f96534b5b3a6477",
+          "bytes": 3972
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "adda88bd0749c47f9f9a8d6426499be56ad44c55",
+          "bytes": 6616
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/RIGHTS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "232dc20540527b976a097a3d94436894f35fede1",
+          "bytes": 1881
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/SOURCE_REFERENCES.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "de96d23fa8b37af1b6ebe8547a7f215f689453af",
+          "bytes": 2472
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/UPSTREAM_LICENSE.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+          "bytes": 11358
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/contribution.patch",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "a1668efe0f3302dfbc174876a9536261415e5677",
+          "bytes": 6681
+        },
+        {
+          "path": "records/2026-10-17-optax-multisteps-review/environment-observed.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "4ee2acebdd66dadfa6e53a19055e57b488cca92f",
+          "bytes": 885
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/AUTHOR_STATEMENT.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d68c12d43563bb615550c9c4a7a1f39047801d03",
+          "bytes": 1005
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/COLLECTION_CONTENTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "14e6c8a69397287c56444c33305e8982587a31c4",
+          "bytes": 3479509
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/DEDICATION.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "18c55074ffc9c8ec97addc5e05df741f1ba44318",
+          "bytes": 135
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/GAUCIA-historical.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "817f2a96265f1b90296e16b7054057a24da3d945",
+          "bytes": 133745
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/GAUCIA-repair-r3.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d4e5a248058e527a219983af161779812b219b05",
+          "bytes": 148873
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/GAUCIA-service-corrections-r4.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "73dc3cee1be67e70f1c36fcda9dfa01a304cd2b8",
+          "bytes": 64727
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/GAUCIA_SOURCE_GUIDE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "56a9b4c92e9814b31e55fdbc23ba4464d14df9f1",
+          "bytes": 4790
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "08c790ee3b2a03ff2b5d23c7a8c82ae6842009eb",
+          "bytes": 9441
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/LICENSE_SCOPE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fbcd600460da7e5f16044d67cdeeda6cc753ca80",
+          "bytes": 1931
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/MANIFEST.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "005e2dcddb9c9a9b42b04cd610a3dccf189879b9",
+          "bytes": 7652
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/PUBLICATION_REVIEW_R2.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fd4e6e88fb84c318dc8c1d643753e678bceb9e76",
+          "bytes": 6019
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/Priority-Zero-Research-Edition-2.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "a3ce25314f4b47612c2d5d8793b0cb4469ab01ac",
+          "bytes": 6552077
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/Priority-Zero-Teaching.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "750254cba8aa17b6dbf7be5866db17c9e5764438",
+          "bytes": 130568
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/QEL-Research-Release-2026-10-16.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "61027990eff013c933d02347f096d2c24518f720",
+          "bytes": 17923946
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/QRF_RESEARCH_RECORD.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "a7264a5baacb67f8d656feda348d7e0a94ba70e8",
+          "bytes": 3155
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/Quantum-Research.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "bbafbc4d208124535bd271aea27ce2d05320d0a4",
+          "bytes": 515882
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/READING_ORDER.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "46983c8fd9bda2503c46f43c0bd797f9bbe60aeb",
+          "bytes": 3466
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e9b02c06569cd0d3e5f0bdf216b611505dae503d",
+          "bytes": 7086
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/REVISION_R2.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "10841fbc5e5cd400cd35faa3c2b83133f8ff9a92",
+          "bytes": 920
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/Research-Depth-Review.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "3d3e9008758c787aa16f0271aa862eabc5c2b021",
+          "bytes": 35190
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/Research-Learning-History.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "872b85d97e6d17e4645c3514a8e6f4484651a64c",
+          "bytes": 276721
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/Research-Process-Review.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "37dddd5a6451394293e2a171f1fc3297e58026a3",
+          "bytes": 40093
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/Research-Publication-Series.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9db11b347024622f4ebced7b4c3571df1c92f690",
+          "bytes": 1448002
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/SCOPE.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e2887d2581e819fc6fcc2f4d768aeed5b68231a6",
+          "bytes": 2345
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/august21-successor-integration.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e4d74c72434568ee6a16444af1d2cbdaa5a8969a",
+          "bytes": 500443
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/controller-review.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "a93417206b8e8bff69966d5939b3bcce8cd5e9ca",
+          "bytes": 19529
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/full-historical-core.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "dad49d1fc0e97b05ec2e119a172f1c3c0dce0767",
+          "bytes": 28819
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/full-jarvis-aluminum.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "8c94707f7679a840462a56470d6a08bda69c1c41",
+          "bytes": 536965
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/full-qel-performance.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "2e863b76d90e3a96af7fe064ef42c8933abdf0ed",
+          "bytes": 1516532
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/full-recovered-math.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b1bfecce6773cb1c98d7bfa3b68031b3353b7b2b",
+          "bytes": 160141
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/full-task-alpha.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f628f596f825f7aad4d57b8423c7ace180a6241a",
+          "bytes": 102417
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/improvement-audit-20260918.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "839e22a73481f6563e064333d644c1405f93563d",
+          "bytes": 301616
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/jarvis-dft-2d-public-evidence.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f23ec6281b409997025cae0a10dfb3d5cf04fa7a",
+          "bytes": 30022
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/jarvis-private-01.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "62f2868ef9c23f4d79ca9e7cff14daedb7d9a169",
+          "bytes": 1290679
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/jarvis-private-02-portable-replay.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "66891c169736ed7038c6b3351e9e4a0228bdf865",
+          "bytes": 622913
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/jarvis-private-02.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "5fd5004127f7c2d870662f1ce71324f961a93fec",
+          "bytes": 4336486
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/jarvis-private-03.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "6c60b7c2d993a625eb98e25ea018d6316735a2e0",
+          "bytes": 23742064
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/jarvis-private-04.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "32b589fe8e446a4aff95da2cd5ea5ee45af65e79",
+          "bytes": 5180458
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/jarvis-private-05.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "c833f353bf829e998da71dc40cef7b48ae5962db",
+          "bytes": 590473
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/live-dense-qubit-scaling-20260918.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1b2b1e551c4fc7b471a37058b493b0dbbf987343",
+          "bytes": 94464
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/retained-jarvis-dependency-layout.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9af01032b5fcd7a62909f99db8c0b6d3060c0853",
+          "bytes": 61989
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/selected-provenance-reviews.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "4615a1b1819782c60d9b87d0c84be2ceb467c4cf",
+          "bytes": 6838
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/structured-state-research-implementation.zip",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "2352569a8243380bfed598160f2fe040f08d3b96",
+          "bytes": 18794
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/test_release_verifier.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e9bafb30d6653a1c7ec5c863b5cbdc74292d9c6b",
+          "bytes": 4933
+        },
+        {
+          "path": "records/2026-10-17-priority-zero-expanded/verify_release.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7914ddee457fa179d4d021c4f314afc3067bccd9",
+          "bytes": 6830
+        },
+        {
+          "path": "timeline.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "978bad5e38404dcbd076a0c03fbf7dfb8de1b5ff",
+          "bytes": 138873
+        }
+      ]
+    },
+    {
+      "repository": "0-Actual/sherman-gaucia-laing-bible-replay",
+      "ref": "main",
+      "head": "433dd2a8b1e561fb12801de54bf1b8250252cef5",
+      "tree": "b70cf2a2766c6583d457802b765f00468c2fc7e7",
+      "history_scope": "All commits reachable from this pinned main head; parent closure checked through its root.",
+      "commit_count": 9,
+      "history": [
+        {
+          "sha": "87e53e21e1cfe496a7941752d7ef8a37a3597fda",
+          "tree": "ee98b774e2ce349daed4475a7b5af4ac31cdbd2d",
+          "parents": [],
+          "recorded_author_time": "2026-09-17T21:17:35Z",
+          "recorded_committer_time": "2026-09-17T21:17:35Z",
+          "subject": "Initial commit",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/87e53e21e1cfe496a7941752d7ef8a37a3597fda",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-09-17T21:17:36Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "32003d087fdd8efd15f189dd486c00f1d3778394",
+          "tree": "11e0c710dcac8193b4be2380e31dd516a63befc7",
+          "parents": [
+            "87e53e21e1cfe496a7941752d7ef8a37a3597fda"
+          ],
+          "recorded_author_time": "2026-09-17T21:18:00Z",
+          "recorded_committer_time": "2026-09-17T21:18:00Z",
+          "subject": "Publish Sherman Gaucia Laing selected Bible and research materials under included noncommercial terms",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/32003d087fdd8efd15f189dd486c00f1d3778394",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "2c55e0b2ef5f9cf704e3828a46b6dc44b4e17075",
+          "tree": "2158a032203f64be34428180a2314df568ebd82a",
+          "parents": [
+            "32003d087fdd8efd15f189dd486c00f1d3778394"
+          ],
+          "recorded_author_time": "2026-09-17T21:18:43Z",
+          "recorded_committer_time": "2026-09-17T21:18:43Z",
+          "subject": "Record verified public URLs, publication time and evidence boundaries",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/2c55e0b2ef5f9cf704e3828a46b6dc44b4e17075",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "3b51524d2163d4d8bd473b418a8b58997f4cf18e",
+          "tree": "cbcf68660031ad68af06fcb0780a0a60fec4b4e8",
+          "parents": [
+            "2c55e0b2ef5f9cf704e3828a46b6dc44b4e17075"
+          ],
+          "recorded_author_time": "2026-09-17T22:01:58Z",
+          "recorded_committer_time": "2026-09-17T22:01:58Z",
+          "subject": "Record verified connector access and enabled routine maintenance",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/3b51524d2163d4d8bd473b418a8b58997f4cf18e",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "99945c9833cd4134793f7b3ebbf04b74b78581a0",
+          "tree": "05c83eb3453c86e051166b54232d4c63e4891e75",
+          "parents": [
+            "3b51524d2163d4d8bd473b418a8b58997f4cf18e"
+          ],
+          "recorded_author_time": "2026-09-17T22:33:41Z",
+          "recorded_committer_time": "2026-09-17T22:33:41Z",
+          "subject": "Add hosted Bible replay checks and contribution guidance",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/99945c9833cd4134793f7b3ebbf04b74b78581a0",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "b00fd4b7e4a3e70a2825c568f79d7748f0739b80",
+          "tree": "b5c49664a6820cc6201a9f10b30536d9f289c166",
+          "parents": [
+            "99945c9833cd4134793f7b3ebbf04b74b78581a0"
+          ],
+          "recorded_author_time": "2026-09-18T12:15:08Z",
+          "recorded_committer_time": "2026-09-18T12:15:08Z",
+          "subject": "Record first GAUCIA maintenance review and refresh public status",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/b00fd4b7e4a3e70a2825c568f79d7748f0739b80",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "f4d501e88859a5f78b4cfdaf3973836fb9147c34",
+          "tree": "e2c1ff2bfa5d2e230b9a38ade5b7e5a7ebba961e",
+          "parents": [
+            "b00fd4b7e4a3e70a2825c568f79d7748f0739b80"
+          ],
+          "recorded_author_time": "2026-09-20T06:34:53Z",
+          "recorded_committer_time": "2026-09-20T06:34:53Z",
+          "subject": "Correct Bible replay failures, reader counts, and saved verse emphasis",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/f4d501e88859a5f78b4cfdaf3973836fb9147c34",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "f15f6127c3538b338d9462ad8b52e9d137ebab30",
+          "tree": "933784a71f625d5030c3f0fed430dbeed903bb14",
+          "parents": [
+            "f4d501e88859a5f78b4cfdaf3973836fb9147c34"
+          ],
+          "recorded_author_time": "2026-09-20T06:37:41Z",
+          "recorded_committer_time": "2026-09-20T06:37:41Z",
+          "subject": "Read UTF-8 replay fixtures explicitly on Windows",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/f15f6127c3538b338d9462ad8b52e9d137ebab30",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "433dd2a8b1e561fb12801de54bf1b8250252cef5",
+          "tree": "b70cf2a2766c6583d457802b765f00468c2fc7e7",
+          "parents": [
+            "f15f6127c3538b338d9462ad8b52e9d137ebab30"
+          ],
+          "recorded_author_time": "2026-10-18T01:12:49Z",
+          "recorded_committer_time": "2026-10-18T01:12:49Z",
+          "subject": "Correct published Bible edition status and citation metadata",
+          "url": "https://github.com/0-Actual/sherman-gaucia-laing-bible-replay/commit/433dd2a8b1e561fb12801de54bf1b8250252cef5",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-18T01:12:50Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        }
+      ],
+      "observed_branches": [
+        {
+          "name": "main",
+          "head": "433dd2a8b1e561fb12801de54bf1b8250252cef5"
+        }
+      ],
+      "snapshot_file_count": 76,
+      "snapshot_files": [
+        {
+          "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "cf34d26fa0fa483f66b40d37f730d319bf5de36c",
+          "bytes": 895
+        },
+        {
+          "path": ".github/pull_request_template.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "183b8912f758c07bcfbc92961480c9f1fb9cab2b",
+          "bytes": 758
+        },
+        {
+          "path": ".github/workflows/replay-checks.yml",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "05b58ffab98188e90194746d652400cde5e7cff9",
+          "bytes": 756
+        },
+        {
+          "path": ".gitignore",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1f2eec285417e1c38d5f03911b96f33f0dab5c6b",
+          "bytes": 50
+        },
+        {
+          "path": "ATTRIBUTION.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "eea22d81a380c095869a9279b54b3743da3a5e47",
+          "bytes": 2089
+        },
+        {
+          "path": "CITATION.cff",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e0e81b2e2f0f760fb32e8f9b65230a81afcb460d",
+          "bytes": 494
+        },
+        {
+          "path": "CONTRIBUTING.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b7b96477d53f25dc991adeb6d308ec13132696e5",
+          "bytes": 2595
+        },
+        {
+          "path": "FILE_INVENTORY.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "5138f224fe213c671d50541e3e8d40a414626cac",
+          "bytes": 6389
+        },
+        {
+          "path": "HISTORICAL_SOURCE_NOTES.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "01e288006f34faf293689d6ac04e8ab4f691d7d5",
+          "bytes": 3310
+        },
+        {
+          "path": "LICENSE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "074e71b8edf08a97db65a22a4edb048a2e4b8fc2",
+          "bytes": 9715
+        },
+        {
+          "path": "MAINTENANCE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7c13d800bc476049d4bfae617ba1903d825f46d7",
+          "bytes": 4564
+        },
+        {
+          "path": "MAINTENANCE_LOG.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "8d9cb160cf785e7bdd447be8cd21134fe045d11c",
+          "bytes": 1835
+        },
+        {
+          "path": "Open_Bible_Study.cmd",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "56f044bb2a94d59743a4a90719eac344449df10e",
+          "bytes": 51
+        },
+        {
+          "path": "PUBLICATION_REVIEW_POLICY.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "36e8ab42e4b132ac879d5adc4e9e99fa772aff71",
+          "bytes": 3177
+        },
+        {
+          "path": "PUBLICATION_STATUS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "ef18299e46d690039c6378981ad6728e283b24f0",
+          "bytes": 9696
+        },
+        {
+          "path": "README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "600cd51a23defeba270661f91fdc083eb5b61748",
+          "bytes": 8628
+        },
+        {
+          "path": "RECOVERY_INVENTORY.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "37049380e1ae12dbc7ea2f9ccb5e4001350a15e6",
+          "bytes": 6319
+        },
+        {
+          "path": "REPLAY.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d69ad02a1739acf1d47b6ac7a97753d36b859bb3",
+          "bytes": 7773
+        },
+        {
+          "path": "REPLAY_RECIPE.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "22123979f9f0e7ce5fe9a72b190fe12688ceba7c",
+          "bytes": 9923
+        },
+        {
+          "path": "Replay_Bible.cmd",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b2249d858f76e549d7a71447547ba76ce5ce085f",
+          "bytes": 304
+        },
+        {
+          "path": "SERVICE_MAP.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7daffcbc8e68a2d07ecb2ae0e185b1502d89a0bd",
+          "bytes": 2899
+        },
+        {
+          "path": "STUDY_CATALOG.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d963ccd285804fd8e0b8e700b6f9830ab542c193",
+          "bytes": 16857
+        },
+        {
+          "path": "STUDY_CATALOG.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "ef67c0fdb4f9fa21a83cc2cef6564f4aa3735641",
+          "bytes": 3558
+        },
+        {
+          "path": "THIRD_PARTY_NOTICES.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "702ee7dea906f0c9e77b5f3162ccc8957b6d5d93",
+          "bytes": 2464
+        },
+        {
+          "path": "governance/GOSPEL_AGENT_CALIBRATION_PROMPT_v1.txt",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "724794507c66b2b901052612a6013b73e3869518",
+          "bytes": 1426
+        },
+        {
+          "path": "governance/MASTER_QPRINT_COMBINED_v1.1.0.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "a182b2459ccc7c548fc914167b8a920ca2f8cdc1",
+          "bytes": 23850
+        },
+        {
+          "path": "governance/QEL_BIBLE_STUDY_CONVERSATION_STARTERS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "4df7eb8de0be63c1155dab99cd4efe535dd47f56",
+          "bytes": 710
+        },
+        {
+          "path": "governance/QEL_BIBLE_STUDY_GPT_INSTRUCTIONS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f9e20342da84cfd5136b5c60cd918d46a533a249",
+          "bytes": 3422
+        },
+        {
+          "path": "governance/QEL_BIBLE_STUDY_KNOWLEDGE_CHECKLIST.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7f11765ec08c05f18a08582bc54be214f0aa6bd9",
+          "bytes": 1727
+        },
+        {
+          "path": "governance/QEL_WORD_CORE_REFERENCE_PROFILE_PATCHED_v1.public-copy.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "16eb405c70b73a0201f63aba9361d603f96d3b60",
+          "bytes": 10138
+        },
+        {
+          "path": "governance/QPRINT_01_CANON_HIERARCHY_v1.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "c0e657e57c8051c02925fb86da656075d460d2d3",
+          "bytes": 2755
+        },
+        {
+          "path": "governance/QPRINT_08_GOSPEL_AGENT_TRAINING_PACKET_v1.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "90b70382626ab10854eeb3e51ea26c3ff6929fef",
+          "bytes": 7895
+        },
+        {
+          "path": "governance/QPRINT_10_BIBLE_STUDY_VERSION_v1.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7465fa7effc8306a1c0e8c11a86a2d70dc395afd",
+          "bytes": 4225
+        },
+        {
+          "path": "governance/QPRINT_11_WORD_ALIGNMENT_LAYER_v0_2_0.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "9f33b6104b2e92e854618c8aa3e9098addae6150",
+          "bytes": 12820
+        },
+        {
+          "path": "governance/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "02e23e6d34978219f978a240082a255d3f7e9ef4",
+          "bytes": 2436
+        },
+        {
+          "path": "original/web/HISTORICAL_README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1635f774863a7055a2c11727abafd84b5971cdde",
+          "bytes": 1640
+        },
+        {
+          "path": "original/web/index.html",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f4f9da33a44b077e5fd9e47176c1c527ec9ceaef",
+          "bytes": 3736
+        },
+        {
+          "path": "original/web/scripts/app.js",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "0580ccb8fbe930678d303c2f667acdf6229ee780",
+          "bytes": 17689
+        },
+        {
+          "path": "original/web/scripts/q6_data.js",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "adcfe82af60342b1a08bf3ad27360fc065ece43b",
+          "bytes": 1439143
+        },
+        {
+          "path": "original/web/styles/style.css",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "edd2da878bdce8f2a7b752238b9f194f05faf7cc",
+          "bytes": 4207
+        },
+        {
+          "path": "original/word_core/QEL_FORENSIC_BIBLE_WORD_CORE_AUDIT_002A_VERIFIER.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "613b39f25ad5d5f552e9b7ab5f3c129fa55f84af",
+          "bytes": 23382
+        },
+        {
+          "path": "original/word_core/QEL_WORD_CORE_REFERENCE_KAT_V2.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "26790e001e87ef973b0c87a1ff677e4f8ae57a97",
+          "bytes": 1790
+        },
+        {
+          "path": "original/word_core/RECOVERY_NOTES.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "ae8bd6461f2470b90ce65227749ede794bbf6bf2",
+          "bytes": 1967
+        },
+        {
+          "path": "original/word_core/RECOVERY_TEST_RESULTS.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "bc6f944af659cff39806d5777a1249c5440b4816",
+          "bytes": 683
+        },
+        {
+          "path": "original/word_core/qel_word_core_reference_v2.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "253170701c643ff9318e970025cd034a83aac951",
+          "bytes": 10577
+        },
+        {
+          "path": "original/word_core/test_qel_word_core_reference_v2.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1f0d173ba8a1cbd1a03990ebfd8e64decd8d071b",
+          "bytes": 11138
+        },
+        {
+          "path": "replay-output/REPLAY_REPORT.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "082560e247bcc68ecdc4c48d8be05772348e9730",
+          "bytes": 1089
+        },
+        {
+          "path": "replay-output/index.html",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "cb4519cd72d7086e91a1671b6402501517c93972",
+          "bytes": 358758
+        },
+        {
+          "path": "replay-output/results.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "394660de9abb691c03495466bb777ab5e13c5209",
+          "bytes": 185150
+        },
+        {
+          "path": "replay-output/run-status.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7f97ecd97a8435b3e08e7afb1970042b5c42221b",
+          "bytes": 389
+        },
+        {
+          "path": "replay-output/verification.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1c7dc5b8f892f8aeaaa970262ffe8c71f7429ef6",
+          "bytes": 1022
+        },
+        {
+          "path": "replay.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "df046dddd67f9254c206ac379f061fed970214f6",
+          "bytes": 38536
+        },
+        {
+          "path": "studies/Genesis_1_1_Expanded_Study.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1f27bf34899594ba4fe5168b6f6dd33c1647f8a6",
+          "bytes": 75917
+        },
+        {
+          "path": "studies/Genesis_1_1_Expanded_Study.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "7b996b9773851b389014aa9688131bb9fd258a33",
+          "bytes": 69247
+        },
+        {
+          "path": "studies/Genesis_1_2_Expanded_Study.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "148738a3ecd26b5c8edf1d10c6047fd9af454df8",
+          "bytes": 77797
+        },
+        {
+          "path": "studies/Genesis_1_2_Expanded_Study.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e9e741a9a1660101b63f500db1df7eb34751fcf5",
+          "bytes": 67518
+        },
+        {
+          "path": "studies/Genesis_1_3_Expanded_Study.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "2c681b8da4ff8004bc0d7384fed69f74791228ca",
+          "bytes": 77488
+        },
+        {
+          "path": "studies/Genesis_1_3_Expanded_Study.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "3fdce1e07eb863f5b29bc48538ac6fa2e551faae",
+          "bytes": 67221
+        },
+        {
+          "path": "studies/Genesis_1_4_Expanded_Study.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "799969f1da77bb787706a5105859802b2d2f2446",
+          "bytes": 75117
+        },
+        {
+          "path": "studies/Genesis_1_4_Expanded_Study.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e0a3afbfc04f1ddf6dd4ce24d7d82c1ba457dd01",
+          "bytes": 65108
+        },
+        {
+          "path": "studies/Genesis_1_5_Expanded_Study.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "1bdc0decdaae24673f167a81e321238ca266e38e",
+          "bytes": 75196
+        },
+        {
+          "path": "studies/Genesis_1_5_Expanded_Study.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d3e81b1d8ee982d8e0aaf4534761b26474c29b86",
+          "bytes": 65150
+        },
+        {
+          "path": "studies/QEL_Genesis_1_1_Study_20260910.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "34bbd3aea197ecc2efd1ddd9aef1ee37fd31278b",
+          "bytes": 39216
+        },
+        {
+          "path": "studies/QEL_Genesis_1_1_Study_20260910.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "d1afc555f0f4ee2e5913edc71ffc558eaf8af016",
+          "bytes": 32316
+        },
+        {
+          "path": "test_replay.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "dadfcaea2435a62d8e2718d58d8ac30ec4214f2d",
+          "bytes": 20941
+        },
+        {
+          "path": "test_web.mjs",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "0413cb4b17d54cf28b1bf3225a754f9387bbf155",
+          "bytes": 8199
+        },
+        {
+          "path": "verify.py",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "199ba09726438a338cac350685d06a20792ba44b",
+          "bytes": 6240
+        },
+        {
+          "path": "web/CORRECTIONS.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "72f02125eb3c91d2032257f049ad631f57f3d8fe",
+          "bytes": 2211
+        },
+        {
+          "path": "web/CORRECTION_VALIDATION.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "e6907bd19b5b6b52c89dd653a591955cc1e5f6ad",
+          "bytes": 906
+        },
+        {
+          "path": "web/README.md",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "70faaecb2fdd24006142e605ee9441b84f6a4662",
+          "bytes": 4094
+        },
+        {
+          "path": "web/VALIDATION.json",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fa823445fe97674d9cb27f17fe9eb383ed3e656d",
+          "bytes": 692
+        },
+        {
+          "path": "web/check_ui.cjs",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "b017a094b2e576db49680bedc5eddf37422e31c5",
+          "bytes": 3838
+        },
+        {
+          "path": "web/index.html",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "600472284475a1b1660420febac2544543c77b6b",
+          "bytes": 4300
+        },
+        {
+          "path": "web/scripts/app.js",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "fd891382c57787cbeb79f6e73a0e6efa86ec3eba",
+          "bytes": 15265
+        },
+        {
+          "path": "web/scripts/q6_data.js",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "adcfe82af60342b1a08bf3ad27360fc065ece43b",
+          "bytes": 1439143
+        },
+        {
+          "path": "web/styles/style.css",
+          "mode": "100644",
+          "type": "blob",
+          "git_object_sha1": "f4f47d7b3cdb3875357cd3e7b6d5af42f05c5b16",
+          "bytes": 4316
+        }
+      ]
+    }
+  ],
+  "contribution_repositories": [
+    {
+      "repository": "0-Actual/responsible-ai-toolbox",
+      "upstream_baseline_reference_only": "28588f1b040ed3be8870e940aa3353c09eff3786",
+      "branches": [
+        {
+          "name": "fix/erroranalysis-metric-consistency",
+          "head": "7a979656e5713f6f57dcb8c7cda1616e557ca20b",
+          "role": "Published contribution or validation branch; inclusion does not imply upstream acceptance.",
+          "base_commit": "28588f1b040ed3be8870e940aa3353c09eff3786",
+          "commits": [
+            "8192f6a55698e549f9e30094dc1fef65037023c2",
+            "0d81de6f2504cf65eaea5151b458a265108c2881",
+            "7a979656e5713f6f57dcb8c7cda1616e557ca20b"
+          ]
+        },
+        {
+          "name": "fix/raiutils-conversion-boundaries",
+          "head": "a4aac60e259b879292679ed1a23f2b7395d6b296",
+          "role": "Published contribution or validation branch; inclusion does not imply upstream acceptance.",
+          "base_commit": "28588f1b040ed3be8870e940aa3353c09eff3786",
+          "commits": [
+            "a4aac60e259b879292679ed1a23f2b7395d6b296"
+          ]
+        },
+        {
+          "name": "prep/erroranalysis-cohort-review",
+          "head": "302a161f23c4784ff5393451fc4308c31a9ce25f",
+          "role": "Preserved public preparation/staging; not a completed upstream contribution.",
+          "base_commit": "28588f1b040ed3be8870e940aa3353c09eff3786",
+          "commits": [
+            "8192f6a55698e549f9e30094dc1fef65037023c2",
+            "0d81de6f2504cf65eaea5151b458a265108c2881",
+            "302a161f23c4784ff5393451fc4308c31a9ce25f"
+          ]
+        },
+        {
+          "name": "stage/erroranalysis-inferred-classes",
+          "head": "d530c460279dbfd20ab35fa3f9aa440a61f1ccfc",
+          "role": "Preserved public preparation/staging; not a completed upstream contribution.",
+          "base_commit": "28588f1b040ed3be8870e940aa3353c09eff3786",
+          "commits": [
+            "8192f6a55698e549f9e30094dc1fef65037023c2",
+            "d530c460279dbfd20ab35fa3f9aa440a61f1ccfc"
+          ]
+        },
+        {
+          "name": "stage/erroranalysis-metric-consistency",
+          "head": "e494452b640e3d26534ebefbf6b08a670fdf1429",
+          "role": "Preserved public preparation/staging; not a completed upstream contribution.",
+          "base_commit": "28588f1b040ed3be8870e940aa3353c09eff3786",
+          "commits": [
+            "e494452b640e3d26534ebefbf6b08a670fdf1429"
+          ]
+        },
+        {
+          "name": "stage/raiutils-conversion-boundaries",
+          "head": "05158e2d2f3b215bd8a1317aa4825e4662c95d73",
+          "role": "Preserved public preparation/staging; not a completed upstream contribution.",
+          "base_commit": "28588f1b040ed3be8870e940aa3353c09eff3786",
+          "commits": [
+            "05158e2d2f3b215bd8a1317aa4825e4662c95d73"
+          ]
+        }
+      ],
+      "unique_contribution_commit_count": 8,
+      "commits": [
+        {
+          "sha": "05158e2d2f3b215bd8a1317aa4825e4662c95d73",
+          "tree": "ac1e62e3f0a9dbda61dc886561aebf6c491abc12",
+          "parents": [
+            "28588f1b040ed3be8870e940aa3353c09eff3786"
+          ],
+          "recorded_author_time": "2026-10-17T00:34:25Z",
+          "recorded_committer_time": "2026-10-17T00:34:25Z",
+          "subject": "Fix raiutils conversion boundaries and add regression tests",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/05158e2d2f3b215bd8a1317aa4825e4662c95d73",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "a4aac60e259b879292679ed1a23f2b7395d6b296",
+          "tree": "ac1e62e3f0a9dbda61dc886561aebf6c491abc12",
+          "parents": [
+            "28588f1b040ed3be8870e940aa3353c09eff3786"
+          ],
+          "recorded_author_time": "2026-10-17T00:35:21Z",
+          "recorded_committer_time": "2026-10-17T00:35:21Z",
+          "subject": "Fix raiutils conversion boundaries",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/a4aac60e259b879292679ed1a23f2b7395d6b296",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T00:35:21Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "e494452b640e3d26534ebefbf6b08a670fdf1429",
+          "tree": "3fac173a1e9da0efc9439028c2954e28a5a0665d",
+          "parents": [
+            "28588f1b040ed3be8870e940aa3353c09eff3786"
+          ],
+          "recorded_author_time": "2026-10-17T00:51:53Z",
+          "recorded_committer_time": "2026-10-17T00:51:53Z",
+          "subject": "Correct error-analysis metrics, class ordering, cohorts and residuals",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/e494452b640e3d26534ebefbf6b08a670fdf1429",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "8192f6a55698e549f9e30094dc1fef65037023c2",
+          "tree": "3fac173a1e9da0efc9439028c2954e28a5a0665d",
+          "parents": [
+            "28588f1b040ed3be8870e940aa3353c09eff3786"
+          ],
+          "recorded_author_time": "2026-10-17T00:52:38Z",
+          "recorded_committer_time": "2026-10-17T00:52:38Z",
+          "subject": "Fix error-analysis metric consistency and regression residuals",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/8192f6a55698e549f9e30094dc1fef65037023c2",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T00:52:39Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "d530c460279dbfd20ab35fa3f9aa440a61f1ccfc",
+          "tree": "9eea5c800d1249d8cfda53eb50a5326c7786add6",
+          "parents": [
+            "8192f6a55698e549f9e30094dc1fef65037023c2"
+          ],
+          "recorded_author_time": "2026-10-17T01:23:18Z",
+          "recorded_committer_time": "2026-10-17T01:23:18Z",
+          "subject": "Infer binary-rate tree classes before cohort and node splits",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/d530c460279dbfd20ab35fa3f9aa440a61f1ccfc",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "0d81de6f2504cf65eaea5151b458a265108c2881",
+          "tree": "9eea5c800d1249d8cfda53eb50a5326c7786add6",
+          "parents": [
+            "8192f6a55698e549f9e30094dc1fef65037023c2"
+          ],
+          "recorded_author_time": "2026-10-17T01:25:21Z",
+          "recorded_committer_time": "2026-10-17T01:25:21Z",
+          "subject": "Infer binary-rate tree classes before cohort and node splits",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/0d81de6f2504cf65eaea5151b458a265108c2881",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T01:25:21Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        },
+        {
+          "sha": "302a161f23c4784ff5393451fc4308c31a9ce25f",
+          "tree": "b6307728b8eb230a6448ebec4eeeac58165fbed0",
+          "parents": [
+            "0d81de6f2504cf65eaea5151b458a265108c2881"
+          ],
+          "recorded_author_time": "2026-10-17T02:04:56Z",
+          "recorded_committer_time": "2026-10-17T02:04:56Z",
+          "subject": "Preserve binary class context across cohorts and handle tree prediction means",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/302a161f23c4784ff5393451fc4308c31a9ce25f",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "7a979656e5713f6f57dcb8c7cda1616e557ca20b",
+          "tree": "b6307728b8eb230a6448ebec4eeeac58165fbed0",
+          "parents": [
+            "0d81de6f2504cf65eaea5151b458a265108c2881"
+          ],
+          "recorded_author_time": "2026-10-17T02:06:00Z",
+          "recorded_committer_time": "2026-10-17T02:06:00Z",
+          "subject": "Preserve inferred classes in filtered metrics and support mean-prediction trees",
+          "url": "https://github.com/0-Actual/responsible-ai-toolbox/commit/7a979656e5713f6f57dcb8c7cda1616e557ca20b",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T02:06:01Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        }
+      ]
+    },
+    {
+      "repository": "0-Actual/onnxruntime",
+      "upstream_baseline_reference_only": "b5375da86e523fb8d8e58677b2223fd3d467bb4a",
+      "branches": [
+        {
+          "name": "fix-layernorm-reduction-semantics",
+          "head": "4926ed5e99b5a4cf7e3d1dd3a0866792ea737625",
+          "role": "Published contribution or validation branch; inclusion does not imply upstream acceptance.",
+          "base_commit": "b5375da86e523fb8d8e58677b2223fd3d467bb4a",
+          "commits": [
+            "d2a70d54817a76ed603d28f30c31db8727be3448",
+            "6f5392d6c9d8b1358b7e868a222a7effb00b01c2",
+            "4926ed5e99b5a4cf7e3d1dd3a0866792ea737625"
+          ]
+        },
+        {
+          "name": "fix-python-attention-score-semantics",
+          "head": "aadca91fe39c225eacac6f146de547e9efac7cb4",
+          "role": "Published contribution or validation branch; inclusion does not imply upstream acceptance.",
+          "base_commit": "b5375da86e523fb8d8e58677b2223fd3d467bb4a",
+          "commits": [
+            "aadca91fe39c225eacac6f146de547e9efac7cb4"
+          ]
+        }
+      ],
+      "unique_contribution_commit_count": 4,
+      "commits": [
+        {
+          "sha": "d2a70d54817a76ed603d28f30c31db8727be3448",
+          "tree": "b2cbc5035d9eda875e5e396702ec46c9f87573a4",
+          "parents": [
+            "b5375da86e523fb8d8e58677b2223fd3d467bb4a"
+          ],
+          "recorded_author_time": "2026-10-17T03:46:59Z",
+          "recorded_committer_time": "2026-10-17T03:46:59Z",
+          "subject": "Preserve reduction semantics in Python LayerNormalization fusion",
+          "url": "https://github.com/0-Actual/onnxruntime/commit/d2a70d54817a76ed603d28f30c31db8727be3448",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "6f5392d6c9d8b1358b7e868a222a7effb00b01c2",
+          "tree": "f89cae98c73d4a095a388c7228263e9bed332539",
+          "parents": [
+            "d2a70d54817a76ed603d28f30c31db8727be3448"
+          ],
+          "recorded_author_time": "2026-10-17T04:04:59Z",
+          "recorded_committer_time": "2026-10-17T04:04:59Z",
+          "subject": "Reject ambiguous reduction axes across nested graph scopes",
+          "url": "https://github.com/0-Actual/onnxruntime/commit/6f5392d6c9d8b1358b7e868a222a7effb00b01c2",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "4926ed5e99b5a4cf7e3d1dd3a0866792ea737625",
+          "tree": "2e60997fd724209609568dd9ee6324e94b5837fb",
+          "parents": [
+            "6f5392d6c9d8b1358b7e868a222a7effb00b01c2"
+          ],
+          "recorded_author_time": "2026-10-17T04:27:55Z",
+          "recorded_committer_time": "2026-10-17T04:27:55Z",
+          "subject": "Preserve LayerNorm constant bindings, exponent and broadcast rank",
+          "url": "https://github.com/0-Actual/onnxruntime/commit/4926ed5e99b5a4cf7e3d1dd3a0866792ea737625",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "aadca91fe39c225eacac6f146de547e9efac7cb4",
+          "tree": "6cd3325af22ee038000967163cc3353c214a5f73",
+          "parents": [
+            "b5375da86e523fb8d8e58677b2223fd3d467bb4a"
+          ],
+          "recorded_author_time": "2026-10-17T05:01:44Z",
+          "recorded_committer_time": "2026-10-17T05:01:44Z",
+          "subject": "Preserve score and layout semantics in Python attention fusion",
+          "url": "https://github.com/0-Actual/onnxruntime/commit/aadca91fe39c225eacac6f146de547e9efac7cb4",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        }
+      ]
+    },
+    {
+      "repository": "0-Actual/optax",
+      "upstream_baseline_reference_only": "8589d974e565fbf1bfa1cdf8d94f5ecdf8ebe93c",
+      "branches": [
+        {
+          "name": "fix-multisteps-nonfinite-masks",
+          "head": "912535bf13521b6aecdca18c8939cb7140e23f9d",
+          "role": "Published contribution or validation branch; inclusion does not imply upstream acceptance.",
+          "base_commit": "8589d974e565fbf1bfa1cdf8d94f5ecdf8ebe93c",
+          "commits": [
+            "1c7e94b42f47899bd98021ed03fe4e0088be4a41",
+            "912535bf13521b6aecdca18c8939cb7140e23f9d"
+          ]
+        },
+        {
+          "name": "optax-multisteps-validation",
+          "head": "3938cea8578e901a151f6c70ebcf638c423dda1d",
+          "role": "Published contribution or validation branch; inclusion does not imply upstream acceptance.",
+          "base_commit": "8589d974e565fbf1bfa1cdf8d94f5ecdf8ebe93c",
+          "commits": [
+            "1c7e94b42f47899bd98021ed03fe4e0088be4a41",
+            "3938cea8578e901a151f6c70ebcf638c423dda1d"
+          ]
+        }
+      ],
+      "unique_contribution_commit_count": 3,
+      "commits": [
+        {
+          "sha": "1c7e94b42f47899bd98021ed03fe4e0088be4a41",
+          "tree": "25b8bc3805b8a6ed645a7478f7cef57c5949bbc5",
+          "parents": [
+            "8589d974e565fbf1bfa1cdf8d94f5ecdf8ebe93c"
+          ],
+          "recorded_author_time": "2026-10-17T06:39:36Z",
+          "recorded_committer_time": "2026-10-17T06:39:36Z",
+          "subject": "Preserve MultiSteps zero-update and accumulator-reset semantics for nonfinite values",
+          "url": "https://github.com/0-Actual/optax/commit/1c7e94b42f47899bd98021ed03fe4e0088be4a41",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "3938cea8578e901a151f6c70ebcf638c423dda1d",
+          "tree": "7b1174f217291fbb15b5dfb9c66a9edab1a940e6",
+          "parents": [
+            "1c7e94b42f47899bd98021ed03fe4e0088be4a41"
+          ],
+          "recorded_author_time": "2026-10-17T06:42:11Z",
+          "recorded_committer_time": "2026-10-17T06:42:11Z",
+          "subject": "Add isolated hosted baseline and corrected MultiSteps verification",
+          "url": "https://github.com/0-Actual/optax/commit/3938cea8578e901a151f6c70ebcf638c423dda1d",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        },
+        {
+          "sha": "912535bf13521b6aecdca18c8939cb7140e23f9d",
+          "tree": "79bf85aa2ca2c9183ef25d2fd688e032ee88fa4e",
+          "parents": [
+            "1c7e94b42f47899bd98021ed03fe4e0088be4a41"
+          ],
+          "recorded_author_time": "2026-10-17T07:51:47Z",
+          "recorded_committer_time": "2026-10-17T07:51:47Z",
+          "subject": "Record owner decision to retain correction without Google CLA or upstream submission",
+          "url": "https://github.com/0-Actual/optax/commit/912535bf13521b6aecdca18c8939cb7140e23f9d",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": false,
+            "reason": "unsigned",
+            "verified_at": null,
+            "signature_present": false,
+            "committer_account": "0-Actual"
+          }
+        }
+      ]
+    },
+    {
+      "repository": "0-Actual/math",
+      "upstream_baseline_reference_only": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "branches": [
+        {
+          "name": "docs-taming-manuscript-versions",
+          "head": "50bdcbb185afd76945e010baf8d1ee1bd5ceddaa",
+          "role": "Published contribution or validation branch; inclusion does not imply upstream acceptance.",
+          "base_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+          "commits": [
+            "50bdcbb185afd76945e010baf8d1ee1bd5ceddaa"
+          ]
+        }
+      ],
+      "unique_contribution_commit_count": 1,
+      "commits": [
+        {
+          "sha": "50bdcbb185afd76945e010baf8d1ee1bd5ceddaa",
+          "tree": "b7d9fbfa5d611471f6c5f9813daa202def143234",
+          "parents": [
+            "1581d4cbdd69a0faf34b2089614fe2a814316a6a"
+          ],
+          "recorded_author_time": "2026-10-17T23:30:42Z",
+          "recorded_committer_time": "2026-10-17T23:30:42Z",
+          "subject": "docs: link revised taming manuscript from formalization scope",
+          "url": "https://github.com/0-Actual/math/commit/50bdcbb185afd76945e010baf8d1ee1bd5ceddaa",
+          "author_account": "0-Actual",
+          "github_signature_observation": {
+            "verified": true,
+            "reason": "valid",
+            "verified_at": "2026-10-17T23:30:44Z",
+            "signature_present": true,
+            "committer_account": "web-flow"
+          }
+        }
+      ]
+    }
+  ],
+  "upstream_submission_references": [
+    {
+      "url": "https://github.com/microsoft/responsible-ai-toolbox/pull/2648",
+      "head_at_observation": "a4aac60e259b879292679ed1a23f2b7395d6b296",
+      "commits": [
+        "a4aac60e259b879292679ed1a23f2b7395d6b296"
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/responsible-ai-toolbox/pull/2649",
+      "head_at_observation": "7a979656e5713f6f57dcb8c7cda1616e557ca20b",
+      "commits": [
+        "8192f6a55698e549f9e30094dc1fef65037023c2",
+        "0d81de6f2504cf65eaea5151b458a265108c2881",
+        "7a979656e5713f6f57dcb8c7cda1616e557ca20b"
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/onnxruntime/pull/33421",
+      "head_at_observation": "4926ed5e99b5a4cf7e3d1dd3a0866792ea737625",
+      "commits": [
+        "d2a70d54817a76ed603d28f30c31db8727be3448",
+        "6f5392d6c9d8b1358b7e868a222a7effb00b01c2",
+        "4926ed5e99b5a4cf7e3d1dd3a0866792ea737625"
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/onnxruntime/pull/33423",
+      "head_at_observation": "aadca91fe39c225eacac6f146de547e9efac7cb4",
+      "commits": [
+        "aadca91fe39c225eacac6f146de547e9efac7cb4"
+      ]
+    }
+  ]
+}
