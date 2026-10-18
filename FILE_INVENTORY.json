@@ -1,6 +1,6 @@
 {
   "schema": "qel-file-inventory/1",
-  "purpose": "Unsigned documentary file inventory; not a cryptographic identity or owner signature. Excludes the inventory itself.",
+  "purpose": "Historical October 1 documentary-edition file inventory; not the current repository inventory. Excludes the inventory itself. Not an owner signature.",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/research-question.md",
@@ -109,5 +109,7 @@
   ],
   "new_cryptographic_fingerprints": false,
   "owner_signature": null,
-  "reviewed_edition_date": "2026-10-01"
+  "reviewed_edition_date": "2026-10-01",
+  "scope_note": "Later publications have separate edition manifests. Listed byte counts describe the historical selection and must not be used to validate current root files.",
+  "historical_inventory_observed_at_commit": "fd5e1b0e795110eeec742e12867a9771f848ca36"
 }

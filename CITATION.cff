@@ -5,5 +5,5 @@ type: dataset
 authors:
   - family-names: "Laing"
     given-names: "Sherman Gaucia"
-version: "2026.09.17-documentary.1"
-abstract: "A documentary chronology of selected research records; development code and full private interactions are withheld."
+version: "2026.10.17-research.2"
+abstract: "Dated research chronology, selected research code and data, reproducible software studies, corrections and evidence limits. Raw personal conversations, credentials and uncleared private material remain withheld."

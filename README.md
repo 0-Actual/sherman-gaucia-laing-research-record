@@ -9,6 +9,7 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
+| [October 17 metadata review](REVIEW_UPDATES_20261017.md) | Corrected citation scope, historical inventory limits and preserved validation gaps |
 | [GitHub Actions command-output study](records/2026-10-17-github-actions-output-review/README.md) | Reproduced final-line loss and Unicode chunk corruption; local correction, 100 regression cases, source attribution and explicit validation limits |
 | [OpenAI mathematics review and exact finite checks](records/2026-10-17-openai-mathematics-review/README.md) | Pinned whole-repository structural review, 72 finite identity checks, declared proof limits, reproducible scripts and a constructive invitation to discussion |
 | [Priority Zero — October 17 expanded research release](records/2026-10-17-priority-zero-expanded/README.md) | Source collections, data, corrections, failures, GAUCIA sources, QRF research account, privacy boundaries and an anniversary dedication |
@@ -30,6 +31,8 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 | [Revision 2 publication receipt](PRIORITY_ZERO_20261017_R2_PUBLICATION_RECEIPT.json) | Current corrected edition, exact file identities and verified commit signatures |
 | [Original expanded-edition receipt](PRIORITY_ZERO_20261017_PUBLICATION_RECEIPT.json) | Historical first-edition commit and file identities; superseded by revision 2 |
 | [Earlier publication status](PUBLICATION_STATUS.json) | Historical publication and automation records |
+
+The root [file inventory](FILE_INVENTORY.json) is an October 1 historical snapshot. Use each later edition’s own manifest and receipt for its reviewed files. Citation metadata describes the current mixed documentary, code and data collection; always cite the exact file and commit used.
 
 ## Dates and prior-art research
 
