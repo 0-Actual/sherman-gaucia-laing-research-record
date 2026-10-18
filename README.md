@@ -3,12 +3,13 @@
 **Sherman Gaucia Laing — founder and principal researcher**  
 Documentary preparation with GAUCIA through ChatGPT/Codex.
 
-This publication records the development timeline of Quantum.Earth.Laing using dated evidence recovered from the owner's research records. It publishes event summaries, dates, attribution and evidence boundaries. The October 17 expanded edition adds retained research source, data, GAUCIA application sources, sanitized governance material and the QRF documentary record. Raw personal interactions, credentials and uncleared private material remain outside the public selection.
+This publication records the development timeline of Quantum.Earth.Laing using dated evidence recovered from the owner's research records. It publishes event summaries, dates, attribution and evidence boundaries. The October 17 expanded edition adds retained research source, data, GAUCIA application sources and the QRF documentary record. Raw personal interactions, credentials and uncleared private material remain outside the public selection.
 
 ## Read the record
 
 | File | Contents |
 | --- | --- |
+| [October 18 availability and publication-scope correction](records/2026-10-17-priority-zero-expanded/PUBLICATION_CORRECTION_20261018.md) | Corrected source-availability statements, repaired selected links and current distribution scope |
 | [Owner-signed prior-publication record — October 18](records/2026-10-18-publication-attestation/README.md) | New owner-controlled signature covering 61 earlier commit references, with exact scope, original signature states and independent verification instructions |
 | [Optax MultiSteps numerical review](records/2026-10-17-optax-multisteps-review/README.md) | Preserved non-finite masking correction, baseline failures, 55 passing tests plus 30 passing subtests, reproduction instructions and separate license notices |
 | [October 17 metadata review](REVIEW_UPDATES_20261017.md) | Corrected citation scope, historical inventory limits and preserved validation gaps |
@@ -30,7 +31,7 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 | [License](LICENSE.md) | Noncommercial research and evaluation terms |
 | [Maintenance](MAINTENANCE.md) | Maintenance responsibilities and public-response boundaries |
 | [Revision 2 corrections and checks](records/2026-10-17-priority-zero-expanded/PUBLICATION_REVIEW_R2.md) | Confirmed defects, corrections, regression evidence and remaining limits |
-| [Revision 2 publication receipt](PRIORITY_ZERO_20261017_R2_PUBLICATION_RECEIPT.json) | Current corrected edition, exact file identities and verified commit signatures |
+| [Revision 2 publication receipt](PRIORITY_ZERO_20261017_R2_PUBLICATION_RECEIPT.json) | October 17 revision-2 file identities and commit-signature evidence; superseded for the current selection |
 | [Original expanded-edition receipt](PRIORITY_ZERO_20261017_PUBLICATION_RECEIPT.json) | Historical first-edition commit and file identities; superseded by revision 2 |
 | [Earlier publication status](PUBLICATION_STATUS.json) | Historical publication and automation records |
 
