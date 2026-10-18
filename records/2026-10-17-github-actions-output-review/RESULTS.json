@@ -1,0 +1,62 @@
+{
+  "baseline": {
+    "tests": 100,
+    "pass": 30,
+    "fail": 70,
+    "bySuite": [
+      {
+        "file": "output-lines.test.ts",
+        "passed": 27,
+        "failed": 62
+      },
+      {
+        "file": "output-lines-integration.test.ts",
+        "passed": 3,
+        "failed": 8
+      }
+    ]
+  },
+  "candidate": {
+    "tests": 100,
+    "pass": 100,
+    "fail": 0,
+    "bySuite": [
+      {
+        "file": "output-lines.test.ts",
+        "passed": 89,
+        "failed": 0
+      },
+      {
+        "file": "output-lines-integration.test.ts",
+        "passed": 11,
+        "failed": 0
+      }
+    ]
+  },
+  "platform": "win32",
+  "node": "24.20.0",
+  "upstreamCommit": "7e25f67e8fd17369aa21e6e816ac99654106e0dc",
+  "limits": [
+    "Controlled chunk tests use mocked child events",
+    "Eleven integration cases use real local Node child processes",
+    "Not hosted Actions execution or full repository suite"
+  ],
+  "existing_suite": {
+    "first_run": {
+      "passed": 29,
+      "failed": 3
+    },
+    "targeted_environment_recheck": {
+      "passed": 2,
+      "failed": 1,
+      "skipped": 29
+    },
+    "unique_existing_cases_with_passing_evidence": 31,
+    "remaining_failure": "valid cwd: local ls.exe exits 3221225794 on both upstream and candidate",
+    "clean_full_suite_pass": false
+  },
+  "formatting": "three changed files pass Prettier",
+  "eslint": "not completed; install failed EPERM",
+  "submission": "No upstream submission; README contribution intake paused",
+  "publication_scope": "owner-repository study; no upstream submission or installed repair"
+}

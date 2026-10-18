@@ -1,0 +1,12 @@
+{
+  "name": "github-output-review-tools",
+  "private": true,
+  "devDependencies": {
+    "@types/jest": "29.5.4",
+    "@types/node": "24.1.0",
+    "jest": "29.7.0",
+    "ts-jest": "29.1.1",
+    "typescript": "5.2.2",
+    "prettier": "3.0.3"
+  }
+}

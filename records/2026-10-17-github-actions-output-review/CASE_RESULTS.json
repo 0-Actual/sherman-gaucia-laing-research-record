@@ -1,0 +1,699 @@
+{
+  "new_cases": [
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 0",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 10",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 11",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 12",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 2",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 3",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 4",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 5",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 6",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 7",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 8",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks ASCII tail, split at byte 9",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 0",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 10",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 11",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 12",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 13",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 2",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 3",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 4",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 5",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 6",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 7",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 8",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode tail, split at byte 9",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 0",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 10",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 11",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 12",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 13",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 14",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 15",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 2",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 3",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 4",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 5",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 6",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 7",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 8",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks Unicode terminated, split at byte 9",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 0",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 2",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 3",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 4",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 5",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 6",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 7",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks blank lines, split at byte 8",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks empty, split at byte 0",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks flushes once when exit is followed by delayed stream closure",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks flushes tails before settling ignored nonzero",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks flushes tails before settling nonzero",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks flushes tails before settling stderr failure",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks incomplete UTF8, split at byte 0",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks incomplete UTF8, split at byte 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks incomplete UTF8, split at byte 2",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks incomplete UTF8, split at byte 3",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks invalid UTF8, split at byte 0",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks invalid UTF8, split at byte 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks invalid UTF8, split at byte 2",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks invalid UTF8, split at byte 3",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks invalid UTF8, split at byte 4",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks keeps stdout and stderr decoders independent across bytewise interleaving",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks non-native newline, split at byte 0",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks non-native newline, split at byte 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks non-native newline, split at byte 2",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks non-native newline, split at byte 3",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks retains the existing ToolRunner tail event for direct consumers",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 0",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 1",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 10",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 11",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 12",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 13",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 14",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 15",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 2",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 3",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 4",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 5",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 6",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 7",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 8",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks terminated, split at byte 9",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "line output is independent of transport chunks treats a throwing tail listener as best effort, like complete lines",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 0",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 1",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 2",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 3",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 4",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 5",
+      "baseline": "passed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 6",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output delivers exact lines and raw output for payload 7",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output flushes on native nonzero exit, ignoreReturnCode=false",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output flushes on native nonzero exit, ignoreReturnCode=true",
+      "baseline": "failed",
+      "candidate": "passed"
+    },
+    {
+      "name": "real child-process line output flushes stderr before a failOnStdErr rejection",
+      "baseline": "failed",
+      "candidate": "passed"
+    }
+  ],
+  "existing_cases": [
+    {
+      "name": "@actions/exec Runs exec successfully with arguments split out",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Runs exec successfully with arguments partially split out",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Runs exec successfully with arguments as part of command line",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Runs exec successfully with command from PATH",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Exec fails with error on bad call",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Succeeds on stderr by default",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Fails on stderr if specified",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Fails when process fails to launch",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Handles output callbacks",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Handles large stdline",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Handles stdin shell",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Handles stdin js",
+      "initial": "failed",
+      "targeted_recheck": "passed",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Handles child process holding streams open",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Handles child process holding streams open and non-zero exit code",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Handles child process holding streams open and stderr",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Exec roots relative tool path using unrooted options.cwd",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Exec roots throws friendly error when bad cwd is specified",
+      "initial": "failed",
+      "targeted_recheck": "passed",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Exec roots does not throw when valid cwd is provided",
+      "initial": "failed",
+      "targeted_recheck": "failed",
+      "observed_passing": false
+    },
+    {
+      "name": "@actions/exec Exec roots relative tool path using rooted options.cwd",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Exec roots relative tool path using process.cwd",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec correctly outputs for getExecOutput",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec correctly outputs for getExecOutput with additional listeners",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec correctly outputs for getExecOutput when total size exceeds buffer size",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec correctly outputs for getExecOutput with multi-byte characters",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec Exec roots relative tool path using process.cwd (Windows path separator)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec execs .exe with verbatim args (Windows)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec execs .exe with arg quoting (Windows)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec execs .exe with a space and with verbatim args (Windows)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec execs .cmd with a space and with verbatim args (Windows)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec execs .cmd with a space and with arg with space (Windows)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec execs .cmd from path (Windows)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    },
+    {
+      "name": "@actions/exec execs .cmd with arg quoting (Windows)",
+      "initial": "passed",
+      "targeted_recheck": "pending",
+      "observed_passing": true
+    }
+  ],
+  "remaining_existing_failure": "The valid-cwd ls.exe case exits 3221225794 on upstream and candidate in this local environment."
+}
