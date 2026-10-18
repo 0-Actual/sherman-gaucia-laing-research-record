@@ -1,6 +1,6 @@
 # Publication corrections — October 17, 2026, revision 2
 
-This review corrects the published package and a reproduced GAUCIA shutdown defect.
+This is the dated October 17 revision-2 review. The [October 18 availability and scope correction](PUBLICATION_CORRECTION_20261018.md) supersedes its current dependency and navigation status. Its original review counts remain historical evidence.
 The original publication is preserved at commit
 `9219be1567682d29cd574a6e8e1748404516a4d2`; its receipt and hashes describe that
 earlier edition. Use this revision's manifest for the revised bytes. The owner's
@@ -12,7 +12,7 @@ dedication, attributed statement and exact noncommercial license are unchanged.
 |---|---|---|
 | Stop request reported as completed cleanup | The r3 backend discarded its child handle immediately after `kill()`, including a false return. R4 retains ownership until an exit event or already-observed exit, rejects failed/uncertain stops, and makes both service callers await the result. | Two baseline counterexamples, pending-exit/refusal/timeout/error/concurrent-stop checks and service regressions; 55 isolated tests pass. No live model or USB installation. |
 | Residual device metadata | Forty-two historical file entries contained device-name or execution-annotation matches that the earlier targeted screen missed. R2 redacts device identity and removes standalone execution annotations from derivative files. | Targeted readback of changed files; original evidence remains preserved. This is not a claim that every possible identifying detail has been ruled out. |
-| Broken public document references | Local working paths and copied-document relative paths did not resolve in the distributed layout. 241 link occurrences now resolve to supplied files; 66 references are labeled unresolved instead of being presented as working links. | Resolved targets were selected from supplied path/content identities. Three mathematical expressions flagged by the simple link scanner were false positives and were not changed. |
+| Broken public document references | Local working paths and copied-document relative paths did not resolve in the distributed layout. In revision 2, 241 link occurrences resolved to supplied files and 66 were labeled unresolved. The October 18 audit located every target in that bounded population; these were link occurrences, not missing research findings. See the current correction for the revised public selection. | Resolved targets were selected from supplied path/content identities. Three mathematical expressions flagged by the simple link scanner were false positives and were not changed. |
 | Non-JSON annotation appended to a policy file | A standalone tool execution annotation followed the closing JSON object. It is removed from the public derivative. | The revised policy parses as JSON; the historical annotated bytes remain preserved. |
 | Verifier did not bound all reads or validate manifest shape | The initial verifier read top-level files before checking observed size and could expose a traceback for a non-object manifest. R2 checks size/type first, hashes payloads in bounded chunks, bounds combined archive members, rejects archive symlinks and validates manifest shapes. | Fifteen valid/tampered-input checks pass. This is integrity checking, not authenticated authorship or scientific validation. |
 
@@ -62,13 +62,12 @@ The first command verifies files and archive contents without extracting or runn
 research code. The second uses temporary synthetic fixtures and cleans them up.
 
 For cross-collection Markdown links, extract each archive into a separate directory
-with exactly its archive basename, all under one common parent. For example,
-`collections/Priority-Zero-Teaching/TEACHING_MATRIX.md` links to sibling collection
-folders. Do not extract all archives into a shared flat directory.
+with exactly its archive basename, all under one common parent. Cross-collection links point to sibling collection folders. Do not extract all archives into a shared flat directory.
 
 Use `GAUCIA-service-corrections-r4.zip` for the new backend/service correction and
 its isolated tests. Retained `GAUCIA-repair-r3.zip` remains the prior comparison.
-QRF remains documentary; two GAUCIA audit dependencies remain absent from this local
-selection. Source availability still does not establish a complete fresh install.
+QRF remains documentary. The two dependencies absent from the earlier selection
+were recovered internally on October 18. Source availability still does not
+establish a complete public fresh installation.
 No new Library or USB save, credential setup, agreement, monitor or deployment is
 claimed. The same disclosure boundary and unchanged license apply.
