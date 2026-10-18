@@ -1,0 +1,163 @@
+diff --git a/optax/transforms/_accumulation.py b/optax/transforms/_accumulation.py
+index a706cce..f2cee94 100644
+--- a/optax/transforms/_accumulation.py
++++ b/optax/transforms/_accumulation.py
+@@ -379,12 +379,19 @@ class MultiSteps:
+               new_inner_state,
+           ),
+           acc_grads=jax.tree.map(
+-              lambda ga: jnp.astype((1 - emit) * ga, self._accumulator_dtype),
++              # Multiplication by zero would retain NaNs from a rejected batch.
++              lambda ga: jnp.astype(
++                  jnp.where(emit, jnp.zeros_like(ga), ga),
++                  self._accumulator_dtype,
++              ),
+               acc_grads,
+           ),
+           skip_state=skip_state,
+       )
+-      final_updates = jax.tree.map(lambda ga: emit * ga, final_updates)
++      # Non-emitting steps must return zeros, even for non-finite updates.
++      final_updates = jax.tree.map(
++          lambda ga: jnp.where(emit, ga, jnp.zeros_like(ga)), final_updates
++      )
+       return final_updates, new_state
+ 
+     def _skip_update(updates, state, params):
+diff --git a/optax/transforms/_accumulation_test.py b/optax/transforms/_accumulation_test.py
+index 296809c..8ae7ac0 100644
+--- a/optax/transforms/_accumulation_test.py
++++ b/optax/transforms/_accumulation_test.py
+@@ -25,6 +25,7 @@ from optax._src import combine
+ from optax._src import transform
+ from optax._src import update
+ from optax.transforms import _accumulation
++from optax.transforms import _conditionality
+ from optax.transforms import _constraining
+ 
+ OPTIMIZERS_TO_TEST = [
+@@ -409,5 +410,124 @@ class AccumulationTest(parameterized.TestCase):
+             params = new_params
+ 
+ 
++class MultiStepsNonFiniteTest(parameterized.TestCase):
++
++  @parameterized.product(
++      bad_value=(np.nan, np.inf, -np.inf),
++      use_grad_mean=(False, True),
++      compiled=(False, True),
++  )
++  def test_intermediate_updates_are_zero(
++      self, bad_value, use_grad_mean, compiled
++  ):
++    params = {'w': jnp.array([3.0, -2.0]), 'bias': jnp.array(1.0)}
++    ms_opt = _accumulation.MultiSteps(
++        alias.sgd(1.0, momentum=0.9), 2, use_grad_mean=use_grad_mean
++    )
++    state = ms_opt.init(params)
++    update_fn = jax.jit(ms_opt.update) if compiled else ms_opt.update
++    grads = {'w': jnp.array([bad_value, 2.0]), 'bias': jnp.array(4.0)}
++
++    updates, new_state = update_fn(grads, state, params)
++
++    for leaf in jax.tree.leaves(updates):
++      np.testing.assert_array_equal(leaf, jnp.zeros_like(leaf))
++    jax.tree.map(
++        np.testing.assert_array_equal,
++        update.apply_updates(params, updates),
++        params,
++    )
++    jax.tree.map(
++        np.testing.assert_array_equal,
++        new_state.inner_opt_state,
++        state.inner_opt_state,
++    )
++    self.assertEqual(int(new_state.mini_step), 1)
++    self.assertEqual(int(new_state.gradient_step), 0)
++    self.assertFalse(bool(jnp.isfinite(new_state.acc_grads['w'][0])))
++    np.testing.assert_array_equal(new_state.acc_grads['w'][1], 2.0)
++
++  @parameterized.product(
++      bad_value=(np.nan, np.inf, -np.inf),
++      use_grad_mean=(False, True),
++      compiled=(False, True),
++  )
++  def test_recovery_after_inner_optimizer_rejects_batch(
++      self, bad_value, use_grad_mean, compiled
++  ):
++    params = {'w': jnp.array([3.0, -2.0])}
++    ms_opt = _accumulation.MultiSteps(
++        _conditionality.apply_if_finite(alias.sgd(1.0), 10),
++        2,
++        use_grad_mean=use_grad_mean,
++    )
++    state = ms_opt.init(params)
++    update_fn = jax.jit(ms_opt.update) if compiled else ms_opt.update
++    for grads in [jnp.zeros(2), jnp.array([bad_value, 1.0])]:
++      updates, state = update_fn({'w': grads}, state, params)
++      np.testing.assert_array_equal(updates['w'], jnp.zeros(2))
++      params = update.apply_updates(params, updates)
++
++    self.assertEqual(int(state.mini_step), 0)
++    self.assertEqual(int(state.gradient_step), 1)
++    self.assertEqual(int(state.inner_opt_state.total_notfinite), 1)
++    np.testing.assert_array_equal(state.acc_grads['w'], jnp.zeros(2))
++
++    first = jnp.array([2.0, 4.0])
++    second = jnp.array([4.0, 8.0])
++    updates, state = update_fn({'w': first}, state, params)
++    np.testing.assert_array_equal(updates['w'], jnp.zeros(2))
++    updates, state = update_fn({'w': second}, state, params)
++    expected = -(first + second) / (2 if use_grad_mean else 1)
++    np.testing.assert_array_equal(updates['w'], expected)
++    self.assertEqual(int(state.gradient_step), 2)
++    self.assertEqual(int(state.inner_opt_state.total_notfinite), 1)
++    self.assertEqual(int(state.inner_opt_state.notfinite_count), 0)
++    np.testing.assert_array_equal(state.acc_grads['w'], jnp.zeros(2))
++
++  @parameterized.product(
++      bad_value=(np.nan, np.inf, -np.inf), use_grad_mean=(False, True)
++  )
++  def test_emitted_nonfinite_update_is_not_silently_discarded(
++      self, bad_value, use_grad_mean
++  ):
++    params = jnp.array([1.0, 2.0])
++    ms_opt = _accumulation.MultiSteps(
++        alias.sgd(1.0), 1, use_grad_mean=use_grad_mean
++    )
++    grads = jnp.array([bad_value, 3.0])
++    updates, state = jax.jit(ms_opt.update)(grads, ms_opt.init(params), params)
++    np.testing.assert_array_equal(updates, -grads)
++    np.testing.assert_array_equal(state.acc_grads, jnp.zeros_like(params))
++    self.assertEqual(int(state.gradient_step), 1)
++
++  @parameterized.product(use_grad_mean=(False, True), compiled=(False, True))
++  def test_rejected_ministep_preserves_partial_accumulation(
++      self, use_grad_mean, compiled
++  ):
++    params = jnp.array([3.0, -2.0])
++    ms_opt = _accumulation.MultiSteps(
++        alias.sgd(1.0),
++        2,
++        use_grad_mean=use_grad_mean,
++        should_skip_update_fn=_accumulation.skip_not_finite,
++    )
++    update_fn = jax.jit(ms_opt.update) if compiled else ms_opt.update
++    first = jnp.array([2.0, 4.0])
++    _, state = update_fn(first, ms_opt.init(params), params)
++    updates, skipped_state = update_fn(jnp.array([np.nan, 1.0]), state, params)
++    np.testing.assert_array_equal(updates, jnp.zeros_like(params))
++    np.testing.assert_array_equal(skipped_state.acc_grads, state.acc_grads)
++    self.assertEqual(int(skipped_state.mini_step), 1)
++    self.assertEqual(int(skipped_state.gradient_step), 0)
++    self.assertEqual(int(skipped_state.skip_state['num_not_finite']), 1)
++    second = jnp.array([4.0, 8.0])
++    updates, state = update_fn(second, skipped_state, params)
++    np.testing.assert_array_equal(
++        updates, -(first + second) / (2 if use_grad_mean else 1)
++    )
++    np.testing.assert_array_equal(state.acc_grads, jnp.zeros_like(params))
++
++
+ if __name__ == '__main__':
+   absltest.main()

@@ -1,0 +1,68 @@
+{
+  "edition": "Optax MultiSteps results publication",
+  "date_eastern": "2026-10-17",
+  "hash_algorithm": "SHA-256",
+  "scope": "All files in this edition except MANIFEST.json itself; root navigation is verified separately.",
+  "files": [
+    {
+      "path": "CORRECTIONS_AND_LIMITS.md",
+      "bytes": 3247,
+      "sha256": "2272f74b8dd93b8d855b216d67dd22b3afe493c31cb70488fdeb840348055724"
+    },
+    {
+      "path": "FINDINGS.md",
+      "bytes": 3967,
+      "sha256": "a036d6ca7829bd952d418b455126d8acb42156e0b3fc3fc74087fb88ca13e9c2"
+    },
+    {
+      "path": "HOSTED_TEST_EVIDENCE.txt",
+      "bytes": 6634,
+      "sha256": "e371247525bc6fe6d4c71d011db399df0c481fa9be904282fea96afe67a3161a"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 9441,
+      "sha256": "11cf176ed702f9cbf81d7a49a8121b59706a7a70ea79f4e5de3ec8bb8d703ae2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2963,
+      "sha256": "b2309c23d83dae95833b7ffaac5aed9d58f115a1c3018c72fa992d3d0214f72b"
+    },
+    {
+      "path": "REPRODUCE.md",
+      "bytes": 3972,
+      "sha256": "7d68ad942f91e9123591330d812d0a02858ff26fd1afb130ff7abfd1c242a6b2"
+    },
+    {
+      "path": "RESULTS.json",
+      "bytes": 6616,
+      "sha256": "fbbf6440440771eb1e01158264a129fc651799c473ed0244769ce5f6293eff6d"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 1881,
+      "sha256": "a9cb82943f87d2d6cdb09742edff97cda894c6399b004e243adaca85c7719dbf"
+    },
+    {
+      "path": "SOURCE_REFERENCES.json",
+      "bytes": 2472,
+      "sha256": "6c1e80f4bf1ca6552c70fda5c051cd44f82d4e18ddbd11212c76867c0e994964"
+    },
+    {
+      "path": "UPSTREAM_LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "contribution.patch",
+      "bytes": 6681,
+      "sha256": "f7932cabce57864d1104b30fbd7ade1b2c90b77fde36292fe70f6ec25ed4a753"
+    },
+    {
+      "path": "environment-observed.txt",
+      "bytes": 885,
+      "sha256": "626115499f0a3bc6f68b4eaeebdd99b480c84ef60e62ea4ba6c2f2060a8ddaba"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+# Observed successful-install versions from the recorded hosted job.
+# Not the complete original pip freeze; not a tested new environment lock.
+# Editable Optax is pinned by commit in REPRODUCE.md, not by a package release here.
+absl-py==2.5.1
+aiofiles==25.1.0
+black==26.5.1
+click==8.5.0
+etils==1.14.0
+flax==0.11.2
+fsspec==2026.9.0
+humanize==4.16.0
+iniconfig==2.3.1
+jax==0.7.1
+jaxlib==0.7.1
+markdown-it-py==4.2.0
+mdurl==0.1.2
+ml_dtypes==0.6.0
+msgpack==1.2.3
+mypy-extensions==1.1.0
+numpy==2.4.6
+opt_einsum==3.4.0
+orbax-checkpoint==0.12.7
+packaging==26.3
+pathspec==1.1.1
+platformdirs==4.13.3
+pluggy==1.7.0
+prometheus-client==0.26.0
+protobuf==7.36.2
+psutil==7.2.2
+pygments==2.21.0
+pyink==26.5.1
+pytest==9.1.1
+pytokens==0.4.1
+PyYAML==6.0.3
+rich==15.0.0
+ruff==0.17.1
+scipy==1.17.1
+simplejson==4.2.0
+tensorstore==0.1.85
+treescope==0.1.10
+typing_extensions==4.16.0
+uvloop==0.23.0
+zipp==4.1.1

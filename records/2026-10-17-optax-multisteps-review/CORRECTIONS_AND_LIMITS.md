@@ -1,0 +1,16 @@
+# Preserved mistakes and limits
+
+This edition preserves the original baseline failures, the already published correction, and the owner's decision against an upstream Google submission. It does not erase earlier unsuccessful steps.
+
+1. **License guidance was incomplete at the decision point.** Google's separate CLA was identified during selection, but its commercial implications and the existing public fork's Apache terms were explained too late. Microsoft’s separate agreement did not authorize Google’s agreement. The owner declined Google's CLA at owner-reported 3:45 a.m. Eastern on October 17. The fork had already been created; no upstream PR was opened and no maintainer rejection occurred.
+2. **Hardware feasibility was checked too late.** Local JAX numerical collection stopped at the AVX feature guard. No local numerical assertion ran. Avoidable local setup was attempted before this limitation was understood. The guard was not bypassed; hosted CPU evidence supplied the actual results.
+3. **Earlier setup failures remain recorded.** An initial source clone encountered a network name-resolution/thread-start failure, and an environment setup initially could not persist its default cache. Subsequent authorized network access and a workspace cache allowed preparation. These were setup failures, not failed scientific assertions.
+4. **Counts must retain units.** The baseline has 34 added cases (30 failed, 4 passed). The corrected selected suite reports 55 tests and 30 subtests. Its 85 JUnit records include subtests and must not be described as 85 distinct tests or defects.
+5. **Original commits were unsigned.** Hashes bind exact content but do not alone authenticate the author. Original fork commits remain intact. A GitHub-verified signature on this later publication does not retroactively sign the original work or establish an owner-controlled signing key.
+6. **Raw hosted artifact was not downloaded successfully.** The saved full job log contains the printed structured summary and terminal results. RESULTS.json is derived from that evidence; it is not a new local parse of the original raw JUnit XML. The linked artifact has a stated November 16 retention expiry. Public excerpts and hashes preserve selected evidence, not the complete hosted artifact.
+7. **No new numerical run was performed for this edition.** Publication preparation checked patch applicability, pinned source identity, line-ending-normalized reconstruction and the still-successful recorded run. Repeating an unchanged suite was unnecessary.
+8. **Selection is bounded.** No full Optax suite, GPU/TPU test, benchmark, whole-repository semantic review or independent scientific certification is claimed. The prior related-issue search is not a proof of novelty or absence of duplicates.
+
+The source/test files in the original fork use CRLF line endings. Patch reconstruction from the upstream LF baseline matches them after CRLF-to-LF normalization. Both raw and normalized identities are recorded; the distinction is not silently discarded.
+
+Private source logs, earlier packets and unsuccessful attempts remain preserved locally. Raw personal conversations, credentials and unrelated private research are excluded from this public edition.

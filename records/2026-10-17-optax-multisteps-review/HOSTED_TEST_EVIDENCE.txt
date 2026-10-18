@@ -1,0 +1,41 @@
+Selected verbatim excerpts from the saved GitHub Actions job log.
+Run: https://github.com/0-Actual/optax/actions/runs/39010905993
+Job: 117333037191
+Saved full log SHA-256: 4273316df6cfc78e87bff06f1ddc3e6d1bfa1a7a208af103124c0bca213814d1
+Line numbers refer to the saved local log; this is an excerpt, not the complete log or raw JUnit XML.
+
+[line 313] 2026-10-17T06:42:53.9139535Z Successfully installed PyYAML-6.0.3 absl-py-2.5.1 aiofiles-25.1.0 black-26.5.1 click-8.5.0 etils-1.14.0 flax-0.11.2 fsspec-2026.9.0 humanize-4.16.0 iniconfig-2.3.1 jax-0.7.1 jaxlib-0.7.1 markdown-it-py-4.2.0 mdurl-0.1.2 ml_dtypes-0.6.0 msgpack-1.2.3 mypy-extensions-1.1.0 numpy-2.4.6 opt_einsum-3.4.0 optax-0.2.9.dev0 orbax-checkpoint-0.12.7 packaging-26.3 pathspec-1.1.1 platformdirs-4.13.3 pluggy-1.7.0 prometheus-client-0.26.0 protobuf-7.36.2 psutil-7.2.2 pygments-2.21.0 pyink-26.5.1 pytest-9.1.1 pytokens-0.4.1 rich-15.0.0 ruff-0.17.1 scipy-1.17.1 simplejson-4.2.0 tensorstore-0.1.85 treescope-0.1.10 typing_extensions-4.16.0 uvloop-0.23.0 zipp-4.1.1
+[line 314] 2026-10-17T06:42:54.2731676Z No broken requirements found.
+[line 643] 2026-10-17T06:43:00.7988771Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded0 - AssertionError: 
+[line 649] 2026-10-17T06:43:00.7990843Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded1 - AssertionError: 
+[line 655] 2026-10-17T06:43:00.7992840Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded2 - AssertionError: 
+[line 661] 2026-10-17T06:43:00.7994812Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded3 - AssertionError: 
+[line 667] 2026-10-17T06:43:00.7996762Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded4 - AssertionError: 
+[line 673] 2026-10-17T06:43:00.7998997Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded5 - AssertionError: 
+[line 679] 2026-10-17T06:43:00.8000903Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero0 - AssertionError: 
+[line 685] 2026-10-17T06:43:00.8002885Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero1 - AssertionError: 
+[line 691] 2026-10-17T06:43:00.8004715Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero10 - AssertionError: 
+[line 697] 2026-10-17T06:43:00.8006733Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero11 - AssertionError: 
+[line 703] 2026-10-17T06:43:00.8008791Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero2 - AssertionError: 
+[line 709] 2026-10-17T06:43:00.8010608Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero3 - AssertionError: 
+[line 715] 2026-10-17T06:43:00.8012440Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero4 - AssertionError: 
+[line 721] 2026-10-17T06:43:00.8014279Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero5 - AssertionError: 
+[line 727] 2026-10-17T06:43:00.8016140Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero6 - AssertionError: 
+[line 733] 2026-10-17T06:43:00.8606306Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero7 - AssertionError: 
+[line 739] 2026-10-17T06:43:00.8610563Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero8 - AssertionError: 
+[line 745] 2026-10-17T06:43:00.8614722Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero9 - AssertionError: 
+[line 751] 2026-10-17T06:43:00.8618248Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch0 - AssertionError: 
+[line 757] 2026-10-17T06:43:00.8621812Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch1 - AssertionError: 
+[line 763] 2026-10-17T06:43:00.8625034Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch10 - AssertionError: 
+[line 769] 2026-10-17T06:43:00.8628057Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch11 - AssertionError: 
+[line 775] 2026-10-17T06:43:00.8630605Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch2 - AssertionError: 
+[line 781] 2026-10-17T06:43:00.8633014Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch3 - AssertionError: 
+[line 787] 2026-10-17T06:43:00.8635397Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch4 - AssertionError: 
+[line 793] 2026-10-17T06:43:00.8637636Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch5 - AssertionError: 
+[line 799] 2026-10-17T06:43:00.8639867Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch6 - AssertionError: 
+[line 805] 2026-10-17T06:43:00.8641899Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch7 - AssertionError: 
+[line 811] 2026-10-17T06:43:00.8644060Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch8 - AssertionError: 
+[line 817] 2026-10-17T06:43:00.8646098Z FAILED optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch9 - AssertionError: 
+[line 823] 2026-10-17T06:43:00.8647787Z 30 failed, 4 passed in 4.83s
+[line 826] 2026-10-17T06:43:32.0135000Z 55 passed, 30 subtests passed in 30.59s
+[line 903] 2026-10-17T06:43:32.7714545Z All checks passed!

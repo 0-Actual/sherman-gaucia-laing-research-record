@@ -1,0 +1,116 @@
+{
+  "title": "Optax MultiSteps non-finite masking and recovery",
+  "edition_date_eastern": "2026-10-17",
+  "provenance": "Derived from the saved full hosted job log, its printed structured summary, and terminal results. Not parsed from a newly downloaded raw JUnit artifact.",
+  "baseline": {
+    "production_commit": "8589d974e565fbf1bfa1cdf8d94f5ecdf8ebe93c",
+    "added_cases": 34,
+    "failed": 30,
+    "passed": 4,
+    "errors": 0,
+    "skipped": 0,
+    "exit_code": 1,
+    "started": "2026-10-17T06:42:55.726033+00:00",
+    "completed": "2026-10-17T06:43:01.039332+00:00",
+    "failed_case_ids": [
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded0",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded1",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded2",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded3",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded4",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_emitted_nonfinite_update_is_not_silently_discarded5",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero0",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero1",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero10",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero11",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero2",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero3",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero4",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero5",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero6",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero7",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero8",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_intermediate_updates_are_zero9",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch0",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch1",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch10",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch11",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch2",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch3",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch4",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch5",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch6",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch7",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch8",
+      "optax/transforms/_accumulation_test.py::MultiStepsNonFiniteTest::test_recovery_after_inner_optimizer_rejects_batch9"
+    ]
+  },
+  "corrected": {
+    "code_commit": "1c7e94b42f47899bd98021ed03fe4e0088be4a41",
+    "validation_commit": "3938cea8578e901a151f6c70ebcf638c423dda1d",
+    "tests_passed": 55,
+    "subtests_passed": 30,
+    "junit_records_including_subtests": 85,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "exit_code": 0,
+    "selected_files": [
+      "optax/transforms/_accumulation_test.py",
+      "optax/transforms/_conditionality_test.py"
+    ],
+    "started": "2026-10-17T06:43:01.039775+00:00",
+    "completed": "2026-10-17T06:43:32.640081+00:00"
+  },
+  "environment": {
+    "python": "3.11.17 (main, Oct  1 2026, 14:32:31) [GCC 13.3.0]",
+    "jax": "0.7.1",
+    "jaxlib": "0.7.1",
+    "flax": "0.11.2",
+    "pytest": "9.1.1",
+    "devices": [
+      "TFRT_CPU_0"
+    ],
+    "runner": "Ubuntu 24.04",
+    "runner_image": "20261012.334.1"
+  },
+  "run": {
+    "url": "https://github.com/0-Actual/optax/actions/runs/39010905993",
+    "job_id": 117333037191,
+    "status_checked_during_publication": "completed",
+    "conclusion_checked_during_publication": "success"
+  },
+  "files": [
+    {
+      "path": "optax/transforms/_accumulation.py",
+      "baseline_bytes": 16079,
+      "baseline_sha256": "6ac59e320483de7f79480d5de060591040688ed2239a2effe549209dd3d8cdfd",
+      "tested_bytes": 16792,
+      "tested_raw_sha256": "9531a037c8cf618267c6e96508d6f21dd5f15b8a079443c825014f13a8ffb300",
+      "tested_lf_sha256": "631d8fe728a03ab8aca21a95992788637f143d963d0bd972f1557f3203baa0b0",
+      "patch_rebuild_lf_matches_tested": true
+    },
+    {
+      "path": "optax/transforms/_accumulation_test.py",
+      "baseline_bytes": 15790,
+      "baseline_sha256": "b8d5793ee173c00fa022819442f503b22785c8efe48e21292cc8e35ada06e7d6",
+      "tested_bytes": 21211,
+      "tested_raw_sha256": "0bce5d9ad26dac2a45199234288d4bae8f88ad5a7d361a223d201a014c20e00b",
+      "tested_lf_sha256": "8d2fb21623e7718d87acddc5e61d255c297c60f3f8efb7076965e87197c0c10f",
+      "patch_rebuild_lf_matches_tested": true
+    }
+  ],
+  "publication_verification": {
+    "numerical_rerun": false,
+    "patch_apply_check": true,
+    "pinned_source_readback": true,
+    "normalized_patch_reconstruction": true
+  },
+  "limits": [
+    "Selected CPU suites only",
+    "No Google CLA accepted or upstream PR",
+    "No independent certification",
+    "Original fork commits unsigned",
+    "No raw JUnit artifact downloaded locally"
+  ]
+}

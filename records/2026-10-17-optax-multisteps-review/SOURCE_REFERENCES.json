@@ -1,0 +1,43 @@
+{
+  "upstream": "https://github.com/google-deepmind/optax",
+  "baseline_commit": "8589d974e565fbf1bfa1cdf8d94f5ecdf8ebe93c",
+  "tested_code_commit": "1c7e94b42f47899bd98021ed03fe4e0088be4a41",
+  "validation_commit": "3938cea8578e901a151f6c70ebcf638c423dda1d",
+  "source_files": [
+    {
+      "path": "optax/transforms/_accumulation.py",
+      "baseline_bytes": 16079,
+      "baseline_sha256": "6ac59e320483de7f79480d5de060591040688ed2239a2effe549209dd3d8cdfd",
+      "tested_bytes": 16792,
+      "tested_raw_sha256": "9531a037c8cf618267c6e96508d6f21dd5f15b8a079443c825014f13a8ffb300",
+      "tested_lf_sha256": "631d8fe728a03ab8aca21a95992788637f143d963d0bd972f1557f3203baa0b0",
+      "patch_rebuild_lf_matches_tested": true
+    },
+    {
+      "path": "optax/transforms/_accumulation_test.py",
+      "baseline_bytes": 15790,
+      "baseline_sha256": "b8d5793ee173c00fa022819442f503b22785c8efe48e21292cc8e35ada06e7d6",
+      "tested_bytes": 21211,
+      "tested_raw_sha256": "0bce5d9ad26dac2a45199234288d4bae8f88ad5a7d361a223d201a014c20e00b",
+      "tested_lf_sha256": "8d2fb21623e7718d87acddc5e61d255c297c60f3f8efb7076965e87197c0c10f",
+      "patch_rebuild_lf_matches_tested": true
+    }
+  ],
+  "patch_sha256": "f7932cabce57864d1104b30fbd7ade1b2c90b77fde36292fe70f6ec25ed4a753",
+  "workflow": "https://github.com/0-Actual/optax/blob/3938cea8578e901a151f6c70ebcf638c423dda1d/.github/workflows/multisteps-validation.yml",
+  "status_note": "https://github.com/0-Actual/optax/blob/912535bf13521b6aecdca18c8939cb7140e23f9d/CONTRIBUTION_STATUS.md",
+  "related_history": [
+    "https://github.com/google-deepmind/optax/issues/828",
+    "https://github.com/google-deepmind/optax/pull/840"
+  ],
+  "excluded_duplicate_candidate": "https://github.com/google-deepmind/optax/pull/1762",
+  "hosted_artifact": {
+    "url": "https://github.com/0-Actual/optax/actions/runs/39010905993/artifacts/12091904511",
+    "sha256_reported_by_github": "c1e80fbe26bf1626b2dbc8075f706b018835a469ab5bea282f26ff924dbd498d",
+    "expires_at": "2026-11-16T06:43:33Z",
+    "local_download_verified": false,
+    "raw_junit_xml_locally_available": false
+  },
+  "source_attribution": "Optax authors, DeepMind Technologies Limited; respective issue/PR authors. Owner-directed Codex assistance is disclosed.",
+  "line_ending_note": "Original tested public source is CRLF. Reconstructed patch on LF upstream matches after CRLF-to-LF normalization. Raw hashes and normalized hashes are intentionally separate."
+}
