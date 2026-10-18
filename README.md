@@ -9,6 +9,7 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
+| [Owner-signed prior-publication record — October 18](records/2026-10-18-publication-attestation/README.md) | New owner-controlled signature covering 61 earlier commit references, with exact scope, original signature states and independent verification instructions |
 | [Optax MultiSteps numerical review](records/2026-10-17-optax-multisteps-review/README.md) | Preserved non-finite masking correction, baseline failures, 55 passing tests plus 30 passing subtests, reproduction instructions and separate license notices |
 | [October 17 metadata review](REVIEW_UPDATES_20261017.md) | Corrected citation scope, historical inventory limits and preserved validation gaps |
 | [GitHub Actions command-output study](records/2026-10-17-github-actions-output-review/README.md) | Reproduced final-line loss and Unicode chunk corruption; local correction, 100 regression cases, source attribution and explicit validation limits |
