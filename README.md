@@ -9,6 +9,7 @@ This publication records the development timeline of Quantum.Earth.Laing using d
 
 | File | Contents |
 | --- | --- |
+| [Optax MultiSteps numerical review](records/2026-10-17-optax-multisteps-review/README.md) | Preserved non-finite masking correction, baseline failures, 55 passing tests plus 30 passing subtests, reproduction instructions and separate license notices |
 | [October 17 metadata review](REVIEW_UPDATES_20261017.md) | Corrected citation scope, historical inventory limits and preserved validation gaps |
 | [GitHub Actions command-output study](records/2026-10-17-github-actions-output-review/README.md) | Reproduced final-line loss and Unicode chunk corruption; local correction, 100 regression cases, source attribution and explicit validation limits |
 | [OpenAI mathematics review and exact finite checks](records/2026-10-17-openai-mathematics-review/README.md) | Pinned whole-repository structural review, 72 finite identity checks, declared proof limits, reproducible scripts and a constructive invitation to discussion |
