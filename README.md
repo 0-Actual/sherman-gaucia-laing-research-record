@@ -5,6 +5,26 @@ Documentary preparation with GAUCIA through ChatGPT/Codex.
 
 This publication records the development timeline of Quantum.Earth.Laing using dated evidence recovered from the owner's research records. It publishes event summaries, dates, attribution and evidence boundaries. The October 17 expanded edition adds retained research source, data, GAUCIA application sources and the QRF documentary record. Raw personal interactions, credentials and uncleared private material remain outside the public selection.
 
+## Contribution references
+
+Status checked October 19, 2026. Each link opens the original request so readers can inspect its discussion, changes and current status. Merged contributions, pending proposals and work retained only in this account are distinct.
+
+| Status at review | Contribution | Original reference |
+|---|---|---|
+| Merged October 19 | Microsoft Responsible AI Toolbox: conversion boundaries and JSON-safe NumPy scalars | [Microsoft #2648](https://github.com/microsoft/responsible-ai-toolbox/pull/2648) |
+| Merged October 19 | Microsoft Responsible AI Toolbox: error-analysis metrics, cohort outcomes and regression residuals | [Microsoft #2649](https://github.com/microsoft/responsible-ai-toolbox/pull/2649) |
+| Open; checks awaiting authorization | Microsoft ONNX Runtime: LayerNormalization reduction and constant semantics | [Microsoft #33421](https://github.com/microsoft/onnxruntime/pull/33421) |
+| Open; checks awaiting authorization | Microsoft ONNX Runtime: attention score and layout semantics | [Microsoft #33423](https://github.com/microsoft/onnxruntime/pull/33423) |
+| Published on this account's fork; no upstream request yet | Four-case follow-up for integer residuals and filtered class context | [Reviewed follow-up branch](https://github.com/0-Actual/responsible-ai-toolbox/tree/fix/erroranalysis-integer-class-followup) |
+
+The two merged Microsoft requests are external code acceptance. They do not certify the wider research record. The older #2648 workflow-approval expiry is tracked separately in the [maintainer validation request](https://github.com/microsoft/responsible-ai-toolbox/pull/2648#issuecomment-6274520070).
+
+[All pull requests authored by this account](https://github.com/pulls?q=is%3Apr+author%3A0-Actual) include preparation and publication requests within this account as well as external submissions. Those populations must not be combined into an external-acceptance count.
+
+Additional review participation is recorded in OpenScriptures [issue #107](https://github.com/openscriptures/morphhb/issues/107), [issue #109](https://github.com/openscriptures/morphhb/issues/109), [issue #112](https://github.com/openscriptures/morphhb/issues/112), [PR #108](https://github.com/openscriptures/morphhb/pull/108) and [PR #110](https://github.com/openscriptures/morphhb/pull/110). These are other authors' issues/proposals; commentary is not authorship or merge acceptance.
+
+The Optax and OpenAI-related studies below remain separately labeled owner-repository work unless an upstream request is explicitly linked. Updates to this dated register occur during owner-directed review sessions; no automatic monitoring is promised. Earlier versions remain in Git history. Existing attribution and third-party license boundaries apply.
+
 ## Read the record
 
 | File | Contents |
@@ -67,5 +87,6 @@ Sherman has separately authorized publication of the Bible services, expanded st
 ## OpenAI Agents SDK — severity-first review
 
 The [approval controls and shell-result integrity study](records/2026-10-17-openai-severity-review/README.md) records eight passing approval checks and a tested correction for the publicly reported empty-shell-result defect. The final baseline has four reproduced failures among 32 cases; the isolated candidate passes all 32. The packet includes source attribution, the one-line MIT-derived patch, reproducible tests, mathematical invariants, and a ranked remaining-work queue. Original additions retain this repository's existing license; upstream rights remain separate.
+
 
 
