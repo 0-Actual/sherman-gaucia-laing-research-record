@@ -2,23 +2,14 @@ name: Research release integrity
 
 on:
   push:
-    branches: [main]
-    paths:
-      - "records/2026-10-17-priority-zero-expanded/**"
-      - ".github/workflows/research-release-checks.yml"
-      - ".gitattributes"
   pull_request:
-    paths:
-      - "records/2026-10-17-priority-zero-expanded/**"
-      - ".github/workflows/research-release-checks.yml"
-      - ".gitattributes"
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: research-release-${{ github.ref }}
+  group: research-release-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -30,10 +21,9 @@ jobs:
       fail-fast: false
       matrix:
         os: [ubuntu-latest, windows-latest]
-    defaults:
-      run:
-        working-directory: records/2026-10-17-priority-zero-expanded
     steps:
+      - name: Preserve exact published bytes on checkout
+        run: git config --global core.autocrlf false
       - name: Check out the public selection
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
@@ -42,7 +32,19 @@ jobs:
         uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7
         with:
           python-version: "3.12"
-      - name: Check release file and archive identities
-        run: python -B verify_release.py
-      - name: Exercise valid and tampered inputs
-        run: python -B test_release_verifier.py
+      - name: Verify every edition manifest
+        run: python -B verify_publications.py manifests
+      - name: Exercise integrity and branch-coverage regressions
+        run: python -B test_publication_checks.py
+      - name: Check expanded release archive identities
+        run: python -B records/2026-10-17-priority-zero-expanded/verify_release.py
+      - name: Exercise existing archive-verifier regressions
+        run: python -B records/2026-10-17-priority-zero-expanded/test_release_verifier.py
+      - name: Verify the exact owner-signed historical attestation
+        if: runner.os == 'Linux'
+        run: python -B verify_publications.py attestation
+      - name: Check live research branch-protection coverage
+        if: runner.os == 'Linux'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python -B verify_publications.py protection
