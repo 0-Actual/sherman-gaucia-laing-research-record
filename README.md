@@ -5,6 +5,12 @@ Documentary preparation with GAUCIA through ChatGPT/Codex.
 
 This publication records the development timeline of Quantum.Earth.Laing using dated evidence recovered from the owner's research records. It publishes event summaries, dates, attribution and evidence boundaries. The October 17 expanded edition adds retained research source, data, GAUCIA application sources and the QRF documentary record. Raw personal interactions, credentials and uncleared private material remain outside the public selection.
 
+## Collaboration principles
+
+Statement by Sherman G. Laing — October 19, 2026.
+
+> I will pursue collaborations grounded in integrity, proper attribution, mutual respect, and fair terms. I will decline arrangements that disregard those principles. My commitment to work that benefits humanity remains.
+
 ## Contribution references
 
 Status checked October 19, 2026. Each link opens the original request so readers can inspect its discussion, changes and current status. Merged contributions, pending proposals and work retained only in this account are distinct.
