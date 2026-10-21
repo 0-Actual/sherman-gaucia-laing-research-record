@@ -96,3 +96,8 @@ The [approval controls and shell-result integrity study](records/2026-10-17-open
 
 
 
+
+
+## October 20 OpenAI and Anthropic contributions
+
+The [completed technical release](records/2026-10-20-openai-anthropic-research/README.md) contains full source/test/evidence archives for the OpenAI infrastructure follow-up, Anthropic streaming integration and Python characterization, and the mathematics continuation. It includes the previously submitted shell/stream contributions and discloses unresolved candidates with their limits. The SDK contribution copies carry scoped MIT notices; the mathematics review and historical editions retain their stated license boundaries. Publication here is separate from upstream acceptance or formal proof verification.
