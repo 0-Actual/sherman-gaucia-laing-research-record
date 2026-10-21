@@ -4,7 +4,7 @@
 
 Updated October 21, 2026 · [Download the one-page PDF](Sherman-Gaucia-Laing-Research-Collaboration-Resume-2026-10-21.pdf)
 
-Fort Lauderdale, Florida | [LinkedIn contact](https://www.linkedin.com/in/sherman-laing-9557822b2/) | [Research portfolio](https://github.com/0-Actual/sherman-gaucia-laing-research-record)
+[LinkedIn contact](https://www.linkedin.com/in/sherman-laing-9557822b2/) | [Research portfolio](https://github.com/0-Actual/sherman-gaucia-laing-research-record)
 
 Independent researcher and U.S. Army veteran leading Quantum Earth Laing. Seeking collaboration in software reliability, numerical methods and reproducible research. Directs research questions and publication decisions, with disclosed AI assistance for coding, testing, analysis and documentation.
 
