@@ -1,2 +1,4 @@
 # Hash-verified release payloads must retain their recorded bytes on every OS.
 /records/2026-10-17-priority-zero-expanded/** -text
+/records/2026-10-21-research-collaboration-resume/** -text
+/records/2026-10-21-research-collaboration-resume/*.pdf binary

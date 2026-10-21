@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "edition_date": "2026-10-21",
+  "purpose": "Owner-authorized research and collaboration resume; exact PDF and accessible Markdown version. The inventory binds bytes and does not independently authenticate credentials, service or research claims.",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2899,
+      "sha256": "61c6f66a8dc1b7e1c6a8454499c0f1f34dd935270c642801a95b9cff14f687ef"
+    },
+    {
+      "path": "Sherman-Gaucia-Laing-Research-Collaboration-Resume-2026-10-21.pdf",
+      "bytes": 5231,
+      "sha256": "5a5db65f2cee269923e0bef29899199a0141b51278aafcabdda809ae131c48d2"
+    }
+  ]
+}
