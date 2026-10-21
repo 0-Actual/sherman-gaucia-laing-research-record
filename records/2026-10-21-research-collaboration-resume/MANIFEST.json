@@ -5,13 +5,13 @@
   "files": [
     {
       "path": "README.md",
-      "bytes": 2899,
-      "sha256": "61c6f66a8dc1b7e1c6a8454499c0f1f34dd935270c642801a95b9cff14f687ef"
+      "bytes": 2872,
+      "sha256": "de27b7be6ab214b1c097f20a0fdd8017747f13cbc2a6daf970289cd78fe32e9c"
     },
     {
       "path": "Sherman-Gaucia-Laing-Research-Collaboration-Resume-2026-10-21.pdf",
-      "bytes": 5231,
-      "sha256": "5a5db65f2cee269923e0bef29899199a0141b51278aafcabdda809ae131c48d2"
+      "bytes": 5207,
+      "sha256": "47a08c7de99925b564b0cce57923170906080931bd039c70af63d6d859f77577"
     }
   ]
 }
