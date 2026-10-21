@@ -35,6 +35,7 @@ The Optax and OpenAI-related studies below remain separately labeled owner-repos
 
 | File | Contents |
 | --- | --- |
+| [Research and collaboration resume - October 21, 2026](records/2026-10-21-research-collaboration-resume/README.md) | One-page PDF and accessible Markdown covering research, selected contributions, military experience and education |
 | [October 18 availability and publication-scope correction](records/2026-10-17-priority-zero-expanded/PUBLICATION_CORRECTION_20261018.md) | Corrected source-availability statements, repaired selected links and current distribution scope |
 | [Owner-signed prior-publication record — October 18](records/2026-10-18-publication-attestation/README.md) | New owner-controlled signature covering 61 earlier commit references, with exact scope, original signature states and independent verification instructions |
 | [Optax MultiSteps numerical review](records/2026-10-17-optax-multisteps-review/README.md) | Preserved non-finite masking correction, baseline failures, 55 passing tests plus 30 passing subtests, reproduction instructions and separate license notices |
