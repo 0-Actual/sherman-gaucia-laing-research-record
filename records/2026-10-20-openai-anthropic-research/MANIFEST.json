@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "Anthropic-Streaming-Research.md",
+      "bytes": 8752,
+      "sha256": "b0200387dd1ea1fb40fc2f82b88707d6f962a2ae93d775e7f35ee5592f8a7fb7"
+    },
+    {
+      "path": "Anthropic-Streaming-Research.zip",
+      "bytes": 176073,
+      "sha256": "b937d0134733910e427a88ed8868022d3951b5cfa9a703bf0d0ea9f890dd34d4"
+    },
+    {
+      "path": "OpenAI-Infrastructure.md",
+      "bytes": 11291,
+      "sha256": "17f449e4c8f17c128c197aed088512aeb54a467ceded3624714bf229dde75bfe"
+    },
+    {
+      "path": "OpenAI-Infrastructure.zip",
+      "bytes": 83601,
+      "sha256": "c737992804279fa5f3a8f11b48912d028ad273c3e34a00b075db7f954b7ef46f"
+    },
+    {
+      "path": "OpenAI-Mathematics-Continuation.md",
+      "bytes": 5333,
+      "sha256": "ea98fa16e544bab18587430a714348652ea66370d4dc1bb2b7b1aa4dad22189a"
+    },
+    {
+      "path": "OpenAI-Mathematics-Continuation.zip",
+      "bytes": 55781,
+      "sha256": "df9b51a009468d9032b4a7199d14ca63ef2938403bd02aaccd14246ae9b3d93a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5043,
+      "sha256": "8304e9df56cd4d0152df1fe5f53697c6dfca2fa67554561dd59144d9f8aa150a"
+    }
+  ],
+  "archive_member_counts": {
+    "OpenAI-Infrastructure": 62,
+    "Anthropic-Streaming-Research": 74,
+    "OpenAI-Mathematics-Continuation": 16
+  }
+}
