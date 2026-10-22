@@ -1,0 +1,118 @@
+--- a/packages/exec/src/toolrunner.ts
++++ b/packages/exec/src/toolrunner.ts
+@@ -3,6 +3,7 @@
+ import * as child from 'child_process'
+ import * as path from 'path'
+ import * as stream from 'stream'
++import {StringDecoder} from 'string_decoder'
+ import * as im from './interfaces.js'
+ import * as io from '@actions/io'
+ import * as ioUtil from '@actions/io/lib/io-util'
+@@ -81,12 +82,13 @@
+   }
+ 
+   private _processLineBuffer(
+-    data: Buffer,
++    data: string,
+     strBuffer: string,
+-    onLine: (line: string) => void
++    onLine: (line: string) => void,
++    flush = false
+   ): string {
+     try {
+-      let s = strBuffer + data.toString()
++      let s = strBuffer + data
+       let n = s.indexOf('\n')
+ 
+       while (n > -1) {
+@@ -96,6 +98,11 @@
+         // the rest of the string ...
+         s = s.substring(n + 1)
+         n = s.indexOf('\n')
++      }
++
++      if (flush && s.length > 0) {
++        onLine(s)
++        return ''
+       }
+ 
+       return s
+@@ -440,6 +447,19 @@
+         this._getSpawnOptions(this.options, fileName)
+       )
+ 
++      const stdoutDecoder = new StringDecoder('utf8')
++      const stderrDecoder = new StringDecoder('utf8')
++      const onStdline = (line: string): void => {
++        if (this.options.listeners && this.options.listeners.stdline) {
++          this.options.listeners.stdline(line)
++        }
++      }
++      const onErrline = (line: string): void => {
++        if (this.options.listeners && this.options.listeners.errline) {
++          this.options.listeners.errline(line)
++        }
++      }
++
+       let stdbuffer = ''
+       if (cp.stdout) {
+         cp.stdout.on('data', (data: Buffer) => {
+@@ -452,13 +472,9 @@
+           }
+ 
+           stdbuffer = this._processLineBuffer(
+-            data,
++            stdoutDecoder.write(data),
+             stdbuffer,
+-            (line: string) => {
+-              if (this.options.listeners && this.options.listeners.stdline) {
+-                this.options.listeners.stdline(line)
+-              }
+-            }
++            onStdline
+           )
+         })
+       }
+@@ -483,13 +499,9 @@
+           }
+ 
+           errbuffer = this._processLineBuffer(
+-            data,
++            stderrDecoder.write(data),
+             errbuffer,
+-            (line: string) => {
+-              if (this.options.listeners && this.options.listeners.errline) {
+-                this.options.listeners.errline(line)
+-              }
+-            }
++            onErrline
+           )
+         })
+       }
+@@ -517,11 +529,15 @@
+       })
+ 
+       state.on('done', (error: Error, exitCode: number) => {
++        stdbuffer += stdoutDecoder.end()
++        errbuffer += stderrDecoder.end()
+         if (stdbuffer.length > 0) {
++          this._processLineBuffer('', stdbuffer, onStdline, true)
+           this.emit('stdline', stdbuffer)
+         }
+ 
+         if (errbuffer.length > 0) {
++          this._processLineBuffer('', errbuffer, onErrline, true)
+           this.emit('errline', errbuffer)
+         }
+ 
+--- a/packages/exec/__tests__/exec.test.ts
++++ b/packages/exec/__tests__/exec.test.ts
+@@ -47,7 +47,7 @@
+     let buffer = ''
+ 
+     for (const chunk of chunks) {
+-      buffer = runner['_processLineBuffer'](Buffer.from(chunk), buffer, onLine)
++      buffer = runner['_processLineBuffer'](chunk, buffer, onLine)
+     }
+ 
+     expect(onLine.mock.calls).toEqual(lines.map(line => [line]))

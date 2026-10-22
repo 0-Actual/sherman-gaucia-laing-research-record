@@ -1,0 +1,222 @@
+{
+  "repository": "actions/toolkit",
+  "commit": "0c3a9c332b678ff1e776f93d728a4ad279803abe",
+  "scope": "43 selected files; not a complete repository checkout",
+  "files": [
+    {
+      "path": ".eslintignore",
+      "git_blob_sha1": "3ac5807246cb3efd35785e9076f736f6c1a18905",
+      "bytes": 113
+    },
+    {
+      "path": ".eslintrc.json",
+      "git_blob_sha1": "f86ba6516750eab2ce6f35ba5f07aefdf8c05264",
+      "bytes": 3342
+    },
+    {
+      "path": ".github/CONTRIBUTING.md",
+      "git_blob_sha1": "ea557c865ea9da04a067fbcd6f319ee55c338947",
+      "bytes": 2856
+    },
+    {
+      "path": ".prettierignore",
+      "git_blob_sha1": "48e1fb7666ce9c546ad424c2772a35c27b6ad26d",
+      "bytes": 117
+    },
+    {
+      "path": ".prettierrc.json",
+      "git_blob_sha1": "277ad090545e148054edc902565950f87c2ff45f",
+      "bytes": 228
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha1": "801f55c31da6c981dbb659bb9cfc243bfff927bf",
+      "bytes": 7157
+    },
+    {
+      "path": "jest.config.js",
+      "git_blob_sha1": "fa2df5c53150913e128681ea0beab634650b206a",
+      "bytes": 1679
+    },
+    {
+      "path": "package.json",
+      "git_blob_sha1": "1b69ecd8b990641084d4e633016739e6177568b4",
+      "bytes": 1532
+    },
+    {
+      "path": "packages/exec/LICENSE.md",
+      "git_blob_sha1": "dbae2edb2c8ca2cf3ce4abe863b6e6dff5970f99",
+      "bytes": 1068
+    },
+    {
+      "path": "packages/exec/README.md",
+      "git_blob_sha1": "53a6bf524335493c59d243578a62743a4633e35b",
+      "bytes": 1063
+    },
+    {
+      "path": "packages/exec/RELEASES.md",
+      "git_blob_sha1": "00088517fc871666bc7256c0a46bc51e4c382e41",
+      "bytes": 876
+    },
+    {
+      "path": "packages/exec/__tests__/exec.test.ts",
+      "git_blob_sha1": "311e0334d55af7121cf30153fcb51bba714da263",
+      "bytes": 34798
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/print args cmd with spaces.cmd",
+      "git_blob_sha1": "7f3e4e66914396a3f5b4500526a871321b548446",
+      "bytes": 180
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/print-args-cmd.cmd",
+      "git_blob_sha1": "7f3e4e66914396a3f5b4500526a871321b548446",
+      "bytes": 180
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/print-args-exe.cs",
+      "git_blob_sha1": "e4934c1d73f58cfc89f1cd99fde600a94fe80ecc",
+      "bytes": 296
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/print-args-sh.sh",
+      "git_blob_sha1": "40f18cb2cae9617e2b3fad57ad06f07128257603",
+      "bytes": 213
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/spawn-wait-for-file.cjs",
+      "git_blob_sha1": "e336f092a7e5768461c8e17378111b41ea486699",
+      "bytes": 1272
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/stderroutput.cjs",
+      "git_blob_sha1": "3ff0ac217417a954777629594768d99c7812f59d",
+      "bytes": 49
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/stdlineoutput.cjs",
+      "git_blob_sha1": "1cea8276b2f3ea866d233968e927c2e7faf21a65",
+      "bytes": 201
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/stdoutoutput.cjs",
+      "git_blob_sha1": "d44a6a3dbeb9a20059f5f8e53d9a4214c66bf478",
+      "bytes": 49
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/stdoutoutputlarge.cjs",
+      "git_blob_sha1": "c7f7122dfa65d780a1c4bb3d30f4852b1dbacefd",
+      "bytes": 164
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/stdoutputspecial.cjs",
+      "git_blob_sha1": "6a641cd0214d89568571df54e282b897f92dd9cf",
+      "bytes": 276
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/wait-for-file.cjs",
+      "git_blob_sha1": "867d8e051523afcf80d17ea22de8e177b2563760",
+      "bytes": 609
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/wait-for-input.cjs",
+      "git_blob_sha1": "82b1e3077e51b2962c7cf1bd2ddd749706162db4",
+      "bytes": 89
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/wait-for-input.cmd",
+      "git_blob_sha1": "1ba3ec4bcfbb01480713a79777717987f3ff5848",
+      "bytes": 33
+    },
+    {
+      "path": "packages/exec/__tests__/scripts/wait-for-input.sh",
+      "git_blob_sha1": "1e8cd850b0162ebff642cd9e769d7888a70b0af0",
+      "bytes": 40
+    },
+    {
+      "path": "packages/exec/package-lock.json",
+      "git_blob_sha1": "78be9cebd266dd70b35c09545027a711fd2561a7",
+      "bytes": 561
+    },
+    {
+      "path": "packages/exec/package.json",
+      "git_blob_sha1": "a3e218f93824c095dd758072211c733382531855",
+      "bytes": 1031
+    },
+    {
+      "path": "packages/exec/src/exec.ts",
+      "git_blob_sha1": "ea8503074526f2498f52ad1d168415bac0ceedb8",
+      "bytes": 2831
+    },
+    {
+      "path": "packages/exec/src/interfaces.ts",
+      "git_blob_sha1": "c86080c4f59997716d394ef31a8453c595695c33",
+      "bytes": 2035
+    },
+    {
+      "path": "packages/exec/src/toolrunner.ts",
+      "git_blob_sha1": "3bcd9b567031695ebae1c94c44777154f799412a",
+      "bytes": 21042
+    },
+    {
+      "path": "packages/exec/tsconfig.json",
+      "git_blob_sha1": "c440cd7f27dc04cc2a4ceff95f1a395623328f06",
+      "bytes": 223
+    },
+    {
+      "path": "packages/io/LICENSE.md",
+      "git_blob_sha1": "dbae2edb2c8ca2cf3ce4abe863b6e6dff5970f99",
+      "bytes": 1068
+    },
+    {
+      "path": "packages/io/README.md",
+      "git_blob_sha1": "9aadf2f95cb142d71998805d8fa1ffca795b791d",
+      "bytes": 1313
+    },
+    {
+      "path": "packages/io/RELEASES.md",
+      "git_blob_sha1": "a515fda53882febd321ae771d0162ca438a5f688",
+      "bytes": 998
+    },
+    {
+      "path": "packages/io/__tests__/io.test.ts",
+      "git_blob_sha1": "39d3a58c1fd785f116801165e41001bafb8d781d",
+      "bytes": 51992
+    },
+    {
+      "path": "packages/io/package-lock.json",
+      "git_blob_sha1": "af18f2038aa642e91c70989fe8f5b19d4dca5692",
+      "bytes": 209
+    },
+    {
+      "path": "packages/io/package.json",
+      "git_blob_sha1": "f3293948fd97dc91afbac1b4be5a14e0f94c871d",
+      "bytes": 1044
+    },
+    {
+      "path": "packages/io/src/io-util.ts",
+      "git_blob_sha1": "d75e64a74ca11f6bc1d1afb7d1cc94f8f6cf9a23",
+      "bytes": 5489
+    },
+    {
+      "path": "packages/io/src/io.ts",
+      "git_blob_sha1": "3c3bb9fdd327d9783b782ef0d28f14e70331b2c9",
+      "bytes": 9200
+    },
+    {
+      "path": "packages/io/tsconfig.json",
+      "git_blob_sha1": "c440cd7f27dc04cc2a4ceff95f1a395623328f06",
+      "bytes": 223
+    },
+    {
+      "path": "tsconfig.eslint.json",
+      "git_blob_sha1": "d18952e867963d690ca22d085c2320b8d563538b",
+      "bytes": 73
+    },
+    {
+      "path": "tsconfig.json",
+      "git_blob_sha1": "eccf8ff59c038820330fe8bb00002854404d0979",
+      "bytes": 522
+    }
+  ]
+}

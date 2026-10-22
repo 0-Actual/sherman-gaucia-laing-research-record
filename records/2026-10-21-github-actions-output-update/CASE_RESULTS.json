@@ -1,0 +1,1344 @@
+{
+  "baseline-results.json": {
+    "tests": 125,
+    "passed": 30,
+    "failed": 95,
+    "skipped": 0,
+    "suites": [
+      {
+        "file": "output-lines.test.ts",
+        "tests": [
+          {
+            "name": "line output is independent of transport chunks empty, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 5",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 6",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 7",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 8",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 9",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 10",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 11",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 12",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 7",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 9",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 10",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 11",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 12",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 13",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 14",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 15",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 5",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 6",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 7",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 8",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 5",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 6",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 7",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 8",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 9",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 10",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 11",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 12",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 13",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 5",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 7",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 9",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 10",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 11",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 12",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 13",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 14",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 15",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 5",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 6",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 7",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 8",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 9",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 10",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 0",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 1",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 2",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 3",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 4",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 5",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks keeps stdout and stderr decoders independent across bytewise interleaving",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes tails before settling nonzero",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes tails before settling ignored nonzero",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes tails before settling stderr failure",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes once when exit is followed by delayed stream closure",
+            "status": "failed"
+          },
+          {
+            "name": "line output is independent of transport chunks retains the existing ToolRunner tail event for direct consumers",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks treats a throwing tail listener as best effort, like complete lines",
+            "status": "failed"
+          }
+        ]
+      },
+      {
+        "file": "output-lines-integration.test.ts",
+        "tests": [
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 0",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 1",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 2",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 3",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 4",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 5",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 6",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 7",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 8",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 9",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 10",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output flushes on native nonzero exit, ignoreReturnCode=false",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output flushes on native nonzero exit, ignoreReturnCode=true",
+            "status": "failed"
+          },
+          {
+            "name": "real child-process line output flushes stderr before a failOnStdErr rejection",
+            "status": "failed"
+          }
+        ]
+      }
+    ]
+  },
+  "candidate-results.json": {
+    "tests": 125,
+    "passed": 125,
+    "failed": 0,
+    "skipped": 0,
+    "suites": [
+      {
+        "file": "output-lines.test.ts",
+        "tests": [
+          {
+            "name": "line output is independent of transport chunks empty, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 7",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 9",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 10",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 11",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks ASCII tail, split at byte 12",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 7",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 9",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 10",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 11",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 12",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 13",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 14",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks terminated, split at byte 15",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 7",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks blank lines, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 7",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 9",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 10",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 11",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 12",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode tail, split at byte 13",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 7",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 9",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 10",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 11",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 12",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 13",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 14",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks Unicode terminated, split at byte 15",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks incomplete UTF8, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks invalid UTF8, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks non-native newline, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 6",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 7",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 8",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 9",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks mixed LF and CRLF, split at byte 10",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks lone CR and final CR, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 0",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 1",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 2",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 3",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 4",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks CR immediately before CRLF, split at byte 5",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks keeps stdout and stderr decoders independent across bytewise interleaving",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes tails before settling nonzero",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes tails before settling ignored nonzero",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes tails before settling stderr failure",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks flushes once when exit is followed by delayed stream closure",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks retains the existing ToolRunner tail event for direct consumers",
+            "status": "passed"
+          },
+          {
+            "name": "line output is independent of transport chunks treats a throwing tail listener as best effort, like complete lines",
+            "status": "passed"
+          }
+        ]
+      },
+      {
+        "file": "output-lines-integration.test.ts",
+        "tests": [
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 0",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 1",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 2",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 3",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 4",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 5",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 6",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 7",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 8",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 9",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output delivers exact lines and raw output for payload 10",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output flushes on native nonzero exit, ignoreReturnCode=false",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output flushes on native nonzero exit, ignoreReturnCode=true",
+            "status": "passed"
+          },
+          {
+            "name": "real child-process line output flushes stderr before a failOnStdErr rejection",
+            "status": "passed"
+          }
+        ]
+      }
+    ]
+  },
+  "compatibility-final-results.json": {
+    "tests": 35,
+    "passed": 34,
+    "failed": 1,
+    "skipped": 0,
+    "suites": [
+      {
+        "file": "exec.test.ts",
+        "tests": [
+          {
+            "name": "ToolRunner line buffering Handles LF",
+            "status": "passed"
+          },
+          {
+            "name": "ToolRunner line buffering Handles CRLF",
+            "status": "passed"
+          },
+          {
+            "name": "ToolRunner line buffering Handles mixed endings across chunks",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with arguments split out",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with arguments partially split out",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with arguments as part of command line",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with command from PATH",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Exec fails with error on bad call",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Succeeds on stderr by default",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Fails on stderr if specified",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Fails when process fails to launch",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Handles output callbacks",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Handles large stdline",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Handles stdin shell",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Handles stdin js",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Handles child process holding streams open",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Handles child process holding streams open and non-zero exit code",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Handles child process holding streams open and stderr",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using unrooted options.cwd",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Exec roots throws friendly error when bad cwd is specified",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Exec roots does not throw when valid cwd is provided",
+            "status": "failed"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using rooted options.cwd",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using process.cwd",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput with additional listeners",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput when total size exceeds buffer size",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput with multi-byte characters",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using process.cwd (Windows path separator)",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec execs .exe with verbatim args (Windows)",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec execs .exe with arg quoting (Windows)",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec execs .exe with a space and with verbatim args (Windows)",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec execs .cmd with a space and with verbatim args (Windows)",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec execs .cmd with a space and with arg with space (Windows)",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec execs .cmd from path (Windows)",
+            "status": "passed"
+          },
+          {
+            "name": "@actions/exec execs .cmd with arg quoting (Windows)",
+            "status": "passed"
+          }
+        ]
+      }
+    ]
+  },
+  "upstream-environment-results.json": {
+    "tests": 35,
+    "passed": 0,
+    "failed": 1,
+    "skipped": 34,
+    "suites": [
+      {
+        "file": "exec.test.ts",
+        "tests": [
+          {
+            "name": "ToolRunner line buffering Handles LF",
+            "status": "pending"
+          },
+          {
+            "name": "ToolRunner line buffering Handles CRLF",
+            "status": "pending"
+          },
+          {
+            "name": "ToolRunner line buffering Handles mixed endings across chunks",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with arguments split out",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with arguments partially split out",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with arguments as part of command line",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Runs exec successfully with command from PATH",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Exec fails with error on bad call",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Succeeds on stderr by default",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Fails on stderr if specified",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Fails when process fails to launch",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Handles output callbacks",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Handles large stdline",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Handles stdin shell",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Handles stdin js",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Handles child process holding streams open",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Handles child process holding streams open and non-zero exit code",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Handles child process holding streams open and stderr",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using unrooted options.cwd",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Exec roots throws friendly error when bad cwd is specified",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Exec roots does not throw when valid cwd is provided",
+            "status": "failed"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using rooted options.cwd",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using process.cwd",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput with additional listeners",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput when total size exceeds buffer size",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec correctly outputs for getExecOutput with multi-byte characters",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec Exec roots relative tool path using process.cwd (Windows path separator)",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec execs .exe with verbatim args (Windows)",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec execs .exe with arg quoting (Windows)",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec execs .exe with a space and with verbatim args (Windows)",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec execs .cmd with a space and with verbatim args (Windows)",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec execs .cmd with a space and with arg with space (Windows)",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec execs .cmd from path (Windows)",
+            "status": "pending"
+          },
+          {
+            "name": "@actions/exec execs .cmd with arg quoting (Windows)",
+            "status": "pending"
+          }
+        ]
+      }
+    ]
+  }
+}

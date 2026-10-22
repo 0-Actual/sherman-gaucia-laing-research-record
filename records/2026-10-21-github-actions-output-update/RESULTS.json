@@ -1,0 +1,79 @@
+{
+  "local_review_date": "2026-10-21",
+  "upstream_repository": "actions/toolkit",
+  "upstream_commit": "0c3a9c332b678ff1e776f93d728a4ad279803abe",
+  "source_validation": {
+    "selected_files": 43,
+    "git_blob_hashes_verified": 43,
+    "complete_repository_checkout": false
+  },
+  "focused": {
+    "platform": "win32",
+    "node": "24.19.0",
+    "jest": "29.7.0",
+    "ts_jest": "29.1.1",
+    "typescript": "5.2.2",
+    "typescript_diagnostics": true,
+    "controlled": {
+      "total": 111,
+      "baseline_pass": 27,
+      "baseline_fail": 84,
+      "candidate_pass": 111,
+      "candidate_fail": 0
+    },
+    "native_child_process": {
+      "total": 14,
+      "baseline_pass": 3,
+      "baseline_fail": 11,
+      "candidate_pass": 14,
+      "candidate_fail": 0
+    },
+    "total": {
+      "cases": 125,
+      "baseline_pass": 30,
+      "baseline_fail": 95,
+      "candidate_pass": 125,
+      "candidate_fail": 0
+    }
+  },
+  "compatibility": {
+    "node": "24.20.0",
+    "suite": "packages/exec/__tests__/exec.test.ts",
+    "first_attempt": "Type-check stopped before execution because new upstream private-helper test used Buffer; adjusted that existing test to string",
+    "final": {
+      "total": 35,
+      "passed": 34,
+      "failed": 1
+    },
+    "remaining_failure": {
+      "test": "@actions/exec Exec roots does not throw when valid cwd is provided",
+      "executable": "ls.exe",
+      "exit_code": 3221225794,
+      "unchanged_current_upstream_control": "Same exact test fails with the same executable exit code; 34 other cases skipped in targeted control"
+    },
+    "clean_full_suite_pass": false
+  },
+  "formatting": {
+    "prettier": "3.0.3",
+    "changed_files": 4,
+    "result": "pass"
+  },
+  "lint": {
+    "status": "not completed",
+    "reason": "ESLint and configured plugins absent from available harness; direct network retrieval unavailable"
+  },
+  "limits": [
+    "Windows-only local evidence",
+    "Full repository suite and official dependency bootstrap not run",
+    "Hosted Actions tests not run",
+    "Candidate not accepted or released upstream",
+    "Existing original test license retained; no contributor agreement accepted"
+  ],
+  "duplicate_review": {
+    "issue1313": "existing final-fragment report; comment route",
+    "pr2552": "merged Oct20; newline recognition preserved",
+    "pr827": "existing large-line test; different from UTF8 chunk boundary",
+    "utf8": "No matching issue/PR found in searched exec UTF-8/UTF8/Unicode/StringDecoder/multibyte queries; search is bounded"
+  }
+}
+
