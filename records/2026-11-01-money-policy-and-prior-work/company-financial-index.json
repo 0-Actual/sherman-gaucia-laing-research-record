@@ -1,0 +1,100 @@
+{
+  "groups": [
+    {
+      "company": "OpenAI",
+      "scope": "Research grouping; exact subsidiary and counterparty remain in each original record. Shared group membership alone does not tie one transaction to another.",
+      "purchase_ids": [
+        "OM01",
+        "OM02",
+        "OM03",
+        "OM04",
+        "OM05",
+        "OM07",
+        "OM08"
+      ],
+      "financial_first_ids": [
+        "EU09",
+        "G03",
+        "EU01",
+        "W03",
+        "W06",
+        "G08"
+      ],
+      "financial_followthrough_ids": []
+    },
+    {
+      "company": "Microsoft",
+      "scope": "Research grouping; exact subsidiary and counterparty remain in each original record. Shared group membership alone does not tie one transaction to another.",
+      "purchase_ids": [
+        "OM06"
+      ],
+      "financial_first_ids": [
+        "W04",
+        "W01",
+        "W10",
+        "W07",
+        "EU10",
+        "G01",
+        "R05",
+        "R17",
+        "R06",
+        "EU02",
+        "EU06",
+        "R09",
+        "G03",
+        "R07",
+        "R14",
+        "R16",
+        "G02",
+        "R04",
+        "EU12",
+        "EU05"
+      ],
+      "financial_followthrough_ids": [
+        "EF05",
+        "EF08",
+        "EF03"
+      ]
+    },
+    {
+      "company": "Alphabet/Google",
+      "scope": "Research grouping; exact subsidiary and counterparty remain in each original record. Shared group membership alone does not tie one transaction to another.",
+      "purchase_ids": [
+        "GO01",
+        "GO02",
+        "GO03",
+        "GO04",
+        "GO05"
+      ],
+      "financial_first_ids": [
+        "EU07",
+        "W05",
+        "W09",
+        "G11",
+        "G07",
+        "EU03",
+        "EU04",
+        "R08",
+        "R18",
+        "W02",
+        "R12",
+        "R13",
+        "R03",
+        "G12",
+        "EU11"
+      ],
+      "financial_followthrough_ids": [
+        "AU02",
+        "CA01",
+        "CA02",
+        "CA03",
+        "IN06",
+        "IN07",
+        "CA06",
+        "EF09",
+        "EF02"
+      ]
+    }
+  ],
+  "no_double_counting": "Cross-references are not additional financial flows. Do not sum acquisition values with investments, counterpart declarations, lobbying, regulatory contributions, ceilings or downstream payments."
+}

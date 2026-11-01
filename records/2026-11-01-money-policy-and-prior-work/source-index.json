@@ -1,0 +1,2090 @@
+{
+  "scope": "Distinct explicit URL fields found in the assembled data. Not a claim that every linked page was re-fetched this turn; retained source review dates and access limits remain in each record.",
+  "sources": [
+    {
+      "url": "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/",
+      "title": "Facebook: changes to sharing and viewing news in Australia",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-08/Getting%20regulation%20right_0.pdf?VersionId=27eJCaHSxaRgp7c42Kks977jANz3gdhZ",
+      "title": "Getting regulation right: approaches to improving Australia's cybersecurity",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2024-12/ASPI%20Annual%20Report%202023-24%20FINAL.pdf?VersionId=fsxJkRgk5M3iL_yUEn0I1k0uBuW5ZI.i",
+      "title": "ASPI Annual Report 2023–24",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2025-03/ASPI%20Funding%202023-24.pdf?VersionId=GsXfp4y_oklpcSHqbirBC0VQKo3ni8ED",
+      "title": "ASPI Annual Report 2023–24 funding annex",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-2",
+      "title": "European Commission AI Act Service Desk — Article 2: Scope",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+      "title": "European Commission AI Act Service Desk — Article 53",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-103",
+      "title": "European Commission AI Act Service Desk — Recital 103",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://aka.ms/AdvocacyTradeMembershipsFY24",
+      "title": "Microsoft trade-association memberships FY2024",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://android-developers.googleblog.com/2011/10/android-40-platform-and-updated-sdk.html",
+      "title": "Android 4.0 Platform and Updated SDK Tools",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://api.parliament.uk/historic-hansard/commons/1914/aug/03/statement-by-sir-edward-grey.",
+      "title": "Grey's statement, 3 August 1914",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://api.parliament.uk/historic-hansard/commons/1915/oct/12/american-loan-bill",
+      "title": "American Loan Bill, Commons, 12 October 1915",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://apnews.com/article/52c72786e54f0ead8b04d037c30d6754",
+      "title": "AP: OpenAI recruits Jony Ive in $6.5B deal — secondary price decomposition",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1110.0573v1",
+      "title": "QuTiP: An open-source Python framework for the dynamics of open quantum systems (v1)",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1304.3061v1",
+      "title": "A variational eigenvalue solver on a quantum processor",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1311.0275v1",
+      "title": "Quantifying Coherence",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1407.3561v1",
+      "title": "IPFS - Content Addressed, Versioned, P2P File System (v1)",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1612.02058v1",
+      "title": "Error mitigation for short-depth quantum circuits",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2212.08073v1",
+      "title": "Constitutional AI: Harmlessness from AI Feedback (v1)",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2308.08155v1",
+      "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework (v1)",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2310.08560v1",
+      "title": "MemGPT: Towards LLMs as Operating Systems (v1)",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2411.04468v1",
+      "title": "Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks (v1)",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.24890v1",
+      "title": "Verifying Provenance of Digital Media: Why the C2PA Specifications Fall Short",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/quant-ph/0102117v1",
+      "title": "A computable measure of entanglement",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/quant-ph/9604034v1",
+      "title": "A Theory of Quantum Error-Correcting Codes",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/quant-ph/9705052v1",
+      "title": "Stabilizer Codes and Quantum Error Correction",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/quant-ph/9709029v1",
+      "title": "Entanglement of Formation of an Arbitrary State of Two Qubits",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://assets.airtel.in/nxtra/pdf/Financial-Documents/STXIntimation_Nxtra_results_March31_2026.pdf",
+      "title": "Nxtra Data audited standalone and consolidated FY2026 results",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://assets.airtel.in/static-assets/cms/investor/docs/Reg30DisclosureNxtraVizag.pdf",
+      "title": "Bharti Airtel Regulation 30 disclosure: incorporation of Nxtra Vizag Limited",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+      "title": "Carnegie 2025 annual report",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/6719ff5f549f63039436b3c8/__Full_text_decision__.pdf",
+      "title": "CMA Microsoft/Inflection full decision",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://astral.sh/blog/openai",
+      "title": "Astral to join OpenAI",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://avalon.law.yale.edu/18th_century/debates_822.asp",
+      "title": "Madison's Notes, Constitutional Convention, August 22, 1787",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://avalon.law.yale.edu/19th_century/ajveto01.asp",
+      "title": "Andrew Jackson, Bank veto message",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://bankunderground.co.uk/2017/08/08/your-country-needs-funds-the-extraordinary-story-of-britains-early-efforts-to-finance-the-first-world-war/",
+      "title": "Your country needs funds: Britain's early war financing",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://blog.character.ai/our-next-phase-of-growth/",
+      "title": "Character.AI next-phase announcement — original URL unavailable on review",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/google-us-ai-action-plan-comments/",
+      "title": "Google recommendations for the US AI Action Plan, March 13, 2025",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/",
+      "title": "Google completes acquisition of Wiz",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://blog.google/intl/en-in/company-news/our-first-ai-hub-in-india-powered-by-a-15-billion-investment/",
+      "title": "Google's first AI hub in India",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://blog.google/intl/en-in/google-ai-hub-scaling-indias-ai-infrastructure-and-community-impact/",
+      "title": "Google AI Hub: Scaling India's AI Infrastructure and Community Impact",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://blog.google/intl/en-my/company-news/technology/2024_05_advancing-malaysia-together/",
+      "title": "Google's US$2 Billion Investment to Power Malaysia's Digital Future",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://blogs.loc.gov/inside_adams/2021/06/convict-leasing-system/",
+      "title": "Library of Congress, The Convict Leasing System",
+      "occurs_in": [
+        " slavery-continuity.json"
+      ]
+    },
+    {
+      "url": "https://blogs.loc.gov/international-collections/2021/06/the-franco-american-revolution-part-1/",
+      "title": "Library of Congress, The Franco-American Revolution Part 1",
+      "occurs_in": [
+        " policy/us-policy-context.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/",
+      "title": "Microsoft: Mustafa Suleyman joins to lead Copilot",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://blogs.microsoft.com/on-the-issues/2025/02/27/trump-administration-ai-global-race/",
+      "title": "The Trump administration can avoid a strategic misstep in the AI global race, February 27, 2025",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/",
+      "title": "Microsoft's $15.2 billion USD investment in the UAE",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://buy.nsw.gov.au/notices/E4CE218D-7364-463E-881D3213B0373860",
+      "title": "NSW Microsoft License Service Provider contract 4600003029-1",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://c2pa.org/c2pa-releases-specification-of-worlds-first-industry-standard-for-content-provenance/",
+      "title": "C2PA Releases Specification of World’s First Industry Standard for Content Provenance",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://carnegieendowment.org/events/2025/01/2025-global-technology-summit",
+      "title": "2025 Global Technology Summit, organizer programme",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://caselaw.findlaw.com/court/us-supreme-court/273/456.html",
+      "title": "Pan American Petroleum & Transport Co. v. United States, 273 U.S.456 (1927)",
+      "occurs_in": [
+        " policy/us-policy-1861-1945.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://cdn.openai.com/global-affairs/ostp-rfi/ec680b75-d539-4653-b297-8bcf6e5f7686/openai-response-ostp-nsf-rfi-notice-request-for-information-on-the-development-of-an-artificial-intelligence-ai-action-plan.pdf",
+      "title": "OpenAI AI Action Plan submission, March 13, 2025, pp.6–7",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/app/uploads/2026/04/2026-04-28-cjc-ccj-bylaws-en.pdf",
+      "title": "CJC bylaws as amended April 28, 2026",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/app/uploads/2026/06/cjc-ccj_2026-03-06_payments-to-date_en.csv",
+      "title": "Original CJC Year 1 payments-to-date CSV",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json",
+        " financial/international-followthrough/cjc-payment-analysis.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/app/uploads/2026/08/cjc-ccj_2026-08-19_payments-to-date_en.csv",
+      "title": "Original CJC Year 2 payments-to-date CSV",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json",
+        " financial/international-followthrough/cjc-payment-analysis.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/en/funding-recipients/",
+      "title": "CJC current funding recipients",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/en/funding-recipients/fund-beneficiaries-year-1/",
+      "title": "CJC Year 1 funding recipients",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/en/january-update/",
+      "title": "CJC January update",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/en/latest-news/",
+      "title": "CJC news index",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cjc-ccj.ca/en/spring-update-2/",
+      "title": "CJC Spring Update",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/infrastructure/google-cloud-launches-new-region-in-bangkok-thailand",
+      "title": "Google Cloud launches new region in Bangkok",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cognition.com/blog/one-year-of-building-together",
+      "title": "Cognition: one year of building together",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://cognition.com/blog/windsurf",
+      "title": "Cognition's acquisition of Windsurf",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+      "title": "Online News Decision CRTC 2024-262",
+      "occurs_in": [
+        " financial/international-first/evidence.json",
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+      "title": "CRTC Status Report on the Implementation of the Online News Act 2024–2025",
+      "occurs_in": [
+        " financial/international-first/evidence.json",
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+      "title": "CRTC 2025–2026 impact report",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://cs.uwaterloo.ca/~watrous/TQI/",
+      "title": "The Theory of Quantum Information",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://csrc.nist.gov/pubs/fips/202/final",
+      "title": "FIPS 202: SHA-3 Standard",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://data.europa.eu/api/hub/repo/datasets/transparency-register.rdf",
+      "title": "EU data catalogue API candidate — RDF record",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://data.europa.eu/api/hub/search/datasets/transparency-register",
+      "title": "EU data catalogue API candidate — dataset record",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://data.europa.eu/data-management/store/api/data/sg/01M323P8DK5V7A6V68YHXDPSDJ",
+      "title": "June 2026 official historical Excel distribution",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://data.europa.eu/data/datasets/transparency-register",
+      "title": "EU data portal — Transparency Register dataset",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+      "title": "Announcing the Agent2Agent Protocol (A2A)",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "title": "European Commission: The General-Purpose AI Code of Practice",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://digital.library.unt.edu/ark:/67531/metacrs891/m1/1/high_res_d/RL30058_1999Nov05.html",
+      "title": "CRS RL30058, Tobacco Master Settlement Agreement (1998): Overview and Issues for the 106th Congress, November 5, 1999",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://digital.library.unt.edu/ark:/67531/metadc30903/m1/796/",
+      "title": "Congressional Globe, February 18, 1873: Poland committee report",
+      "occurs_in": [
+        " policy/us-policy-1861-1945.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://digitalrightswatch.org.au/2026/01/04/the-internet-search-engine-services-online-safety-code-explainer/",
+      "title": "The Internet Search Engine Services Online Safety Code Explainer",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://digitalrightswatch.org.au/about/donation-transparency/",
+      "title": "Digital Rights Watch donation transparency",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://digitalrightswatch.org.au/about/donations-policy/",
+      "title": "Digital Rights Watch donations policy",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://eare.eu/app/uploads/2025/10/EARE-MANIFESTO_Final.pdf",
+      "title": "EARE policy priorities for the next mandate, 2024–2029",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://eare.eu/get-in-touch/",
+      "title": "EARE: Get in touch — funding and governance disclosure",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest",
+      "title": "European Commission public daily XML download endpoint",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://eips.ethereum.org/EIPS/eip-721",
+      "title": "ERC-721: Non-Fungible Token Standard",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://eprint.iacr.org/2026/804",
+      "title": "Verifying Provenance of Digital Media: Security Analysis of C2PA and its Implementation",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://farm.bot/blogs/news/farmbot-now-available-for-pre-order",
+      "title": "FarmBot Now Available for Pre-Order",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://forum.farmbot.org/t/scaling-farmbot-to-bigger-farms/178",
+      "title": "Scaling FarmBot to bigger farms — founder response",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/report-public-credit-january-1790-report-a-national-bank-december-1790-5629/fulltext",
+      "title": "Alexander Hamilton, Report on Public Credit, January 1790, in Treasury reports",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://fraser.stlouisfed.org/title/convict-labor-1923-4005/fulltext",
+      "title": "BLS Bulletin 372, Convict Labor in 1923",
+      "occurs_in": [
+        " slavery-continuity.json"
+      ]
+    },
+    {
+      "url": "https://gazette.gc.ca/rp-pr/p1/2023/2023-09-02/html/reg1-eng.html",
+      "title": "Proposed Online News Act regulations, Canada Gazette Part I, September 2, 2023",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-01-03/html/sor-dors276-eng.html",
+      "title": "Online News Act Application and Exemption Regulations, SOR/2023-276",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi%3Adocument-816",
+      "title": "Haase's statement on war credits, 4 August 1914",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/the-blank-check-ladislaus-count-von-szoegyeny-marich-berlin-to-leopold-count-von-berchtold-july-5-1914",
+      "title": "Szögyény to Berchtold, 5 July 1914",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://github.blog/wp-content/uploads/2023/02/GitHub_Position_Paper-AI_Act.pdf",
+      "title": "EU AI Act — GitHub Position Paper, 20 October 2022",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/blob/f56f010386cb5d08c2c1f0168f7627fe81186463/timeline.json",
+      "title": "",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/responsible-ai-toolbox/pull/2648",
+      "title": "Fix raiutils conversion boundaries and JSON-safe NumPy scalars",
+      "occurs_in": [
+        " direct-connections.json"
+      ]
+    },
+    {
+      "url": "https://github.com/microsoft/responsible-ai-toolbox/pull/2649",
+      "title": "Correct error-analysis metrics, cohort outcomes and regression residuals",
+      "occurs_in": [
+        " direct-connections.json"
+      ]
+    },
+    {
+      "url": "https://group.softbank/en/news/press/20251231",
+      "title": "Completion of Additional $22.5 Billion Investment in OpenAI",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://group.softbank/en/news/press/20261001",
+      "title": "Execution of Follow-on Investment (Third Tranche) in OpenAI",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://hansard.parliament.uk/Commons/1914-11-17/debates/0736c995-a08f-443b-ae3e-494420f9a4f1/ChancellorOfExchequerSStatement",
+      "title": "Chancellor of the Exchequer's statement, 17 November 1914",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://history.state.gov/historicaldocuments/frus1871/d189",
+      "title": "German constitution, 1871 diplomatic copy",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://history.state.gov/historicaldocuments/frus1919Parisv02/d66",
+      "title": "Transmission of Wilhelm's abdication",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://history.state.gov/milestones/1776-1783/model-treaty",
+      "title": "Office of the Historian, The Model Treaty 1776",
+      "occurs_in": [
+        " policy/us-policy-context.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://history.state.gov/milestones/1784-1800/loans",
+      "title": "Office of the Historian, U.S. Debt and Foreign Loans 1775–1795",
+      "occurs_in": [
+        " policy/us-policy-context.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://history.state.gov/milestones/1921-1936/dawes",
+      "title": "The Dawes Plan, the Young Plan, German Reparations, and Inter-allied War Debts",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://history.state.gov/milestones/1937-1945/bretton-woods",
+      "title": "Bretton Woods conference and institutions",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://investors.htc.com/documents/1406/HTC_1Q25_RESULTS_SUMMARY.pdf",
+      "title": "HTC first-quarter2025 results",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://investors.htc.com/documents/1417/HTC_2024_Annual_Report_en.pdf",
+      "title": "HTC 2024 annual report",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.80.580",
+      "title": "Spin Echoes",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://laws.justice.gc.ca/eng/acts/O-9.3/FullText.html",
+      "title": "Online News Act, S.C. 2023, c. 23",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://lda.gov/filings/public/filing/25432e67-591b-4e9f-85ae-4437532f7e7e/print/",
+      "title": "Google Q4 2025 LD-2",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://lda.gov/filings/public/filing/9d83af86-eb8b-4eb0-b43e-22f1aa9aff25/print/",
+      "title": "Microsoft Q4 2025 LD-2",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/BF01608499",
+      "title": "On the generators of quantum dynamical semigroups",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/mnthlyClntCmmnctns?clientOrgCorpId=382096&month=7&year=2025",
+      "title": "Office of the Commissioner of Lobbying: OpenAI monthly communications, August 2025",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/vwRg?blnk=1&cno=382096&regId=973289",
+      "title": "OpenAI OpCo LLC / Dev Saxena consultant registration",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+      "title": "LobbyingSoftware: Microsoft Corporation",
+      "occurs_in": [
+        " financial/international-first/evidence.json",
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+      "title": "LobbyingSoftware: Google Ireland Limited and its affiliates",
+      "occurs_in": [
+        " financial/international-first/evidence.json",
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://media.unesco.org/sites/default/files/webform/mow001/serbia_telegram_eng.pdf",
+      "title": "Austro-Hungarian declaration telegram documentary nomination",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://multi.app/blog/multi-is-joining-openai",
+      "title": "Multi is joining OpenAI",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://news.microsoft.com/pt-br/microsoft-announces-14-7-billion-reais-investment-over-three-years-in-cloud-and-ai-infrastructure-and-provide-ai-training-at-scale-to-upskill-5-million-people-in-brazil/",
+      "title": "Microsoft announces 14.7 billion reais investment in Brazil",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://news.microsoft.com/source/2024/04/16/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/",
+      "title": "Microsoft invests $1.5 billion in Abu Dhabi's G42",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/",
+      "title": "Microsoft and G42 announce Kenya digital ecosystem initiative",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/",
+      "title": "Microsoft invests US$17.5 billion in India",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/",
+      "title": "Microsoft invests ZAR5.4bn in South Africa",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+      "title": "HUMAIN and NVIDIA Announce Strategic Partnership",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/ai-policy-window/",
+      "title": "AI policy window, September 9, 2026",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/announcing-the-stargate-project/",
+      "title": "Announcing The Stargate Project",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/custom-instructions-for-chatgpt/",
+      "title": "Custom instructions for ChatGPT",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/introducing-agentkit/",
+      "title": "Introducing AgentKit",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+      "title": "Introducing apps in ChatGPT and the new Apps SDK",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/introducing-codex/",
+      "title": "Introducing Codex",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpts/",
+      "title": "Introducing GPTs",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/introducing-stargate-uae/",
+      "title": "Introducing Stargate UAE",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/memory-and-new-controls-for-chatgpt/",
+      "title": "Memory and new controls for ChatGPT",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/new-tools-for-building-agents/",
+      "title": "New tools for building agents",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/openai-acquires-rockset/",
+      "title": "OpenAI acquires Rockset",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/openai-acquires-software-applications-incorporated/",
+      "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/openai-to-acquire-astral/",
+      "title": "OpenAI to acquire Astral",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo/",
+      "title": "OpenAI to acquire Promptfoo",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+      "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://openai.com/sam-and-jony/",
+      "title": "A letter from Sam & Jony",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://pubs.aip.org/aip/jmp/article/17/5/821/225427/Completely-positive-dynamical-semigroups-of-N",
+      "title": "Completely positive dynamical semigroups of N-level systems",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://qna.files.parliament.uk/qna-attachments/1825097/original/250714%20%281%29.pdf",
+      "title": "House of Commons Register of Members' Financial Interests, 14 July 2025",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://questions-statements.parliament.uk/written-questions/detail/2019-12-19/44/",
+      "title": "UK Parliament written question 44: Ministry of Defence procurement",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://r2.maginative.com/ca-sb-1047-openai-opposition-letter.pdf",
+      "title": "OpenAI opposition letter, August 21, 2024",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://researchbriefings.files.parliament.uk/documents/LLN-2014-013/LLN-2014-013.pdf",
+      "title": "Britain and the outbreak of the First World War",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://sd11.senate.ca.gov/news/senator-wieners-groundbreaking-artificial-intelligence-bill-advances-assembly-floor-amendments",
+      "title": "Wiener announces SB1047 amendments, August 15, 2024",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://sencanada.ca/en/content/sen/chamber/441/debates/164db_2023-11-29-e",
+      "title": "Senate Debates, November 29, 2023, Issue 164",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://services.google.com/fh/files/misc/2025_memberships_for_google_public_policy_transparency_page.pdf",
+      "title": "Google 2025 public-policy memberships",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://slsa.dev/blog/2023/04/slsa-v1-final",
+      "title": "SLSA v1.0 is now final!",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://static.googleusercontent.com/media/publicpolicy.google/en//resources/response_us_ai_action_plan.pdf",
+      "title": "Google AI Action Plan submission, sectionD(i)",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://supreme.justia.com/cases/federal/us/69/45/",
+      "title": "Tool Company v. Norris, 69 U.S. (2 Wall.) 45 (1864)",
+      "occurs_in": [
+        " policy/us-policy-1861-1945.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/",
+      "title": "TechCrunch reports Statsig payment form — secondary",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://tile.loc.gov/storage-services/service/ll/llscd/llsp028/llsp028.pdf",
+      "title": "Georgia rescinding act preamble, reproduced in American State Papers: Public Lands, volume 1",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep347/usrep347612/usrep347612.pdf",
+      "title": "United States v. Harriss, 347 US612 (1954)",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://transparency-register.europa.eu/guidelines_en",
+      "title": "EU Transparency Register — Guidelines",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://transparency-register.europa.eu/odplastorganisationxls_en",
+      "title": "Current official Excel distribution",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+      "title": "Official EU Transparency Register XML export — Microsoft Corporation 0801162959-21",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+      "title": "EU Transparency Register: original Google entry locator",
+      "occurs_in": [
+        " financial/international-first/evidence.json",
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=0801162959-21",
+      "title": "Official EU register profile, identification 0801162959-21",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf",
+      "title": "Australian Treasury: the code's first year of operation",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://uscib.org/digital-policy/",
+      "title": "USCIB digital policy",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://uscib.org/uscib-content/uploads/2026/05/USCIBWrittenSubmissionUNGlobalAIDIalogueMay2026-1.pdf",
+      "title": "USCIB written submission to UN Global AI Dialogue",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem",
+      "title": "Google Breaks Ground on India AI Hub",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.alibabagroup.com/en-US/document-1830678592242057216",
+      "title": "Alibaba to invest RMB380 billion in AI and cloud infrastructure",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.amplitude.com/blog/amplitude-and-statsig-partnership",
+      "title": "Amplitude and Statsig Partnership",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "title": "Equipping agents for the real world with Agent Skills",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+      "title": "How we built our multi-agent research system",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+      "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
+      "title": "Anthropic endorses SB53, September 8, 2025",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+      "title": "Claude 3.7 Sonnet and Claude Code",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news/claudes-constitution",
+      "title": "Claude’s constitution",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news/model-context-protocol",
+      "title": "Introducing the Model Context Protocol",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+      "title": "SKT partnership announcement",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth",
+      "title": "PIF and Aramco close HUMAIN transaction to accelerate HUMAIN's global growth",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+      "title": "United States Constitution, original text",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.archives.gov/milestone-documents/13th-amendment",
+      "title": "National Archives, Thirteenth Amendment",
+      "occurs_in": [
+        " slavery-continuity.json"
+      ]
+    },
+    {
+      "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address",
+      "title": "Eisenhower farewell address, 17 January 1961",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.archives.gov/research/guide-fed-records/groups/061.html",
+      "title": "Records of the War Industries Board, RG61",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+      "title": "Atlantic Council 2025 contributors",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.attorneygeneral.gov/the-office/divisions/public-protection/tobacco-enforcement/master-settlement-agreement-summary/",
+      "title": "Pennsylvania Office of Attorney General, Summary of Key Points in the Master Settlement Agreement",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=20A29&src=CalmView.Catalog",
+      "title": "First War Loan archive collection 20A29",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.brookings.edu/about-us/finances/",
+      "title": "Brookings finances and independence",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.brookings.edu/articles/the-family-relationships-that-couldnt-stop-world-war-i/",
+      "title": "The family relationships that couldn't stop World War I",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.brookings.edu/wp-content/uploads/2026/03/Brookings-Intitution-Honor-Roll-2025-Fiscal-Year.pdf",
+      "title": "Brookings fiscal 2025 honor roll",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2023/11/statement-by-minister-st-onge-on-next-steps-for-the-online-news-act.html",
+      "title": "Minister St-Onge statement on next steps for the Online News Act",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.census.gov/about/history/stories/monthly/2014/november-2014.html",
+      "title": "Census Bureau, Abraham Lincoln and the census",
+      "occurs_in": [
+        " slavery-continuity.json"
+      ]
+    },
+    {
+      "url": "https://www.commerce.gov/news/press-releases/2025/05/uae/us-framework-advanced-technology-cooperation",
+      "title": "UAE/US Framework on Advanced Technology Cooperation",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.commerce.gov/news/press-releases/2025/11/statement-uae-and-saudi-chip-exports",
+      "title": "Statement on UAE and Saudi Chip Exports",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10368/IF10368.4.pdf",
+      "title": "CRS, Forced Labor Trafficking in the International Fishing Sector",
+      "occurs_in": [
+        " slavery-continuity.json"
+      ]
+    },
+    {
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/Attachment/a4d1c11a-eb38-4f1f-ac6c-6bd1d3bbdeda",
+      "title": "Contract for the supply of Microsoft M365 E5 Software Renewal",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.cooley.com/news/coverage/2025/2025-05-29-cooley-advises-io-products-on-6-5-billion-acquisition-by-openai",
+      "title": "Cooley advises io Products on $6.5 billion acquisition by OpenAI",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.fec.gov/about/fec-historical-timeline/",
+      "title": "FEC historical timeline",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/",
+      "title": "Buckley v. Valeo case account and documents",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.fec.gov/legal-resources/court-cases/citizens-united-v-fec/",
+      "title": "Citizens United v. FEC case account",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.gao.gov/products/b-337935",
+      "title": "B-337935, May 12, 2026: CRA applicability to AI Diffusion nonenforcement",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.gao.gov/products/t-ggd-91-56",
+      "title": "Federal Lobbying: Comments on the adequacy of federal lobbying laws, July 16, 1991",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.google.com/publicpolicy/transparency/",
+      "title": "Google public-policy transparency",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.googlecloudpresscorner.com/2024-09-30-Google-Announces-Plans-to-Invest-US-1-Billion-to-Build-Data-Center-and-Cloud-Region-in-Thailand,-Support-Initiatives-to-Expand-AI-Opportunities-for-Thais",
+      "title": "Google Announces Plans to Invest US$1 Billion in Thailand",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/",
+      "title": "Governor signs SB53, September 29, 2025",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/",
+      "title": "California AI framework legislation, September 30, 2026",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf",
+      "title": "SB1047 veto message, September 29, 2024",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry",
+      "title": "CMA Microsoft/Inflection inquiry",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+      "title": "Memorandum of Understanding between UK and OpenAI on AI opportunities",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1eh/html/BILLS-119hr1eh.htm",
+      "title": "House-passed H.R.1, section 43201(c)",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119shrg61426/html/CHRG-119shrg61426.htm",
+      "title": "Senate AI hearing, May 8, 2025, CHRG119shrg61426",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-30/html/CREC-2025-06-30-pt1-PgS4037-6.htm",
+      "title": "Amendment2814 debate and99–1 tally",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm",
+      "title": "U.S. Senate Report 109-325, Gimme Five—Investigation of Tribal Lobbying Matters, September 5, 2006",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/GPO-HPREC-HINDS-V2/pdf/GPO-HPREC-HINDS-V2-16.pdf",
+      "title": "Hinds' Precedents, Volume 2, Chapter 42",
+      "occurs_in": [
+        " policy/us-policy-1861-1945.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/GPO-HPREC-HINDS-V3/html/GPO-HPREC-HINDS-V3-26.htm",
+      "title": "Hinds' Precedents, Volume 3, Chapter 77: Impeachment and Trial of William W. Belknap",
+      "occurs_in": [
+        " policy/us-policy-1861-1945.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ65/html/PLAW-104publ65.htm",
+      "title": "Lobbying Disclosure Act 1995, Public Law 104-65",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm",
+      "title": "Public Law 119-21, July 4, 2025",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/SERIALSET-09987_00_00/pdf/SERIALSET-09987_00_00.pdf",
+      "title": "Senate Report 944, Part 7, 1936",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg138.pdf",
+      "title": "Act making provision for the debt of the United States",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg489.pdf",
+      "title": "Pacific Railroad Act, July 1, 1862, 12 Stat.489",
+      "occurs_in": [
+        " policy/us-policy-1861-1945.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-59/pdf/STATUTE-59-Pg512.pdf",
+      "title": "Bretton Woods Agreements Act, 59 Stat.512",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg812.pdf",
+      "title": "Legislative Reorganization Act 1946, TitleIII, 60 Stat.839–842",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg3.pdf",
+      "title": "Federal Election Campaign Act, 86 Stat.3",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1263.pdf",
+      "title": "FECA amendments, 88 Stat.1263",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.gunder.com/en/news-insights/client-news/gunderson-dettmer-represented-statsig-in-its-1-1-billion-dollar-acquisition-by-openai",
+      "title": "Gunderson Dettmer represented Statsig in its $1.1B acquisition by OpenAI",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.gutenberg.org/files/10809/10809-h/10809-h.htm",
+      "title": "1914 German White Book exhibits 20–26 in contemporary British volume",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.hatvp.fr/fiche-organisation/?organisation=327733184",
+      "title": "HATVP: Microsoft France",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.hatvp.fr/fiche-organisation/?organisation=443061841",
+      "title": "HATVP: Google France",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.hatvp.fr/fiche-organisation/?organisation=952418325",
+      "title": "HATVP: Mistral AI",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.illinoiscourts.gov/resources/b17736a1-9b7b-4e53-baaf-f1b0ef051bad/1062326.pdf",
+      "title": "Illinois Appellate Court, People v. Lorillard Tobacco Company, No. 1-06-2326, March 30, 2007",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.ilo.org/resource/news/annual-profits-forced-labour-amount-us-236-billion-ilo-report-finds",
+      "title": "ILO, Annual profits from forced labour",
+      "occurs_in": [
+        " slavery-continuity.json"
+      ]
+    },
+    {
+      "url": "https://www.ilo.org/sites/default/files/2025-09/ILO_GEMS-2022_Report_EN_Web.pdf",
+      "title": "Global Estimates of Modern Slavery, 2022",
+      "occurs_in": [
+        " slavery-continuity.json"
+      ]
+    },
+    {
+      "url": "https://www.itpro.com/software/development/openais-plan-to-acquire-ai-coding-startup-windsurf-ended-in-disaster-heres-how-the-deal-fell-apart",
+      "title": "ITPro report on Windsurf transactions",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/e2e8fc50-a9ac-05ec-edd7-277cb0afcdf2/2025-09-16%20PM%20-%20Testimony%20-%20Garcia.pdf",
+      "title": "Senate-hosted testimony and exhibits, including May21,2025 judicial order",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.justice.gov/ag/media/1422986/dl",
+      "title": "AI Litigation Task Force memorandum, January 9, 2026",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.justice.gov/archive/ag/speeches/2008/ag_speech_080327.html",
+      "title": "Attorney General Michael B. Mukasey, Commonwealth Club remarks, March 27, 2008",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.justice.gov/archive/opa/pr/2006/September/06_crm_622.html",
+      "title": "DOJ, Congressman Robert W. Ney Agrees to Plead Guilty to Charges Involving Corruption and False Statements, September 15, 2006",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.justice.gov/archive/tax/usaopress/2006/txdv06cas60303.1.pdf",
+      "title": "U.S. Attorney, Southern District of California, Former Congressman Cunningham Sentenced to More Than 8 Years in Prison, March 3, 2006",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination",
+      "title": "DOJ intervention in xAI Colorado litigation, April 24, 2026; updated October 20",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.justice.gov/usao-sdoh/pr/firstenergy-charged-federally-agrees-terms-deferred-prosecution-settlement",
+      "title": "DOJ, FirstEnergy charged federally, agrees to terms of deferred prosecution settlement, July 22, 2021",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.justice.gov/usao-sdoh/pr/former-ohio-house-speaker-sentenced-20-years-prison-leading-racketeering-conspiracy",
+      "title": "DOJ, Former Ohio House Speaker sentenced to 20 years in prison, June 29, 2023",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.law.cornell.edu/supremecourt/text/10/87",
+      "title": "Fletcher v. Peck, 10 U.S. (6 Cranch) 87",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131531",
+      "title": "Article 35, Law 2026-403 of 26 May 2026 — original enacted text",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.legislation.gov.au/C2026A00075/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+      "title": "News Journalism Payments Act 2026",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.legislation.gov.au/C2026A00077/asmade/2026-08-26/text/original/pdf",
+      "title": "News Media Bargaining (Administration) Act 2026",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.legislation.gov.au/C2026A00078/asmade",
+      "title": "Charge Act current register entry",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.legislation.gov.au/C2026A00078/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+      "title": "News Media Bargaining Charge Act 2026",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.legislation.gov.uk/ukpga/Geo5/5-6/54/pdfs/ukpga_19150054_en.pdf",
+      "title": "Munitions of War Act 1915, 5 & 6 Geo.5 c.54",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.legislature.ohio.gov/download?format=pdf&key=16379",
+      "title": "Ohio Legislative Service Commission, HB128 Final Analysis, April 21, 2021",
+      "occurs_in": [
+        " policy/us-policy-1946-2026.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.lobbyregister.bundestag.de/inhalte-der-interessenvertretung/regelungsvorhabensuche/RV0013794/540785",
+      "title": "Bundestag policy mandate RV0013794: national sovereignty requirements for cloud providers",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.lobbyregister.bundestag.de/media/a3/ab/521487/Lobbyregister-Registereintraege-Detailansicht-R007050-2025-05-19_18-08-03.pdf",
+      "title": "Bundestag Lobbyregister: GC Germany GmbH, historical filing",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.lobbyregister.bundestag.de/suche/R000709",
+      "title": "Bundestag Lobbyregister: Miller & Meier Consulting GmbH",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.lobbyregister.bundestag.de/suche/R001824",
+      "title": "Bundestag Lobbyregister: 365 Sherpas BPI | 365 Sherpas GmbH",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.lobbyregister.bundestag.de/suche/R002324",
+      "title": "Bundestag Lobbyregister: Johanssen+Kretschmer Strategische Kommunikation GmbH",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.lobbyregister.bundestag.de/suche/R006620",
+      "title": "Bundestag Lobbyregister: OpenAI Ireland Ltd",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.lobbyregister.bundestag.de/suche/R007050",
+      "title": "Bundestag Lobbyregister: GC Germany GmbH current entry",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.mediaoffice.abudhabi/en/technology/abu-dhabi-launches-comprehensive-global-investment-strategy-on-artificial-intelligence/",
+      "title": "Abu Dhabi Launches Comprehensive Global Investment Strategy on Artificial Intelligence",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.meti.go.jp/speeches/kaiken/2024/20240510001.html",
+      "title": "METI minister post-Cabinet press conference",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.mgx.ae/our-portfolio",
+      "title": "MGX Our Portfolio",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/",
+      "title": "Software Engineering for Machine Learning: A Case Study",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.mubadala.com/en/news/mubadala-investment-company-board-directors-endorses-new-structure",
+      "title": "Mubadala Investment Company Board of Directors Endorses New Structure",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.newswire.ca/news-releases/government-of-canada-enables-a-more-modern-and-accessible-public-service-819446329.html",
+      "title": "Shared Services Canada: Government of Canada enables a more Modern and Accessible Public Service",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.nist.gov/news-events/news/2023/01/nist-risk-management-framework-aims-improve-trustworthiness-artificial",
+      "title": "NIST Risk Management Framework Aims to Improve Trustworthiness of Artificial Intelligence",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.nlr.gov/docs/legosti/fy97/23116.pdf",
+      "title": "Sizing Wind/Photovoltaic Hybrids for Households in Inner Mongolia",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.ourcommons.ca/documentviewer/en/44-1/house/sitting-260/hansard",
+      "title": "House of Commons Debates, December 1, 2023, Sitting 260",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.paulfletcher.com.au/past-ministerial-speeches/national-press-club-governing-in-the-internet-age",
+      "title": "Paul Fletcher: Governing in the Internet Age",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2256187&lang=1&reg=20",
+      "title": "Government of India: AI hub groundbreaking",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2024/pif-and-google-cloud-to-create-advanced-ai-hub-in-saudi-arabia/",
+      "title": "PIF and Google Cloud to create advanced AI hub in Saudi Arabia",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse/",
+      "title": "HRH Crown Prince launches HUMAIN as global AI powerhouse",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/pif-and-aramco-agree-for-aramco-to-acquire-a-significant-minority-stake-in-humain-with-pif-retaining-majority-ownership/",
+      "title": "PIF and Aramco agree for Aramco to acquire a significant minority stake in HUMAIN",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.presidency.ucsb.edu/documents/message-read-the-cabinet-removal-the-public-deposits",
+      "title": "Andrew Jackson, Message Read to the Cabinet on Removal of the Public Deposits",
+      "occurs_in": [
+        " policy/us-policy-1776-1860.json",
+        " policy-cases.json"
+      ]
+    },
+    {
+      "url": "https://www.preussenchronik.de/stammbaum/",
+      "title": "Hohenzollern family tree",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/google-announces-agreement-to-acquire-wiz-302404500.html",
+      "title": "Google announces agreement to acquire Wiz — company-issued release",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.rct.uk/collection/2926842/alexander-iii-emperor-of-russia-and-his-family-at-the-gatchina-palace",
+      "title": "Alexander III and his family at Gatchina",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.rct.uk/collection/404608/charlotte-alexandra-feodorovna-empress-of-russia-with-her-eldest-children",
+      "title": "Charlotte / Alexandra Feodorovna with her eldest children",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.rct.uk/collection/stories/the-diary-of-king-george-v",
+      "title": "The diary of King George V",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc1951.html",
+      "title": "DEFLATE Compressed Data Format Specification version 1.3, RFC 1951",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc8493.html",
+      "title": "The BagIt File Packaging Format (V1.0), RFC 8493",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.russianlegitimist.org/the-fundamental-laws",
+      "title": "Russian Fundamental Laws, 1906",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.scribd.com/document/1054630282/2026ITC-40674-MS4-E",
+      "title": "Andhra Pradesh ITE&C G.O.Ms.No.4, third-party copy",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.scribd.com/document/1059730399/2026ITC-40508-MS2-E",
+      "title": "Andhra Pradesh ITE&C G.O.Ms.No.2, third-party copy",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.scribd.com/document/1061400516/2025ITC-38488-MS40-E-Google",
+      "title": "Andhra Pradesh ITE&C G.O.Ms.No.40, third-party copy",
+      "occurs_in": [
+        " financial/international-followthrough/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm",
+      "title": "Alphabet September2026 Form10-Q",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.senat.fr/rap/l23-634/l23-634_mono.html",
+      "title": "French Senate report 634, full text",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.senat.fr/rap/l23-634/l23-6343.html",
+      "title": "French Senate report 634, 28 May 2024: existing Article 15 data-centre proposal",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.senat.fr/rap/r24-830-1/r24-830-115.html",
+      "title": "French Senate inquiry: Piloter la commande publique au service de la souveraineté économique",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.senate.gov/about/powers-procedures/investigations/merchants-of-death.htm",
+      "title": "Merchants of Death: the Nye inquiry",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.senate.gov/legislative/Public_Disclosure/FAQs.htm",
+      "title": "Lobbying disclosure FAQs, especially question12",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.shanghai.gov.cn/nw15343/20250123/76167eae0a624d569fc71fe6627e5334.html?siteId=1",
+      "title": "Shanghai government: national AI fund established in Xuhui",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240510_01/",
+      "title": "SoftBank cloud-program supply-assurance plan certification",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.statsig.com/blog/openai-acquisition",
+      "title": "Statsig is joining OpenAI",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.tpg.com/news-and-insights/tpg-announces-completion-of-4-75-billion-sale-of-intersect-to-google-launches-ipx-power-as-independent-power-producer",
+      "title": "TPG completes sale of Intersect and launches IPX Power",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.ulethbridge.ca/lib/digitized_collections/ourheritage/Great_Adventures/Waterways_of_Russia/Romanov_Dynasty/1881_AlexanderIII.html",
+      "title": "Alexander III parentage",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.vive.com/us/newsroom/2025-01-23/",
+      "title": "HTC announces XR agreement with Google",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.w3.org/TR/2013/REC-prov-dm-20130430/",
+      "title": "PROV-DM: The PROV Data Model",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.w3.org/TR/REC-png-961001",
+      "title": "PNG Specification, Version 1.0",
+      "occurs_in": [
+        " prior-work/corrected-comparisons.json"
+      ]
+    },
+    {
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
+      "title": "Executive Order 14365, December 11, 2025",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf",
+      "title": "National AI Policy Framework legislative recommendations, March 20, 2026",
+      "occurs_in": [
+        " financial/history/evidence.json"
+      ]
+    },
+    {
+      "url": "https://www.wsgr.com/en/insights/index.html?at=248891",
+      "title": "Wilson Sonsini: io Products acquisition closing",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www.wsgr.com/print/v2/content/49051647/Wilson-Sonsini-Advises-Jony-Ive-and-LoveFrom-on-%246.5-Billion-Acquisition-of-io-Products-by-OpenAI.pdf",
+      "title": "Wilson Sonsini dedicated transaction statement",
+      "occurs_in": [
+        " purchases.json"
+      ]
+    },
+    {
+      "url": "https://www2.jpx.co.jp/disc/99840/140120260507517661.pdf",
+      "title": "SoftBank Group consolidated financial report for year ended March 31, 2026",
+      "occurs_in": [
+        " financial/international-first/evidence.json"
+      ]
+    }
+  ]
+}

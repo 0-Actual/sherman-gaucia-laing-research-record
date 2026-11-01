@@ -1,0 +1,5 @@
+# License scope
+
+The new original investigative prose, transaction compilation, policy-case compilation, cross-reference structure and analytical calculations in this edition are available under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribution: Sherman Gaucia Laing, Word.Quantum.Earth, this edition and its exact commit. AI assistance is disclosed in the README.
+
+New verification code is available under the [MIT License](LICENSE-MIT.txt). Earlier project works reproduced in prior-work/prior-work-public.json, prior-work/timeline-public.json and retained study excerpts keep their existing rights and source-edition terms; this release does not silently relicense historical work. See [the original repository](https://github.com/0-Actual/sherman-gaucia-laing-research-record) and each source edition. Third-party and official materials retain their own terms. Inclusion does not grant rights to third-party trademarks, personal data or other rights not owned by the author.
