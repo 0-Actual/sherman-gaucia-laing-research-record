@@ -1,0 +1,736 @@
+{
+  "method": "Join documented company/subject and declared purpose to retained project comparison IDs; no statistical correlation coefficient or probability of copying is estimated. Calendar-day gaps use the recorded local-date portion and announcement date, not elapsed instants or invention/publication priority.",
+  "rows": [
+    {
+      "transaction_id": "OM01",
+      "buyer": "OpenAI",
+      "target": "Rockset",
+      "comparison_ids": [
+        "I04",
+        "I18"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Information retrieval and source access; a memory request is not Rockset indexing technology.",
+      "owner_stages": [
+        {
+          "comparison_id": "I04",
+          "title": "Cross-conversation retention and continuity",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-18T00:12:21.150994-04:00",
+          "date_basis": "Cross-session parameter retention and resumption requirement.",
+          "announcement_date": "2024-06-21",
+          "calendar_day_gap": 247,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I18",
+          "title": "Connections to tools and source material",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-18T07:02:22.696112-04:00",
+          "date_basis": "Owner-consented access to prior conversations, refused as unsupported; a data-access requirement, not an implemented connector.",
+          "announcement_date": "2024-06-21",
+          "calendar_day_gap": 247,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "OM02",
+      "buyer": "OpenAI",
+      "target": "Multi / Multi Software Co., formerly Remotion",
+      "comparison_ids": [
+        "I05",
+        "I13",
+        "I19"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Computer interaction and collaboration; no matching implementation or transfer record identified.",
+      "owner_stages": [
+        {
+          "comparison_id": "I05",
+          "title": "Device control, offline operation and local communication",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Early request for a concrete accessibility/settings action; this is narrower than general device control and different from an offline runtime.",
+          "announcement_date": "2024-06-24",
+          "calendar_day_gap": 251,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I13",
+          "title": "Demand for executed and inspectable tool work",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Demand for a concrete settings action rather than an acknowledgement; a broad action-versus-wording antecedent.",
+          "announcement_date": "2024-06-24",
+          "calendar_day_gap": 251,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I19",
+          "title": "Cross-agent task states, handoffs and artifacts",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2025-03-23T06:40:28.237478-04:00",
+          "date_basis": "Shared workspace and delegation across AI systems.",
+          "announcement_date": "2024-06-24",
+          "calendar_day_gap": -272,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "OM03",
+      "buyer": "OpenAI",
+      "target": "io Products, Inc.",
+      "comparison_ids": [
+        "I05",
+        "I28"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Personal interfaces and devices; hardware/team acquisition does not identify QEL as a source.",
+      "owner_stages": [
+        {
+          "comparison_id": "I05",
+          "title": "Device control, offline operation and local communication",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Early request for a concrete accessibility/settings action; this is narrower than general device control and different from an offline runtime.",
+          "announcement_date": "2025-05-21",
+          "calendar_day_gap": 582,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I28",
+          "title": "Personal AI development roadmap",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-19T14:20:46.254321-04:00",
+          "date_basis": "Owner asks how to construct a personal AI system.",
+          "announcement_date": "2025-05-21",
+          "calendar_day_gap": 580,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "OM04",
+      "buyer": "OpenAI",
+      "target": "Statsig",
+      "comparison_ids": [
+        "I17",
+        "I21"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Experimentation and managed workflows; task review is broader than Statsig product experimentation.",
+      "owner_stages": [
+        {
+          "comparison_id": "I17",
+          "title": "Task/progress ledgers, review roles and stalled-work correction",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T23:47:32.686366-04:00",
+          "date_basis": "Request to inspect prior work, identify errors and prevent recurrence.",
+          "announcement_date": "2025-09-02",
+          "calendar_day_gap": 686,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I21",
+          "title": "Governed versioned workflows and conversational app surfaces",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T23:35:35.476692-04:00",
+          "date_basis": "Instruction checking and correction of an incomplete response; early governed conversational workflow.",
+          "announcement_date": "2025-09-02",
+          "calendar_day_gap": 686,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "OM05",
+      "buyer": "OpenAI",
+      "target": "Software Applications Incorporated, maker of Sky",
+      "comparison_ids": [
+        "I05",
+        "I13"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Computer context and application interaction; similar goal, no code-level equivalence established.",
+      "owner_stages": [
+        {
+          "comparison_id": "I05",
+          "title": "Device control, offline operation and local communication",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Early request for a concrete accessibility/settings action; this is narrower than general device control and different from an offline runtime.",
+          "announcement_date": "2025-10-23",
+          "calendar_day_gap": 737,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I13",
+          "title": "Demand for executed and inspectable tool work",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Demand for a concrete settings action rather than an acknowledgement; a broad action-versus-wording antecedent.",
+          "announcement_date": "2025-10-23",
+          "calendar_day_gap": 737,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "OM06",
+      "buyer": "Microsoft Corporation",
+      "target": "Certain Inflection AI personnel and licensed intellectual property",
+      "comparison_ids": [
+        "I03",
+        "I28"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Personal assistants; hiring and licensing of Inflection remain distinct from QEL source provenance.",
+      "owner_stages": [
+        {
+          "comparison_id": "I03",
+          "title": "Personalized intellectual assistant",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:43:44.581522-04:00",
+          "date_basis": "Intellectual mentorship and assistant-role requirements.",
+          "announcement_date": "2024-03-19",
+          "calendar_day_gap": 154,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I28",
+          "title": "Personal AI development roadmap",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-19T14:20:46.254321-04:00",
+          "date_basis": "Owner asks how to construct a personal AI system.",
+          "announcement_date": "2024-03-19",
+          "calendar_day_gap": 152,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "OM07",
+      "buyer": "OpenAI",
+      "target": "Astral, developer of uv, Ruff and ty",
+      "comparison_ids": [
+        "I07",
+        "I09",
+        "I14",
+        "I21"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Developer workflows and tools; bundle portability does not establish uv, Ruff or ty derivation.",
+      "owner_stages": [
+        {
+          "comparison_id": "I07",
+          "title": "Modular upgrade packages and structured code/data/docs bundles",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2024-08-07T15:29:41.449269-04:00",
+          "date_basis": "Complete archive/algorithm portability requirement.",
+          "announcement_date": "2026-03-19",
+          "calendar_day_gap": 589,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I09",
+          "title": "Complete source continuity; algorithms, mathematics and construction archives",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-18T00:07:52.133913-04:00",
+          "date_basis": "Conversation preservation for later review; no saved export or automated archive is shown.",
+          "announcement_date": "2026-03-19",
+          "calendar_day_gap": 883,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I14",
+          "title": "Agent-assisted software construction and test evidence",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2025-03-10T05:50:01.264392-04:00",
+          "date_basis": "Explicit emulator software-construction requirement.",
+          "announcement_date": "2026-03-19",
+          "calendar_day_gap": 374,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I21",
+          "title": "Governed versioned workflows and conversational app surfaces",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T23:35:35.476692-04:00",
+          "date_basis": "Instruction checking and correction of an incomplete response; early governed conversational workflow.",
+          "announcement_date": "2026-03-19",
+          "calendar_day_gap": 884,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "OM08",
+      "buyer": "OpenAI",
+      "target": "Promptfoo",
+      "comparison_ids": [
+        "I02",
+        "I13",
+        "I16",
+        "I22",
+        "I25"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Evaluation, governance and security; a hash ledger is not evidence of Promptfoo product derivation.",
+      "owner_stages": [
+        {
+          "comparison_id": "I02",
+          "title": "Human-directed governance, transparency and error review",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T21:51:03.625297-04:00",
+          "date_basis": "Human direction and assistant responsibility.",
+          "announcement_date": "2026-03-09",
+          "calendar_day_gap": 874,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I13",
+          "title": "Demand for executed and inspectable tool work",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Demand for a concrete settings action rather than an acknowledgement; a broad action-versus-wording antecedent.",
+          "announcement_date": "2026-03-09",
+          "calendar_day_gap": 874,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I16",
+          "title": "SGL Prime framed identity and integrity profiles",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2025-05-10T11:41:53.350802-04:00",
+          "date_basis": "Owner adopts/prioritizes SGL-Prime after the retained May 9 assistant naming.",
+          "announcement_date": "2026-03-09",
+          "calendar_day_gap": 303,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I22",
+          "title": "Build/evidence manifests, contribution and shell execution receipts",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2026-05-17T18:51:17.328558-04:00",
+          "date_basis": "Explicit software evidence/manifest deliverables in the selected May 2026 instructions.",
+          "announcement_date": "2026-03-09",
+          "calendar_day_gap": -69,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I25",
+          "title": "Provenance-security concerns and validation checks",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2024-10-01T12:42:35.132653-04:00",
+          "date_basis": "Digital-image attribution request; exact C2PA reference.",
+          "announcement_date": "2026-03-09",
+          "calendar_day_gap": 524,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "GO01",
+      "buyer": "Google LLC / Alphabet",
+      "target": "Wiz, Inc.",
+      "comparison_ids": [
+        "I22",
+        "I25"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Security and oversight; cloud-security acquisition has no identified QEL contract or code transfer.",
+      "owner_stages": [
+        {
+          "comparison_id": "I22",
+          "title": "Build/evidence manifests, contribution and shell execution receipts",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2026-05-17T18:51:17.328558-04:00",
+          "date_basis": "Explicit software evidence/manifest deliverables in the selected May 2026 instructions.",
+          "announcement_date": "2025-03-18",
+          "calendar_day_gap": -425,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I25",
+          "title": "Provenance-security concerns and validation checks",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2024-10-01T12:42:35.132653-04:00",
+          "date_basis": "Digital-image attribution request; exact C2PA reference.",
+          "announcement_date": "2025-03-18",
+          "calendar_day_gap": 168,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "GO02",
+      "buyer": "Google LLC / Alphabet",
+      "target": "Intersect digital-power assets/business",
+      "comparison_ids": [
+        "I05",
+        "I27"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Energy and infrastructure; a wind/solar/storage concept does not establish the design of purchased power assets.",
+      "owner_stages": [
+        {
+          "comparison_id": "I05",
+          "title": "Device control, offline operation and local communication",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Early request for a concrete accessibility/settings action; this is narrower than general device control and different from an offline runtime.",
+          "announcement_date": "2025-12-22",
+          "calendar_day_gap": 797,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I27",
+          "title": "Hybrid wind/solar/storage and portable energy requirements",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-19T20:52:44.145455-04:00",
+          "date_basis": "Explicit combined solar/wind and integrated-blade request.",
+          "announcement_date": "2025-12-22",
+          "calendar_day_gap": 795,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "GO03",
+      "buyer": "Google LLC",
+      "target": "Selected HTC XR employees and non-exclusive XR intellectual-property licence",
+      "comparison_ids": [
+        "I05",
+        "I06",
+        "I28"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Device interfaces and XR; no evidence that the licensed HTC IP contains the project work.",
+      "owner_stages": [
+        {
+          "comparison_id": "I05",
+          "title": "Device control, offline operation and local communication",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:47:02.287640-04:00",
+          "date_basis": "Early request for a concrete accessibility/settings action; this is narrower than general device control and different from an offline runtime.",
+          "announcement_date": "2025-01-23",
+          "calendar_day_gap": 464,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I06",
+          "title": "VR Dimension Access Lenz; token ownership and delegated rights",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2024-07-04T15:58:58.062017-04:00",
+          "date_basis": "VR/access-lens source ownership and delegated rights requirement.",
+          "announcement_date": "2025-01-23",
+          "calendar_day_gap": 203,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I28",
+          "title": "Personal AI development roadmap",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-19T14:20:46.254321-04:00",
+          "date_basis": "Owner asks how to construct a personal AI system.",
+          "announcement_date": "2025-01-23",
+          "calendar_day_gap": 462,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "GO04",
+      "buyer": "Google",
+      "target": "Character.AI model licence and selected personnel",
+      "comparison_ids": [
+        "I03",
+        "I04"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Personalized assistants and continuity; the documented licence concerns Character.AI models.",
+      "owner_stages": [
+        {
+          "comparison_id": "I03",
+          "title": "Personalized intellectual assistant",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T22:43:44.581522-04:00",
+          "date_basis": "Intellectual mentorship and assistant-role requirements.",
+          "announcement_date": "2024-08-02",
+          "calendar_day_gap": 290,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I04",
+          "title": "Cross-conversation retention and continuity",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-18T00:12:21.150994-04:00",
+          "date_basis": "Cross-session parameter retention and resumption requirement.",
+          "announcement_date": "2024-08-02",
+          "calendar_day_gap": 289,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    },
+    {
+      "transaction_id": "GO05",
+      "buyer": "Google; separate remaining-business buyer Cognition",
+      "target": "Windsurf technology licence/personnel; remaining Windsurf IP, product and business separately sold to Cognition",
+      "comparison_ids": [
+        "I14",
+        "I19",
+        "I21"
+      ],
+      "basis": "ANALYST_SELECTED_THEMATIC_JOIN",
+      "boundary": "Agent-assisted software work; Google licensing and Cognition business acquisition are separate arrangements.",
+      "owner_stages": [
+        {
+          "comparison_id": "I14",
+          "title": "Agent-assisted software construction and test evidence",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2025-03-10T05:50:01.264392-04:00",
+          "date_basis": "Explicit emulator software-construction requirement.",
+          "announcement_date": "2025-07-11",
+          "calendar_day_gap": 123,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I19",
+          "title": "Cross-agent task states, handoffs and artifacts",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2025-03-23T06:40:28.237478-04:00",
+          "date_basis": "Shared workspace and delegation across AI systems.",
+          "announcement_date": "2025-07-11",
+          "calendar_day_gap": 110,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        },
+        {
+          "comparison_id": "I21",
+          "title": "Governed versioned workflows and conversational app surfaces",
+          "selected_owner_stage": "earliest_supported_request",
+          "recorded_date": "2023-10-17T23:35:35.476692-04:00",
+          "date_basis": "Instruction checking and correction of an incomplete response; early governed conversational workflow.",
+          "announcement_date": "2025-07-11",
+          "calendar_day_gap": 633,
+          "public_disclosure_of_exact_work": {
+            "date": null,
+            "status": "not_established_for_the_original_event_or_exact_implementation",
+            "note": "Later public summary availability and a private recorded event are distinct. No legal prior-art, exposure, ownership or copying determination follows."
+          }
+        }
+      ],
+      "documented_purchase_from_owner": null,
+      "documented_derivation_from_owner": null,
+      "equivalent_implementation": null,
+      "causal_probability": null,
+      "missing_link": "A contract, attribution, transfer, matching technical provenance or other source connecting this specific transaction to the owner work would be needed."
+    }
+  ],
+  "unmapped_prior_comparison_ids": [
+    "I01",
+    "I08",
+    "I10",
+    "I11",
+    "I12",
+    "I15",
+    "I20",
+    "I23",
+    "I24",
+    "I26"
+  ],
+  "direct_acceptance_file": "direct-connections.json"
+}

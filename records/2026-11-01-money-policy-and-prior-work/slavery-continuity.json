@@ -1,0 +1,200 @@
+{
+  "schema": "qel-slavery-continuity-review/1",
+  "cutoff": "2026-11-01",
+  "owner_hypothesis": "It is my personal opinion that the slavery today is worse than it was a hundred years ago.",
+  "question": "Which forms of coercive labor, financial incentives and legal institutions persisted or changed, and can comparable data establish a worsening from approximately 1926 to the present?",
+  "conclusion": "Economic exploitation and coercion persist, and selected institutional continuities are documented. The recovered data support a rise in global estimated forced labour between 2016 and 2021. They do not provide comparable U.S. or global measures for 1926 and 2026 sufficient to establish the broader century-long claim. Legal abolition and subsequent protections are material changes; implementation and enforcement must be assessed separately.",
+  "evidence": [
+    {
+      "id": "SL01",
+      "title": "U.S. chattel slavery population baseline",
+      "observation_year": 1860,
+      "population": "United States census population, as reported by the Census Bureau",
+      "enslaved_people": 3953760,
+      "total_population": 31443321,
+      "finding": "The census enumerated legal chattel slavery. This is a U.S. count from 166 years before the review, not the requested 1926 baseline.",
+      "sources": [
+        {
+          "url": "https://www.census.gov/about/history/stories/monthly/2014/november-2014.html",
+          "title": "Census Bureau, Abraham Lincoln and the census",
+          "locator": "Opening population paragraph"
+        }
+      ]
+    },
+    {
+      "id": "SL02",
+      "title": "Abolition with a punishment exception",
+      "date": "1865-12-06",
+      "finding": "Ratification abolished slavery and involuntary servitude while retaining a criminal-punishment exception. This changed legal status; the exception and subsequent penal institutions require their own review.",
+      "sources": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/13th-amendment",
+          "title": "National Archives, Thirteenth Amendment",
+          "locator": "Ratification date and Section 1 transcript"
+        }
+      ]
+    },
+    {
+      "id": "SL03",
+      "title": "Money paid to institutions for prison labor in the 1923 survey",
+      "observation_year": 1923,
+      "publication_date": "1925-01",
+      "payer": "Contractors using contract and piece-price systems in surveyed state and federal prisons",
+      "recipient": "Prison institutions",
+      "amount": 3290777,
+      "currency": "USD nominal, survey period",
+      "people_denominator": 9660,
+      "finding": "BLS reported this amount for hire under those two systems. Contractor payments to institutions differ from workers' earnings. The survey recorded no lease system in the institutions canvassed; its population does not cover all county practices or clandestine coercion. Its appendix also reproduces distinct state laws.",
+      "policy_relation": "Documents a legally structured labor market and state financial incentive; not a demonstrated bribe or a national modern-slavery count.",
+      "sources": [
+        {
+          "url": "https://fraser.stlouisfed.org/title/convict-labor-1923-4005/fulltext",
+          "title": "BLS Bulletin 372, Convict Labor in 1923",
+          "locator": "Printed pages 2–3, Introduction; original published January 1925; searchable transcription is OCR"
+        }
+      ]
+    },
+    {
+      "id": "SL04",
+      "title": "Documented post-emancipation institutional continuity",
+      "finding": "The Library of Congress describes how criminalization, arrests and fees supplied convict leasing after emancipation. This supports a specific institutional connection to coercive labor, rather than an inference from a present person's ancestors or school history.",
+      "evidence_kind": "Institutional historical synthesis with archival links, not an original transaction ledger",
+      "sources": [
+        {
+          "url": "https://blogs.loc.gov/inside_adams/2021/06/convict-leasing-system/",
+          "title": "Library of Congress, The Convict Leasing System",
+          "locator": "June 17, 2021 article body, excluding reader comments"
+        }
+      ]
+    },
+    {
+      "id": "SL05",
+      "title": "Global forced labour and forced marriage estimates",
+      "observation_year": 2021,
+      "publication_year": 2022,
+      "forced_labour_millions": 27.6,
+      "forced_labour_2016_millions": 24.9,
+      "forced_marriage_millions": 22,
+      "modern_slavery_millions": 49.6,
+      "modern_slavery_2016_millions": 40.3,
+      "prevalence_per_1000": 6.4,
+      "finding": "ILO, Walk Free and IOM estimate 49.6 million people in modern slavery in 2021: 27.6 million in forced labour and 22 million in forced marriage. Global 2016–2021 comparisons are supported with methodological qualifications; finer comparisons have additional limits. These are not a 2026 count, a U.S. census or a measure of ordinary employment, debt or inequality.",
+      "sources": [
+        {
+          "url": "https://www.ilo.org/sites/default/files/2025-09/ILO_GEMS-2022_Report_EN_Web.pdf",
+          "title": "Global Estimates of Modern Slavery, 2022",
+          "locator": "Printed pages 20–22 and methodological annex pages 109–113; PDF hosting date does not change observation year"
+        }
+      ]
+    },
+    {
+      "id": "SL06",
+      "title": "Profits from coercive labor",
+      "publication_date": "2024-03-19",
+      "annual_illegal_profit_usd_billion_rounded": 236,
+      "comparison_2014_inflation_adjusted_usd_billion_rounded": 172,
+      "finding": "ILO estimates private-economy forced-labour profits; the 2014 comparison is inflation-adjusted. This is an estimate of exploitation proceeds, not lobbying expenditure, corporate revenue or profit attributable to the AI companies in this study.",
+      "sources": [
+        {
+          "url": "https://www.ilo.org/resource/news/annual-profits-forced-labour-amount-us-236-billion-ilo-report-finds",
+          "title": "ILO, Annual profits from forced labour",
+          "locator": "March 19, 2024, global profit and inflation-adjusted comparison paragraphs"
+        }
+      ]
+    },
+    {
+      "id": "SL07",
+      "title": "Trade law changed its treatment of forced-labor imports",
+      "date": "2016-02-24",
+      "finding": "The Trade Facilitation and Trade Enforcement Act removed the consumptive-demand exception to the Tariff Act's forced-labor import prohibition. This is evidence of a legal change, not evidence that forced-labor goods ceased entering supply chains or that a particular donor bought the change.",
+      "sources": [
+        {
+          "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10368/IF10368.4.pdf",
+          "title": "CRS, Forced Labor Trafficking in the International Fishing Sector",
+          "locator": "February 29, 2016, Recent Trade and Customs Legislation"
+        }
+      ]
+    }
+  ],
+  "comparison_rules": [
+    "Compare like geography, population, legal/economic definition, observation year and measurement method before comparing counts or rates.",
+    "Do not divide a present global estimate by an historical U.S. count and call the result a change in slavery.",
+    "Treat the severity of harm, prevalence, total people affected, legal status and profits as separate dimensions. No universal worse score is calculated.",
+    "Use public biography, adult roles and speeches only to establish a documented connection. Childhood, shared ancestry and institutional membership do not by themselves establish motives, coordinated action or culpability.",
+    "Historical oppression and present exploitation can be established without asserting that all people in a racial, religious or economic group share guilt."
+  ],
+  "missing_for_century_comparison": [
+    "Comparable 1926 and 2026 U.S. prevalence data under one definition",
+    "Comparable geographic coverage and estimates of undercount",
+    "A declared measure of severity and supporting data",
+    "Company-specific contracts, suppliers, enforcement findings or adjudications before assigning modern forced-labor responsibility"
+  ],
+  "calculations": [
+    {
+      "id": "SLC01",
+      "formula": "3953760 / 31443321 * 100",
+      "operation": "percent",
+      "inputs": [
+        3953760,
+        31443321
+      ],
+      "unit": "percent of the enumerated U.S. population in 1860",
+      "result": 12.574244304537679
+    },
+    {
+      "id": "SLC02",
+      "formula": "27.6 - 24.9",
+      "operation": "subtract",
+      "inputs": [
+        27.6,
+        24.9
+      ],
+      "unit": "million people, global forced labour, 2016 to 2021",
+      "result": 2.700000000000003
+    },
+    {
+      "id": "SLC03",
+      "formula": "(27.6 - 24.9) / 24.9 * 100",
+      "operation": "growth_percent",
+      "inputs": [
+        27.6,
+        24.9
+      ],
+      "unit": "percent change from rounded global estimates",
+      "result": 10.843373493975916
+    },
+    {
+      "id": "SLC04",
+      "formula": "49.6 - 40.3",
+      "operation": "subtract",
+      "inputs": [
+        49.6,
+        40.3
+      ],
+      "unit": "million people, global combined measure, 2016 to 2021",
+      "result": 9.300000000000004
+    },
+    {
+      "id": "SLC05",
+      "formula": "(236 - 172) / 172 * 100",
+      "operation": "growth_percent",
+      "inputs": [
+        236,
+        172
+      ],
+      "unit": "percent change using rounded inflation-adjusted profit estimates",
+      "result": 37.2093023255814
+    },
+    {
+      "id": "SLC06",
+      "formula": "3290777 / 9660",
+      "operation": "divide",
+      "inputs": [
+        3290777,
+        9660
+      ],
+      "unit": "nominal USD per prisoner in the two BLS systems; institutional receipts, not wages",
+      "result": 340.66014492753624
+    }
+  ]
+}

@@ -5,6 +5,10 @@ Documentary preparation with GAUCIA through ChatGPT/Codex.
 
 This publication records the development timeline of Quantum.Earth.Laing using dated evidence recovered from the owner's research records. It publishes event summaries, dates, attribution and evidence boundaries. The October 17 expanded edition adds retained research source, data, GAUCIA application sources and the QRF documentary record. Raw personal interactions, credentials and uncleared private material remain outside the public selection.
 
+## Money, policy and prior-work evidence — November 1, 2026
+
+[Read the new research edition](records/2026-11-01-money-policy-and-prior-work/README.md): selected U.S. money-and-policy cases across 1776–2026, slavery and institutional continuity, the saved international financial calculations, 28 recovered project comparisons and 13 purchase/licensing records. Sources, counterevidence, original data and a reproducible verifier accompany the findings. The new investigation uses CC BY 4.0 and its verification code MIT; historical source editions retain their terms.
+
 ## Corporate investigation — October 31, 2026
 
 [Read the public investigation and reproduce the calculations](records/2026-10-31-corporate-investigation/README.md): ownership, political spending, lobbying and disclosed relationships involving OpenAI, Microsoft and Alphabet/Google. The release preserves all 21 original corporate files, 78 source references, corrections, known gaps and 149 passing internal arithmetic/count/policy checks. Readers are invited to identify errors, omissions and bias.
@@ -108,4 +112,3 @@ The [approval controls and shell-result integrity study](records/2026-10-17-open
 ## October 20 OpenAI and Anthropic contributions
 
 The [completed technical release](records/2026-10-20-openai-anthropic-research/README.md) contains full source/test/evidence archives for the OpenAI infrastructure follow-up, Anthropic streaming integration and Python characterization, and the mathematics continuation. It includes the previously submitted shell/stream contributions and discloses unresolved candidates with their limits. The SDK contribution copies carry scoped MIT notices; the mathematics review and historical editions retain their stated license boundaries. Publication here is separate from upstream acceptance or formal proof verification.
-

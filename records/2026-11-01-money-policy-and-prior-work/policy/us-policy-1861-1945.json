@@ -1,0 +1,186 @@
+{
+  "reviewer": "Worship — Praise and Worship",
+  "acknowledgment": "The October 31 lesson, 'we shall not destroy. However, we will shepherd,' governs this constructive, non-harming review.",
+  "scope": {
+    "requested_period": "1861–1945",
+    "selected_events": "1861–1927",
+    "selection": "Four documented federal procurement, railroad-finance, appointment and resource-lease cases; illustrative, not an exhaustive ranking.",
+    "status": "Private research input; no publication performed.",
+    "currency_basis": "Historical nominal US dollars; no inflation conversion.",
+    "source_method": "Primary judicial opinions, statute and original congressional findings/charges reproduced in official records; institutional compilations identified explicitly."
+  },
+  "cases": [
+    {
+      "id": "USW01",
+      "title": "Providence Tool: contingent compensation for a federal musket contract",
+      "period": "1861–1864",
+      "payer": "Providence Tool Company",
+      "recipient": "Norris, procurement intermediary",
+      "money_type": "Disputed contingent service fee",
+      "amounts": [
+        {
+          "amount": 75000,
+          "currency": "USD",
+          "status": "Norris's claimed compensation; company disputed the amount; payment not established."
+        },
+        {
+          "amount": 13500,
+          "currency": "USD",
+          "status": "Trial judgment for Norris, subsequently reversed; not a verified disbursement."
+        }
+      ],
+      "policy_instrument": "July 1861 War Department contract: 25,000 muskets at US$20 each.",
+      "public_contract_value": {
+        "amount": 500000,
+        "currency": "USD",
+        "status": "Calculated contract face value: 25,000 × 20; not verified spending."
+      },
+      "established_connection": "The Court's record attributes procurement to Norris's efforts under a contingent agreement and describes influential introductions to Secretary of War Simon Cameron.",
+      "outcome": "In 1864 the Supreme Court held the compensation agreement unenforceable on public-policy grounds and remanded for a new trial.",
+      "counterevidence_and_limits": "The rule rested on the agreement's tendency, without requiring proof of improper means. This is neither a proved bribe to Cameron nor proof that the musket contract itself was canceled.",
+      "documented_roles": "Company: Rhode Island corporation supplying arms. Norris: intermediary. Cameron: Secretary of War.",
+      "sources": [
+        {
+          "title": "Tool Company v. Norris, 69 U.S. (2 Wall.) 45 (1864)",
+          "url": "https://supreme.justia.com/cases/federal/us/69/45/",
+          "locator": "Statement of facts, pp.45–48; opinion, pp.53–56.",
+          "source_type": "Primary Supreme Court opinion and case statement, reproduced by Justia."
+        }
+      ]
+    },
+    {
+      "id": "USW02",
+      "title": "Crédit Mobilier: benefits to James Brooks within a subsidized railroad enterprise",
+      "period": "1862–1873",
+      "payer": "Thomas C. Durant / Crédit Mobilier; later issuance arranged through Sidney Dillon",
+      "recipient": "Charles H. Neilson, named holder; House committee found James Brooks the beneficial owner",
+      "money_type": "Discounted securities purchase and associated benefits; distinct from public railroad financing",
+      "amounts": [
+        {
+          "amount": 10000,
+          "currency": "USD",
+          "status": "Brooks paid for 100 Crédit Mobilier shares transferred December 26, 1867."
+        },
+        {
+          "amount": 5000,
+          "currency": "USD",
+          "status": "Union Pacific bonds accompanying that transaction; stated securities amount, not cash."
+        },
+        {
+          "amount": 20000,
+          "currency": "USD",
+          "status": "Union Pacific stock accompanying that transaction; stated securities amount, not market value."
+        },
+        {
+          "amount": 5000,
+          "currency": "USD",
+          "status": "Price of 50 additional shares issued to Neilson February 29, 1868; financed by Dillon. Committee described their value as US$15,000–20,000; repayment unresolved."
+        }
+      ],
+      "established_connection": "The committee found the additional shares secured Brooks's official favor. Brooks and Alley denied the alleged promise to influence the Democratic side; the committee relied on surrounding circumstances too.",
+      "documented_roles": "Brooks: Representative and government director of Union Pacific; Dillon: Crédit Mobilier president.",
+      "policy_instrument": "Pacific Railroad Act, July 1, 1862, §§1, 5–6: Union Pacific charter and repayable federal bond aid.",
+      "public_financing": {
+        "amount": 16000,
+        "currency": "USD per completed mile",
+        "status": "Base statutory bond-aid authorization; not a corporate political payment or verified total disbursement."
+      },
+      "outcome": "February 27, 1873: House censured Ames and Brooks; Brooks vote 174–32. The adopted resolution condemned use of his offices to obtain stock.",
+      "counterevidence_and_limits": "The committee did not find corrupt intent in the other previously discussed House purchasers. Later share transactions cannot establish that they caused the earlier 1862 statute; no specific subsequent roll-call purchased by Brooks's benefits is identified here.",
+      "sources": [
+        {
+          "title": "Congressional Globe, February 18, 1873: Poland committee report",
+          "url": "https://digital.library.unt.edu/ark:/67531/metadc30903/m1/796/",
+          "locator": "Printed p.1464: opening findings and 'James Brooks, of New York' passage.",
+          "source_type": "Original congressional investigation report, archived by University of North Texas; OCR available."
+        },
+        {
+          "title": "Hinds' Precedents, Volume 2, Chapter 42",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-HPREC-HINDS-V2/pdf/GPO-HPREC-HINDS-V2-16.pdf",
+          "locator": "§1286, printed pp.853 and 856–857: proposed findings and adopted censure resolutions.",
+          "source_type": "Official compilation reproducing congressional findings, resolutions and votes."
+        },
+        {
+          "title": "Pacific Railroad Act, July 1, 1862, 12 Stat.489",
+          "url": "https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg489.pdf",
+          "locator": "§1, pp.489–490; §§5–6, pp.492–493: US$1,000 bonds, sixteen per mile, repayment conditions.",
+          "source_type": "Original enacted statute."
+        }
+      ]
+    },
+    {
+      "id": "USW03",
+      "title": "Fort Sill trading appointment: Evans–Marsh–Belknap payments",
+      "period": "1870–1876",
+      "payer": "John S. Evans → Caleb P. Marsh → William W. Belknap",
+      "recipient": "Marsh, intermediary; Belknap, Secretary of War",
+      "money_type": "Contracted intermediary payments and alleged official kickbacks",
+      "amounts": [
+        {
+          "amount": 12000,
+          "currency": "USD per year",
+          "status": "October 8, 1870 Evans–Marsh contract, payable quarterly; later terms could change."
+        },
+        {
+          "amount": 1500,
+          "currency": "USD",
+          "status": "Receipt by Belknap on or about November 2, 1870, alleged in Article IV, specification 1."
+        }
+      ],
+      "policy_instrument": "Appointment of Evans as Fort Sill post trader on October 10, 1870, and continued tenure.",
+      "established_connection": "House articles expressly tied payments to appointment and retention; Article III alleged Marsh passed half to Belknap.",
+      "outcome": "August 1, 1876: Senate acquitted on every article because no guilty vote reached two-thirds.",
+      "counterevidence_and_limits": "Charges are not a conviction. The official compilation records 22 not-guilty votes based on jurisdiction and three on evidence. Annual rates changed; no extrapolated multi-year total is asserted. This concerns administrative patronage, not proof of purchasing a statute.",
+      "documented_roles": "Evans: trader; Marsh: intermediary; Belknap: Secretary of War.",
+      "sources": [
+        {
+          "title": "Hinds' Precedents, Volume 3, Chapter 77: Impeachment and Trial of William W. Belknap",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-HPREC-HINDS-V3/html/GPO-HPREC-HINDS-V3-26.htm",
+          "locator": "§2449, Articles I, III, IV specification 1 and V; §2467, final votes and acquittal.",
+          "source_type": "Official reproduction of impeachment articles and Senate disposition; charges and verdict distinguished."
+        }
+      ]
+    },
+    {
+      "id": "USW04",
+      "title": "Doheny–Fall: US$100,000 and Elk Hills oil leases",
+      "period": "1921–1927",
+      "payer": "Edward L. Doheny, through his son",
+      "recipient": "Albert B. Fall, Secretary of the Interior",
+      "money_type": "Cash advance described as a loan; corrupt influence judicially established in civil litigation",
+      "amounts": [
+        {
+          "amount": 100000,
+          "currency": "USD",
+          "status": "Delivered November 30, 1921; demand note given; no principal or interest repayment reported in the opinion."
+        }
+      ],
+      "policy_instrument": "Pan American contracts of April 25 and December 11, 1922; Naval Petroleum Reserve No.1 leases of June 5 and December 11, 1922.",
+      "established_connection": "The Supreme Court sustained findings that Doheny corruptly secured Fall's influence and official action; Fall collusively dominated negotiations.",
+      "outcome": "February 28, 1927: cancellation upheld; contracts and leases held illegal and void.",
+      "counterevidence_and_limits": "Companies argued loan, not bribe. Civil rescission did not require statutory criminal bribery or government financial loss. This opinion is not a criminal conviction of Doheny. Elk Hills is the California transaction, not Sinclair's Wyoming Teapot Dome lease.",
+      "documented_roles": "Doheny controlled the two Pan American companies and served as Petroleum Company's president, then board chairman.",
+      "sources": [
+        {
+          "title": "Pan American Petroleum & Transport Co. v. United States, 273 U.S.456 (1927)",
+          "url": "https://caselaw.findlaw.com/court/us-supreme-court/273/456.html",
+          "locator": "pp.485–486 (instruments); pp.493–494 (payment); pp.498–500 (findings and limits); pp.500–503 (authority and disposition).",
+          "source_type": "Primary Supreme Court opinion, reproduced by FindLaw."
+        }
+      ]
+    }
+  ],
+  "continuity_review": {
+    "supported": "Recurring mechanisms include contingent access fees, preferential securities, appointment payments and corruption of administrative contracting. USW04's opinion at p.500 expressly cites Tool Company v. Norris: a documented legal-doctrine link.",
+    "not_established": "These cases do not prove continuity of a single family, organization, fund, motive or control structure into modern institutions.",
+    "slavery_or_forced_labor": "No selected source establishes such a link for these particular transactions. That connection remains unestablished in this bounded review, not disproved. Official and business roles are recorded without ancestry-based guilt or inferred personal motive.",
+    "forward_backward_check": "Payment promises, actual transfers, allegations and adjudicated findings are separated. Later benefits are not used to explain earlier legislation; invalidation, denial and acquittal remain attached to their cases."
+  },
+  "notes": [
+    "Six distinct primary-source URLs support four cases. The Hinds compilations reproduce source proceedings; their later editorial dates are not event dates.",
+    "Security face amounts, purchase prices, estimated market values and public financing are not added together.",
+    "The Norris fee case was selected over less securely sourced aggregate claims about the 1896 or 1904 elections.",
+    "No general First World War narrative was repeated. No new conclusion about modern companies is inferred from these historical cases.",
+    "An additive input save is authorized; independent destination readback and package preservation remain the coordinator's next step."
+  ]
+}
