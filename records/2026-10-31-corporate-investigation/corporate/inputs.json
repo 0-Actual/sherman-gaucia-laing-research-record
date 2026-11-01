@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "cutoff_date": "2026-10-31",
+  "provenance": "Source identifiers and disclosure-date verification are maintained in the parent report's separate source index.",
+  "alphabet": {
+    "record_date": "2026-04-06",
+    "class_A_shares": 5823665113,
+    "class_B_shares": 835779041,
+    "votes_per_A": 1,
+    "votes_per_B": 10,
+    "Page_class_B": 389051160,
+    "Brin_class_B": 358939978,
+    "Brin_class_A": 37469
+  },
+  "microsoft_financial": {
+    "funding_commitment_billions": "13.0",
+    "funding_funded_billions": "12.0",
+    "commercial_revenue_billions": "10.0",
+    "total_quarter_revenue_millions": "92279",
+    "precision_note": "Billion-dollar inputs are reported rounded amounts; quarter revenue is reported in millions. Ratios are approximate descriptions of underlying dollars."
+  },
+  "mobvoi": {
+    "pre_sale_shares": 143326844,
+    "sale_shares": 53315000,
+    "reported_box_19": 90011944,
+    "reported_box_20": 90011844,
+    "issued_shares": 1537700537
+  },
+  "vnet": {
+    "numerator": 650424192,
+    "denominator": 1708970760
+  },
+  "lobbying": {
+    "Microsoft": {
+      "method": "C",
+      "quarters_reported_estimate_usd": {
+        "2020": [2394000, 2910000, 1880000, 2190000],
+        "2025": [2350000, 2570000, 2020000, 2420000],
+        "2026_Jan_Sep": [2390000, 2690000, 2440000]
+      }
+    },
+    "Google": {
+      "method": "A",
+      "quarters_reported_estimate_usd": {
+        "2020": [1800000, 1690000, 1930000, 2110000],
+        "2025": [3010000, 3170000, 3570000, 3350000],
+        "2026_Jan_Sep": [2860000, 3570000, 3230000]
+      }
+    },
+    "OpenAI": {
+      "method": "A",
+      "method_status": "Parent source check verified Method A on all 12 selected self-filed LD-2 reports, with amendments replacing originals; provenance is in package/lobbying_msft_openai_inputs.json.",
+      "quarters_reported_estimate_usd": {
+        "2024": [340000, 480000, 430000, 510000],
+        "2025": [560000, 620000, 920000, 890000],
+        "2026_Jan_Sep": [1020000, 1200000, 1530000]
+      }
+    }
+  },
+  "google_corporate_disclosures": {
+    "quarterly_reported_usd": {
+      "2020": [2500, 60800, 160000, 314500],
+      "2025": [1285000, 725000, 859825, 6232250]
+    },
+    "row_counts": {"2020": 74, "2025": 264},
+    "selected_rows_already_in_2025_total": {
+      "California_Leads": 5000000,
+      "Trump_inaugural": 1000000
+    },
+    "period_note": "The parent source index must support the Q4 2020 period assignment; a filename or separator alone is insufficient."
+  },
+  "fec": {
+    "Microsoft": {
+      "period_description": "2025 through 2026-10-14",
+      "total_disbursements_usd": "1476848.86",
+      "line_23_usd": "1306500.00"
+    },
+    "Google": {
+      "period_description": "Cycle shown by the source; exact dates supplied in the parent source index.",
+      "total_disbursements_usd": "1805834.07",
+      "line_23_usd": "1665384.32"
+    }
+  },
+  "bilderberg": {
+    "years": [2022, 2023, 2024, 2025, 2026],
+    "list_presence": {
+      "Altman": [1, 1, 0, 0, 0],
+      "Nadella": [0, 1, 0, 1, 0],
+      "Smith": [0, 0, 0, 0, 1]
+    }
+  }
+}
