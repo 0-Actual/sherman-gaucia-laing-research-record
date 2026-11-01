@@ -40,6 +40,8 @@ jobs:
         run: python -B records/2026-10-17-priority-zero-expanded/verify_release.py
       - name: Exercise existing archive-verifier regressions
         run: python -B records/2026-10-17-priority-zero-expanded/test_release_verifier.py
+      - name: Verify money and policy research evidence
+        run: python -B records/2026-11-01-money-policy-and-prior-work/verify_release.py
       - name: Verify the exact owner-signed historical attestation
         if: runner.os == 'Linux'
         run: python -B verify_publications.py attestation
