@@ -1,0 +1,375 @@
+{
+  "records": [
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2020,
+      "quarter": 1,
+      "amount_usd": 2394000,
+      "amendment": false,
+      "posted_as_displayed": "04/20/2020 @ 10:28 AM",
+      "source_url": "https://lda.gov/filings/public/filing/3d902e09-369a-46e1-994e-bef8c5eec3e8/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "fb9f2c15b301af462fccb6a4d3d02be0d219ac75e1c838946b2a73bd521aeacf",
+      "source_html_bytes": 86303,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2020,
+      "quarter": 2,
+      "amount_usd": 2910000,
+      "amendment": false,
+      "posted_as_displayed": "07/20/2020 @ 02:25 PM",
+      "source_url": "https://lda.gov/filings/public/filing/7c4170d0-26c2-4834-933a-2634d4c6ddeb/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "50706a22eb4288087cc45329f862f52b0387c39e5b9e1d1c6e7b7aaf2950d24f",
+      "source_html_bytes": 86147,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2020,
+      "quarter": 3,
+      "amount_usd": 1880000,
+      "amendment": false,
+      "posted_as_displayed": "10/20/2020 @ 02:12 PM",
+      "source_url": "https://lda.gov/filings/public/filing/11832112-0bf4-489a-a552-b64a87401620/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "a168bf53a63c1be3c9690323a4e8cf64be830f88417df75948d6b03c4a53fb7a",
+      "source_html_bytes": 82864,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2020,
+      "quarter": 4,
+      "amount_usd": 2190000,
+      "amendment": false,
+      "posted_as_displayed": "01/21/2021 @ 10:36 AM",
+      "source_url": "https://lda.gov/filings/public/filing/0906e6e8-20f7-4e95-a649-68381ad16c87/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "4505034c68203d84404e34ff5f3fa70922fca951d4992e75b35347e13496b863",
+      "source_html_bytes": 83075,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2025,
+      "quarter": 1,
+      "amount_usd": 2350000,
+      "amendment": false,
+      "posted_as_displayed": "04/21/2025 @ 04:20 PM",
+      "source_url": "https://lda.gov/filings/public/filing/a4185da2-1bf1-4f6e-a76c-33054cbceca9/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "6b27786f7e68577e94224e3722cd4c5ab5046494109390e333a396c1a738f90d",
+      "source_html_bytes": 102284,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2025,
+      "quarter": 2,
+      "amount_usd": 2570000,
+      "amendment": false,
+      "posted_as_displayed": "07/21/2025 @ 03:58 PM",
+      "source_url": "https://lda.gov/filings/public/filing/764c6eb7-7a39-4f4c-ab48-d78b83bea5ed/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "5eee3e9659a29e43fb127ab1d7e4b5ea49cf2fd2aee49828081d9b44cef3725c",
+      "source_html_bytes": 98550,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2025,
+      "quarter": 3,
+      "amount_usd": 2020000,
+      "amendment": false,
+      "posted_as_displayed": "10/20/2025 @ 04:22 PM",
+      "source_url": "https://lda.gov/filings/public/filing/38aab9ec-4c60-42a8-a44c-69f20c65b0b4/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "94cfdc14f843bd83133fa2de663e5c9e29226129dcea1dabfeb98c86b6c927ec",
+      "source_html_bytes": 98872,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2025,
+      "quarter": 4,
+      "amount_usd": 2420000,
+      "amendment": false,
+      "posted_as_displayed": "01/20/2026 @ 05:06 PM",
+      "source_url": "https://lda.gov/filings/public/filing/9d83af86-eb8b-4eb0-b43e-22f1aa9aff25/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "dd3193c20057ff4c45430867751deaf099d759094c8cc4993a6702d1dbc82175",
+      "source_html_bytes": 98773,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2026,
+      "quarter": 1,
+      "amount_usd": 2390000,
+      "amendment": false,
+      "posted_as_displayed": "04/20/2026 @ 04:03 PM",
+      "source_url": "https://lda.gov/filings/public/filing/1281e273-1138-4c3c-8621-ecb6a5cb181e/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "b4368aafca622b7f4caea368c608e5d3ccfdb2a39551ac5b019d6dd3b00eca4e",
+      "source_html_bytes": 98668,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2026,
+      "quarter": 2,
+      "amount_usd": 2690000,
+      "amendment": false,
+      "posted_as_displayed": "07/20/2026 @ 03:28 PM",
+      "source_url": "https://lda.gov/filings/public/filing/0c02bfae-fbda-4455-965b-7c0733b643ca/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "3c808a763cf814adf631d21bf6a77c3bb873ce1d3ecc2424e58dd7d293a9fe3c",
+      "source_html_bytes": 104831,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "MICROSOFT CORPORATION",
+      "year": 2026,
+      "quarter": 3,
+      "amount_usd": 2440000,
+      "amendment": false,
+      "posted_as_displayed": "10/20/2026 @ 03:02 PM",
+      "source_url": "https://lda.gov/filings/public/filing/ad3bb2ee-1374-49e2-b90c-be6f247cfad8/print/",
+      "source_index_id": "S19",
+      "source_html_sha256": "797bcd666b6595381ba04637d7bc299bffa9fcd3685f641297598835e729691b",
+      "source_html_bytes": 103612,
+      "selected_reporting_method": [
+        "C"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2023,
+      "quarter": 4,
+      "amount_usd": 260000,
+      "amendment": false,
+      "posted_as_displayed": "01/22/2024 @ 04:53 PM",
+      "source_url": "https://lda.gov/filings/public/filing/5d928e9c-a1a2-4688-baf6-837d1abb6492/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "0d2f6cc108824033b21f4c2d49f9f4a20cb7a3df08be0c90bf7d72c55bd1357b",
+      "source_html_bytes": 27802,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2024,
+      "quarter": 1,
+      "amount_usd": 340000,
+      "amendment": false,
+      "posted_as_displayed": "04/22/2024 @ 07:44 PM",
+      "source_url": "https://lda.gov/filings/public/filing/c272e869-3d0a-422d-a7eb-9492ae201815/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "32594d6f8d9e9ac36fdfd1f263d30893d6a4174b37756c877e2bbc5996fbc492",
+      "source_html_bytes": 29630,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2024,
+      "quarter": 2,
+      "amount_usd": 480000,
+      "amendment": true,
+      "posted_as_displayed": "08/20/2024 @ 03:47 PM",
+      "source_url": "https://lda.gov/filings/public/filing/8123a755-4352-4b04-a879-bd476eee0bee/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "58190f0de39cc6c14ec3700c4aaa0deb6a041e198680fb231ba461b39e778441",
+      "source_html_bytes": 30446,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2024,
+      "quarter": 3,
+      "amount_usd": 430000,
+      "amendment": false,
+      "posted_as_displayed": "10/21/2024 @ 05:40 PM",
+      "source_url": "https://lda.gov/filings/public/filing/1864dcc3-9b97-46bb-bf53-c10efb61b8d3/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "9d1c901dafaea2dd2fed097ba4fc1d2c798e9931129adf7fbaa97d62d26d09b0",
+      "source_html_bytes": 29427,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2024,
+      "quarter": 4,
+      "amount_usd": 510000,
+      "amendment": false,
+      "posted_as_displayed": "01/21/2025 @ 06:33 PM",
+      "source_url": "https://lda.gov/filings/public/filing/8fb2c55d-721f-4ccb-bccc-5f0a31fa7063/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "d2ee0ca487c70548c0e03292e92aae66803ae7cf66142c381e47b1b1beb2a39d",
+      "source_html_bytes": 28197,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2025,
+      "quarter": 1,
+      "amount_usd": 560000,
+      "amendment": true,
+      "posted_as_displayed": "04/21/2025 @ 08:30 PM",
+      "source_url": "https://lda.gov/filings/public/filing/6deea4d2-e191-49b0-b197-86dce2d5bd0a/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "4b2a44524dd45cff472aa374f910d1a3825ea73da1a84fa56fa7cb4696776bb7",
+      "source_html_bytes": 28297,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2025,
+      "quarter": 2,
+      "amount_usd": 620000,
+      "amendment": false,
+      "posted_as_displayed": "07/21/2025 @ 07:31 PM",
+      "source_url": "https://lda.gov/filings/public/filing/fd1f6b00-6e42-4546-8c2c-e3dfc4bc539c/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "4ba551646277ac9e20e909204732b8c7f5b5c15a82511a137399c54c2048ba74",
+      "source_html_bytes": 30040,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2025,
+      "quarter": 3,
+      "amount_usd": 920000,
+      "amendment": false,
+      "posted_as_displayed": "10/20/2025 @ 04:57 PM",
+      "source_url": "https://lda.gov/filings/public/filing/e7ad53f7-20f6-427f-a5d9-2b27b4c0621e/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "0dd75fb4c9ef5d2a7763dc27fe28c5ac047657b60a016bffca17477813b436e1",
+      "source_html_bytes": 30041,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2025,
+      "quarter": 4,
+      "amount_usd": 890000,
+      "amendment": false,
+      "posted_as_displayed": "01/20/2026 @ 05:12 PM",
+      "source_url": "https://lda.gov/filings/public/filing/8fd00332-8a97-439d-9348-bef9437f524d/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "38061741272501173d7703ad65dc7162594a686f25db5391d47b5f4bf6ce5ea0",
+      "source_html_bytes": 30037,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2026,
+      "quarter": 1,
+      "amount_usd": 1020000,
+      "amendment": false,
+      "posted_as_displayed": "04/20/2026 @ 04:56 PM",
+      "source_url": "https://lda.gov/filings/public/filing/a8040c01-31bc-45c9-afb1-7ab54820ae32/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "4a364645ee756aa5c3e53217e42139242a20867ace023fd34b668c9b47113e37",
+      "source_html_bytes": 29591,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2026,
+      "quarter": 2,
+      "amount_usd": 1200000,
+      "amendment": true,
+      "posted_as_displayed": "07/23/2026 @ 04:00 PM",
+      "source_url": "https://lda.gov/filings/public/filing/de4e5ed5-65c4-44dc-8006-be3a20d10ef7/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "6f662c5b2f90ef050139a6086bb37f90c94d60a3b487bd2c8b8259d8122cdb36",
+      "source_html_bytes": 32854,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    },
+    {
+      "registrant": "OPENAI OPCO, LLC",
+      "year": 2026,
+      "quarter": 3,
+      "amount_usd": 1530000,
+      "amendment": false,
+      "posted_as_displayed": "10/20/2026 @ 05:10 PM",
+      "source_url": "https://lda.gov/filings/public/filing/81e83fa3-9a11-4cbd-be37-3032cb4696f4/print/",
+      "source_index_id": "S20",
+      "source_html_sha256": "ff219df51e2f52b3f2a791ec2c9952122217f9113acd08ff5b09e254298f2456",
+      "source_html_bytes": 32844,
+      "selected_reporting_method": [
+        "A"
+      ],
+      "capture_status": "captured"
+    }
+  ],
+  "amendment_rule": "Latest amendment used in place of the original report; not added as an additional expense",
+  "source_indices": "S19 and S20 retained captured HTML",
+  "selection_years": "Microsoft2020,2025,2026Q1-Q3;OpenAI2023Q4,2024,2025,2026Q1-Q3"
+}
