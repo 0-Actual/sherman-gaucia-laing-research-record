@@ -1,0 +1,194 @@
+{
+  "schema": "qel-us-policy-money-primary-cases/1",
+  "reviewer": "G Man — Praise and Worship",
+  "review_date": "2026-11-01",
+  "acknowledgment": "Constructive, non-harming shepherding: preserve evidence, distinguish allegations from findings, and avoid ancestry-based blame or invented motives.",
+  "scope": "Four selected cases within 1776–1860, not an exhaustive account of the period or a ranking of all influence.",
+  "status": "PRIMARY_SOURCE_RESEARCH_DRAFT_NOT_PUBLISHED",
+  "sources": [
+    {
+      "id": "E01",
+      "title": "Madison's Notes, Constitutional Convention, August 22, 1787",
+      "url": "https://avalon.law.yale.edu/18th_century/debates_822.asp",
+      "document_date": "1787-08-22",
+      "type": "Primary participant notes in a later scholarly transcription; not a verbatim official transcript",
+      "locator": "Discussion of Article VII section 4: Mason; Ellsworth; General Pinckney; Rutledge; web lines 23–49",
+      "access": "Full relevant passage opened and read"
+    },
+    {
+      "id": "E02",
+      "title": "United States Constitution, original text",
+      "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+      "document_date": "1787-09-17",
+      "type": "Primary constitutional text, National Archives transcription",
+      "locator": "Article I section 9 clause 1; Article V protection of the clause until 1808",
+      "access": "Relevant constitutional clauses read"
+    },
+    {
+      "id": "E03",
+      "title": "Alexander Hamilton, Report on Public Credit, January 1790, in Treasury reports",
+      "url": "https://fraser.stlouisfed.org/title/annual-report-secretary-treasury-state-finances-194/report-public-credit-january-1790-report-a-national-bank-december-1790-5629/fulltext",
+      "document_date": "1790-01-09",
+      "type": "Primary Treasury report in 1837 printed compilation; FRASER OCR",
+      "locator": "Printed pages 5–10, discussion of original holders versus purchasers and transfer security; OCR lines 634–695, 833–917; conclusion at 1219",
+      "access": "Relevant report passages read; OCR limitations retained"
+    },
+    {
+      "id": "E04",
+      "title": "Act making provision for the debt of the United States",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-1/pdf/STATUTE-1-Pg138.pdf",
+      "document_date": "1790-08-04",
+      "type": "Primary enacted statute, 1 Stat. 138, chapter 34",
+      "locator": "Sections 13–15, printed pages 142–143 (PDF pages 5–6); state-certificate subscription ceiling and exchange terms",
+      "access": "Full relevant extracted statutory passage read; no new payment audit"
+    },
+    {
+      "id": "E05",
+      "title": "Georgia rescinding act preamble, reproduced in American State Papers: Public Lands, volume 1",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llscd/llsp028/llsp028.pdf",
+      "document_date": "1796-02-13",
+      "type": "Primary legislative declaration reproduced in federal documentary collection",
+      "locator": "Printed page 144, paragraph beginning with affidavits and proofs; comparison of rejected $800,000 with accepted $500,000 and legislators' purchase interests",
+      "access": "Complete relevant paragraph retrieved in indexed primary text. Direct 73 MB PDF opening failed size limit; no full-document or visual claim."
+    },
+    {
+      "id": "E06",
+      "title": "Fletcher v. Peck, 10 U.S. (6 Cranch) 87",
+      "url": "https://www.law.cornell.edu/supremecourt/text/10/87",
+      "document_date": "1810",
+      "date_precision": "February Term as printed",
+      "type": "Primary Supreme Court report: distinguish pleadings, counsel argument and judicial opinion",
+      "locator": "Reported paragraphs 5–10, 18–25 (including $50,000 and $200,000 terms), 148–158 and 189; web lines 38–108, 570–607, 713",
+      "access": "Relevant pleadings, statutory recital and opinion passages opened and read"
+    },
+    {
+      "id": "E07",
+      "title": "Andrew Jackson, Message Read to the Cabinet on Removal of the Public Deposits",
+      "url": "https://www.presidency.ucsb.edu/documents/message-read-the-cabinet-removal-the-public-deposits",
+      "document_date": "1833-09-18",
+      "type": "Primary presidential policy statement; adversarial account of bank conduct",
+      "locator": "Board resolutions November 30, 1830 and March 11, 1831; 1831–1832 expenditure paragraph; web lines 88–98. Alternative removal rationale at line 55.",
+      "access": "Full relevant expenditure/resolution passages and alternative rationale opened and read"
+    },
+    {
+      "id": "E08",
+      "title": "Andrew Jackson, Bank veto message",
+      "url": "https://avalon.law.yale.edu/19th_century/ajveto01.asp",
+      "document_date": "1832-07-10",
+      "type": "Primary presidential veto",
+      "locator": "Opening return of bill to Senate; constitutional/state-rights objections; proposed $200,000 annuity and $3 million bonus, web lines 23–32 and 104–106",
+      "access": "Relevant veto and proposed-payment passages opened and read"
+    }
+  ],
+  "findings": [
+    {
+      "id": "EARLY01",
+      "date": "1787-08-22",
+      "title": "Plantation and shipping interests in slave-importation bargaining",
+      "payer": null,
+      "recipient": "No political payee established",
+      "amount": null,
+      "currency": null,
+      "measurement": "No paid or promised political transfer quantified",
+      "mechanism": "Madison records General Charles Cotesworth Pinckney defending slave imports through plantation output, shipping, consumption and revenue, and warning of lost South Carolina assent. Rutledge also tied consent to protecting imports. [E01]",
+      "policy_instrument": "Constitution Article I section 9; Article V",
+      "outcome": "Congress could not prohibit covered importations before 1808. The text allowed a duty up to $10 per person; that ceiling is neither a verified collection nor a bribe. [E02]",
+      "evidence_strength": "Direct recorded economic-interest argument and enacted constitutional protection; no check-to-vote trace.",
+      "counterevidence": "Mason opposed the trade; Sherman prioritized forming the Union despite disapproval. Economic incentives and constitutional bargaining were interwoven. [E01]",
+      "lineage": {
+        "documented": "The debate expressly connects enslaved labor, rice-region demand and carrying trade to political bargaining. [E01]",
+        "actor_role": "Pinckney and Rutledge: South Carolina convention delegates.",
+        "continuity_boundary": "Protection was time-limited. These records identify historical interests, not modern descendants' liability, childhood causes or a continuous corporate ownership chain."
+      },
+      "source_ids": [
+        "E01",
+        "E02"
+      ]
+    },
+    {
+      "id": "EARLY02",
+      "date": "1790-08-04",
+      "title": "Creditor claims and federal assumption of state war debts",
+      "payer": "United States, through statutory debt funding",
+      "recipient": "Eligible subscribing state-debt certificate holders",
+      "amount": 21500000,
+      "currency": "USD",
+      "measurement": "Nominal statutory subscription ceiling, not cash paid",
+      "payment_status": "Authorization; actual subscriptions and later payments not audited here.",
+      "mechanism": "Hamilton opposed reducing purchasers' claims to their acquisition cost, arguing that transferable claims, contracts and borrowing terms supported public credit. Congress authorized exchange of qualifying state war-debt certificates for federal obligations. [E03,E04]",
+      "policy_instrument": "Funding Act, chapter 34, sections 13–15, 1 Stat. 138",
+      "outcome": "Federal funding terms protected eligible certificate holders and assumed defined state liabilities. The $21.5 million ceiling was payable through certificates, not a $21.5 million cash lobbying fund. [E04]",
+      "evidence_strength": "Strong fiscal distribution and creditor-policy connection; paid lobbying or a purchased vote not established.",
+      "counterevidence": "Hamilton presents the alternative of favoring original holders who sold cheaply, and argues against it on contract and public-credit grounds. [E03]",
+      "lineage": {
+        "documented": "Revolutionary war financing generated claims traded between original holders and purchasers; the report distinguishes foreign contractual debt from domestic restructuring. [E03]",
+        "actor_role": "Hamilton: Treasury Secretary advising Congress.",
+        "continuity_boundary": "Public-credit institutions connect finance and policy; no specific merchant/plantation fortune or modern successor ownership is traced here."
+      },
+      "source_ids": [
+        "E03",
+        "E04"
+      ]
+    },
+    {
+      "id": "EARLY03",
+      "date": "1795-01-07",
+      "title": "Yazoo land interests, legislative corruption and purchaser protection",
+      "payer": "Georgia Company purchasers",
+      "recipient": "Georgia treasury; legislators allegedly promised land interests",
+      "amount": 250000,
+      "currency": "USD",
+      "measurement": "Georgia Company statutory purchase terms: $50,000 before grant plus $200,000 due November 1, 1795",
+      "payment_status": "Terms recited in litigation; no independent cash receipt audit. Bribe amount remains null.",
+      "mechanism": "The complaint alleged Gunn, M'Allister and Walker promised legislators land shares for favorable votes. Georgia's repeal preamble separately declared corruption and participating legislators' purchase interests. [E05,E06]",
+      "policy_instrument": "Georgia sale act of January 7, 1795; repeal of February 13, 1796; Fletcher v. Peck (1810)",
+      "outcome": "Repeal attacked the grants. The Court protected an innocent subsequent purchaser's vested rights; it did not adjudicate each alleged bribe. [E06]",
+      "evidence_strength": "Legislative corruption finding plus specific judicially recorded allegations; neither an audited bribe total nor a criminal verdict.",
+      "counterevidence": "Peck disputed the promises and asserted lack of notice. Judicial reasoning protected purchasers rather than endorsing corruption. [E06]",
+      "lineage": {
+        "documented": "Land-company ownership incentives reached legislative allocation of territory. The repeal contrasted $500,000 accepted consideration with an $800,000 rejected offer. [E05]",
+        "actor_role": "Named purchasers, Georgia legislators, governor and later courts.",
+        "continuity_boundary": "Speculation-to-law mechanism established at this scope; specific plantation profits, later heirs and current beneficiaries not traced."
+      },
+      "source_ids": [
+        "E05",
+        "E06"
+      ]
+    },
+    {
+      "id": "EARLY04",
+      "date": "1833-09-18",
+      "period": "1831–1832 spending; 1832–1833 policy dispute",
+      "title": "Bank publicity spending and failed federal recharter",
+      "payer": "Second Bank of the United States",
+      "recipient": "Printers/publication vendors; complete named payees unavailable in selected account",
+      "amount": 80000,
+      "currency": "USD",
+      "measurement": "Approximate expenditure reported by Jackson for 1831–1832, not an independently audited exact total",
+      "payment_status": "Presidential report cites board authorization, partial vouchers and additional orders without vouchers. [E07]",
+      "mechanism": "Bank-funded circulation of favorable articles, congressional reports and speeches aimed at public opinion and charter renewal; the March 1831 resolution described public information about the bank. [E07]",
+      "policy_instrument": "Recharter bill veto; executive deposit-removal policy statement",
+      "outcome": "Jackson vetoed the bill on July 10, 1832. Its proposed $3 million bonus/$200,000 annual payment was not enacted by that bill. [E08]",
+      "evidence_strength": "Direct reported institutional advocacy spending; recipient-level accounting and vote causation incomplete.",
+      "counterevidence": "Spending did not secure the charter. Jackson's adverse account also identifies independent charter-expiry and administrative reasons for deposit removal. [E07,E08]",
+      "lineage": {
+        "documented": "A chartered bank used institutional resources to defend privileges; the veto discusses benefits to domestic and foreign stockholders. [E08]",
+        "actor_role": "Bank president/board; Jackson as President.",
+        "continuity_boundary": "Institutional publicity is a comparable mechanism, not proof that a modern bank inherits this entity's acts or that Jackson's accusation is neutral accounting."
+      },
+      "source_ids": [
+        "E07",
+        "E08"
+      ]
+    }
+  ],
+  "notes": [
+    "All amounts are historical nominal units. No inflation adjustment, cross-case sum or inferred amount per vote is supplied.",
+    "These cases distinguish public debt obligations, economic-interest bargaining, alleged private inducements and corporate publicity. They are not four equally established bribery cases.",
+    "Foreign or public war financing is not classified as private lobbying; the 1790 case concerns the allocation and funding of debt claims.",
+    "Slavery was human exploitation, not merely a neutral commodity input. Historical actors' financial descriptions are reported as evidence of their arguments.",
+    "No motive is inferred from childhood, ancestry, race or descendants. Contemporary continuity requires separate documented ownership, legal, organizational or policy links.",
+    "The period label is 1776–1860; selected cases cluster in 1787–1833 and do not claim comprehensive coverage of the entire interval.",
+    "No fresh outreach, publication, local research compute job or historical test suite was run."
+  ]
+}
