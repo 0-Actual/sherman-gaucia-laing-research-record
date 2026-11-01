@@ -5,6 +5,12 @@ Documentary preparation with GAUCIA through ChatGPT/Codex.
 
 This publication records the development timeline of Quantum.Earth.Laing using dated evidence recovered from the owner's research records. It publishes event summaries, dates, attribution and evidence boundaries. The October 17 expanded edition adds retained research source, data, GAUCIA application sources and the QRF documentary record. Raw personal interactions, credentials and uncleared private material remain outside the public selection.
 
+## Corporate investigation — October 31, 2026
+
+[Read the public investigation and reproduce the calculations](records/2026-10-31-corporate-investigation/README.md): ownership, political spending, lobbying and disclosed relationships involving OpenAI, Microsoft and Alphabet/Google. The release preserves all 21 original corporate files, 78 source references, corrections, known gaps and 149 passing internal arithmetic/count/policy checks. Readers are invited to identify errors, omissions and bias.
+
+**Free-use license for this edition:** original report/data are CC BY 4.0; Python code is MIT. This edition-specific grant permits commercial reuse and takes precedence over the general noncommercial notice for the files in that directory. See its [license](records/2026-10-31-corporate-investigation/LICENSE.md). Other editions retain their stated terms.
+
 ## Collaboration principles
 
 Statement by Sherman G. Laing — October 19, 2026.
@@ -102,3 +108,4 @@ The [approval controls and shell-result integrity study](records/2026-10-17-open
 ## October 20 OpenAI and Anthropic contributions
 
 The [completed technical release](records/2026-10-20-openai-anthropic-research/README.md) contains full source/test/evidence archives for the OpenAI infrastructure follow-up, Anthropic streaming integration and Python characterization, and the mathematics continuation. It includes the previously submitted shell/stream contributions and discloses unresolved candidates with their limits. The SDK contribution copies carry scoped MIT notices; the mathematics review and historical editions retain their stated license boundaries. Publication here is separate from upstream acceptance or formal proof verification.
+
