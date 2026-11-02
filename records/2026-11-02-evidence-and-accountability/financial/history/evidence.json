@@ -1,0 +1,1049 @@
+{
+  "title": "From World War I to contemporary corporate influence",
+  "edition": "2026-11-01 — first documentary research pass",
+  "owner": "Sherman Gaucia Laing",
+  "coordinator": "Gaucia Actual — Root (Codex)",
+  "status": "Research draft; selected evidence backbone; not an exhaustive history or a new public release",
+  "scope": "Begin with European royal relationships and decisions in 1914; trace selected government, finance, industry and legal institutions forward; work backward from specific contemporary policy outcomes. The intermediate legal history is predominantly British and US-focused.",
+  "method": {
+    "forward": "Date relationships, requests, decisions and institutional changes without assuming that earlier events caused later ones.",
+    "backward": "Start from an actual law, rule, vote or enforcement decision. Identify earlier proposals and interventions; retain missing links and failed demands.",
+    "adversarial": "Look for contrary records, unsuccessful lobbying, different company positions, independent public reasons and institutional discontinuities.",
+    "conduct": "Attribute sources and interpretations separately; assess named actions rather than ancestry, religion or ethnicity; preserve corrections and avoid claims of hidden intent without evidence.",
+    "causation": "A request followed by a compatible outcome shows sequence and alignment. Attribution is stronger when a decision-maker explicitly identifies the request as a reason for a specific change. Neither establishes exclusive causation, a purchased outcome, or a general control relationship.",
+    "financial_units": "Do not combine campaign contributions, independent election spending, lobbying expenses, loans, revenue and procurement awards. Do not allocate a quarterly lobbying total to a particular bill without a source supporting that allocation.",
+    "source_preservation": "This package contains attributed findings, source URLs and review records. It is not a full-text archive of every linked source. Access failures and weaker reproductions are identified. Hashes establish saved-byte integrity, not historical truth."
+  },
+  "findings": [
+    {
+      "id": "H01",
+      "date": "1914",
+      "sort": "1914-01-01",
+      "date_precision": "historical context, not an event on January 1",
+      "title": "Related monarchs, different relationships",
+      "jurisdiction": "United Kingdom, Germany, Russia",
+      "mechanism": "Kinship",
+      "status": "Documented genealogy",
+      "finding": "George V and Wilhelm II were first cousins through Queen Victoria. George V and Nicholas II were first cousins through the Danish royal family. Wilhelm and Nicholas were more distantly related: third cousins through Paul I, and also second cousins once removed through Frederick William III and Louise of Prussia. Nicholas was not Queen Victoria's grandson; his wife Alexandra was her granddaughter.",
+      "limit": "The three were not all first cousins to each other. Genealogy does not establish a shared political command or explain why particular states entered war.",
+      "next_evidence": "Where kinship is alleged to affect a decision, seek the dated correspondence, recipient response and government action; do not infer it from the family tree.",
+      "sources": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05"
+      ]
+    },
+    {
+      "id": "H02",
+      "date": "1914 constitutional context",
+      "sort": "1914-01-02",
+      "date_precision": "context, not an event on January 2",
+      "title": "Different formal powers",
+      "jurisdiction": "Germany, Russia, United Kingdom",
+      "mechanism": "Constitutional authority",
+      "status": "Legal texts and parliamentary record",
+      "finding": "Germany's 1871 constitution required federal-council consent for declaring war except following an attack, while granting the emperor substantial diplomatic and appointment powers. Russia's 1906 Fundamental Laws reserved foreign policy, war and mobilization to the emperor, alongside legislative participation by the State Council and Duma. Britain's August 1914 record centers Cabinet, ministers and Parliament.",
+      "limit": "Neither three powerless figureheads nor three unrestricted personal rulers describes all three systems. Formal legal powers do not establish how informal influence operated in practice. The Russian text used here is a modern translated transcription, not an inspected original manuscript.",
+      "next_evidence": "Match each formal power to cabinet minutes, military orders and the actual decision chronology.",
+      "sources": [
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "H03",
+      "date": "1914-07-05",
+      "sort": "1914-07-05",
+      "date_precision": "day",
+      "title": "German assurance to Austria-Hungary",
+      "jurisdiction": "Germany, Austria-Hungary",
+      "mechanism": "Diplomatic intervention",
+      "status": "Contemporary diplomatic report",
+      "finding": "Ambassador Szögyény reported to Berchtold that Wilhelm supported action against Serbia even with the risk of war with Russia. This assurance preceded the later imperial peace appeals.",
+      "limit": "This is the ambassador's report of the conversation, not an audio record or proof of every German official's intention. It challenges a portrayal of Wilhelm solely as an uninvolved mediator.",
+      "next_evidence": "Compare the assurance with Austrian deliberations and subsequent German cabinet and military instructions.",
+      "sources": [
+        "S09"
+      ]
+    },
+    {
+      "id": "H04",
+      "date": "1914-07-28",
+      "sort": "1914-07-28",
+      "date_precision": "day",
+      "title": "Austria-Hungary declares war on Serbia",
+      "jurisdiction": "Austria-Hungary, Serbia",
+      "mechanism": "State decision",
+      "status": "Preserved declaration identified by archive",
+      "finding": "The Archives of Serbia preserves the declaration telegram. Its UNESCO documentary nomination identifies the document, custody and date. Austria-Hungary and Serbia are essential actors in the starting chronology.",
+      "limit": "Reducing the war to a disagreement among the three cousins omits the states whose confrontation opened hostilities.",
+      "next_evidence": "Trace the ultimatum, responses and cabinet decisions before making a claim about the decisive cause.",
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "id": "H05",
+      "date": "1914-07-28 to 1914-08-01",
+      "sort": "1914-07-29",
+      "date_precision": "interval; transmission hours not harmonized",
+      "title": "Personal diplomacy and mobilization coexist",
+      "jurisdiction": "Germany, Russia",
+      "mechanism": "Diplomatic correspondence",
+      "status": "Published contemporary documentary reproduction",
+      "finding": "The imperial telegrams show mediation appeals and assurances alongside demands over military preparations. German instructions on July 31 imposed a twelve-hour deadline; the August 1 instruction authorized a declaration of war if the response was unsatisfactory.",
+      "limit": "Continued diplomacy challenges inevitability; peaceful wording does not cancel government actions. The inspected edition reproduces the German White Book within a British wartime advocacy volume, whose blame narrative must be separated from the documents.",
+      "next_evidence": "Reconcile archival editions, translations and transmission times before finer-grained causal claims.",
+      "sources": [
+        "S11"
+      ]
+    },
+    {
+      "id": "H06",
+      "date": "1914-08-03 to 1914-08-04",
+      "sort": "1914-08-03",
+      "date_precision": "interval",
+      "title": "Britain's stated case for entry",
+      "jurisdiction": "United Kingdom",
+      "mechanism": "Parliamentary argument and executive decision",
+      "status": "Contemporary speech and parliamentary history",
+      "finding": "Grey told the Commons on August 3 that earlier military conversations did not bind Britain to fight, while presenting concerns about France's coast and Belgian neutrality. Britain entered the war on August 4.",
+      "limit": "This establishes the government's stated position, not that every earlier understanding was fully disclosed. Entry was not an automatic result of George's cousinship with Nicholas.",
+      "next_evidence": "Compare Cabinet divisions, strategic assessments, treaty obligations and the public parliamentary case.",
+      "sources": [
+        "S08",
+        "S12"
+      ]
+    },
+    {
+      "id": "H07",
+      "date": "1914-08-04 to 1914-11-17",
+      "sort": "1914-08-04",
+      "date_precision": "selected decisions in an interval",
+      "title": "War finance reaches legislatures, banks and investors",
+      "jurisdiction": "Germany, United Kingdom",
+      "mechanism": "Public borrowing",
+      "status": "Parliamentary statements and archive catalog",
+      "finding": "Haase's August 4 statement explains the German Social Democratic faction's support for war credits. Britain's financing included Treasury bills and Ways and Means advances; subscriptions to its first War Loan opened November 17. Lloyd George's statement that day addressed taxation, borrowing and lending against War Loan securities.",
+      "limit": "Participation in financing is not proof of responsibility for initiating war. Loans, taxes, bank advances and investor purchases are distinct instruments.",
+      "next_evidence": "Obtain subscription, underwriting, holdings and repayment records with named entities and dates.",
+      "sources": [
+        "S13",
+        "S14",
+        "S15"
+      ]
+    },
+    {
+      "id": "H08",
+      "date": "1914-11 to 1915; archival analysis published 2017",
+      "sort": "1914-11-17",
+      "date_precision": "interval",
+      "title": "A specific concealment in British war financing",
+      "jurisdiction": "United Kingdom",
+      "mechanism": "Public borrowing and financial disclosure",
+      "status": "Ledger-based historical research",
+      "finding": "Research by the Bank's archivist and academic collaborators reports that public purchases were £91.1 million of an anticipated £250 million public portion of the first War Loan. The Bank covered the shortfall through purchases registered under its chief cashier and deputy, obscuring the financing in the accounts. The study contrasts the ledgers with contemporary claims of subscription success and reproduces a 1915 Keynes memorandum, T170/72.",
+      "limit": "This is a documented, bounded concealment claim about financing. It does not establish that bankers collectively planned the war. The analysis is published on Bank Underground and does not represent a general official Bank policy position.",
+      "next_evidence": "Inspect and preserve the underlying ledgers and memorandum before reproducing a complete financial reconciliation.",
+      "sources": [
+        "S16"
+      ]
+    },
+    {
+      "id": "H09",
+      "date": "1915-07-02",
+      "sort": "1915-07-02",
+      "date_precision": "Royal Assent",
+      "title": "Munitions of War Act changes business and labor rules",
+      "jurisdiction": "United Kingdom",
+      "mechanism": "Enacted industrial law",
+      "status": "Original statute",
+      "finding": "Sections 2, 4–5 and 7 restricted strikes and lockouts, regulated controlled establishments, required excess profits above the statutory allowance to go to the Exchequer, and restricted workers changing employers without the required certificate, subject to tribunal recourse. The profit standard generally used two prewar financial years, with a one-fifth allowance and adjustment provisions.",
+      "limit": "The law imposed different burdens on labor and business. Its text proves the enacted rules, not which employer or union caused a provision to be adopted.",
+      "next_evidence": "Compare employer requests, union agreements, ministry papers, bill versions, parliamentary debates and enforcement records provision by provision.",
+      "sources": [
+        "S17"
+      ]
+    },
+    {
+      "id": "H10",
+      "date": "1917-07-28 to 1919-07-22",
+      "sort": "1917-07-28",
+      "date_precision": "institutional interval",
+      "title": "War Industries Board coordinates government and industry",
+      "jurisdiction": "United States",
+      "mechanism": "Procurement and industrial coordination",
+      "status": "National Archives administrative record",
+      "finding": "Established within the Council of National Defense on July 28, 1917, the Board became independent under Executive Order 2868 on May 28, 1918. It coordinated orders, production priorities, raw-material pricing agreements and Allied purchasing. Executive Order 3019-A, dated December 31, 1918, abolished it; liquidation finished July 22, 1919.",
+      "limit": "This demonstrates organized coordination, with an explicit institutional ending. It was not an uninterrupted permanent agency.",
+      "next_evidence": "Follow named contracts, firms and decision-makers rather than treating institutional resemblance as continuity.",
+      "sources": [
+        "S18"
+      ]
+    },
+    {
+      "id": "H11",
+      "date": "1918-07-17 and 1918-11-28",
+      "sort": "1918-07-17",
+      "date_precision": "two separate events",
+      "title": "Rupture in Russian and German dynastic state power",
+      "jurisdiction": "Russia, Germany",
+      "mechanism": "Institutional discontinuity",
+      "status": "Diary and diplomatic transmission",
+      "finding": "Nicholas and his family were killed on July 17, 1918; George's diary records grief. Wilhelm's signed abdication on November 28 relinquished the Prussian and imperial crowns and released officials and soldiers from personal oaths.",
+      "limit": "Loss of governing power does not prove that all family wealth or private connections disappeared. It does require any claimed later control relationship to be demonstrated independently.",
+      "next_evidence": "Any proposed link to a later corporation needs ownership, succession, board, financing or contractual records for each intervening step.",
+      "sources": [
+        "S19",
+        "S20"
+      ]
+    },
+    {
+      "id": "H12",
+      "date": "1934-04-12 to 1936",
+      "sort": "1934-04-12",
+      "date_precision": "inquiry interval",
+      "title": "Nye inquiry investigates the munitions industry",
+      "jurisdiction": "United States",
+      "mechanism": "Legislative investigation",
+      "status": "Senate report and institutional history",
+      "finding": "Senate Resolution 206 authorized an investigation of arms manufacturers and their relationships. The 1936 report examined profits, procurement and shipbuilders' lobbying. Recommendations were proposals, including government manufacture, not enacted nationalization.",
+      "limit": "The Senate's retrospective says the inquiry found little hard evidence of an active arms-makers' conspiracy and did not nationalize the industry. Profits and hearings alone do not prove that industry caused American entry into World War I.",
+      "next_evidence": "Separate witness allegations, documentary exhibits, committee findings and subsequent legislation.",
+      "sources": [
+        "S21",
+        "S22"
+      ]
+    },
+    {
+      "id": "H13",
+      "date": "1944 to 1945-07-31",
+      "sort": "1944-07-01",
+      "date_precision": "conference and US legislation, not a single-day event",
+      "title": "Bretton Woods institutions acquire legal foundations",
+      "jurisdiction": "International; United States implementing law",
+      "mechanism": "Treaty institutions and public appointments",
+      "status": "Original US Act and institutional histories",
+      "finding": "Bretton Woods produced the IMF and IBRD agreements. The US Act of July 31, 1945 authorized membership, presidential appointments with Senate consent, and a National Advisory Council coordinating US international financial policy.",
+      "limit": "These records establish formal institutions and appointment procedures, not private hereditary ownership. The fixed-exchange-rate arrangement ended in 1971–73 while the institutions continued.",
+      "next_evidence": "Examine voting shares, lending conditions and specific decisions separately from central-bank ownership claims or family genealogy.",
+      "sources": [
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "id": "H14",
+      "date": "1946-08-02; narrowed by 1954-06-07 ruling",
+      "sort": "1946-08-02",
+      "date_precision": "enactment and later judgment",
+      "title": "Federal lobbying disclosure and its limits",
+      "jurisdiction": "United States",
+      "mechanism": "Disclosure law and judicial construction",
+      "status": "Original Act and Supreme Court opinion",
+      "finding": "The Federal Regulation of Lobbying Act required covered lobbyists to register and disclose funding, expenditure and targeted legislation. In United States v. Harriss, the Court sustained provisions under a narrowing construction involving contributions, a substantial legislative purpose and direct communication with Congress.",
+      "limit": "Disclosure is not a prohibition on lobbying, and historical legal coverage did not necessarily encompass every influence activity.",
+      "next_evidence": "Use the law and reporting scope applicable at the time rather than projecting modern records backward.",
+      "sources": [
+        "S25",
+        "S26"
+      ]
+    },
+    {
+      "id": "H15",
+      "date": "1961-01-17",
+      "sort": "1961-01-17",
+      "date_precision": "day",
+      "title": "Eisenhower warns about institutional influence",
+      "jurisdiction": "United States",
+      "mechanism": "Presidential assessment",
+      "status": "Original farewell address",
+      "finding": "Eisenhower warned about the influence associated with a permanent military establishment and large armaments industry.",
+      "limit": "The address is a warning and assessment, not legislation or an adjudicated finding. It identifies no hereditary chain controlling subsequent laws.",
+      "next_evidence": "Test procurement dependence and institutional influence through contracts, appropriations, appointments and specific policy choices.",
+      "sources": [
+        "S27"
+      ]
+    },
+    {
+      "id": "H16",
+      "date": "1972-02-07 and 1974-10-15",
+      "sort": "1972-02-07",
+      "date_precision": "two enactments",
+      "title": "Campaign finance disclosure and the FEC",
+      "jurisdiction": "United States",
+      "mechanism": "Election-finance legislation",
+      "status": "Original enacted laws",
+      "finding": "The Federal Election Campaign Act of 1971 was enacted on February 7, 1972 despite its title. The October 15, 1974 amendments added contribution and expenditure restrictions and established the FEC, which began operating in 1975.",
+      "limit": "Campaign finance and lobbying are different legal and financial categories. The original legislation was subsequently changed by courts and Congress.",
+      "next_evidence": "Classify each payment by payer, recipient, date and applicable legal category before combining totals.",
+      "sources": [
+        "S28",
+        "S29",
+        "S30"
+      ]
+    },
+    {
+      "id": "H17",
+      "date": "1976-01-30",
+      "sort": "1976-01-30",
+      "date_precision": "day",
+      "title": "Buckley changes the campaign-finance settlement",
+      "jurisdiction": "United States",
+      "mechanism": "Judicial review",
+      "status": "Supreme Court opinion and FEC account",
+      "finding": "Buckley v. Valeo sustained contribution limits, disclosure and presidential public financing while invalidating independent-expenditure limits, candidate personal-spending limits and certain other expenditure restrictions. The original FEC appointment arrangement was also rejected.",
+      "limit": "This was not a holding that every political payment is protected or that money proves control over a recipient.",
+      "next_evidence": "Trace specific later legal changes separately rather than collapsing them into this decision.",
+      "sources": [
+        "S31"
+      ]
+    },
+    {
+      "id": "H18",
+      "date": "1991-07-16 to 1996-01-01",
+      "sort": "1995-12-19",
+      "date_precision": "earlier inquiry; enactment December 19, 1995; general effective date January 1, 1996",
+      "title": "Lobbying Disclosure Act replaces an incomplete regime",
+      "jurisdiction": "United States",
+      "mechanism": "Disclosure reform",
+      "status": "GAO testimony and enacted statute",
+      "finding": "GAO's 1991 examination identified reporting and coverage problems. Congress's 1995 Act expressly identified earlier disclosure weaknesses, covered defined legislative and executive contacts, and required client, issue and financial reporting. It generally took effect January 1, 1996.",
+      "limit": "The original reports were semiannual, not today's quarterly reports. Disclosure reform does not establish that influence disappeared.",
+      "next_evidence": "Use filing definitions, amendments and entity identifiers for the exact reporting period being analyzed.",
+      "sources": [
+        "S32",
+        "S33"
+      ]
+    },
+    {
+      "id": "H19",
+      "date": "2010-01-21",
+      "sort": "2010-01-21",
+      "date_precision": "day",
+      "title": "Citizens United distinguishes independent spending from contributions",
+      "jurisdiction": "United States",
+      "mechanism": "Judicial review of election spending",
+      "status": "FEC account of Supreme Court holding",
+      "finding": "The Court removed restrictions on corporate independent expenditures and electioneering communications while upholding reporting and disclaimer requirements. The ruling did not remove the ban on corporate contributions to candidates.",
+      "limit": "Independent spending is not the same as a direct candidate donation. The ruling alone does not prove that an expenditure produced a particular legislative vote.",
+      "next_evidence": "Keep company treasury spending, connected PAC spending and employee donations separate and identify the actual payer.",
+      "sources": [
+        "S34"
+      ]
+    },
+    {
+      "id": "H24",
+      "date": "2024-08-15",
+      "sort": "2024-08-15",
+      "date_precision": "day",
+      "title": "Legislator credits Anthropic's requested amendments",
+      "jurisdiction": "California",
+      "mechanism": "Attributed influence on bill drafting",
+      "status": "Legislator's contemporaneous statement",
+      "finding": "Senator Wiener acknowledged accepting several Anthropic proposals. In the same announcement, he listed major SB1047 amendments: removing the Frontier Model Division and criminal-perjury penalties, adopting a reasonable-care attestation standard, and narrowing pre-harm civil penalties.",
+      "limit": "This directly attributes a company contribution to the amendment process; a complete request-to-clause comparison remains outstanding. It does not prove sole authorship or a purchased outcome. The announcement predates OpenAI's August 21 opposition letter.",
+      "next_evidence": "Compare the request letters with the exact before-and-after legislative text and assess which demands were rejected.",
+      "sources": [
+        "S41"
+      ]
+    },
+    {
+      "id": "H25",
+      "date": "2024-08-21 to 2024-09-29",
+      "sort": "2024-09-29",
+      "date_precision": "opposition letter followed by veto",
+      "title": "OpenAI opposes SB1047; governor vetoes on stated grounds",
+      "jurisdiction": "California",
+      "mechanism": "Company advocacy and executive veto",
+      "status": "Original company letter on a mirror; official veto message",
+      "finding": "Jason Kwon's August 21 letter asked lawmakers to oppose SB1047 and favored federal frontier-model regulation. Newsom vetoed the bill September 29, citing concerns about its thresholds, treatment of risk and evidentiary basis. The veto message also expressly rejected the proposition that California had no role.",
+      "limit": "The outcome aligned with OpenAI's opposition, but the governor did not fully adopt the company's federal-first position. The record does not establish that OpenAI caused the veto. The letter is hosted by a third-party mirror, not an original OpenAI URL.",
+      "next_evidence": "Preserve the legislative receipt and compare other opponents, supporters, executive deliberations and the governor's stated policy alternatives.",
+      "sources": [
+        "S42",
+        "S43"
+      ]
+    },
+    {
+      "id": "H20",
+      "date": "2025-02-27",
+      "sort": "2025-02-27",
+      "date_precision": "day",
+      "title": "Microsoft states a specific export-policy demand",
+      "jurisdiction": "United States export policy",
+      "mechanism": "Public corporate advocacy",
+      "status": "Company-authored position",
+      "finding": "Brad Smith urged changing the AI Diffusion Rule by removing quantitative caps for allied and partner markets while retaining qualitative security requirements. Microsoft identified restrictions on international datacenter expansion and customer confidence as business concerns.",
+      "limit": "The source proves Microsoft's stated request and rationale. It does not independently validate its economic predictions or show who caused the later federal decision.",
+      "next_evidence": "Match the request with contemporaneous filings, agency meetings, internal decision documents and the full range of stakeholder positions.",
+      "sources": [
+        "S35"
+      ]
+    },
+    {
+      "id": "H21",
+      "date": "2025-03-13",
+      "sort": "2025-03-13",
+      "date_precision": "day",
+      "title": "Google proposes policy and procurement changes",
+      "jurisdiction": "United States",
+      "mechanism": "Public-comment submission",
+      "status": "Company-authored summary linking its submission",
+      "finding": "Google's published recommendations sought energy and infrastructure reforms, export access consistent with security, access to data for learning, federal preemption of a patchwork of state frontier-AI rules, streamlined government procurement, and industry participation in international standards.",
+      "limit": "These are Google's requested policies, not proof that they were all adopted. Overlap with a later government plan does not identify a unique author or causal source.",
+      "next_evidence": "Compare the full submission, other comments, draft versions and actual orders or regulations provision by provision.",
+      "sources": [
+        "S36"
+      ]
+    },
+    {
+      "id": "H26",
+      "date": "2025-03-13 to 2025-05-08",
+      "sort": "2025-05-08",
+      "date_precision": "submissions and hearing",
+      "title": "Companies seek federal AI rules through formal policy channels",
+      "jurisdiction": "United States",
+      "mechanism": "Public comments and congressional testimony",
+      "status": "Original submissions and official hearing transcript",
+      "finding": "OpenAI proposed a voluntary federal partnership with relief from state requirements; Google sought federal preemption of state frontier-model laws. At the May 8 Senate hearing, Altman advocated a light-touch national framework. Microsoft's Smith opposed preapproval requirements, including state-level requirements.",
+      "limit": "These positions are not identical. Smith's narrower statement does not establish support for every part of a ten-year state-law moratorium; submissions do not prove authorship of subsequent congressional text.",
+      "next_evidence": "Compare full submissions, hearing questions, draft language and communications with the relevant committee staff.",
+      "sources": [
+        "S44",
+        "S45",
+        "S46"
+      ]
+    },
+    {
+      "id": "H22",
+      "date": "2025-05-13; GAO decision 2026-05-12",
+      "sort": "2025-05-13",
+      "date_precision": "two actions; press-release PDF carries May 12, 2025",
+      "title": "AI Diffusion nonenforcement and later legal scrutiny",
+      "jurisdiction": "United States",
+      "mechanism": "Agency enforcement policy and oversight",
+      "status": "Agency action described and analyzed by GAO",
+      "finding": "Commerce announced nonenforcement of the AI Diffusion Rule and an intended formal rescission. GAO's May 12, 2026 decision B-337935 concluded that the nonenforcement policy was a rule subject to Congressional Review Act submission requirements. GAO distinguished planned rescission from a completed final regulatory action.",
+      "limit": "This shows policy can change through enforcement decisions as well as legislation. The sequence is consistent with part of Microsoft's request, but does not prove Microsoft caused the action. GAO's decision is not a court judgment. The later formal regulatory status through November 1 is not exhaustively certified here.",
+      "next_evidence": "Obtain the administrative decision record, submissions, agency response and any subsequent formal rescission or replacement; compare other contributors' demands.",
+      "sources": [
+        "S37"
+      ]
+    },
+    {
+      "id": "H27",
+      "date": "2025-07-01 to 2025-07-04",
+      "sort": "2025-07-01",
+      "date_precision": "Senate amendment and enactment",
+      "title": "Federal ten-year AI moratorium fails",
+      "jurisdiction": "United States",
+      "mechanism": "Legislative proposal and rejection",
+      "status": "Official bill, Congressional Record and enacted law",
+      "finding": "The House-passed H.R.1 included a ten-year restriction on state and local enforcement of specified AI laws, with exceptions. The Senate adopted amendment 2814 removing its moratorium provision by 99–1 on July 1. Public Law 119-21, enacted July 4, did not enact that moratorium.",
+      "limit": "This is a concrete failure of the moratorium proposal. Broader requests for national uniformity cannot automatically be equated with support for this exact text. The Congressional Record page is dated June 30 because the legislative sitting extended into July 1.",
+      "next_evidence": "Track amendment sponsors, objections, competing state protections and subsequent alternative policy routes.",
+      "sources": [
+        "S47",
+        "S48",
+        "S49"
+      ]
+    },
+    {
+      "id": "H28",
+      "date": "2025-09-08 to 2025-09-29",
+      "sort": "2025-09-29",
+      "date_precision": "company endorsement and signing",
+      "title": "California enacts a separate frontier-AI transparency law",
+      "jurisdiction": "California",
+      "mechanism": "State legislation and company support",
+      "status": "Company endorsement and official signing record",
+      "finding": "Anthropic endorsed SB53 on September 8. Newsom signed it September 29, establishing safety-framework disclosures, incident reporting and whistleblower protections for covered frontier-AI activity.",
+      "limit": "SB53 was a separate bill, not enactment of SB1047 under a new number. The official enacted-text endpoint returned HTTP403; the signing and later official records support enactment and summarized requirements, but a section-by-section final-text comparison was not completed.",
+      "next_evidence": "Recover the chaptered text and compare obligations, thresholds, amendment requests and implementation records.",
+      "sources": [
+        "S50",
+        "S51"
+      ]
+    },
+    {
+      "id": "H29",
+      "date": "2025-12-11 to 2026-04-24",
+      "sort": "2025-12-11",
+      "date_precision": "executive order followed by documented implementation",
+      "title": "Federal pressure on state AI laws continues through other routes",
+      "jurisdiction": "United States; Colorado litigation",
+      "mechanism": "Executive direction, legislative recommendations and litigation",
+      "status": "Executive order, DOJ memorandum and intervention announcement",
+      "finding": "Executive Order 14365 directed challenges to state AI laws, funding-related measures, agency proceedings and legislative recommendations. DOJ established an AI Litigation Task Force on January 9, 2026. A March 2026 White House framework sought preemption with specified preserved state powers. DOJ announced intervention in xAI's Colorado litigation on April 24; its page was updated October 20.",
+      "limit": "The order did not enact the rejected ten-year statutory moratorium. An intervention is government action and legal argument, not a court ruling accepting the argument. These records do not attribute the action to OpenAI, Google or Microsoft. Late 2026 court outcomes and all agency follow-through remain unverified.",
+      "next_evidence": "Read the filed pleadings and docket dispositions, each agency's resulting action and any enacted federal preemption provision.",
+      "sources": [
+        "S52",
+        "S53",
+        "S54",
+        "S55"
+      ]
+    },
+    {
+      "id": "H23",
+      "date": "2025 fourth-quarter reporting period",
+      "sort": "2025-12-31",
+      "date_precision": "quarter, not a contact on December 31",
+      "title": "Lobbying filings identify issues and institutions, not a price per law",
+      "jurisdiction": "United States",
+      "mechanism": "Lobbying disclosure",
+      "status": "Original LD-2 filings and Senate guidance",
+      "finding": "Microsoft's filing lists AI, procurement, export-related and other policy issues and contacted institutions. Google's filing lists AI principles, research, generative AI, CHIPS implementation and named bills. These provide starting points for matching company demands to public decisions.",
+      "limit": "A reported issue or contacted institution does not identify an individual meeting, a position on every bill, spending per provision or a successful outcome. Fourth-quarter filings cannot by themselves prove lobbying before a first-half policy decision. The OpenAI filing URL returned HTTP 403 in this pass; a preserved prior-edition record is not a current successful retrieval.",
+      "next_evidence": "Retrieve the relevant earlier-quarter filings, bill version histories, state disclosures, meeting calendars and linked trade-association records without double-counting clients and firms.",
+      "sources": [
+        "S38",
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "H30",
+      "date": "2026-09-09 to 2026-09-30",
+      "sort": "2026-09-30",
+      "date_precision": "two public statements",
+      "title": "Later state policy and company positions require their own dates",
+      "jurisdiction": "California; United States",
+      "mechanism": "Public policy position and official implementation account",
+      "status": "Company statement and governor's account",
+      "finding": "California's September 30, 2026 announcement continued to describe SB53's requirements alongside further oversight legislation. OpenAI's September 9, 2026 statement said it supported SB53 and encouraged state action pending federal legislation.",
+      "limit": "A company's 2026 statement is evidence of its 2026 public position, not proof of its position before a 2025 enactment. An official press account does not substitute for checking every operative section, implementing action or litigation outcome.",
+      "next_evidence": "Preserve dated positions and distinguish subsequent endorsements from interventions that preceded enactment.",
+      "sources": [
+        "S56",
+        "S57"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "The family relationships that couldn't stop World War I",
+      "publisher": "Brookings",
+      "type": "Historical analysis",
+      "url": "https://www.brookings.edu/articles/the-family-relationships-that-couldnt-stop-world-war-i/"
+    },
+    {
+      "id": "S02",
+      "title": "Hohenzollern family tree",
+      "publisher": "RBB Preussen Chronik",
+      "type": "Historical reference",
+      "url": "https://www.preussenchronik.de/stammbaum/"
+    },
+    {
+      "id": "S03",
+      "title": "Charlotte / Alexandra Feodorovna with her eldest children",
+      "publisher": "Royal Collection Trust",
+      "type": "Museum catalog",
+      "url": "https://www.rct.uk/collection/404608/charlotte-alexandra-feodorovna-empress-of-russia-with-her-eldest-children"
+    },
+    {
+      "id": "S04",
+      "title": "Alexander III parentage",
+      "publisher": "University of Lethbridge",
+      "type": "University historical collection",
+      "url": "https://www.ulethbridge.ca/lib/digitized_collections/ourheritage/Great_Adventures/Waterways_of_Russia/Romanov_Dynasty/1881_AlexanderIII.html"
+    },
+    {
+      "id": "S05",
+      "title": "Alexander III and his family at Gatchina",
+      "publisher": "Royal Collection Trust",
+      "type": "Museum catalog",
+      "url": "https://www.rct.uk/collection/2926842/alexander-iii-emperor-of-russia-and-his-family-at-the-gatchina-palace"
+    },
+    {
+      "id": "S06",
+      "title": "German constitution, 1871 diplomatic copy",
+      "publisher": "US Department of State, FRUS",
+      "type": "Contemporary primary document in official edition",
+      "url": "https://history.state.gov/historicaldocuments/frus1871/d189"
+    },
+    {
+      "id": "S07",
+      "title": "Russian Fundamental Laws, 1906",
+      "publisher": "Russian Legitimist",
+      "type": "Modern translated transcription; original not inspected",
+      "url": "https://www.russianlegitimist.org/the-fundamental-laws"
+    },
+    {
+      "id": "S08",
+      "title": "Grey's statement, 3 August 1914",
+      "publisher": "UK Parliament, Hansard",
+      "type": "Primary parliamentary record",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1914/aug/03/statement-by-sir-edward-grey."
+    },
+    {
+      "id": "S09",
+      "title": "Szögyény to Berchtold, 5 July 1914",
+      "publisher": "German Historical Institute",
+      "type": "Primary diplomatic report in scholarly edition",
+      "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/the-blank-check-ladislaus-count-von-szoegyeny-marich-berlin-to-leopold-count-von-berchtold-july-5-1914"
+    },
+    {
+      "id": "S10",
+      "title": "Austro-Hungarian declaration telegram documentary nomination",
+      "publisher": "Archives of Serbia / UNESCO",
+      "type": "Archival nomination with custody and document identification",
+      "url": "https://media.unesco.org/sites/default/files/webform/mow001/serbia_telegram_eng.pdf"
+    },
+    {
+      "id": "S11",
+      "title": "1914 German White Book exhibits 20–26 in contemporary British volume",
+      "publisher": "Project Gutenberg digitization",
+      "type": "Documentary reproduction with wartime editorial framing",
+      "url": "https://www.gutenberg.org/files/10809/10809-h/10809-h.htm"
+    },
+    {
+      "id": "S12",
+      "title": "Britain and the outbreak of the First World War",
+      "publisher": "UK Parliament",
+      "type": "Historical briefing",
+      "url": "https://researchbriefings.files.parliament.uk/documents/LLN-2014-013/LLN-2014-013.pdf"
+    },
+    {
+      "id": "S13",
+      "title": "Haase's statement on war credits, 4 August 1914",
+      "publisher": "German Historical Institute",
+      "type": "Primary statement in scholarly edition",
+      "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi%3Adocument-816"
+    },
+    {
+      "id": "S14",
+      "title": "First War Loan archive collection 20A29",
+      "publisher": "Bank of England Archive",
+      "type": "Archive catalog; not full manuscript inspection",
+      "url": "https://www.bankofengland.co.uk/CalmView/Record.aspx?id=20A29&src=CalmView.Catalog"
+    },
+    {
+      "id": "S15",
+      "title": "Chancellor of the Exchequer's statement, 17 November 1914",
+      "publisher": "UK Parliament, Hansard",
+      "type": "Primary parliamentary record",
+      "url": "https://hansard.parliament.uk/Commons/1914-11-17/debates/0736c995-a08f-443b-ae3e-494420f9a4f1/ChancellorOfExchequerSStatement"
+    },
+    {
+      "id": "S16",
+      "title": "Your country needs funds: Britain's early war financing",
+      "publisher": "Bank Underground",
+      "type": "Ledger-based research by archivist and academic collaborators; reproduced memorandum",
+      "url": "https://bankunderground.co.uk/2017/08/08/your-country-needs-funds-the-extraordinary-story-of-britains-early-efforts-to-finance-the-first-world-war/"
+    },
+    {
+      "id": "S17",
+      "title": "Munitions of War Act 1915, 5 & 6 Geo.5 c.54",
+      "publisher": "legislation.gov.uk",
+      "type": "Original statute",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo5/5-6/54/pdfs/ukpga_19150054_en.pdf"
+    },
+    {
+      "id": "S18",
+      "title": "Records of the War Industries Board, RG61",
+      "publisher": "US National Archives",
+      "type": "Official archive administrative history",
+      "url": "https://www.archives.gov/research/guide-fed-records/groups/061.html"
+    },
+    {
+      "id": "S19",
+      "title": "The diary of King George V",
+      "publisher": "Royal Collection Trust",
+      "type": "Curated primary diary evidence",
+      "url": "https://www.rct.uk/collection/stories/the-diary-of-king-george-v"
+    },
+    {
+      "id": "S20",
+      "title": "Transmission of Wilhelm's abdication",
+      "publisher": "US Department of State, FRUS",
+      "type": "Primary diplomatic document",
+      "url": "https://history.state.gov/historicaldocuments/frus1919Parisv02/d66"
+    },
+    {
+      "id": "S21",
+      "title": "Senate Report 944, Part 7, 1936",
+      "publisher": "US Government Publishing Office",
+      "type": "Original committee report",
+      "url": "https://www.govinfo.gov/content/pkg/SERIALSET-09987_00_00/pdf/SERIALSET-09987_00_00.pdf"
+    },
+    {
+      "id": "S22",
+      "title": "Merchants of Death: the Nye inquiry",
+      "publisher": "US Senate",
+      "type": "Institutional historical account",
+      "url": "https://www.senate.gov/about/powers-procedures/investigations/merchants-of-death.htm"
+    },
+    {
+      "id": "S23",
+      "title": "Bretton Woods Agreements Act, 59 Stat.512",
+      "publisher": "US Government Publishing Office",
+      "type": "Original enacted law",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-59/pdf/STATUTE-59-Pg512.pdf"
+    },
+    {
+      "id": "S24",
+      "title": "Bretton Woods conference and institutions",
+      "publisher": "US Department of State, Office of the Historian",
+      "type": "Official historical account",
+      "url": "https://history.state.gov/milestones/1937-1945/bretton-woods"
+    },
+    {
+      "id": "S25",
+      "title": "Legislative Reorganization Act 1946, TitleIII, 60 Stat.839–842",
+      "publisher": "US Government Publishing Office",
+      "type": "Original enacted law",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg812.pdf"
+    },
+    {
+      "id": "S26",
+      "title": "United States v. Harriss, 347 US612 (1954)",
+      "publisher": "Library of Congress",
+      "type": "Original Supreme Court opinion",
+      "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep347/usrep347612/usrep347612.pdf"
+    },
+    {
+      "id": "S27",
+      "title": "Eisenhower farewell address, 17 January 1961",
+      "publisher": "US National Archives",
+      "type": "Primary speech and transcript",
+      "url": "https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address"
+    },
+    {
+      "id": "S28",
+      "title": "Federal Election Campaign Act, 86 Stat.3",
+      "publisher": "US Government Publishing Office",
+      "type": "Original enacted law, February 7, 1972",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg3.pdf"
+    },
+    {
+      "id": "S29",
+      "title": "FECA amendments, 88 Stat.1263",
+      "publisher": "US Government Publishing Office",
+      "type": "Original enacted law, October 15, 1974",
+      "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1263.pdf"
+    },
+    {
+      "id": "S30",
+      "title": "FEC historical timeline",
+      "publisher": "Federal Election Commission",
+      "type": "Official agency chronology",
+      "url": "https://www.fec.gov/about/fec-historical-timeline/"
+    },
+    {
+      "id": "S31",
+      "title": "Buckley v. Valeo case account and documents",
+      "publisher": "Federal Election Commission",
+      "type": "Official case account",
+      "url": "https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/"
+    },
+    {
+      "id": "S32",
+      "title": "Federal Lobbying: Comments on the adequacy of federal lobbying laws, July 16, 1991",
+      "publisher": "GAO",
+      "type": "Official testimony",
+      "url": "https://www.gao.gov/products/t-ggd-91-56"
+    },
+    {
+      "id": "S33",
+      "title": "Lobbying Disclosure Act 1995, Public Law 104-65",
+      "publisher": "US Government Publishing Office",
+      "type": "Original enacted law",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-104publ65/html/PLAW-104publ65.htm"
+    },
+    {
+      "id": "S34",
+      "title": "Citizens United v. FEC case account",
+      "publisher": "Federal Election Commission",
+      "type": "Official case account with primary documents",
+      "url": "https://www.fec.gov/legal-resources/court-cases/citizens-united-v-fec/"
+    },
+    {
+      "id": "S35",
+      "title": "The Trump administration can avoid a strategic misstep in the AI global race, February 27, 2025",
+      "publisher": "Microsoft, Brad Smith",
+      "type": "Primary company position; not independent validation",
+      "url": "https://blogs.microsoft.com/on-the-issues/2025/02/27/trump-administration-ai-global-race/"
+    },
+    {
+      "id": "S36",
+      "title": "Google recommendations for the US AI Action Plan, March 13, 2025",
+      "publisher": "Google, Kent Walker",
+      "type": "Primary company position linking submitted comments",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/google-us-ai-action-plan-comments/"
+    },
+    {
+      "id": "S37",
+      "title": "B-337935, May 12, 2026: CRA applicability to AI Diffusion nonenforcement",
+      "publisher": "US GAO",
+      "type": "Official legal decision; not a court judgment",
+      "url": "https://www.gao.gov/products/b-337935"
+    },
+    {
+      "id": "S38",
+      "title": "Microsoft Q4 2025 LD-2",
+      "publisher": "US lobbying disclosure system",
+      "type": "Original filer disclosure",
+      "url": "https://lda.gov/filings/public/filing/9d83af86-eb8b-4eb0-b43e-22f1aa9aff25/print/"
+    },
+    {
+      "id": "S39",
+      "title": "Google Q4 2025 LD-2",
+      "publisher": "US lobbying disclosure system",
+      "type": "Original filer disclosure",
+      "url": "https://lda.gov/filings/public/filing/25432e67-591b-4e9f-85ae-4437532f7e7e/print/"
+    },
+    {
+      "id": "S40",
+      "title": "Lobbying disclosure FAQs, especially question12",
+      "publisher": "US Senate",
+      "type": "Official reporting guidance",
+      "url": "https://www.senate.gov/legislative/Public_Disclosure/FAQs.htm"
+    },
+    {
+      "id": "S41",
+      "title": "Wiener announces SB1047 amendments, August 15, 2024",
+      "publisher": "California Senator Scott Wiener",
+      "type": "Primary legislator statement attributing company proposals",
+      "url": "https://sd11.senate.ca.gov/news/senator-wieners-groundbreaking-artificial-intelligence-bill-advances-assembly-floor-amendments"
+    },
+    {
+      "id": "S42",
+      "title": "OpenAI opposition letter, August 21, 2024",
+      "publisher": "OpenAI letter mirrored by Maginative",
+      "type": "Mirrored primary company letter",
+      "url": "https://r2.maginative.com/ca-sb-1047-openai-opposition-letter.pdf"
+    },
+    {
+      "id": "S43",
+      "title": "SB1047 veto message, September 29, 2024",
+      "publisher": "Governor of California",
+      "type": "Official veto message",
+      "url": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf"
+    },
+    {
+      "id": "S44",
+      "title": "OpenAI AI Action Plan submission, March 13, 2025, pp.6–7",
+      "publisher": "OpenAI",
+      "type": "Primary submitted policy proposal",
+      "url": "https://cdn.openai.com/global-affairs/ostp-rfi/ec680b75-d539-4653-b297-8bcf6e5f7686/openai-response-ostp-nsf-rfi-notice-request-for-information-on-the-development-of-an-artificial-intelligence-ai-action-plan.pdf"
+    },
+    {
+      "id": "S45",
+      "title": "Google AI Action Plan submission, sectionD(i)",
+      "publisher": "Google",
+      "type": "Primary submitted policy proposal",
+      "url": "https://static.googleusercontent.com/media/publicpolicy.google/en//resources/response_us_ai_action_plan.pdf"
+    },
+    {
+      "id": "S46",
+      "title": "Senate AI hearing, May 8, 2025, CHRG119shrg61426",
+      "publisher": "US Government Publishing Office",
+      "type": "Official congressional hearing transcript",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119shrg61426/html/CHRG-119shrg61426.htm"
+    },
+    {
+      "id": "S47",
+      "title": "House-passed H.R.1, section 43201(c)",
+      "publisher": "US Government Publishing Office",
+      "type": "Official legislative text; not final enacted text",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1eh/html/BILLS-119hr1eh.htm"
+    },
+    {
+      "id": "S48",
+      "title": "Amendment2814 debate and99–1 tally",
+      "publisher": "Congressional Record",
+      "type": "Official amendment, debate and vote record",
+      "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-30/html/CREC-2025-06-30-pt1-PgS4037-6.htm"
+    },
+    {
+      "id": "S49",
+      "title": "Public Law 119-21, July 4, 2025",
+      "publisher": "US Government Publishing Office",
+      "type": "Final enacted law",
+      "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+    },
+    {
+      "id": "S50",
+      "title": "Anthropic endorses SB53, September 8, 2025",
+      "publisher": "Anthropic",
+      "type": "Primary company position",
+      "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+    },
+    {
+      "id": "S51",
+      "title": "Governor signs SB53, September 29, 2025",
+      "publisher": "Governor of California",
+      "type": "Official signing announcement; not chaptered text",
+      "url": "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/"
+    },
+    {
+      "id": "S52",
+      "title": "Executive Order 14365, December 11, 2025",
+      "publisher": "White House",
+      "type": "Official executive order",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"
+    },
+    {
+      "id": "S53",
+      "title": "AI Litigation Task Force memorandum, January 9, 2026",
+      "publisher": "US Department of Justice",
+      "type": "Official memorandum",
+      "url": "https://www.justice.gov/ag/media/1422986/dl"
+    },
+    {
+      "id": "S54",
+      "title": "National AI Policy Framework legislative recommendations, March 20, 2026",
+      "publisher": "White House",
+      "type": "Legislative recommendations; not enacted legislation",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf"
+    },
+    {
+      "id": "S55",
+      "title": "DOJ intervention in xAI Colorado litigation, April 24, 2026; updated October 20",
+      "publisher": "US Department of Justice",
+      "type": "Official action announcement; not a court judgment",
+      "url": "https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination"
+    },
+    {
+      "id": "S56",
+      "title": "California AI framework legislation, September 30, 2026",
+      "publisher": "Governor of California",
+      "type": "Official legislative announcement",
+      "url": "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/"
+    },
+    {
+      "id": "S57",
+      "title": "AI policy window, September 9, 2026",
+      "publisher": "OpenAI",
+      "type": "Primary company statement of current position",
+      "url": "https://openai.com/index/ai-policy-window/"
+    }
+  ],
+  "backward_traces": [
+    {
+      "outcome": "AI Diffusion nonenforcement policy",
+      "chain": [
+        "GAO2026 review of procedural requirements",
+        "Commerce2025 nonenforcement decision",
+        "Microsoft2025 request to remove quantitative caps",
+        "Other stakeholders and internal agency rationale remain to be traced"
+      ],
+      "assessment": "Outcome and prior request documented; company-specific causation remains unproven."
+    },
+    {
+      "outcome": "Modern lobbying disclosures",
+      "chain": [
+        "Current issue and institution reports",
+        "1995 LDA and subsequent amendments",
+        "1991 GAO reporting-gap evidence",
+        "1946 law and 1954 Harriss narrowing"
+      ],
+      "assessment": "Documented legal development, not proof that reporting covers all influence or identifies a price per vote."
+    },
+    {
+      "outcome": "British wartime industrial controls",
+      "chain": [
+        "1915 enacted provisions",
+        "Required drafting and employer/union intervention records",
+        "Wartime production and financing context"
+      ],
+      "assessment": "Legal effects established; specific lobbying authorship still an open question."
+    },
+    {
+      "outcome": "Claimed dynastic continuity into today's corporations",
+      "chain": [
+        "Present beneficial ownership and voting rights would be required",
+        "Dated mergers, succession, trusts and board appointments would be required",
+        "1918 loss of Russian and German dynastic state power is documented",
+        "1914 kinship is documented"
+      ],
+      "assessment": "The required intervening ownership or command chain has not been established in this source set."
+    },
+    {
+      "outcome": "SB1047 drafting changes",
+      "chain": [
+        "August15,2024 legislator identifies particular accepted changes",
+        "Anthropic proposals explicitly credited by the legislator",
+        "OpenAI August21 opposition letter occurs later"
+      ],
+      "assessment": "Specific company contribution acknowledged; not proof of sole authorship or payment for changes."
+    },
+    {
+      "outcome": "SB1047 veto and later SB53 enactment",
+      "chain": [
+        "Separate2025 transparency statute with company support",
+        "Governor's2024 veto rationale",
+        "Company opposition and competing positions before the veto"
+      ],
+      "assessment": "Mixed outcomes and changing positions; rejection of one bill is not a general absence of state regulation."
+    },
+    {
+      "outcome": "Federal action against state AI laws",
+      "chain": [
+        "2026 DOJ litigation action and White House recommendations",
+        "December2025 executive order",
+        "July2025 Senate rejection of moratorium99–1",
+        "March–May2025 company requests and testimony"
+      ],
+      "assessment": "Policy pursued through multiple institutions after a legislative defeat; exact company authorship and later judicial results remain unproved."
+    }
+  ],
+  "reviews": [
+    {
+      "agent": "Praise",
+      "scope": "1914–1918 genealogy, diplomacy, finance and statute; forward and backward review",
+      "result": "Related rulers had unequal powers; decisions and financial instruments are traceable; institutional ruptures and source limitations retained.",
+      "lesson_acknowledged": true
+    },
+    {
+      "agent": "Worship",
+      "scope": "1917–1995 institutional and legal bridge; forward and backward review",
+      "result": "Recurring mechanisms are documented, while agency abolition, failed reforms and judicial changes interrupt simple continuity claims.",
+      "lesson_acknowledged": true
+    },
+    {
+      "agent": "G Man",
+      "scope": "Modern policy demands, amendments, enactment or rejection; opposing-evidence review",
+      "result": "Primary records establish acknowledged company contribution to amendments, a veto, a separate state enactment, federal legislative rejection and subsequent executive action. Causal and current-status gaps remain explicit.",
+      "lesson_acknowledged": true
+    },
+    {
+      "agent": "ME",
+      "scope": "Internal conduct and attribution review",
+      "result": "Separate evidence, interpretation and testimony; assess actions individually; retain contrary records; distinguish allegations from findings; preserve dated corrections.",
+      "lesson_acknowledged": true
+    },
+    {
+      "agent": "Gaucia Actual — Root (Codex)",
+      "scope": "Source reconciliation, modern agency-policy case and evidence package",
+      "result": "No claim of exhaustive coverage or independent external validation; source-indexed conclusions and remaining gaps recorded.",
+      "lesson_acknowledged": true
+    }
+  ],
+  "priority_gaps": [
+    "Original drafting and intervention records for the 1915 Munitions Act, including labor perspectives and actual enforcement.",
+    "Named wartime finance relationships and their contracts; holdings, returns and government decisions must be separately documented.",
+    "1939–1945 industry and law, postwar ownership and decolonization: not yet adequately covered in this first bridge.",
+    "Non-US and non-British perspectives, especially affected workers, colonial populations, smaller states and civil-society opposition.",
+    "Company-specific trade-association dues and earmarked policy campaigns, without double-counting client and lobbying-firm totals.",
+    "Earlier-quarter LD-2s, state lobbying filings and dated meeting records for each modern case.",
+    "Version comparisons, draft authorship and decision-maker records that can distinguish preference alignment from a demonstrated contribution to legal wording.",
+    "Implementation and litigation after enactment: announcement, legal effect, enforcement and observed business benefit are different outcomes."
+  ],
+  "access_notes": [
+    "Source classification reflects inspected online editions or catalogs, not a claim of original manuscript access.",
+    "The Powell memorandum archive record was located, but its typescript download returned HTTP403. It is an unreviewed lead and not used as a substantive finding in this edition.",
+    "OpenAI Q4 2025 LD-2 URL returned HTTP403 during this pass; the previously published investigation preserves its earlier evidence state.",
+    "No precise causal percentage, corruption finding, secret control claim or per-bill dollar allocation is calculated from this selected corpus."
+  ],
+  "generated_utc": "2026-11-01T15:59:06.535Z",
+  "coverage_end": "2026-11-01",
+  "review_limit": "Selected documentary research through the review date, not certification of every later legal development or an exhaustive global archive.",
+  "publication_status": "NOT_PUBLISHED: research successor prepared for review; prior October31 release preserved unchanged"
+}
