@@ -1,0 +1,2525 @@
+{
+  "schema": "qel.comparisons.markdown-coverage.v1",
+  "createdUtc": "2026-11-02T14:32:41.365Z",
+  "source": {
+    "retainedPath": "prior-work/corrected-comparisons.json",
+    "bytes": 451501,
+    "sha256": "5b655e05775be3508a4a57e7618d63d9ebb44fd67ba04998596b77a28e3c831d"
+  },
+  "report": {
+    "path": "PROJECT-COMPARISONS.md",
+    "bytes": 498004,
+    "sha256": "6b19f99815fac2b4d6145a1d58291fe83f81e8bdda957af20b85d1f71aabf839"
+  },
+  "comparisonCount": 28,
+  "conclusionLeafCount": 227,
+  "sections": [
+    {
+      "comparisonId": "I01",
+      "sourcePointer": "/comparisons/0",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "startLine": 25,
+      "endLine": 561
+    },
+    {
+      "comparisonId": "I02",
+      "sourcePointer": "/comparisons/1",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "startLine": 564,
+      "endLine": 1136
+    },
+    {
+      "comparisonId": "I03",
+      "sourcePointer": "/comparisons/2",
+      "reportSection": "### I03 Personalized intellectual assistant",
+      "reportAnchor": "comparison-i03",
+      "startLine": 1139,
+      "endLine": 1652
+    },
+    {
+      "comparisonId": "I04",
+      "sourcePointer": "/comparisons/3",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "startLine": 1655,
+      "endLine": 2378
+    },
+    {
+      "comparisonId": "I05",
+      "sourcePointer": "/comparisons/4",
+      "reportSection": "### I05 Device control, offline operation and local communication",
+      "reportAnchor": "comparison-i05",
+      "startLine": 2381,
+      "endLine": 2874
+    },
+    {
+      "comparisonId": "I06",
+      "sourcePointer": "/comparisons/5",
+      "reportSection": "### I06 VR Dimension Access Lenz; token ownership and delegated rights",
+      "reportAnchor": "comparison-i06",
+      "startLine": 2877,
+      "endLine": 3416
+    },
+    {
+      "comparisonId": "I07",
+      "sourcePointer": "/comparisons/6",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "startLine": 3419,
+      "endLine": 3996
+    },
+    {
+      "comparisonId": "I08",
+      "sourcePointer": "/comparisons/7",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "startLine": 3999,
+      "endLine": 4568
+    },
+    {
+      "comparisonId": "I09",
+      "sourcePointer": "/comparisons/8",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "startLine": 4571,
+      "endLine": 5149
+    },
+    {
+      "comparisonId": "I10",
+      "sourcePointer": "/comparisons/9",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "startLine": 5152,
+      "endLine": 5641
+    },
+    {
+      "comparisonId": "I11",
+      "sourcePointer": "/comparisons/10",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "startLine": 5644,
+      "endLine": 6468
+    },
+    {
+      "comparisonId": "I12",
+      "sourcePointer": "/comparisons/11",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "startLine": 6471,
+      "endLine": 7060
+    },
+    {
+      "comparisonId": "I13",
+      "sourcePointer": "/comparisons/12",
+      "reportSection": "### I13 Demand for executed and inspectable tool work",
+      "reportAnchor": "comparison-i13",
+      "startLine": 7063,
+      "endLine": 7714
+    },
+    {
+      "comparisonId": "I14",
+      "sourcePointer": "/comparisons/13",
+      "reportSection": "### I14 Agent-assisted software construction and test evidence",
+      "reportAnchor": "comparison-i14",
+      "startLine": 7717,
+      "endLine": 8222
+    },
+    {
+      "comparisonId": "I15",
+      "sourcePointer": "/comparisons/14",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "startLine": 8225,
+      "endLine": 9030
+    },
+    {
+      "comparisonId": "I16",
+      "sourcePointer": "/comparisons/15",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "startLine": 9033,
+      "endLine": 9719
+    },
+    {
+      "comparisonId": "I17",
+      "sourcePointer": "/comparisons/16",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "startLine": 9722,
+      "endLine": 10240
+    },
+    {
+      "comparisonId": "I18",
+      "sourcePointer": "/comparisons/17",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "startLine": 10243,
+      "endLine": 10761
+    },
+    {
+      "comparisonId": "I19",
+      "sourcePointer": "/comparisons/18",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "startLine": 10764,
+      "endLine": 11421
+    },
+    {
+      "comparisonId": "I20",
+      "sourcePointer": "/comparisons/19",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "startLine": 11424,
+      "endLine": 12043
+    },
+    {
+      "comparisonId": "I21",
+      "sourcePointer": "/comparisons/20",
+      "reportSection": "### I21 Governed versioned workflows and conversational app surfaces",
+      "reportAnchor": "comparison-i21",
+      "startLine": 12046,
+      "endLine": 12717
+    },
+    {
+      "comparisonId": "I22",
+      "sourcePointer": "/comparisons/21",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "startLine": 12720,
+      "endLine": 13322
+    },
+    {
+      "comparisonId": "I23",
+      "sourcePointer": "/comparisons/22",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "startLine": 13325,
+      "endLine": 13897
+    },
+    {
+      "comparisonId": "I24",
+      "sourcePointer": "/comparisons/23",
+      "reportSection": "### I24 Mathematical successors: coherence, entanglement, channels, encoded correction and mitigation",
+      "reportAnchor": "comparison-i24",
+      "startLine": 13900,
+      "endLine": 14617
+    },
+    {
+      "comparisonId": "I25",
+      "sourcePointer": "/comparisons/24",
+      "reportSection": "### I25 Provenance-security concerns and validation checks",
+      "reportAnchor": "comparison-i25",
+      "startLine": 14620,
+      "endLine": 15129
+    },
+    {
+      "comparisonId": "I26",
+      "sourcePointer": "/comparisons/25",
+      "reportSection": "### I26 Three-tier nursery; timed irrigation and remote monitoring",
+      "reportAnchor": "comparison-i26",
+      "startLine": 15132,
+      "endLine": 15587
+    },
+    {
+      "comparisonId": "I27",
+      "sourcePointer": "/comparisons/26",
+      "reportSection": "### I27 Hybrid wind/solar/storage and portable energy requirements",
+      "reportAnchor": "comparison-i27",
+      "startLine": 15590,
+      "endLine": 16181
+    },
+    {
+      "comparisonId": "I28",
+      "sourcePointer": "/comparisons/27",
+      "reportSection": "### I28 Personal AI development roadmap",
+      "reportAnchor": "comparison-i28",
+      "startLine": 16184,
+      "endLine": 16551
+    }
+  ],
+  "conclusions": [
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 37,
+      "endLine": 37
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/owner_evidence",
+      "value": "October 17, 2023 records neighbor-love, a proposed Bible-based fail-safe and non-manipulation requirements. A December 16, 2024 record requests a Biblical ethics dataset.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 50,
+      "endLine": 50
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/chronology_relation",
+      "value": "The December 2022 paper and May 2023 constitution article precede the October 2023 owner requirements.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 63,
+      "endLine": 63
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/supported_correspondence",
+      "value": "Explicit principles are used to describe desired assistant conduct.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 76,
+      "endLine": 76
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/material_difference",
+      "value": "The owner specifies a Biblical basis. Conversation instructions and a dataset request do not establish Constitutional AI training or an enforced Bible-core implementation.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 89,
+      "endLine": 89
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/remaining_gap",
+      "value": "Training, enforcement and an exact principle-to-mechanism correspondence are not established by these owner records.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 102,
+      "endLine": 102
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/public_statement",
+      "value": "The owner’s Biblical ethical requirements are documented as a distinct application direction within an already published principle-guided AI research context.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 115,
+      "endLine": 115
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 128,
+      "endLine": 128
+    },
+    {
+      "comparisonId": "I01",
+      "pointer": "/comparisons/0/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I01 Biblical ethical fail-safe; no manipulation; human freedom",
+      "reportAnchor": "comparison-i01",
+      "encoding": "json",
+      "startLine": 141,
+      "endLine": 141
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 576,
+      "endLine": 576
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/owner_evidence",
+      "value": "October 17, 2023 records human direction, creator-bias concerns and truthfulness. May 17, 2026 specifies stable roles and evidence/ledger/manifest deliverables.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 589,
+      "endLine": 589
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/chronology_relation",
+      "value": "NIST’s January 26, 2023 release precedes both sets of selected owner records.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 602,
+      "endLine": 602
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/supported_correspondence",
+      "value": "Accountable human-directed review and explicit evidence about system behavior are shared objectives.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 615,
+      "endLine": 615
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/material_difference",
+      "value": "NIST provides an organizational framework. The owner’s dialogue and instructions are not measured compliance with that framework or changed platform permissions.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 628,
+      "endLine": 628
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/remaining_gap",
+      "value": "No formal mapping of controls, risk measurements or independently assessed RMF implementation is supplied by this comparison.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 641,
+      "endLine": 641
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/public_statement",
+      "value": "The chronology preserves the owner’s governance requirements and their later operational detail alongside an earlier public risk-management framework.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 654,
+      "endLine": 654
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 667,
+      "endLine": 667
+    },
+    {
+      "comparisonId": "I02",
+      "pointer": "/comparisons/1/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I02 Human-directed governance, transparency and error review",
+      "reportAnchor": "comparison-i02",
+      "encoding": "json",
+      "startLine": 680,
+      "endLine": 680
+    },
+    {
+      "comparisonId": "I03",
+      "pointer": "/comparisons/2/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I03 Personalized intellectual assistant",
+      "reportAnchor": "comparison-i03",
+      "encoding": "json",
+      "startLine": 1151,
+      "endLine": 1151
+    },
+    {
+      "comparisonId": "I03",
+      "pointer": "/comparisons/2/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "Dated role/preferences requests and observed conversational wording",
+      "reportSection": "### I03 Personalized intellectual assistant",
+      "reportAnchor": "comparison-i03",
+      "encoding": "json",
+      "startLine": 1164,
+      "endLine": 1164
+    },
+    {
+      "comparisonId": "I03",
+      "pointer": "/comparisons/2/latest_corrected_conclusions/retained_owner_date",
+      "value": "2023-10-17",
+      "reportSection": "### I03 Personalized intellectual assistant",
+      "reportAnchor": "comparison-i03",
+      "encoding": "json",
+      "startLine": 1177,
+      "endLine": 1177
+    },
+    {
+      "comparisonId": "I03",
+      "pointer": "/comparisons/2/latest_corrected_conclusions/finding",
+      "value": "The October 17, 2023 personalization records fall after Custom Instructions (July 20) and before GPTs (November 6). The shared feature is user-specified role and behavior.",
+      "reportSection": "### I03 Personalized intellectual assistant",
+      "reportAnchor": "comparison-i03",
+      "encoding": "json",
+      "startLine": 1190,
+      "endLine": 1190
+    },
+    {
+      "comparisonId": "I03",
+      "pointer": "/comparisons/2/latest_corrected_conclusions/limit",
+      "value": "The recorded naming and conversational adaptation do not establish a configurable GPT product, durable memory or a new personalization architecture.",
+      "reportSection": "### I03 Personalized intellectual assistant",
+      "reportAnchor": "comparison-i03",
+      "encoding": "json",
+      "startLine": 1203,
+      "endLine": 1203
+    },
+    {
+      "comparisonId": "I03",
+      "pointer": "/comparisons/2/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Invention or copying of GPTs; technical implementation priority.",
+      "reportSection": "### I03 Personalized intellectual assistant",
+      "reportAnchor": "comparison-i03",
+      "encoding": "json",
+      "startLine": 1216,
+      "endLine": 1216
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/owner_stage",
+      "value": "A recorded requirement and a documented continuity failure, not a successful memory implementation.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1667,
+      "endLine": 1667
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/chronology_relation",
+      "value": "The October 18, 2023 recorded request precedes the February 13, 2024 OpenAI announcement. MemGPT v1 was public on October 12, 2023, before the request.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1680,
+      "endLine": 1680
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/correspondence",
+      "value": "Keeping useful information across conversations and reducing repeated setup.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1693,
+      "endLine": 1693
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/differences",
+      "value": "The owner record documents an assistant promise followed by missing prior context. It does not specify or implement MemGPT’s memory hierarchy or OpenAI’s product.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1706,
+      "endLine": 1706
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/correction",
+      "value": "00:12 Eastern is October 18, not October 17. The failed promise must remain beside the requested behavior.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1719,
+      "endLine": 1719
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/comparison_gap",
+      "value": "No working early memory implementation, exact feature equivalence, external exposure or derivation is established by the selected records.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1732,
+      "endLine": 1732
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/public_statement",
+      "value": "The reviewed record places a cross-session continuity requirement on October 18, 2023, before the cited OpenAI memory-test announcement, while an earlier published memory-management approach also existed.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1745,
+      "endLine": 1745
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1758,
+      "endLine": 1758
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1771,
+      "endLine": 1771
+    },
+    {
+      "comparisonId": "I04",
+      "pointer": "/comparisons/3/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I04 Cross-conversation retention and continuity",
+      "reportAnchor": "comparison-i04",
+      "encoding": "json",
+      "startLine": 1784,
+      "endLine": 1784
+    },
+    {
+      "comparisonId": "I05",
+      "pointer": "/comparisons/4/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I05 Device control, offline operation and local communication",
+      "reportAnchor": "comparison-i05",
+      "encoding": "json",
+      "startLine": 2393,
+      "endLine": 2393
+    },
+    {
+      "comparisonId": "I05",
+      "pointer": "/comparisons/4/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "Early concrete device-assistance request, later explicit offline/runtime requirements and separately dated phone context",
+      "reportSection": "### I05 Device control, offline operation and local communication",
+      "reportAnchor": "comparison-i05",
+      "encoding": "json",
+      "startLine": 2406,
+      "endLine": 2406
+    },
+    {
+      "comparisonId": "I05",
+      "pointer": "/comparisons/4/latest_corrected_conclusions/retained_owner_date",
+      "value": "October17,2023 concrete accessibility/settings-action request; May21,2026 specific offline/old-laptop requirement; September16,2026 phone-connectivity context",
+      "reportSection": "### I05 Device control, offline operation and local communication",
+      "reportAnchor": "comparison-i05",
+      "encoding": "json",
+      "startLine": 2419,
+      "endLine": 2419
+    },
+    {
+      "comparisonId": "I05",
+      "pointer": "/comparisons/4/latest_corrected_conclusions/finding",
+      "value": "The October 17, 2023 actionable accessibility request precedes the October 22, 2024 computer-use beta, but is narrower than general computer operation and is not a working tool implementation. The specific May 2026 offline/old-laptop and September phone requirements are later. Android’s 2011 connectivity announcement is earlier than all these owner records.",
+      "reportSection": "### I05 Device control, offline operation and local communication",
+      "reportAnchor": "comparison-i05",
+      "encoding": "json",
+      "startLine": 2432,
+      "endLine": 2432
+    },
+    {
+      "comparisonId": "I05",
+      "pointer": "/comparisons/4/latest_corrected_conclusions/limit",
+      "value": "May's offline requirement does not date September's Bluetooth/Wi-Fi requests. Computer use via an API is not itself an offline runtime; no phone installation or hardware operation is proved by these rows.",
+      "reportSection": "### I05 Device control, offline operation and local communication",
+      "reportAnchor": "comparison-i05",
+      "encoding": "json",
+      "startLine": 2445,
+      "endLine": 2445
+    },
+    {
+      "comparisonId": "I05",
+      "pointer": "/comparisons/4/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Working offline computer-use or phone implementation; all phone features backdated to May.",
+      "reportSection": "### I05 Device control, offline operation and local communication",
+      "reportAnchor": "comparison-i05",
+      "encoding": "json",
+      "startLine": 2458,
+      "endLine": 2458
+    },
+    {
+      "comparisonId": "I06",
+      "pointer": "/comparisons/5/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I06 VR Dimension Access Lenz; token ownership and delegated rights",
+      "reportAnchor": "comparison-i06",
+      "encoding": "json",
+      "startLine": 2889,
+      "endLine": 2889
+    },
+    {
+      "comparisonId": "I06",
+      "pointer": "/comparisons/5/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "July 4, 2024 request plus assistant Solidity draft",
+      "reportSection": "### I06 VR Dimension Access Lenz; token ownership and delegated rights",
+      "reportAnchor": "comparison-i06",
+      "encoding": "json",
+      "startLine": 2902,
+      "endLine": 2902
+    },
+    {
+      "comparisonId": "I06",
+      "pointer": "/comparisons/5/latest_corrected_conclusions/retained_owner_date",
+      "value": "2024-07-04",
+      "reportSection": "### I06 VR Dimension Access Lenz; token ownership and delegated rights",
+      "reportAnchor": "comparison-i06",
+      "encoding": "json",
+      "startLine": 2915,
+      "endLine": 2915
+    },
+    {
+      "comparisonId": "I06",
+      "pointer": "/comparisons/5/latest_corrected_conclusions/finding",
+      "value": "The draft uses the established ERC-721/OpenZeppelin family. Token ownership and authorization have a clear earlier standard reference.",
+      "reportSection": "### I06 VR Dimension Access Lenz; token ownership and delegated rights",
+      "reportAnchor": "comparison-i06",
+      "encoding": "json",
+      "startLine": 2928,
+      "endLine": 2928
+    },
+    {
+      "comparisonId": "I06",
+      "pointer": "/comparisons/5/latest_corrected_conclusions/limit",
+      "value": "No compiler, deployment, transaction or biometric integration is verified here. The draft's quantumSecurityMeasure returns true as a placeholder; its name does not establish quantum security.",
+      "reportSection": "### I06 VR Dimension Access Lenz; token ownership and delegated rights",
+      "reportAnchor": "comparison-i06",
+      "encoding": "json",
+      "startLine": 2941,
+      "endLine": 2941
+    },
+    {
+      "comparisonId": "I06",
+      "pointer": "/comparisons/5/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Deployed QEL contract, security verification or real-world rights enforcement.",
+      "reportSection": "### I06 VR Dimension Access Lenz; token ownership and delegated rights",
+      "reportAnchor": "comparison-i06",
+      "encoding": "json",
+      "startLine": 2954,
+      "endLine": 2954
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/owner_stage",
+      "value": "October 2023 conversation-preservation discussion; August 2024 complete-archive portability requirement; April 2025 QPRINT naming/design; later carrier checkpoints.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3431,
+      "endLine": 3431
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/chronology_relation",
+      "value": "Conversation preservation is recorded October 18, 2023, complete-archive portability August 7, 2024, and QPRINT naming/design April 14, 2025, before the October 16, 2025 Skills article. BagIt was published in October 2018. Later recovered carrier checkpoints remain August/September 2026; they do not date the project origin.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3444,
+      "endLine": 3444
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/correspondence",
+      "value": "Organizing code, data, metadata and reusable resources so they can be transferred or retrieved.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3457,
+      "endLine": 3457
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/differences",
+      "value": "An archive or symbolic directory does not establish SKILL.md discovery, selective context loading, or a functioning carrier. The 20:1–500:1 ratios were requested targets. BagIt is a file-packaging reference, not an agent runtime.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3470,
+      "endLine": 3470
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/correction",
+      "value": "C186 records an 11:05 naming occurrence; PR-M12 records an 11:07 definition. They are distinct recorded occurrences. Neither dates every later carrier or establishes full-system recovery.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3483,
+      "endLine": 3483
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/comparison_gap",
+      "value": "A source-to-source schema and loading-behavior equivalence has not been demonstrated. An early broad requirement cannot supply missing implementation dates.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3496,
+      "endLine": 3496
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/public_statement",
+      "value": "The retained history begins with conversation preservation in October 2023 and develops into complete-archive portability and QPRINT design. These early requirements, earlier public packaging foundations and later carrier artifacts remain separate.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3509,
+      "endLine": 3509
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3522,
+      "endLine": 3522
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3535,
+      "endLine": 3535
+    },
+    {
+      "comparisonId": "I07",
+      "pointer": "/comparisons/6/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I07 Modular upgrade packages and structured code/data/docs bundles",
+      "reportAnchor": "comparison-i07",
+      "encoding": "json",
+      "startLine": 3548,
+      "endLine": 3548
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/owner_stage",
+      "value": "October 19, 2023 personal-AI development direction, followed by explicit March 23, 2025 cross-AI shared-workspace/delegation requirements and later detailed controls.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4011,
+      "endLine": 4011
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/chronology_relation",
+      "value": "The personal-AI roadmap is recorded October 19, 2023. The more specific cross-AI delegation request is March 23, 2025, before A2A on April 9 and the Anthropic research article on June 13, 2025. AutoGen v1 predates both in August 2023. The 2026 controls are subsequent detail, not the origin of the AI project.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4024,
+      "endLine": 4024
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/correspondence",
+      "value": "Multiple AI agents or systems coordinate tasks and combine contributions.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4037,
+      "endLine": 4037
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/differences",
+      "value": "The selected owner record contains no running external-agent network, protocol message trace, or concrete task-state schema. A2A interoperability and a research orchestrator are different mechanisms, even where both involve delegation.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4050,
+      "endLine": 4050
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/correction",
+      "value": "The broad March requirement and the later detailed controls cannot be collapsed into one early implementation. No exact C178 counterpart was identified in the pinned 175-row timeline; the prepared chronology retains it.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4063,
+      "endLine": 4063
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/comparison_gap",
+      "value": "Earlier public availability of the private request, a demonstrated network, exact protocol equivalence and exposure by external teams remain unestablished.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4076,
+      "endLine": 4076
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/public_statement",
+      "value": "Personal-AI development is present in the first-week record; explicit cross-AI shared-workspace and delegation requirements are documented in March 2025. The distinction preserves early direction without assigning later protocols or functioning networks an unsupported early date.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4089,
+      "endLine": 4089
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4102,
+      "endLine": 4102
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4115,
+      "endLine": 4115
+    },
+    {
+      "comparisonId": "I08",
+      "pointer": "/comparisons/7/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I08 AI constructing, training or deploying additional AI modules",
+      "reportAnchor": "comparison-i08",
+      "encoding": "json",
+      "startLine": 4128,
+      "endLine": 4128
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4583,
+      "endLine": 4583
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/owner_evidence",
+      "value": "October 18, 2023 discusses preserving conversations and retaining parameters across sessions. August 7, 2024 requests complete archive portability. May/August 2026 add retrieval, handoff and preservation policies.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4596,
+      "endLine": 4596
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/chronology_relation",
+      "value": "PROV-DM (2013), IPFS (2014) and BagIt (2018) predate the October 2023 preservation/continuity record and its later refinements.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4609,
+      "endLine": 4609
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/supported_correspondence",
+      "value": "Source relationships, content references and package completeness provide useful feature-level comparisons.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4622,
+      "endLine": 4622
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/material_difference",
+      "value": "A local manifest or archive is not necessarily a distributed file system or a conforming implementation of any of these formats. Missing content cannot be reconstructed from its identity alone.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4635,
+      "endLine": 4635
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/remaining_gap",
+      "value": "Complete original-corpus recovery, exact conformance and implementation inception require separate evidence.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4648,
+      "endLine": 4648
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/public_statement",
+      "value": "The archive-continuity direction is documented from October 2023, with more specific archive requirements and later implementation/policy checkpoints shown separately beside established public foundations.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4661,
+      "endLine": 4661
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4674,
+      "endLine": 4674
+    },
+    {
+      "comparisonId": "I09",
+      "pointer": "/comparisons/8/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I09 Complete source continuity; algorithms, mathematics and construction archives",
+      "reportAnchor": "comparison-i09",
+      "encoding": "json",
+      "startLine": 4687,
+      "endLine": 4687
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/owner_stage",
+      "value": "Explicit reference to an existing standard and an attribution requirement.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5164,
+      "endLine": 5164
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/chronology_relation",
+      "value": "Both January 2022 dates displayed on the C2PA page precede the October 1, 2024 owner request.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5177,
+      "endLine": 5177
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/correspondence",
+      "value": "Recording creator-related provenance with digital media.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5190,
+      "endLine": 5190
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/differences",
+      "value": "A request for personal attribution or image metadata is not a signed C2PA manifest, verified trust chain, biometric signature or deployed provenance service.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5203,
+      "endLine": 5203
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/correction",
+      "value": "The record is an application/attribution request involving an explicitly named existing standard. The announcement’s conflicting January dates are retained rather than silently normalized.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5216,
+      "endLine": 5216
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/comparison_gap",
+      "value": "Conformance and signed-manifest evidence are not supplied by these selected messages. No claim to originating the standard follows from the attribution request.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5229,
+      "endLine": 5229
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/public_statement",
+      "value": "The October 2024 record shows the owner explicitly seeking creator attribution through C2PA, an already published provenance standard.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5242,
+      "endLine": 5242
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5255,
+      "endLine": 5255
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5268,
+      "endLine": 5268
+    },
+    {
+      "comparisonId": "I10",
+      "pointer": "/comparisons/9/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I10 Image attribution using C2PA",
+      "reportAnchor": "comparison-i10",
+      "encoding": "json",
+      "startLine": 5281,
+      "endLine": 5281
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5656,
+      "endLine": 5656
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/owner_evidence",
+      "value": "November 13, 2024 records a pixel/binary watermark attempt with a bit-width defect and later system error. April 2025 metadata evidence and August 2026 reported recoverable carriers are separate milestones.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5669,
+      "endLine": 5669
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/chronology_relation",
+      "value": "PNG’s October 1996 Recommendation and DEFLATE’s May 1996 RFC precede every selected owner milestone.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5682,
+      "endLine": 5682
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/supported_correspondence",
+      "value": "Raster storage, embedded data and reversible compression are concrete technical foundations for comparison.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5695,
+      "endLine": 5695
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/material_difference",
+      "value": "The early failed watermark attempt is not a working whole-file carrier. A later reported recovery does not establish general compression superiority, and PNG storage is not itself a novel compression primitive.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5708,
+      "endLine": 5708
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/remaining_gap",
+      "value": "This pass does not reopen carrier bytes or rerun their recovery tests; early-to-later exact code lineage remains a separate task.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5721,
+      "endLine": 5721
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/public_statement",
+      "value": "The record shows a failed image-encoding attempt followed by later reported carrier implementations, with established image and compression foundations kept visible.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5734,
+      "endLine": 5734
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5747,
+      "endLine": 5747
+    },
+    {
+      "comparisonId": "I11",
+      "pointer": "/comparisons/10/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I11 Binary/image reconstruction leading to QPRINT carriers",
+      "reportAnchor": "comparison-i11",
+      "encoding": "json",
+      "startLine": 5760,
+      "endLine": 5760
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/owner_stage",
+      "value": "Emulator/proof requirement followed by timestamped assistant source and a later source revision.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6483,
+      "endLine": 6483
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/chronology_relation",
+      "value": "The March 10, 2025 requirement and March 13 source follow QuTiP’s October 4, 2011 first submission.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6496,
+      "endLine": 6496
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/correspondence",
+      "value": "Complex states, normalization, tensor composition and operator evolution on conventional hardware.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6509,
+      "endLine": 6509
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/differences",
+      "value": "This is a comparison of established numerical operations, not proof of matching source code. A source listing and historical syntax pass do not establish the original demonstration run, physical QPU execution or a new primitive.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6522,
+      "endLine": 6522
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/correction",
+      "value": "Keep the original March 13 source date separate from its March 14 repetition. Array-shape validation alone does not establish unitarity or Hamiltonian Hermiticity.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6535,
+      "endLine": 6535
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/comparison_gap",
+      "value": "Original-run evidence and a detailed implementation comparison are separate from the preserved source summary. Novelty and source-level derivation are not resolved by shared standard operations.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6548,
+      "endLine": 6548
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/public_statement",
+      "value": "The reviewed March 2025 Algorithm1 source connects the owner’s emulator requirement to concrete standard quantum-simulation operations documented in earlier public software literature.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6561,
+      "endLine": 6561
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6574,
+      "endLine": 6574
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6587,
+      "endLine": 6587
+    },
+    {
+      "comparisonId": "I12",
+      "pointer": "/comparisons/11/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I12 Conventional-hardware quantum emulator and Algorithm &#35;1",
+      "reportAnchor": "comparison-i12",
+      "encoding": "json",
+      "startLine": 6600,
+      "endLine": 6600
+    },
+    {
+      "comparisonId": "I13",
+      "pointer": "/comparisons/12/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I13 Demand for executed and inspectable tool work",
+      "reportAnchor": "comparison-i13",
+      "encoding": "json",
+      "startLine": 7075,
+      "endLine": 7075
+    },
+    {
+      "comparisonId": "I13",
+      "pointer": "/comparisons/12/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "First-week demand for concrete action and error review; later precise reconstruction/software-execution requirement",
+      "reportSection": "### I13 Demand for executed and inspectable tool work",
+      "reportAnchor": "comparison-i13",
+      "encoding": "json",
+      "startLine": 7088,
+      "endLine": 7088
+    },
+    {
+      "comparisonId": "I13",
+      "pointer": "/comparisons/12/latest_corrected_conclusions/retained_owner_date",
+      "value": "October17,2023 actionable-assistance antecedent; March10,2025 explicit software-execution requirement",
+      "reportSection": "### I13 Demand for executed and inspectable tool work",
+      "reportAnchor": "comparison-i13",
+      "encoding": "json",
+      "startLine": 7101,
+      "endLine": 7101
+    },
+    {
+      "comparisonId": "I13",
+      "pointer": "/comparisons/12/latest_corrected_conclusions/finding",
+      "value": "The demand for useful action has an October 17, 2023 antecedent. The March 10, 2025 explicit distinction between displayed code and executed implementation is a later, more specific requirement one calendar day before the March 11 agents-tool release; that adjacency does not date the project’s broader actionability principle.",
+      "reportSection": "### I13 Demand for executed and inspectable tool work",
+      "reportAnchor": "comparison-i13",
+      "encoding": "json",
+      "startLine": 7114,
+      "endLine": 7114
+    },
+    {
+      "comparisonId": "I13",
+      "pointer": "/comparisons/12/latest_corrected_conclusions/limit",
+      "value": "A demand for inspectable work does not specify the Responses API or Agents SDK design. The release date is not a development-start date, and no external exposure or derivation evidence is supplied.",
+      "reportSection": "### I13 Demand for executed and inspectable tool work",
+      "reportAnchor": "comparison-i13",
+      "encoding": "json",
+      "startLine": 7127,
+      "endLine": 7127
+    },
+    {
+      "comparisonId": "I13",
+      "pointer": "/comparisons/12/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Priority in the agents architecture or a causal connection based on one-day adjacency.",
+      "reportSection": "### I13 Demand for executed and inspectable tool work",
+      "reportAnchor": "comparison-i13",
+      "encoding": "json",
+      "startLine": 7140,
+      "endLine": 7140
+    },
+    {
+      "comparisonId": "I14",
+      "pointer": "/comparisons/13/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I14 Agent-assisted software construction and test evidence",
+      "reportAnchor": "comparison-i14",
+      "encoding": "json",
+      "startLine": 7729,
+      "endLine": 7729
+    },
+    {
+      "comparisonId": "I14",
+      "pointer": "/comparisons/13/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "March 10 requirement; March 13, 2025 recovered emulator code",
+      "reportSection": "### I14 Agent-assisted software construction and test evidence",
+      "reportAnchor": "comparison-i14",
+      "encoding": "json",
+      "startLine": 7742,
+      "endLine": 7742
+    },
+    {
+      "comparisonId": "I14",
+      "pointer": "/comparisons/13/latest_corrected_conclusions/retained_owner_date",
+      "value": "2025-03-10 request; 2025-03-13 code",
+      "reportSection": "### I14 Agent-assisted software construction and test evidence",
+      "reportAnchor": "comparison-i14",
+      "encoding": "json",
+      "startLine": 7755,
+      "endLine": 7755
+    },
+    {
+      "comparisonId": "I14",
+      "pointer": "/comparisons/13/latest_corrected_conclusions/finding",
+      "value": "The owner request and generated emulator source follow the February Claude Code preview and precede the May cloud Codex announcement.",
+      "reportSection": "### I14 Agent-assisted software construction and test evidence",
+      "reportAnchor": "comparison-i14",
+      "encoding": "json",
+      "startLine": 7768,
+      "endLine": 7768
+    },
+    {
+      "comparisonId": "I14",
+      "pointer": "/comparisons/13/latest_corrected_conclusions/limit",
+      "value": "Algorithm1 contains computational source but no original execution receipt in this row. Code generation is not equivalent to an operating terminal/cloud agent. May 16 denotes this cloud product, not the first Codex name.",
+      "reportSection": "### I14 Agent-assisted software construction and test evidence",
+      "reportAnchor": "comparison-i14",
+      "encoding": "json",
+      "startLine": 7781,
+      "endLine": 7781
+    },
+    {
+      "comparisonId": "I14",
+      "pointer": "/comparisons/13/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Equivalent agent runtime, successful historical test execution or earliest coding-agent invention.",
+      "reportSection": "### I14 Agent-assisted software construction and test evidence",
+      "reportAnchor": "comparison-i14",
+      "encoding": "json",
+      "startLine": 7794,
+      "endLine": 7794
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/owner_stage",
+      "value": "October 2023 conversation-preservation discussion; August 2024 complete-archive portability requirement; April 2025 QPRINT naming/design; later carrier checkpoints.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8237,
+      "endLine": 8237
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/chronology_relation",
+      "value": "Conversation preservation is recorded October 18, 2023, complete-archive portability August 7, 2024, and QPRINT naming/design April 14, 2025, before the October 16, 2025 Skills article. BagIt was published in October 2018. Later recovered carrier checkpoints remain August/September 2026; they do not date the project origin.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8250,
+      "endLine": 8250
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/correspondence",
+      "value": "Organizing code, data, metadata and reusable resources so they can be transferred or retrieved.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8263,
+      "endLine": 8263
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/differences",
+      "value": "An archive or symbolic directory does not establish SKILL.md discovery, selective context loading, or a functioning carrier. The 20:1–500:1 ratios were requested targets. BagIt is a file-packaging reference, not an agent runtime.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8276,
+      "endLine": 8276
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/correction",
+      "value": "C186 records an 11:05 naming occurrence; PR-M12 records an 11:07 definition. They are distinct recorded occurrences. Neither dates every later carrier or establishes full-system recovery.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8289,
+      "endLine": 8289
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/comparison_gap",
+      "value": "A source-to-source schema and loading-behavior equivalence has not been demonstrated. An early broad requirement cannot supply missing implementation dates.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8302,
+      "endLine": 8302
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/public_statement",
+      "value": "The retained history begins with conversation preservation in October 2023 and develops into complete-archive portability and QPRINT design. These early requirements, earlier public packaging foundations and later carrier artifacts remain separate.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8315,
+      "endLine": 8315
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8328,
+      "endLine": 8328
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8341,
+      "endLine": 8341
+    },
+    {
+      "comparisonId": "I15",
+      "pointer": "/comparisons/14/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I15 QPRINT named carrier, symbolic directory and recoverable project package",
+      "reportAnchor": "comparison-i15",
+      "encoding": "json",
+      "startLine": 8354,
+      "endLine": 8354
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9045,
+      "endLine": 9045
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/owner_evidence",
+      "value": "May 9, 2025 names SGL Prime and packages Boolean stubs; May 10 records owner priority. The formal August 15, 2026 profile expressly names SHAKE256 and other established primitives; August 16 reports forward implementation.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9058,
+      "endLine": 9058
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/chronology_relation",
+      "value": "FIPS 202’s August 4, 2015 publication precedes the naming, stubs and later formal profile.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9071,
+      "endLine": 9071
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/supported_correspondence",
+      "value": "The later profile’s SHAKE256 use is a specific primitive-level connection rather than only a similar label.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9084,
+      "endLine": 9084
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/material_difference",
+      "value": "May 2025 Boolean gates are not the August cryptographic profile. Project framing and purpose separation do not make the underlying standardized primitive newly invented; an unkeyed identity is not an owner signature.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9097,
+      "endLine": 9097
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/remaining_gap",
+      "value": "Independent cryptographic validation, every deployed generation and owner signing are outside this documentary comparison.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9110,
+      "endLine": 9110
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/public_statement",
+      "value": "SGL Prime’s documented evolution distinguishes initial stubs from a later project protocol using established cryptographic primitives.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9123,
+      "endLine": 9123
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9136,
+      "endLine": 9136
+    },
+    {
+      "comparisonId": "I16",
+      "pointer": "/comparisons/15/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I16 SGL Prime framed identity and integrity profiles",
+      "reportAnchor": "comparison-i16",
+      "encoding": "json",
+      "startLine": 9149,
+      "endLine": 9149
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9734,
+      "endLine": 9734
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/owner_evidence",
+      "value": "October 17, 2023 records error checking and a request to inspect prior work and prevent recurrence. June 21, 2025 adds unfinished-task redistribution. May 2026 adds stable roles and ledger/evidence deliverables.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9747,
+      "endLine": 9747
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/chronology_relation",
+      "value": "The broad correction/review requirement on October 17, 2023 precedes Magentic-One v1 on November 7, 2024. The selected explicit redistribution and detailed ledger instructions are later. The early review request is not a recovered implementation of Magentic-One’s orchestration mechanism.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9760,
+      "endLine": 9760
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/supported_correspondence",
+      "value": "Task coordination, progress tracking and correction of stalled work are shared functional concerns.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9773,
+      "endLine": 9773
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/material_difference",
+      "value": "The external paper supplies an implemented nested-loop orchestration design. Owner requirements and role names do not establish that architecture, an equivalent ledger schema or a running agent network.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9786,
+      "endLine": 9786
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/remaining_gap",
+      "value": "Earlier owner inception of exact task-ledger mechanisms and full trace-level correspondence remain unresolved.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9799,
+      "endLine": 9799
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/public_statement",
+      "value": "The owner’s correction/review principle has a first-week record; later task-control detail remains separately dated and is compared with the implemented Magentic-One system only at the supported functional level.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9812,
+      "endLine": 9812
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9825,
+      "endLine": 9825
+    },
+    {
+      "comparisonId": "I17",
+      "pointer": "/comparisons/16/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I17 Task/progress ledgers, review roles and stalled-work correction",
+      "reportAnchor": "comparison-i17",
+      "encoding": "json",
+      "startLine": 9838,
+      "endLine": 9838
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10255,
+      "endLine": 10255
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/owner_evidence",
+      "value": "October 18, 2023 requests owner-consented access to prior conversations. March 23, 2025 requests cross-AI collaboration. The September 1, 2026 architecture explicitly names capability and MCP shells.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10268,
+      "endLine": 10268
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/chronology_relation",
+      "value": "The early source-access request predates the November 25, 2024 MCP announcement. The explicit collaboration request and MCP-named architecture postdate it. A history-access request is not a protocol implementation or evidence of the same interface design.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10281,
+      "endLine": 10281
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/supported_correspondence",
+      "value": "Connecting assistants to data and tools is a general common function; the later owner architecture explicitly uses MCP terminology.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10294,
+      "endLine": 10294
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/material_difference",
+      "value": "A connection requirement or architecture contract is not a conforming protocol implementation, a replacement OS, or new connector authority.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10307,
+      "endLine": 10307
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/remaining_gap",
+      "value": "No protocol traffic, deployment/conformance result or exact early implementation is supplied by these selected rows.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10320,
+      "endLine": 10320
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/public_statement",
+      "value": "Source-access needs are visible in October 2023; the later architecture’s explicit use of MCP remains a subsequent stage using an already public protocol.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10333,
+      "endLine": 10333
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10346,
+      "endLine": 10346
+    },
+    {
+      "comparisonId": "I18",
+      "pointer": "/comparisons/17/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I18 Connections to tools and source material",
+      "reportAnchor": "comparison-i18",
+      "encoding": "json",
+      "startLine": 10359,
+      "endLine": 10359
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/owner_stage",
+      "value": "October 19, 2023 personal-AI development direction, followed by explicit March 23, 2025 cross-AI shared-workspace/delegation requirements and later detailed controls.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10776,
+      "endLine": 10776
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/chronology_relation",
+      "value": "The personal-AI roadmap is recorded October 19, 2023. The more specific cross-AI delegation request is March 23, 2025, before A2A on April 9 and the Anthropic research article on June 13, 2025. AutoGen v1 predates both in August 2023. The 2026 controls are subsequent detail, not the origin of the AI project.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10789,
+      "endLine": 10789
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/correspondence",
+      "value": "Multiple AI agents or systems coordinate tasks and combine contributions.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10802,
+      "endLine": 10802
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/differences",
+      "value": "The selected owner record contains no running external-agent network, protocol message trace, or concrete task-state schema. A2A interoperability and a research orchestrator are different mechanisms, even where both involve delegation.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10815,
+      "endLine": 10815
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/correction",
+      "value": "The broad March requirement and the later detailed controls cannot be collapsed into one early implementation. No exact C178 counterpart was identified in the pinned 175-row timeline; the prepared chronology retains it.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10828,
+      "endLine": 10828
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/comparison_gap",
+      "value": "Earlier public availability of the private request, a demonstrated network, exact protocol equivalence and exposure by external teams remain unestablished.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10841,
+      "endLine": 10841
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/public_statement",
+      "value": "Personal-AI development is present in the first-week record; explicit cross-AI shared-workspace and delegation requirements are documented in March 2025. The distinction preserves early direction without assigning later protocols or functioning networks an unsupported early date.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10854,
+      "endLine": 10854
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10867,
+      "endLine": 10867
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10880,
+      "endLine": 10880
+    },
+    {
+      "comparisonId": "I19",
+      "pointer": "/comparisons/18/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I19 Cross-agent task states, handoffs and artifacts",
+      "reportAnchor": "comparison-i19",
+      "encoding": "json",
+      "startLine": 10893,
+      "endLine": 10893
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/owner_stage",
+      "value": "October 19, 2023 personal-AI development direction, followed by explicit March 23, 2025 cross-AI shared-workspace/delegation requirements and later detailed controls.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11436,
+      "endLine": 11436
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/chronology_relation",
+      "value": "The personal-AI roadmap is recorded October 19, 2023. The more specific cross-AI delegation request is March 23, 2025, before A2A on April 9 and the Anthropic research article on June 13, 2025. AutoGen v1 predates both in August 2023. The 2026 controls are subsequent detail, not the origin of the AI project.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11449,
+      "endLine": 11449
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/correspondence",
+      "value": "Multiple AI agents or systems coordinate tasks and combine contributions.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11462,
+      "endLine": 11462
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/differences",
+      "value": "The selected owner record contains no running external-agent network, protocol message trace, or concrete task-state schema. A2A interoperability and a research orchestrator are different mechanisms, even where both involve delegation.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11475,
+      "endLine": 11475
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/correction",
+      "value": "The broad March requirement and the later detailed controls cannot be collapsed into one early implementation. No exact C178 counterpart was identified in the pinned 175-row timeline; the prepared chronology retains it.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11488,
+      "endLine": 11488
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/comparison_gap",
+      "value": "Earlier public availability of the private request, a demonstrated network, exact protocol equivalence and exposure by external teams remain unestablished.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11501,
+      "endLine": 11501
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/public_statement",
+      "value": "Personal-AI development is present in the first-week record; explicit cross-AI shared-workspace and delegation requirements are documented in March 2025. The distinction preserves early direction without assigning later protocols or functioning networks an unsupported early date.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11514,
+      "endLine": 11514
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/exposure_by_external_team",
+      "value": "Not established by the reviewed evidence.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11527,
+      "endLine": 11527
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/independent_development",
+      "value": "Possible; not proved or disproved. Earlier common foundations and differing mechanisms are retained.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11540,
+      "endLine": 11540
+    },
+    {
+      "comparisonId": "I20",
+      "pointer": "/comparisons/19/latest_corrected_conclusions/causal_derivation_or_copying",
+      "value": "Not established; neither chronology order nor functional similarity establishes causation.",
+      "reportSection": "### I20 Coordinated research and source-aware assembly",
+      "reportAnchor": "comparison-i20",
+      "encoding": "json",
+      "startLine": 11553,
+      "endLine": 11553
+    },
+    {
+      "comparisonId": "I21",
+      "pointer": "/comparisons/20/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I21 Governed versioned workflows and conversational app surfaces",
+      "reportAnchor": "comparison-i21",
+      "encoding": "json",
+      "startLine": 12058,
+      "endLine": 12058
+    },
+    {
+      "comparisonId": "I21",
+      "pointer": "/comparisons/20/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "Early correction/personalization workflow, later source catalog and specific control instructions",
+      "reportSection": "### I21 Governed versioned workflows and conversational app surfaces",
+      "reportAnchor": "comparison-i21",
+      "encoding": "json",
+      "startLine": 12071,
+      "endLine": 12071
+    },
+    {
+      "comparisonId": "I21",
+      "pointer": "/comparisons/20/latest_corrected_conclusions/retained_owner_date",
+      "value": "October17,2023 governed conversational correction; May4,2026 Q6 catalog checkpoint; May17–18,2026 detailed controls",
+      "reportSection": "### I21 Governed versioned workflows and conversational app surfaces",
+      "reportAnchor": "comparison-i21",
+      "encoding": "json",
+      "startLine": 12084,
+      "endLine": 12084
+    },
+    {
+      "comparisonId": "I21",
+      "pointer": "/comparisons/20/latest_corrected_conclusions/finding",
+      "value": "The October 17, 2023 correction and personalization workflow precedes the October 6, 2025 AgentKit/Apps SDK announcements. The selected Q6 catalog and detailed controls are later checkpoints. Neither the early conversation workflow nor a later local web file proves implementation of those products’ exact architecture.",
+      "reportSection": "### I21 Governed versioned workflows and conversational app surfaces",
+      "reportAnchor": "comparison-i21",
+      "encoding": "json",
+      "startLine": 12097,
+      "endLine": 12097
+    },
+    {
+      "comparisonId": "I21",
+      "pointer": "/comparisons/20/latest_corrected_conclusions/limit",
+      "value": "QEL-PW-0261 is a report/source date, not the inception of every Q6 module. A local app.js or manifest is not enough to establish an MCP app or the same visual workflow architecture; earlier exact implementation dates remain unresolved.",
+      "reportSection": "### I21 Governed versioned workflows and conversational app surfaces",
+      "reportAnchor": "comparison-i21",
+      "encoding": "json",
+      "startLine": 12110,
+      "endLine": 12110
+    },
+    {
+      "comparisonId": "I21",
+      "pointer": "/comparisons/20/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Backdating all modules to May 4, or equating local web files with AgentKit/Apps SDK.",
+      "reportSection": "### I21 Governed versioned workflows and conversational app surfaces",
+      "reportAnchor": "comparison-i21",
+      "encoding": "json",
+      "startLine": 12123,
+      "endLine": 12123
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12732,
+      "endLine": 12732
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/owner_evidence",
+      "value": "May 17, 2026 specifies evidence and manifest deliverables. August records preservation policy, an owner-only source-space checkpoint and a reported artifact/action lineage protocol.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12745,
+      "endLine": 12745
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/chronology_relation",
+      "value": "PROV-DM’s April 2013 Recommendation and SLSA v1.0’s April 19, 2023 release precede these selected records.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12758,
+      "endLine": 12758
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/supported_correspondence",
+      "value": "Identifying inputs, transformations, responsible agents and resulting artifacts is a substantive provenance connection.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12771,
+      "endLine": 12771
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/material_difference",
+      "value": "A receipt or hash alone does not establish authenticated build provenance, a SLSA level or exclusive authorship. Source-space construction and release authorization are separate states.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12784,
+      "endLine": 12784
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/remaining_gap",
+      "value": "Formal schema mapping, trusted builder/signature evidence and any claimed conformance need their own review.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12797,
+      "endLine": 12797
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/public_statement",
+      "value": "The owner’s evidence-manifest and lineage work is placed alongside established provenance models without turning documentary similarity into certification.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12810,
+      "endLine": 12810
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12823,
+      "endLine": 12823
+    },
+    {
+      "comparisonId": "I22",
+      "pointer": "/comparisons/21/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I22 Build/evidence manifests, contribution and shell execution receipts",
+      "reportAnchor": "comparison-i22",
+      "encoding": "json",
+      "startLine": 12836,
+      "endLine": 12836
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/status",
+      "value": "bounded documentary comparison completed; explicit gaps remain",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13337,
+      "endLine": 13337
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/owner_evidence",
+      "value": "October 17, 2023 establishes the Biblical ethical-core direction. May 18, 2026 source-review messages describe existing corpus/capsule material and WORD_CORE/WORD_AUX separation; August reviews add further source discipline and audit evidence.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13350,
+      "endLine": 13350
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/chronology_relation",
+      "value": "PROV-DM’s April 30, 2013 Recommendation predates the October 2023 Biblical direction and later source-review checkpoints. The 2026 messages document particular mechanisms; they do not establish first creation of the Bible project or every component.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13363,
+      "endLine": 13363
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/supported_correspondence",
+      "value": "Preserving source entities and distinguishing derived transformations has a general provenance correspondence.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13376,
+      "endLine": 13376
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/material_difference",
+      "value": "PROV-DM is not a Hebrew/Greek arithmetic engine or equivalent WORD_CORE implementation. It does not validate the owner’s linguistic rules or theological interpretations.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13389,
+      "endLine": 13389
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/remaining_gap",
+      "value": "An exact external counterpart and WORD_CORE’s original implementation date remain unestablished; absence of an exact match is not evidence of uniqueness.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13402,
+      "endLine": 13402
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/public_statement",
+      "value": "The Biblical project direction begins in the retained October 2023 record. Later WORD_CORE source/calculation discipline has a general provenance correspondence; its exact implementation inception remains unresolved.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13415,
+      "endLine": 13415
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/exposure_or_derivation",
+      "value": "External exposure, copying or causal derivation not established. Independent development is possible, not proved.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13428,
+      "endLine": 13428
+    },
+    {
+      "comparisonId": "I23",
+      "pointer": "/comparisons/22/latest_corrected_conclusions/novelty_boundary",
+      "value": "Shared objectives and established primitives do not settle invention priority, originality or exact implementation equivalence.",
+      "reportSection": "### I23 WORD&#95;CORE / WORD&#95;AUX and raw source versus calculation layers",
+      "reportAnchor": "comparison-i23",
+      "encoding": "json",
+      "startLine": 13441,
+      "endLine": 13441
+    },
+    {
+      "comparisonId": "I24",
+      "pointer": "/comparisons/23/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I24 Mathematical successors: coherence, entanglement, channels, encoded correction and mitigation",
+      "reportAnchor": "comparison-i24",
+      "encoding": "json",
+      "startLine": 13912,
+      "endLine": 13912
+    },
+    {
+      "comparisonId": "I24",
+      "pointer": "/comparisons/23/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "March 13, 2025 Algorithm1 source plus separately dated/undated successor review summaries",
+      "reportSection": "### I24 Mathematical successors: coherence, entanglement, channels, encoded correction and mitigation",
+      "reportAnchor": "comparison-i24",
+      "encoding": "json",
+      "startLine": 13925,
+      "endLine": 13925
+    },
+    {
+      "comparisonId": "I24",
+      "pointer": "/comparisons/23/latest_corrected_conclusions/retained_owner_date",
+      "value": "Algorithm1 March13 2025; successor definitions source-specific, reviewed September15 2026",
+      "reportSection": "### I24 Mathematical successors: coherence, entanglement, channels, encoded correction and mitigation",
+      "reportAnchor": "comparison-i24",
+      "encoding": "json",
+      "startLine": 13938,
+      "endLine": 13938
+    },
+    {
+      "comparisonId": "I24",
+      "pointer": "/comparisons/23/latest_corrected_conclusions/finding",
+      "value": "All eleven cited mathematical reference families predate the admitted QEL source/review dates. They supply foundations for identifiable successor mechanisms rather than evidence of eleven new mathematical inventions.",
+      "reportSection": "### I24 Mathematical successors: coherence, entanglement, channels, encoded correction and mitigation",
+      "reportAnchor": "comparison-i24",
+      "encoding": "json",
+      "startLine": 13951,
+      "endLine": 13951
+    },
+    {
+      "comparisonId": "I24",
+      "pointer": "/comparisons/23/latest_corrected_conclusions/limit",
+      "value": "The later mechanism table associates much of the material with an August 21, 2026 successor package but gives no per-row event date. Its September 17 report date and retained September 15 review label are not original implementation dates. Mathematical names require formula-specific mapping and cannot inherit Algorithm1's March date.",
+      "reportSection": "### I24 Mathematical successors: coherence, entanglement, channels, encoded correction and mitigation",
+      "reportAnchor": "comparison-i24",
+      "encoding": "json",
+      "startLine": 13964,
+      "endLine": 13964
+    },
+    {
+      "comparisonId": "I24",
+      "pointer": "/comparisons/23/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Novelty, universal correctness, physical hardware execution, or a one-to-one validated implementation match to every cited paper.",
+      "reportSection": "### I24 Mathematical successors: coherence, entanglement, channels, encoded correction and mitigation",
+      "reportAnchor": "comparison-i24",
+      "encoding": "json",
+      "startLine": 13977,
+      "endLine": 13977
+    },
+    {
+      "comparisonId": "I25",
+      "pointer": "/comparisons/24/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I25 Provenance-security concerns and validation checks",
+      "reportAnchor": "comparison-i25",
+      "encoding": "json",
+      "startLine": 14632,
+      "endLine": 14632
+    },
+    {
+      "comparisonId": "I25",
+      "pointer": "/comparisons/24/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "October 1, 2024 attribution objective; later carrier evidence separately dated in retained table",
+      "reportSection": "### I25 Provenance-security concerns and validation checks",
+      "reportAnchor": "comparison-i25",
+      "encoding": "json",
+      "startLine": 14645,
+      "endLine": 14645
+    },
+    {
+      "comparisonId": "I25",
+      "pointer": "/comparisons/24/latest_corrected_conclusions/retained_owner_date",
+      "value": "2024-10-01 attribution objective; specific carrier evidence August/September2026",
+      "reportSection": "### I25 Provenance-security concerns and validation checks",
+      "reportAnchor": "comparison-i25",
+      "encoding": "json",
+      "startLine": 14658,
+      "endLine": 14658
+    },
+    {
+      "comparisonId": "I25",
+      "pointer": "/comparisons/24/latest_corrected_conclusions/finding",
+      "value": "The attribution request precedes the April 2026 papers, while the retained table's specific August/September carrier builds follow them. The papers address provenance-verification security, a more specific problem.",
+      "reportSection": "### I25 Provenance-security concerns and validation checks",
+      "reportAnchor": "comparison-i25",
+      "encoding": "json",
+      "startLine": 14671,
+      "endLine": 14671
+    },
+    {
+      "comparisonId": "I25",
+      "pointer": "/comparisons/24/latest_corrected_conclusions/limit",
+      "value": "The October request does not specify the papers' attacks or fixes, nor establish a signed compliant manifest. These two related publications are not two independent confirmations of the owner's work.",
+      "reportSection": "### I25 Provenance-security concerns and validation checks",
+      "reportAnchor": "comparison-i25",
+      "encoding": "json",
+      "startLine": 14684,
+      "endLine": 14684
+    },
+    {
+      "comparisonId": "I25",
+      "pointer": "/comparisons/24/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Earlier discovery of the formal attacks, equivalence of fixes, or validated C2PA conformance.",
+      "reportSection": "### I25 Provenance-security concerns and validation checks",
+      "reportAnchor": "comparison-i25",
+      "encoding": "json",
+      "startLine": 14697,
+      "endLine": 14697
+    },
+    {
+      "comparisonId": "I26",
+      "pointer": "/comparisons/25/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I26 Three-tier nursery; timed irrigation and remote monitoring",
+      "reportAnchor": "comparison-i26",
+      "encoding": "json",
+      "startLine": 15144,
+      "endLine": 15144
+    },
+    {
+      "comparisonId": "I26",
+      "pointer": "/comparisons/25/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "October 18, 2023 requirements and assistant design prose",
+      "reportSection": "### I26 Three-tier nursery; timed irrigation and remote monitoring",
+      "reportAnchor": "comparison-i26",
+      "encoding": "json",
+      "startLine": 15157,
+      "endLine": 15157
+    },
+    {
+      "comparisonId": "I26",
+      "pointer": "/comparisons/25/latest_corrected_conclusions/retained_owner_date",
+      "value": "October18,2023",
+      "reportSection": "### I26 Three-tier nursery; timed irrigation and remote monitoring",
+      "reportAnchor": "comparison-i26",
+      "encoding": "json",
+      "startLine": 15170,
+      "endLine": 15170
+    },
+    {
+      "comparisonId": "I26",
+      "pointer": "/comparisons/25/latest_corrected_conclusions/finding",
+      "value": "FarmBot's June/July 2016 sources precede the proposed three-tier nursery. Automated watering is a shared goal; the designs differ materially.",
+      "reportSection": "### I26 Three-tier nursery; timed irrigation and remote monitoring",
+      "reportAnchor": "comparison-i26",
+      "encoding": "json",
+      "startLine": 15183,
+      "endLine": 15183
+    },
+    {
+      "comparisonId": "I26",
+      "pointer": "/comparisons/25/latest_corrected_conclusions/limit",
+      "value": "The owner response specifies shelving, timed drip and suggested sensors, not the comparator's CNC moving-tool robot. The quoted base materials total $60 against a $50 target. No controller code, integrated sensor readings or measured growth is shown.",
+      "reportSection": "### I26 Three-tier nursery; timed irrigation and remote monitoring",
+      "reportAnchor": "comparison-i26",
+      "encoding": "json",
+      "startLine": 15196,
+      "endLine": 15196
+    },
+    {
+      "comparisonId": "I26",
+      "pointer": "/comparisons/25/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "A working automated nursery, verified budget or exact feature equivalence with FarmBot.",
+      "reportSection": "### I26 Three-tier nursery; timed irrigation and remote monitoring",
+      "reportAnchor": "comparison-i26",
+      "encoding": "json",
+      "startLine": 15209,
+      "endLine": 15209
+    },
+    {
+      "comparisonId": "I27",
+      "pointer": "/comparisons/26/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I27 Hybrid wind/solar/storage and portable energy requirements",
+      "reportAnchor": "comparison-i27",
+      "encoding": "json",
+      "startLine": 15602,
+      "endLine": 15602
+    },
+    {
+      "comparisonId": "I27",
+      "pointer": "/comparisons/26/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "October 19–21, 2023 concept interval in retained table; directly selected rows are October 19",
+      "reportSection": "### I27 Hybrid wind/solar/storage and portable energy requirements",
+      "reportAnchor": "comparison-i27",
+      "encoding": "json",
+      "startLine": 15615,
+      "endLine": 15615
+    },
+    {
+      "comparisonId": "I27",
+      "pointer": "/comparisons/26/latest_corrected_conclusions/retained_owner_date",
+      "value": "October19–21,2023",
+      "reportSection": "### I27 Hybrid wind/solar/storage and portable energy requirements",
+      "reportAnchor": "comparison-i27",
+      "encoding": "json",
+      "startLine": 15628,
+      "endLine": 15628
+    },
+    {
+      "comparisonId": "I27",
+      "pointer": "/comparisons/26/latest_corrected_conclusions/finding",
+      "value": "The June 1997 report already analyzes wind/PV/battery sizing, so combining these resources is an earlier established design family.",
+      "reportSection": "### I27 Hybrid wind/solar/storage and portable energy requirements",
+      "reportAnchor": "comparison-i27",
+      "encoding": "json",
+      "startLine": 15641,
+      "endLine": 15641
+    },
+    {
+      "comparisonId": "I27",
+      "pointer": "/comparisons/26/latest_corrected_conclusions/limit",
+      "value": "No feature-level match was established for the owner's portable packaging or solar cells on turbine blades. The 100 kWh/day statement is an unsupported target in the recovered response, without resource, area or storage calculations.",
+      "reportSection": "### I27 Hybrid wind/solar/storage and portable energy requirements",
+      "reportAnchor": "comparison-i27",
+      "encoding": "json",
+      "startLine": 15654,
+      "endLine": 15654
+    },
+    {
+      "comparisonId": "I27",
+      "pointer": "/comparisons/26/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "Achieved daily energy output, validated blade design or equivalent portable device.",
+      "reportSection": "### I27 Hybrid wind/solar/storage and portable energy requirements",
+      "reportAnchor": "comparison-i27",
+      "encoding": "json",
+      "startLine": 15667,
+      "endLine": 15667
+    },
+    {
+      "comparisonId": "I28",
+      "pointer": "/comparisons/27/latest_corrected_conclusions/status",
+      "value": "qualified contextual comparison; implementation priority unresolved",
+      "reportSection": "### I28 Personal AI development roadmap",
+      "reportAnchor": "comparison-i28",
+      "encoding": "json",
+      "startLine": 16196,
+      "endLine": 16196
+    },
+    {
+      "comparisonId": "I28",
+      "pointer": "/comparisons/27/latest_corrected_conclusions/owner_evidence_stage",
+      "value": "October 19, 2023 requirement and assistant seven-step roadmap",
+      "reportSection": "### I28 Personal AI development roadmap",
+      "reportAnchor": "comparison-i28",
+      "encoding": "json",
+      "startLine": 16209,
+      "endLine": 16209
+    },
+    {
+      "comparisonId": "I28",
+      "pointer": "/comparisons/27/latest_corrected_conclusions/retained_owner_date",
+      "value": "October19,2023",
+      "reportSection": "### I28 Personal AI development roadmap",
+      "reportAnchor": "comparison-i28",
+      "encoding": "json",
+      "startLine": 16222,
+      "endLine": 16222
+    },
+    {
+      "comparisonId": "I28",
+      "pointer": "/comparisons/27/latest_corrected_conclusions/finding",
+      "value": "The May 2019 engineering study predates the owner's personal-AI roadmap. Data preparation, training, deployment and maintenance are common lifecycle themes.",
+      "reportSection": "### I28 Personal AI development roadmap",
+      "reportAnchor": "comparison-i28",
+      "encoding": "json",
+      "startLine": 16235,
+      "endLine": 16235
+    },
+    {
+      "comparisonId": "I28",
+      "pointer": "/comparisons/27/latest_corrected_conclusions/limit",
+      "value": "A seven-step response and a nine-stage case-study workflow are not identical technical designs. The owner row contains no code, model weights, training run or deployed model.",
+      "reportSection": "### I28 Personal AI development roadmap",
+      "reportAnchor": "comparison-i28",
+      "encoding": "json",
+      "startLine": 16248,
+      "endLine": 16248
+    },
+    {
+      "comparisonId": "I28",
+      "pointer": "/comparisons/27/latest_corrected_conclusions/excluded_from_current_findings",
+      "value": "A completed trained system or a new machine-learning lifecycle.",
+      "reportSection": "### I28 Personal AI development roadmap",
+      "reportAnchor": "comparison-i28",
+      "encoding": "json",
+      "startLine": 16261,
+      "endLine": 16261
+    }
+  ],
+  "leafDefinition": "Primitive values and empty objects/arrays; nonempty containers are recursively enumerated in source order.",
+  "lineDefinition": "One-based LF-separated report lines; startLine/endLine cover only the JSON payload, excluding fences.",
+  "originalSourcePreserved": true,
+  "sourceSemanticValuesNormalized": false,
+  "publicationPerformed": false,
+  "ownerSignatureStatus": "NOT_PERFORMED",
+  "limits": [
+    "Source strings are preserved exactly in retained JSON and conclusion-value JSON blocks. Readable display escapes Markdown control characters.",
+    "Coverage records permit independent checking; renderer completion alone is not an independent verifier pass.",
+    "Prior evidence and historical status labels remain attributed and dated; no fresh external-source verification or execution claim is made."
+  ]
+}

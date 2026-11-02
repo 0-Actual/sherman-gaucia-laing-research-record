@@ -1,0 +1,480 @@
+# Company purchases and licensing arrangements
+
+Sherman Gaucia Laing · Word.Quantum.Earth · New publication, November 2, 2026.
+
+13 selected acquisition, licensing and hiring arrangements relevant to the companies and project themes under review; not a complete procurement or M&A census. Investments, lobbying and downstream distributions retain separate money categories.
+
+This is the complete retained 13-row selection, not every purchase in the world. Every field is reproduced below; unknown prices remain unknown. Chronology and technical similarity do not establish transfer of this project.
+
+## OM01 — OpenAI / Rockset
+
+```json
+{
+  "id": "OM01",
+  "buyer": "OpenAI",
+  "target": "Rockset",
+  "type": "Acquisition of company/technology with team integration",
+  "announced": "2024-06-21",
+  "closed": "Completed by the 2024-06-21 announcement; separate closing date not stated",
+  "amount": null,
+  "unit": null,
+  "amount_status": "Not disclosed in the reviewed primary announcement; unknown, not zero",
+  "purpose": "Integrate Rockset's indexing and querying technology into retrieval infrastructure across OpenAI products, enabling use of customer data and real-time information.",
+  "sources": [
+    {
+      "title": "OpenAI acquires Rockset",
+      "url": "https://openai.com/index/openai-acquires-rockset/",
+      "locator": "June 21, 2024; opening acquired statement and technology/team integration paragraphs"
+    }
+  ],
+  "limits": "The company confirms acquisition but does not disclose price, payment form or a separate legal closing date. Integration intent is not evidence that every planned capability shipped."
+}
+```
+
+## OM02 — OpenAI / Multi / Multi Software Co., formerly Remotion
+
+```json
+{
+  "id": "OM02",
+  "buyer": "OpenAI",
+  "target": "Multi / Multi Software Co., formerly Remotion",
+  "type": "Team joining / reported acquisition; legal asset-versus-share structure not disclosed in primary announcement",
+  "announced": "2024-06-24",
+  "closed": null,
+  "amount": null,
+  "unit": null,
+  "amount_status": "Not disclosed in the reviewed primary announcement; unknown, not zero",
+  "purpose": "Multi's founders connected joining OpenAI to exploring how people work with computers and AI, following their multiplayer desktop collaboration work.",
+  "sources": [
+    {
+      "title": "Multi is joining OpenAI",
+      "url": "https://multi.app/blog/multi-is-joining-openai",
+      "locator": "Alexander Embiricos, June 24, 2024; opening announcement and shutdown/FAQ paragraphs"
+    }
+  ],
+  "limits": "Primary text confirms joining and a planned July 24, 2024 product shutdown, not a particular purchase structure or closing day. The shutdown date must not be substituted for transaction closing. No purchase price is established."
+}
+```
+
+## OM03 — OpenAI / io Products, Inc.
+
+```json
+{
+  "id": "OM03",
+  "buyer": "OpenAI",
+  "target": "io Products, Inc.",
+  "type": "Acquisition/merger, stock consideration; LoveFrom remains independent",
+  "announced": "2025-05-21",
+  "closed": "2025-07-09",
+  "amount": 6500000000,
+  "unit": "USD",
+  "amount_status": "Approximately US$6.5 billion total acquisition value, described by transaction counsel as stock; not cash expenditure or a verified incremental payment",
+  "purpose": "Bring hardware, software, engineering and manufacturing expertise together with OpenAI research to develop new AI-oriented products and interfaces.",
+  "sources": [
+    {
+      "title": "A letter from Sam & Jony",
+      "url": "https://openai.com/sam-and-jony/",
+      "locator": "May 21, 2025 announcement; July 9, 2025 update confirming merger and LoveFrom independence"
+    },
+    {
+      "title": "Cooley advises io Products on $6.5 billion acquisition by OpenAI",
+      "url": "https://www.cooley.com/news/coverage/2025/2025-05-29-cooley-advises-io-products-on-6-5-billion-acquisition-by-openai",
+      "locator": "Displayed date May 21, 2025, despite May 29 URL; first paragraph; counsel represented io Products"
+    },
+    {
+      "title": "Wilson Sonsini: io Products acquisition closing",
+      "url": "https://www.wsgr.com/en/insights/index.html?at=248891",
+      "locator": "Client Highlights dated July 9, 2025, titled Wilson Sonsini Advises Jony Ive and LoveFrom on $6.5 Billion Acquisition of io Products by OpenAI; first paragraph says closed and in stock"
+    },
+    {
+      "title": "Wilson Sonsini dedicated transaction statement",
+      "url": "https://www.wsgr.com/print/v2/content/49051647/Wilson-Sonsini-Advises-Jony-Ive-and-LoveFrom-on-%246.5-Billion-Acquisition-of-io-Products-by-OpenAI.pdf",
+      "locator": "July 9, 2025, first paragraph; indexed primary text corroborated on counsel's accessible HTML index"
+    },
+    {
+      "title": "AP: OpenAI recruits Jony Ive in $6.5B deal — secondary price decomposition",
+      "url": "https://apnews.com/article/52c72786e54f0ead8b04d037c30d6754",
+      "locator": "May 21, 2025; passage attributing prior 23% ownership and $5 billion new equity payment to OpenAI"
+    }
+  ],
+  "limits": "The approximate total value is primary-supported. AP separately reports an existing 23% stake and US$5 billion new equity consideration; this decomposition is secondary reporting, not independently verified here from transaction documents. Do not add those amounts or describe US$6.5 billion as newly paid cash."
+}
+```
+
+## OM04 — OpenAI / Statsig
+
+```json
+{
+  "id": "OM04",
+  "buyer": "OpenAI",
+  "target": "Statsig",
+  "type": "Acquisition announced by definitive agreement; later product/customer transfer to Amplitude separately documented",
+  "announced": "2025-09-02",
+  "closed": "Exact date not located; implementation corroborated by the May 5, 2026 official accounts of the Statsig team at OpenAI",
+  "amount": 1100000000,
+  "unit": "USD",
+  "amount_status": "US$1.1 billion acquisition value disclosed by seller's transaction counsel; not a funding-round valuation or cash-spend figure",
+  "purpose": "Bring experimentation, feature flagging and real-time product decision tools in-house; strengthen OpenAI Applications engineering, including ChatGPT and Codex.",
+  "sources": [
+    {
+      "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+      "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+      "locator": "September 2, 2025; Statsig joins OpenAI section, integration purpose and closing-conditions paragraph"
+    },
+    {
+      "title": "Gunderson Dettmer represented Statsig in its $1.1B acquisition by OpenAI",
+      "url": "https://www.gunder.com/en/news-insights/client-news/gunderson-dettmer-represented-statsig-in-its-1-1-billion-dollar-acquisition-by-openai",
+      "locator": "September 2, 2025; title establishes amount; first paragraphs and upon-close qualification"
+    },
+    {
+      "title": "Statsig is joining OpenAI",
+      "url": "https://www.statsig.com/blog/openai-acquisition",
+      "locator": "September 2, 2025 original agreement; later prefatory note on May 5, 2026 Amplitude acquisition and original team remaining at OpenAI"
+    },
+    {
+      "title": "Amplitude and Statsig Partnership",
+      "url": "https://www.amplitude.com/blog/amplitude-and-statsig-partnership",
+      "locator": "May 5, 2026; opening paragraph on brand/customers, platform development and transition with Statsig team at OpenAI"
+    },
+    {
+      "title": "TechCrunch reports Statsig payment form — secondary",
+      "url": "https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/",
+      "locator": "September 2, 2025; payment-form attribution"
+    }
+  ],
+  "limits": "All-stock payment is reported by TechCrunch quoting OpenAI, not confirmed in reviewed primary documents. September 2 sources were conditional, not closing notices. Statsig now describes its product, brand and customers as acquired by Amplitude; Amplitude calls the arrangement a partnership. Original team remained at OpenAI. No later-transfer price is established."
+}
+```
+
+## OM05 — OpenAI / Software Applications Incorporated, maker of Sky
+
+```json
+{
+  "id": "OM05",
+  "buyer": "OpenAI",
+  "target": "Software Applications Incorporated, maker of Sky",
+  "type": "Company acquisition including team and Mac interface technology",
+  "announced": "2025-10-23",
+  "closed": "Completed by the 2025-10-23 announcement; separate closing date not stated",
+  "amount": null,
+  "unit": null,
+  "amount_status": "Not disclosed in the reviewed primary announcement; unknown, not zero",
+  "purpose": "Integrate Sky's macOS context awareness and application interaction into ChatGPT; bring the full team into OpenAI.",
+  "sources": [
+    {
+      "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
+      "url": "https://openai.com/index/openai-acquires-software-applications-incorporated/",
+      "locator": "October 23, 2025; acquired statement, integration paragraph and final investment/governance disclosure"
+    }
+  ],
+  "limits": "The announcement discloses a passive investment by a fund associated with Sam Altman and approval by independent Transaction and Audit Committees. That disclosure is not evidence of misconduct. The price and separate closing date are not stated; product integration plans do not prove delivery of particular features."
+}
+```
+
+## OM06 — Microsoft Corporation / Certain Inflection AI personnel and licensed intellectual property
+
+```json
+{
+  "id": "OM06",
+  "buyer": "Microsoft Corporation",
+  "target": "Certain Inflection AI personnel and licensed intellectual property",
+  "type": "Hiring plus non-exclusive IP licence and associated arrangements; CMA treated the combination as an acquisition of an enterprise, not purchase of all Inflection shares",
+  "announced": "2024-03-19",
+  "closed": "Implemented in March 2024; exact unified closing date not disclosed in reviewed public records",
+  "amount": null,
+  "unit": "USD",
+  "amount_status": "CMA paragraph 34 redacts total consideration and components; no firm primary-source price established",
+  "purpose": "Form Microsoft AI to advance Copilot and other consumer AI products and research, bringing Mustafa Suleyman, Karen Simonyan and colleagues into Microsoft.",
+  "sources": [
+    {
+      "title": "Microsoft: Mustafa Suleyman joins to lead Copilot",
+      "url": "https://blogs.microsoft.com/blog/2024/03/19/mustafa-suleyman-deepmind-and-inflection-co-founder-joins-microsoft-to-lead-copilot/",
+      "locator": "March 19, 2024; Satya Nadella announcement of Microsoft AI and personnel joining"
+    },
+    {
+      "title": "CMA Microsoft/Inflection full decision",
+      "url": "https://assets.publishing.service.gov.uk/media/6719ff5f549f63039436b3c8/__Full_text_decision__.pdf",
+      "locator": "Paragraphs 30–34, printed pages 8–9: transaction arrangements and redacted consideration; paragraph 84(d)–(g), printed page 21: non-exclusive licence and retained Inflection ownership; jurisdiction analysis"
+    },
+    {
+      "title": "CMA Microsoft/Inflection inquiry",
+      "url": "https://www.gov.uk/cma-cases/microsoft-slash-inflection-ai-inquiry",
+      "locator": "September 4, 2024 clearance; full decision published October 24, 2024"
+    }
+  ],
+  "limits": "Inflection retained its products/IP and continued separately. CMA merger jurisdiction does not mean Microsoft bought the entire company. September 4 is regulatory clearance, not the March implementation date. Reported prices have not been promoted to verified amounts."
+}
+```
+
+## OM07 — OpenAI / Astral, developer of uv, Ruff and ty
+
+```json
+{
+  "id": "OM07",
+  "buyer": "OpenAI",
+  "target": "Astral, developer of uv, Ruff and ty",
+  "type": "Announced company acquisition, subject to closing",
+  "announced": "2026-03-19",
+  "closed": null,
+  "amount": null,
+  "unit": null,
+  "amount_status": "Not disclosed in reviewed primary announcements; unknown, not zero",
+  "purpose": "Bring Python developer tooling and engineering expertise into Codex across software planning, changes, tool use and verification, while supporting open-source tools.",
+  "sources": [
+    {
+      "title": "OpenAI to acquire Astral",
+      "url": "https://openai.com/index/openai-to-acquire-astral/",
+      "locator": "March 19, 2026; opening announcement, Expanding Codex beyond coding, and What's next closing conditions"
+    },
+    {
+      "title": "Astral to join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "locator": "Charlie Marsh, March 19, 2026; agreement announcement and after-closing open-source commitment"
+    }
+  ],
+  "limits": "Announcements require customary conditions including regulatory approval and describe the companies as separate before closing. A definitive closing record was not located in this bounded pass; null does not assert the deal remained pending on November 1."
+}
+```
+
+## OM08 — OpenAI / Promptfoo
+
+```json
+{
+  "id": "OM08",
+  "buyer": "OpenAI",
+  "target": "Promptfoo",
+  "type": "Announced acquisition of AI security/evaluation company, subject to closing",
+  "announced": "2026-03-09",
+  "closed": null,
+  "amount": null,
+  "unit": null,
+  "amount_status": "Not disclosed in reviewed primary announcement; prior fundraising or valuation is not purchase price",
+  "purpose": "Integrate AI security testing, evaluations, workflow checks and reporting into OpenAI Frontier, while continuing the open-source project.",
+  "sources": [
+    {
+      "title": "OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo/",
+      "locator": "March 9, 2026; opening acquisition/integration statement, capability bullets and final closing-conditions paragraph"
+    }
+  ],
+  "limits": "The announcement is conditional. A definitive closing record was not located in this bounded pass; organizational affiliation or product references alone do not establish a legal closing date."
+}
+```
+
+## GO01 — Google LLC / Alphabet / Wiz, Inc.
+
+```json
+{
+  "id": "GO01",
+  "buyer": "Google LLC / Alphabet",
+  "target": "Wiz, Inc.",
+  "type": "Company acquisition",
+  "announced": "2025-03-18",
+  "closed": "2026-03-11",
+  "amount": 29467000000,
+  "unit": "USD",
+  "amount_status": "Preliminary GAAP purchase price in September2026 Form10-Q, excluding post-combination compensation; announcement was USD32bn subject to adjustments.",
+  "purpose": "Multicloud and AI-driven security.",
+  "sources": [
+    {
+      "title": "Google announces agreement to acquire Wiz — company-issued release",
+      "url": "https://www.prnewswire.com/news-releases/google-announces-agreement-to-acquire-wiz-302404500.html",
+      "locator": "2025-03-18; USD32bn all-cash headline, subject to closing adjustments"
+    },
+    {
+      "title": "Google completes acquisition of Wiz",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/",
+      "locator": "2026-03-11 closing announcement"
+    },
+    {
+      "title": "Alphabet September2026 Form10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm",
+      "locator": "Note8; Wiz purchase-price allocation total USD29,467m"
+    }
+  ],
+  "limits": "Headline and accounting consideration are different measures, not two purchases. No evidence in these transaction documents identifies Sherman Laing, QEL or GAUCIA as source, seller, licensor or beneficiary.",
+  "alternative_amounts": [
+    {
+      "amount": 32000000000,
+      "unit": "USD",
+      "status": "announced headline; not additive"
+    }
+  ],
+  "themes": [
+    "security",
+    "governance",
+    "cloud"
+  ]
+}
+```
+
+## GO02 — Google LLC / Alphabet / Intersect digital-power assets/business
+
+```json
+{
+  "id": "GO02",
+  "buyer": "Google LLC / Alphabet",
+  "target": "Intersect digital-power assets/business",
+  "type": "Company/business acquisition with excluded spun-off assets",
+  "announced": "2025-12-22",
+  "closed": "2026-03-10",
+  "amount": 5868000000,
+  "unit": "USD",
+  "amount_status": "Final purchase price allocation in September2026 Form10-Q. Announced USD4.75bn cash plus assumed debt is a separately defined measure.",
+  "purpose": "Accelerate data-centre capacity and energy development; co-located generation, storage and compute.",
+  "sources": [
+    {
+      "title": "TPG completes sale of Intersect and launches IPX Power",
+      "url": "https://www.tpg.com/news-and-insights/tpg-announces-completion-of-4-75-billion-sale-of-intersect-to-google-launches-ipx-power-as-independent-power-producer",
+      "locator": "2026-03-10; USD4.75bn plus debt; grid-tied power business spun off"
+    },
+    {
+      "title": "Alphabet September2026 Form10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm",
+      "locator": "Note8; Intersect closing and final purchase-price allocation USD5,868m"
+    }
+  ],
+  "limits": "Do not add headline cash, assumed debt and GAAP price without a reconciliation. Infrastructure similarity does not connect this purchase to the owner's work. The transaction does not cover every historical Intersect asset.",
+  "alternative_amounts": [
+    {
+      "amount": 4750000000,
+      "unit": "USD",
+      "status": "announced cash plus separately assumed debt; not additive"
+    }
+  ],
+  "themes": [
+    "energy",
+    "infrastructure",
+    "compute"
+  ]
+}
+```
+
+## GO03 — Google LLC / Selected HTC XR employees and non-exclusive XR intellectual-property licence
+
+```json
+{
+  "id": "GO03",
+  "buyer": "Google LLC",
+  "target": "Selected HTC XR employees and non-exclusive XR intellectual-property licence",
+  "type": "Talent transfer and non-exclusive IP licensing",
+  "announced": "2025-01-23",
+  "closed": "2025-02-18",
+  "amount": 250000000,
+  "unit": "USD",
+  "amount_status": "Cash agreement value stated by HTC; annual report supplies closing date.",
+  "purpose": "Android XR headset/glasses ecosystem and XR development capability.",
+  "sources": [
+    {
+      "title": "HTC announces XR agreement with Google",
+      "url": "https://www.vive.com/us/newsroom/2025-01-23/",
+      "locator": "US$250m cash; employee transfer and non-exclusive IP licence"
+    },
+    {
+      "title": "HTC 2024 annual report",
+      "url": "https://investors.htc.com/documents/1417/HTC_2024_Annual_Report_en.pdf",
+      "locator": "Business operations p205, Business Cooperation Agreement row; closed2025-02-18"
+    },
+    {
+      "title": "HTC first-quarter2025 results",
+      "url": "https://investors.htc.com/documents/1406/HTC_1Q25_RESULTS_SUMMARY.pdf",
+      "locator": "Executive summary p4; completed USD250m agreement"
+    }
+  ],
+  "limits": "Google did not acquire all of HTC through this agreement. A broad immersive-computing theme does not prove shared implementation or access to owner records.",
+  "themes": [
+    "immersive interfaces",
+    "hardware",
+    "assistants"
+  ]
+}
+```
+
+## GO04 — Google / Character.AI model licence and selected personnel
+
+```json
+{
+  "id": "GO04",
+  "buyer": "Google",
+  "target": "Character.AI model licence and selected personnel",
+  "type": "Non-exclusive technology licence and hiring",
+  "announced": "2024-08-02",
+  "closed": null,
+  "amount": null,
+  "unit": "USD",
+  "amount_status": "Exact executed consideration not verified. USD2.7bn appears as a complaint allegation recounted in a judicial order reproduced in Senate testimony; not treated here as independently adjudicated price.",
+  "purpose": "Model-technology access and research personnel; Character.AI remained a distinct product/company.",
+  "sources": [
+    {
+      "title": "Senate-hosted testimony and exhibits, including May21,2025 judicial order",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/e2e8fc50-a9ac-05ec-edd7-277cb0afcdf2/2025-09-16%20PM%20-%20Testimony%20-%20Garcia.pdf",
+      "locator": "Exhibit judicial order page4; cites complaint paragraph80 for USD2.7bn; distinguish pleaded facts from findings"
+    },
+    {
+      "title": "Character.AI next-phase announcement — original URL unavailable on review",
+      "url": "https://blog.character.ai/our-next-phase-of-growth/",
+      "locator": "2026-11-01 direct read returned404; not a recovered original statement"
+    }
+  ],
+  "limits": "Original agreement and payment records were not obtained. Allegations appearing in a court document do not become adjudicated financial facts. No direct owner-work link established.",
+  "reported_amount": 2700000000,
+  "themes": [
+    "personalized assistants",
+    "models"
+  ]
+}
+```
+
+## GO05 — Google; separate remaining-business buyer Cognition / Windsurf technology licence/personnel; remaining Windsurf IP, product and business separately sold to Cognition
+
+```json
+{
+  "id": "GO05",
+  "buyer": "Google; separate remaining-business buyer Cognition",
+  "target": "Windsurf technology licence/personnel; remaining Windsurf IP, product and business separately sold to Cognition",
+  "type": "Separate licensing/hiring arrangement and company-business acquisition",
+  "announced": "2025-07-11",
+  "closed": null,
+  "amount": null,
+  "unit": "USD",
+  "amount_status": "USD2.4bn Google arrangement reported in secondary coverage; primary transaction terms not recovered. Cognition consideration undisclosed. Proposed OpenAI acquisition must not be counted as completed.",
+  "purpose": "Agentic coding and software-engineering tools.",
+  "sources": [
+    {
+      "title": "Cognition's acquisition of Windsurf",
+      "url": "https://cognition.com/blog/windsurf",
+      "locator": "2025-07-14 signed definitive agreement, scope includes IP, product, trademark, brand and remaining team; no acquisition price"
+    },
+    {
+      "title": "Cognition: one year of building together",
+      "url": "https://cognition.com/blog/one-year-of-building-together",
+      "locator": "2026-07-14 retrospective confirms integration and preceding Google personnel departure"
+    },
+    {
+      "title": "ITPro report on Windsurf transactions",
+      "url": "https://www.itpro.com/software/development/openais-plan-to-acquire-ai-coding-startup-windsurf-ended-in-disaster-heres-how-the-deal-fell-apart",
+      "locator": "2025-07-15; secondary USD2.4bn Google figure"
+    }
+  ],
+  "limits": "Two buyers acquired different interests. USD82m ARR in Cognition's announcement is operating revenue, not the purchase price. No source names the owner as originator of transferred IP.",
+  "reported_amount": 2400000000,
+  "themes": [
+    "agents",
+    "coding",
+    "development tools"
+  ]
+}
+```
+
+## Source-level scope and amount rule
+
+```json
+{
+  "window": {
+    "from": "2023-11-01",
+    "through": "2026-11-01"
+  },
+  "scope": "13 selected acquisition, licensing and hiring arrangements relevant to the companies and project themes under review; not a complete procurement or M&A census. Investments, lobbying and downstream distributions retain separate money categories.",
+  "amountRule": "Null means unknown or unverified, not zero. Headline values, stock consideration, accounting purchase prices, licence fees and secondary allegations are not a common cash-spend population."
+}
+```

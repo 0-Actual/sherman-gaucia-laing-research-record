@@ -1,0 +1,19 @@
+{
+  "schema": "qel.source-verification.v1",
+  "reviewDate": "2026-11-02",
+  "records": [
+    {
+      "id": "SL03-SLC06",
+      "url": "https://fraser.stlouisfed.org/title/convict-labor-1923-4005/fulltext",
+      "title": "BLS Bulletin 372, Convict Labor in 1923",
+      "locator": "Printed pages 2–3, Introduction",
+      "verified": "Annual institutional receipt and population/period qualifications",
+      "amount": 3290777,
+      "denominator": 9660,
+      "result": 340.66014492753624,
+      "unit": "nominal USD per prisoner per year in the two BLS systems; institutional receipts, not wages; differing institution fiscal-year periods",
+      "numericInputsChanged": false,
+      "method": "Primary-source transcription inspected; no claim of a newly recovered original archival copy."
+    }
+  ]
+}

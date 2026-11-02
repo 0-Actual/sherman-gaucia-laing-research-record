@@ -1,0 +1,12 @@
+{
+  "schema": "qel.edition-relocations.v1",
+  "entries": [
+    {
+      "sourceFile": "prior-work/prior-work-public.json",
+      "jsonPointer": "/license_path",
+      "originalValue": "../../LICENSE.md",
+      "targetPath": "licenses/original-repository-LICENSE.md",
+      "reason": "The unchanged historical JSON was relocated. This explicit map supplies the original repository license without changing its grant or silently modifying the retained source."
+    }
+  ]
+}
