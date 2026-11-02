@@ -1,0 +1,26 @@
+{
+  "status": "No independent external audit has been performed or assigned by this assistant",
+  "review_points": [
+    {
+      "id": "EXT-1",
+      "scope": "Source identity, chronology, capture and field provenance",
+      "reviewer": null,
+      "findings": null,
+      "status": "not_performed"
+    },
+    {
+      "id": "EXT-2",
+      "scope": "Reproduce integer/decimal arithmetic and extraction from primary disclosures",
+      "reviewer": null,
+      "findings": null,
+      "status": "not_performed"
+    },
+    {
+      "id": "EXT-3",
+      "scope": "Assess causal inference, alternative explanations and publication wording",
+      "reviewer": null,
+      "findings": null,
+      "status": "not_performed"
+    }
+  ]
+}
