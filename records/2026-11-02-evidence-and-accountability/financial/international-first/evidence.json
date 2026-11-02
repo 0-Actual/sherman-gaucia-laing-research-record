@@ -1,0 +1,3360 @@
+{
+  "schema": "word-quantum-earth.international-money.v1",
+  "generated_utc": "2026-11-01T16:29:34.093Z",
+  "owner": "Sherman G. Laing",
+  "coordinator": "Gaucia Actual — Root (Codex)",
+  "scope": "Selected documentary expansion of the preserved World War I-to-present chronology. Records describe different financial relationships and policy connections; they are not a single population of lobbying payments.",
+  "research_cutoff": "2026-11-01",
+  "record_count": 54,
+  "source_count": 79,
+  "secondary_lead_ids": [
+    "EU11",
+    "EU12"
+  ],
+  "records": [
+    {
+      "id": "R01",
+      "date": "1915-10-12",
+      "region": "United Kingdom / France / United States",
+      "payer": "US loan subscribers, through underwriting syndicate",
+      "recipient": "British and French governments",
+      "type": "Historical sovereign borrowing",
+      "amount_text": "USD500,000,000 face value; five years; 5% coupon; public issue price 98, syndicate price 96",
+      "currency": "USD",
+      "period": "1915 loan; terms presented 12 October 1915",
+      "status": "Chancellor reported fully underwritten; UK legislative assent sought",
+      "policy_link": "Joint and several government liability tied overseas capital raising to parliamentary authority and wartime purchasing.",
+      "limit": "Face value is not cash proceeds. The two-point price difference is a gross underwriting spread before costs, not verified net profit. This source does not establish later AI-company ownership continuity.",
+      "overlap": "Both governments' USD250m shares are inside the USD500m face amount.",
+      "source_access": "Original parliamentary transcript read",
+      "sources": [
+        {
+          "title": "American Loan Bill, Commons, 12 October 1915",
+          "url": "https://api.parliament.uk/historic-hansard/commons/1915/oct/12/american-loan-bill",
+          "locator": "Chancellor McKenna's statement of loan terms"
+        }
+      ]
+    },
+    {
+      "id": "R02",
+      "date": "1924",
+      "region": "United States / Germany / France / United Kingdom",
+      "payer": "Foreign investors and banks; US-market syndicate led by J.P. Morgan",
+      "recipient": "German government under the Dawes Plan",
+      "type": "Historical sovereign borrowing",
+      "amount_text": "USD200,000,000 foreign loan",
+      "currency": "USD",
+      "period": "1924",
+      "status": "Historical loan described by US Office of the Historian",
+      "policy_link": "Loans to Germany supported reparations paid to France and Britain, which used receipts to service war debts to the United States. This documents a cross-border financial circuit.",
+      "limit": "A historical mechanism, not proof of an uninterrupted ownership or control network into modern AI. Retired historical overview is not a bank-level transaction ledger.",
+      "overlap": "Downstream reparations and debt repayments are reuses of funds, not independent additions to the original loan.",
+      "source_access": "Original US government historical account read",
+      "sources": [
+        {
+          "title": "The Dawes Plan, the Young Plan, German Reparations, and Inter-allied War Debts",
+          "url": "https://history.state.gov/milestones/1921-1936/dawes",
+          "locator": "Dawes Plan and loan-reparations-debt circuit"
+        }
+      ]
+    },
+    {
+      "id": "W04",
+      "date": "2019-04-16",
+      "region": "Canada",
+      "payer": "Shared Services Canada",
+      "recipient": "Microsoft Canada",
+      "type": "Government enterprise software agreement",
+      "amount_text": "CAD 940 million over seven years",
+      "currency": "CAD",
+      "period": "Renewal announced 16 April 2019; seven-year agreement",
+      "status": "Government-announced agreement value, not verified total paid",
+      "policy_link": "Office 365 access and continued operating-system, infrastructure, development-tool and support services for public servants.",
+      "limit": "Establishes a commercial procurement relationship, not lobbying expenditure, an AI-specific contract or an AI-policy concession.",
+      "overlap": "Do not add this to government-wide or multi-year Microsoft contract aggregates without contract-level reconciliation.",
+      "source_access": "SSC's own attributed release on CNW opened and reviewed. The former Canada.ca announcement returned 404. CNW is the release distributor; this is a government statement, not independent journalism.",
+      "sources": [
+        {
+          "title": "Shared Services Canada: Government of Canada enables a more Modern and Accessible Public Service",
+          "url": "https://www.newswire.ca/news-releases/government-of-canada-enables-a-more-modern-and-accessible-public-service-819446329.html",
+          "locator": "16 April 2019 release; paragraph beginning 'The agreement, valued' and adjacent description of covered software"
+        }
+      ]
+    },
+    {
+      "id": "W01",
+      "date": "2019-06-21",
+      "region": "United Kingdom",
+      "payer": "Information Systems and Services, Secretary of State for Defence",
+      "recipient": "Software Box Ltd",
+      "type": "Government procurement through a Microsoft software reseller",
+      "amount_text": "GBP 190,559,955 excluding VAT initial contract value; GBP 285,839,932.50 excluding VAT maximum including options",
+      "currency": "GBP",
+      "period": "Commencing 21 June 2019. The form describes a three-year initial term but prints expiry 30 April 2022, plus two optional extensions; preserve this inconsistency.",
+      "status": "Disclosed contract values, not verified expenditure. Options required further budget approval.",
+      "policy_link": "Microsoft M365 E5 renewal CCSO19A38 under Technology Products 2 RM3733.",
+      "limit": "Software Box is the contractual supplier. Neither amount establishes Microsoft's net receipts, political payments, an AI-specific budget or a policy concession.",
+      "overlap": "The maximum includes the initial value; do not add them.",
+      "source_access": "Original contract text was available through indexed excerpts; subsequent direct requests returned 403. The parliamentary answer independently identifies the supplier. No complete contract execution audit was performed.",
+      "sources": [
+        {
+          "title": "Contract for the supply of Microsoft M365 E5 Software Renewal",
+          "url": "https://www.contractsfinder.service.gov.uk/Notice/Attachment/a4d1c11a-eb38-4f1f-ac6c-6bd1d3bbdeda",
+          "locator": "Customer and supplier details; Section B; Call Off Contract Charges; reference CCSO19A38"
+        },
+        {
+          "title": "UK Parliament written question 44: Ministry of Defence procurement",
+          "url": "https://questions-statements.parliament.uk/written-questions/detail/2019-12-19/44/",
+          "locator": "Table of contracts over GBP 100 million: Microsoft M365 E5 Software Renewal / Software Box Ltd"
+        }
+      ]
+    },
+    {
+      "id": "W10",
+      "date": "2021-06-01",
+      "region": "Australia",
+      "payer": "Insurance and Care NSW",
+      "recipient": "DATA#3 LIMITED",
+      "type": "Government Microsoft software licensing through a reseller",
+      "amount_text": "AUD 12,982,452.30 estimated payable including GST",
+      "currency": "AUD",
+      "period": "Effective 1 June 2021; amended end 13 October 2026; published 30 August 2021; latest listed amendment 8 December 2025",
+      "status": "Disclosed estimated contract amount; latest amendment states increased value and extended duration",
+      "policy_link": "Contract 4600003029-1 for Microsoft licenses under whole-of-government enterprise agreement 2319.",
+      "limit": "Data#3 is the contractor. This is neither verified outturn nor Microsoft's direct revenue, and establishes no political payment or legislative concession.",
+      "overlap": "Current and legacy notices describe the same contract; do not count them twice. Government-wide licensing aggregates may include this award.",
+      "source_access": "Original government notice indexed text reviewed, including amount, supplier and amendments. Direct opening returned 403; no complete contract or invoice audit claimed.",
+      "sources": [
+        {
+          "title": "NSW Microsoft License Service Provider contract 4600003029-1",
+          "url": "https://buy.nsw.gov.au/notices/E4CE218D-7364-463E-881D3213B0373860",
+          "locator": "Estimated amount payable including GST; supplier; effective and end dates; description; amendments"
+        }
+      ]
+    },
+    {
+      "id": "EU07",
+      "date": "2023",
+      "region": "France",
+      "payer": "GOOGLE FRANCE, as declaring organisation; relevant activity represents GOOGLE LLC",
+      "recipient": "Own lobbying operation and unitemized recipients",
+      "type": "Organisation-wide lobbying expenditure",
+      "amount_text": "At least 1,750,000 and less than 2,000,000",
+      "currency": "EUR",
+      "period": "Calendar 2023",
+      "status": "Declared expenditure",
+      "policy_link": "Activity 0V2P94PV, published 31 March 2024, seeks consistency between the SREN bill and EU AI Act labelling/disclosure obligations.",
+      "limit": "No particular accepted amendment traced. Organisation-wide spending cannot be assigned exclusively to AI policy or the Google LLC mandate; source does not establish internal reimbursement flows.",
+      "overlap": "Do not add to EU corporate totals or consultant receipts without scope reconciliation.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "HATVP: Google France",
+          "url": "https://www.hatvp.fr/fiche-organisation/?organisation=443061841",
+          "locator": "Calendar-2023 expenditure and activity 0V2P94PV"
+        }
+      ]
+    },
+    {
+      "id": "W07",
+      "date": "2023",
+      "region": "Australia",
+      "payer": "Microsoft",
+      "recipient": "Australian Strategic Policy Institute",
+      "type": "Think-tank partnership, workshop and conference funding",
+      "amount_text": "AUD 290,909.10 corporate partnership; AUD 79,800 workshops; AUD 50,000 Sydney Dialogue 2024; derived sum AUD 420,709.10",
+      "currency": "AUD",
+      "period": "Financial year 2023–24, ending 30 June 2024",
+      "status": "Recipient reports funding received in three distinct table entries",
+      "policy_link": "Separately, ASPI's August 2023 Getting regulation right report credits Microsoft funding and recommends risk-based cybersecurity regulation, stakeholder co-design and considering facilitation before compulsion.",
+      "limit": "No evidence assigns the three annual-report amounts to that particular report or establishes government adoption. The policy report is cybersecurity-focused, with AI relevance, not proof of an AI-law concession.",
+      "overlap": "The three entries total AUD 420,709.10 and are already within Table 18's AUD 783,289.27 total. Report sponsorship has no separately established price; do not add an inferred amount.",
+      "source_access": "Original funding PDF text and the separately funded policy-report PDF opened and reviewed. The parent annual report's indexed accounting text identifies Australian-dollar presentation. No bank-ledger audit claimed.",
+      "sources": [
+        {
+          "title": "ASPI Annual Report 2023–24 funding annex",
+          "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2025-03/ASPI%20Funding%202023-24.pdf?VersionId=GsXfp4y_oklpcSHqbirBC0VQKo3ni8ED",
+          "locator": "Printed page 120, Table 18, three Microsoft rows; PDF page 6"
+        },
+        {
+          "title": "ASPI Annual Report 2023–24",
+          "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2024-12/ASPI%20Annual%20Report%202023-24%20FINAL.pdf?VersionId=fsxJkRgk5M3iL_yUEn0I1k0uBuW5ZI.i",
+          "locator": "Financial statements, Basis of Preparation: presentation in Australian dollars"
+        },
+        {
+          "title": "Getting regulation right: approaches to improving Australia's cybersecurity",
+          "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-08/Getting%20regulation%20right_0.pdf?VersionId=27eJCaHSxaRgp7c42Kks977jANz3gdhZ",
+          "locator": "Inside front cover, PDF page 2, Microsoft funding acknowledgment; printed pages 3 and 19–20, recommendations"
+        }
+      ]
+    },
+    {
+      "id": "W08",
+      "date": "2023",
+      "region": "Australia",
+      "payer": "Amazon Web Services Australia",
+      "recipient": "Australian Strategic Policy Institute",
+      "type": "Think-tank partnership and conference sponsorship",
+      "amount_text": "AUD 50,000 Sydney Dialogue 2023; AUD 50,000 corporate partnership; derived sum AUD 100,000",
+      "currency": "AUD",
+      "period": "Financial year 2023–24, ending 30 June 2024",
+      "status": "Recipient reports funding received in two distinct table entries",
+      "policy_link": "Named institutional partnership and Sydney Dialogue sponsorship; no specific legislative request disclosed in these entries.",
+      "limit": "No government concession or lobbying-fee amount established.",
+      "overlap": "Both entries are already within Table 18's AUD 783,289.27 total; do not add the subtotal to that total.",
+      "source_access": "Original funding PDF text opened and reviewed; Australian-dollar presentation supported by parent annual report cited in W07.",
+      "sources": [
+        {
+          "title": "ASPI Annual Report 2023–24 funding annex",
+          "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2025-03/ASPI%20Funding%202023-24.pdf?VersionId=GsXfp4y_oklpcSHqbirBC0VQKo3ni8ED",
+          "locator": "Printed page 120, Table 18, first two rows; PDF page 6"
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "date": "2023-08-15",
+      "region": "South Korea / United States",
+      "payer": "SK Telecom",
+      "recipient": "Anthropic",
+      "type": "Strategic equity investment and commercial partnership",
+      "amount_text": "Additional USD 100 million; earlier SKTVC investment amount and ownership percentage undisclosed here",
+      "currency": "USD",
+      "period": "Reported August 15, 2023",
+      "status": "Anthropic states investment made; no independent payment audit",
+      "policy_link": "Multilingual telecommunications-model collaboration and commercial access; no specific government payment or concession established.",
+      "limit": "Corporate nationality and commercial access are not evidence of state control or an export-policy concession.",
+      "overlap": "Additional USD 100m must not silently replace or quantify the separate earlier SKTVC investment.",
+      "source_access": "Primary recipient announcement opened.",
+      "sources": [
+        {
+          "title": "SKT partnership announcement",
+          "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+          "locator": "August 15, 2023; additional investment and commercial partnership"
+        }
+      ]
+    },
+    {
+      "id": "EU10",
+      "date": "2024",
+      "region": "France",
+      "payer": "French public buyers using UGAP; individual purchasing bodies not itemized in this passage",
+      "recipient": "Microsoft solutions through procurement/reseller arrangements; exact legal payees and allocation not itemized",
+      "type": "Public procurement sales attributed to supplier solutions",
+      "amount_text": "8,100,000 in Microsoft-solution sales within a 44,000,000 cloud-market total",
+      "currency": "EUR",
+      "period": "Calendar 2024; UGAP chairman testimony cited from 3 June 2025",
+      "status": "Reported sales, not independently verified cash disbursements",
+      "policy_link": "Establishes a public-sector commercial relationship relevant to cloud procurement and sovereignty policy; not a lobbying payment.",
+      "limit": "No lobbying causation or exclusive award demonstrated. Same report attributes 19,500,000 in sales to OVHcloud. This market is not the entirety of French public cloud expenditure.",
+      "overlap": "Do not add to lobbying expenditure or cumulative procurement figures covering 2024.",
+      "source_access": "PRIMARY_PARLIAMENTARY_REPORT_READ; underlying invoices not inspected",
+      "sources": [
+        {
+          "title": "French Senate inquiry: Piloter la commande publique au service de la souveraineté économique",
+          "url": "https://www.senat.fr/rap/r24-830-1/r24-830-115.html",
+          "locator": "UGAP cloud procurement section; 2024 sales and footnotes 479–481"
+        }
+      ]
+    },
+    {
+      "id": "W05",
+      "date": "2024",
+      "region": "Canada",
+      "payer": "Google LLC",
+      "recipient": "Canadian Journalism Collective",
+      "type": "Statutory-framework news compensation associated with a regulatory exemption",
+      "amount_text": "CAD 100 million first annual payment, paid in December 2024",
+      "currency": "CAD",
+      "period": "First payment December 2024; exemption effective 28 October 2024 for up to five years while the agreement remains in effect; subsequent annual contributions indexed for inflation",
+      "status": "Payment confirmed by CRTC's implementation report",
+      "policy_link": "Google's compensation agreement qualified Google Search for exemption from mandatory bargaining under section 21 of the Online News Act.",
+      "limit": "CJC is not the government. This concerns news-platform regulation, not AI legislation. Google sought a blanket exemption; cost recovery, undue-preference and information obligations were retained.",
+      "overlap": "CJC's downstream news-business distributions use this contribution; do not count them again as additional Google spending. No non-monetary compensation was specified in the agreement.",
+      "source_access": "Both original CRTC HTML sources opened and reviewed.",
+      "sources": [
+        {
+          "title": "CRTC Status Report on the Implementation of the Online News Act 2024–2025",
+          "url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+          "locator": "Progress to Date: paragraph confirming the first CAD 100 million payment in December 2024"
+        },
+        {
+          "title": "Online News Decision CRTC 2024-262",
+          "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+          "locator": "Paragraphs 18–21, 72–85; contribution, scope, conditions and term of exemption"
+        }
+      ]
+    },
+    {
+      "id": "W09",
+      "date": "2024",
+      "region": "Australia",
+      "payer": "Google Australia",
+      "recipient": "Digital Rights Watch",
+      "type": "Disclosed donation to an advocacy organization",
+      "amount_text": "$20,000 as published; Australian-dollar context, but the disclosure does not explicitly label an ISO currency",
+      "currency": "AUD inferred from Australian context; not expressly labeled in the donor disclosure",
+      "period": "Financial year 2024–25; exact payment date not disclosed",
+      "status": "Recipient-reported donation; no earmark disclosed",
+      "policy_link": "DRW's subsequent 4 January 2026 search-regulation advocacy calls for limits on profiling and monetization and regulation of advertising algorithms. No evidence links this donation to commissioning that statement.",
+      "limit": "No purchased policy position or legal outcome established. DRW's published policy rejects funding conditions that influence its positions; that is its stated policy, not independently audited compliance.",
+      "overlap": "Earlier Google donations in other financial years are separate and are not included here.",
+      "source_access": "Recipient's donation disclosure, independence policy and subsequent advocacy HTML opened and reviewed.",
+      "sources": [
+        {
+          "title": "Digital Rights Watch donation transparency",
+          "url": "https://digitalrightswatch.org.au/about/donation-transparency/",
+          "locator": "Financial year 2024–25, Donations, Google Australia"
+        },
+        {
+          "title": "Digital Rights Watch donations policy",
+          "url": "https://digitalrightswatch.org.au/about/donations-policy/",
+          "locator": "Independence and influence; Project-based funding"
+        },
+        {
+          "title": "The Internet Search Engine Services Online Safety Code Explainer",
+          "url": "https://digitalrightswatch.org.au/2026/01/04/the-internet-search-engine-services-online-safety-code-explainer/",
+          "locator": "4 January 2026; Where we should invest"
+        }
+      ]
+    },
+    {
+      "id": "G01",
+      "date": "2024-04-16",
+      "region": "UAE / United States",
+      "payer": "Microsoft",
+      "recipient": "G42",
+      "type": "Equity investment",
+      "amount_text": "USD 1.5 billion; ownership percentage and precise cash-closing date undisclosed in reviewed records",
+      "currency": "USD",
+      "period": "Announced April 16, 2024; subsequently included in Microsoft's UAE investment disclosure",
+      "status": "Company-reported equity investment; no independent payment audit",
+      "policy_link": "Brad Smith board role; G42 Azure adoption; Intergovernmental Assurance Agreement developed with U.S. and UAE government consultation.",
+      "limit": "Documents investment and governance access, not purchase of a government decision. G42 chairman identity does not establish ultimate beneficial-ownership percentages.",
+      "overlap": "Included within G02's USD 15.2 billion umbrella; do not add again.",
+      "source_access": "Primary company announcement opened; later company accounting narrative opened.",
+      "sources": [
+        {
+          "title": "Microsoft invests $1.5 billion in Abu Dhabi's G42",
+          "url": "https://news.microsoft.com/source/2024/04/16/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/",
+          "locator": "April 16, 2024; investment, board, Azure and IGAA paragraphs"
+        },
+        {
+          "title": "Microsoft's $15.2 billion USD investment in the UAE",
+          "url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/",
+          "locator": "Our investment numbers; USD 1.5 billion equity component"
+        }
+      ]
+    },
+    {
+      "id": "G09",
+      "date": "2024-05-10",
+      "region": "Japan; U.S. NVIDIA technology",
+      "payer": "Japan METI cloud-program subsidy; SoftBank Corp. co-financing",
+      "recipient": "SoftBank Corp. domestic AI computing infrastructure",
+      "type": "Government subsidy approval linked to planned capital expenditure",
+      "amount_text": "Up to JPY 42.1bn subsidy for approximately JPY 150bn equipment investment; earlier separate infrastructure subsidy JPY 5.3bn reported received",
+      "currency": "JPY",
+      "period": "Approval May 10, 2024; expansion planned FY2024-FY2025; earlier program approved July 2023",
+      "status": "Approved/expected capped subsidy; full later disbursement not verified. Earlier JPY 5.3bn receipt is company-reported.",
+      "policy_link": "Economic Security Promotion Act cloud-program certification; NVIDIA Blackwell-based infrastructure planned for domestic AI capability.",
+      "limit": "SoftBank Corp. infrastructure is distinct from SoftBank Group/SVF2's OpenAI financing. No proof this subsidy paid for the equity investment.",
+      "overlap": "Subsidy finances part of project expenditure; do not add subsidy and gross project cost as independent final investment.",
+      "source_access": "Japanese company release opened; METI minister's official indexed statement corroborates cap, direct page returned HTTP 403.",
+      "sources": [
+        {
+          "title": "SoftBank cloud-program supply-assurance plan certification",
+          "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240510_01/",
+          "locator": "May 10, 2024; JPY 150bn plan, JPY 42.1bn maximum assistance, earlier JPY 5.3bn and NVIDIA deployment"
+        },
+        {
+          "title": "METI minister post-Cabinet press conference",
+          "url": "https://www.meti.go.jp/speeches/kaiken/2024/20240510001.html",
+          "locator": "May 10, 2024; Economic Security Promotion Act certification question, maximum JPY 42.1bn"
+        }
+      ]
+    },
+    {
+      "id": "R05",
+      "date": "2024-05-22",
+      "region": "Kenya / UAE / United States",
+      "payer": "G42 to arrange financing with Microsoft and other stakeholders",
+      "recipient": "Kenyan digital ecosystem, including proposed Olkaria data centre",
+      "type": "Infrastructure financing intention",
+      "amount_text": "Initial USD1,000,000,000 to be arranged",
+      "currency": "USD",
+      "period": "Announced May 2024",
+      "status": "Letter-of-intent initiative; definitive financing and full disbursement not verified",
+      "policy_link": "Proposed agreement with Kenya's ICT ministry, assisted by US and UAE governments; includes a geothermal-powered Azure project and wider programmes.",
+      "limit": "The USD1bn covers the wider initiative. Operation was conditional on definitive agreements. Later implementation, definitive financing and actual payment status remain unresolved by the cited source.",
+      "overlap": "Do not count the data centre as another USD1bn on top of this package.",
+      "source_access": "Original company announcement read; later status remains unresolved",
+      "sources": [
+        {
+          "title": "Microsoft and G42 announce Kenya digital ecosystem initiative",
+          "url": "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/",
+          "locator": "Financing, five pillars and conditional operation"
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "date": "2024-05-30",
+      "region": "Malaysia / United States",
+      "payer": "Google",
+      "recipient": "Malaysian data-centre/cloud infrastructure and related programs",
+      "type": "Infrastructure investment commitment",
+      "amount_text": "USD 2 billion commitment; recipient/vendor payment allocations undisclosed",
+      "currency": "USD",
+      "period": "Announced May 30, 2024; no complete disbursement schedule in reviewed announcement",
+      "status": "Commitment; full expenditure and all-facility completion by November 2026 not established",
+      "policy_link": "Google explicitly aligns Elmina Business Park data centre/cloud-region investment with Malaysia's Cloud First Policy and data-storage/cybersecurity requirements.",
+      "limit": "Policy alignment and collaboration do not establish that Google authored or purchased the policy.",
+      "overlap": "Do not count future economic-impact projections as investment or equate cloud-region launch with total project completion.",
+      "source_access": "Primary Google announcement opened.",
+      "sources": [
+        {
+          "title": "Google's US$2 Billion Investment to Power Malaysia's Digital Future",
+          "url": "https://blog.google/intl/en-my/company-news/technology/2024_05_advancing-malaysia-together/",
+          "locator": "May 30, 2024; commitment, Elmina Business Park and Cloud First Policy"
+        }
+      ]
+    },
+    {
+      "id": "R17",
+      "date": "2024-06-30",
+      "region": "United States / United Nations / OECD / APEC",
+      "payer": "Microsoft",
+      "recipient": "United States Council for International Business (USCIB)",
+      "type": "Trade-association expense disclosure",
+      "amount_text": "USD1,408 non-deductible expense portion; full payment not disclosed exactly",
+      "currency": "USD",
+      "period": "Microsoft FY2024",
+      "status": "Company-disclosed non-deductible amount; not full dues",
+      "policy_link": "USCIB later submitted recommendations to the UN Global Dialogue on AI, dated 7 May 2026, favouring interoperable, risk-based approaches and voluntary standards.",
+      "limit": "Different dates: no proof FY2024 dollars were earmarked for the 2026 submission, or that the UN adopted it. Non-deductible expenses must not be presented as total membership fees.",
+      "overlap": "The non-deductible portion is inside the relevant membership funding, not an extra payment.",
+      "source_access": "Original company PDF and USCIB submission read; shortlink intermittently inaccessible",
+      "sources": [
+        {
+          "title": "Microsoft trade-association memberships FY2024",
+          "url": "https://aka.ms/AdvocacyTradeMembershipsFY24",
+          "locator": "US Council for International Business; right column Amount Used for Non-Deductible Expenses"
+        },
+        {
+          "title": "USCIB written submission to UN Global AI Dialogue",
+          "url": "https://uscib.org/uscib-content/uploads/2026/05/USCIBWrittenSubmissionUNGlobalAIDIalogueMay2026-1.pdf",
+          "locator": "7 May 2026, two-page submission"
+        },
+        {
+          "title": "USCIB digital policy",
+          "url": "https://uscib.org/digital-policy/",
+          "locator": "Member involvement and international policy venues"
+        }
+      ]
+    },
+    {
+      "id": "R06",
+      "date": "2024-09-26",
+      "region": "Brazil",
+      "payer": "Microsoft",
+      "recipient": "Brazilian cloud and AI infrastructure; individual contractor allocations undisclosed",
+      "type": "Infrastructure commitment",
+      "amount_text": "BRL14,700,000,000 over three years",
+      "currency": "BRL",
+      "period": "Three-year programme announced September 2024",
+      "status": "Company-announced programme",
+      "policy_link": "Training and SENAI partnership accompany investment aligned with Brazilian digital-development priorities.",
+      "limit": "A company's investment programme is not a political donation, government transfer, or demonstrated cause of legislation. Actual expenditure was not established.",
+      "overlap": "Do not combine with the separate Brazilian public AI-plan budget as if both were Microsoft spending.",
+      "source_access": "Original company announcement read",
+      "sources": [
+        {
+          "title": "Microsoft announces 14.7 billion reais investment in Brazil",
+          "url": "https://news.microsoft.com/pt-br/microsoft-announces-14-7-billion-reais-investment-over-three-years-in-cloud-and-ai-infrastructure-and-provide-ai-training-at-scale-to-upskill-5-million-people-in-brazil/",
+          "locator": "Three-year investment and partnerships"
+        }
+      ]
+    },
+    {
+      "id": "G07",
+      "date": "2024-10-30",
+      "region": "Saudi Arabia / United States",
+      "payer": "PIF and Google Cloud; financial allocation undisclosed",
+      "recipient": "AI hub near Dammam",
+      "type": "Signed strategic infrastructure partnership",
+      "amount_text": "Capital, payer split and equity shares undisclosed; USD 71 billion is projected cumulative GDP impact, not investment",
+      "currency": "Investment currency/amount undisclosed; GDP projection stated in USD",
+      "period": "Agreement October 30, 2024; GDP projection covers eight years",
+      "status": "Signed partnership subject to regulatory approvals; final approvals, payments and completion not established",
+      "policy_link": "Signed at FII8; PIF participation, Arabic-model development and workforce goals connect project with Saudi development policy.",
+      "limit": "Company-commissioned economic projection is not cash, public subsidy or observed economic outcome. A government-linked partnership does not alone demonstrate regulatory capture.",
+      "overlap": "Do not add GDP projections to investment or count existing Dammam cloud-region infrastructure as newly funded in full.",
+      "source_access": "Primary PIF announcement opened.",
+      "sources": [
+        {
+          "title": "PIF and Google Cloud to create advanced AI hub in Saudi Arabia",
+          "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2024/pif-and-google-cloud-to-create-advanced-ai-hub-in-saudi-arabia/",
+          "locator": "October 30, 2024; regulatory conditions, FII8 and commissioned GDP projection"
+        }
+      ]
+    },
+    {
+      "id": "EU02",
+      "date": "2025",
+      "region": "Germany",
+      "payer": "Microsoft Deutschland GmbH",
+      "recipient": "Miller & Meier Consulting GmbH",
+      "type": "Consultancy receipts disclosed by recipient",
+      "amount_text": "1–50,000",
+      "currency": "EUR",
+      "period": "Calendar 2025",
+      "status": "Declared funds received",
+      "policy_link": "Cybersecurity, political strategy, executive visits and discussions with ministries and MPs. Filing explicitly attaches no specific legislative proposal to this mandate.",
+      "limit": "Named paid channel established; legislative outcome and precise payment dates unestablished.",
+      "overlap": "Potential component of client aggregate spending; not an additional independent total.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "Bundestag Lobbyregister: Miller & Meier Consulting GmbH",
+          "url": "https://www.lobbyregister.bundestag.de/suche/R000709",
+          "locator": "Mandate 10, Microsoft Deutschland GmbH; calendar-2025 received funds"
+        }
+      ]
+    },
+    {
+      "id": "EU03",
+      "date": "2025",
+      "region": "Germany",
+      "payer": "Google Germany GmbH",
+      "recipient": "365 Sherpas GmbH, displayed as 365 Sherpas BPI",
+      "type": "Consultancy receipts disclosed by recipient",
+      "amount_text": "1–50,000",
+      "currency": "EUR",
+      "period": "Calendar 2025",
+      "status": "Declared funds received",
+      "policy_link": "Political monitoring and contacts with Bundestag and executive actors. No specific legislative proposal is attached to the Google mandate.",
+      "limit": "No legislative success established. Disclosed previous public employment is professional history, not proof of improper influence.",
+      "overlap": "Potential component of Google aggregate spending; do not sum without reconciliation.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "Bundestag Lobbyregister: 365 Sherpas BPI | 365 Sherpas GmbH",
+          "url": "https://www.lobbyregister.bundestag.de/suche/R001824",
+          "locator": "Google Germany GmbH mandate; calendar-2025 received funds"
+        }
+      ]
+    },
+    {
+      "id": "EU04",
+      "date": "2025",
+      "region": "Germany",
+      "payer": "Google Germany GmbH",
+      "recipient": "Johanssen+Kretschmer Strategische Kommunikation GmbH",
+      "type": "Consultancy receipts disclosed by recipient",
+      "amount_text": "50,001–100,000",
+      "currency": "EUR",
+      "period": "Calendar 2025; specific policy mandate first recorded 17 December 2024",
+      "status": "Declared funds received",
+      "policy_link": "Seeks national cloud rules consistent with EU standards, avoiding immunity requirements that could exclude non-European providers. Mandate covers positioning around German administrative-cloud and multicloud strategies.",
+      "limit": "Request documented; no final policy decision attributable to the mandate identified.",
+      "overlap": "Potential component of Google aggregate lobbying expenditure; not additive by default.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "Bundestag Lobbyregister: Johanssen+Kretschmer Strategische Kommunikation GmbH",
+          "url": "https://www.lobbyregister.bundestag.de/suche/R002324",
+          "locator": "Google Germany GmbH mandate and calendar-2025 received-funds band"
+        },
+        {
+          "title": "Bundestag policy mandate RV0013794: national sovereignty requirements for cloud providers",
+          "url": "https://www.lobbyregister.bundestag.de/inhalte-der-interessenvertretung/regelungsvorhabensuche/RV0013794/540785",
+          "locator": "Description, recorded 17 December 2024, and associated Google mandate"
+        }
+      ]
+    },
+    {
+      "id": "EU06",
+      "date": "2025",
+      "region": "France",
+      "payer": "MICROSOFT FRANCE",
+      "recipient": "Own lobbying operation and unitemized individual cost recipients",
+      "type": "Organisation-wide lobbying expenditure",
+      "amount_text": "At least 1,500,000 and less than 1,750,000",
+      "currency": "EUR",
+      "period": "1 July 2024–30 June 2025",
+      "status": "Declared expenditure; not an allocation to one policy",
+      "policy_link": "Activity 0V5XMTGH supports data-centre national-major-interest status in an existing Article 15 proposal: Senate report 634 already describes it on 28 May 2024, before the reviewed lobbying period. Enacted Article 35 of Law 2026-403, 26 May 2026, provides such status.",
+      "limit": "Reviewed lobbying supports an existing proposal; it cannot establish that Microsoft originated it. Alignment does not demonstrate causation. Enacted status requires a qualifying project and decree, permits refusal in structurally water-stressed areas and contains a constitutionally rejected subsection. No universal exemption follows.",
+      "overlap": "Whole lobbying budget, not money assigned solely to this provision. Do not add overlapping consultant receipts.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "HATVP: Microsoft France",
+          "url": "https://www.hatvp.fr/fiche-organisation/?organisation=327733184",
+          "locator": "Financial period 1 July 2024–30 June 2025; activity 0V5XMTGH, published 26 September 2025"
+        },
+        {
+          "title": "Article 35, Law 2026-403 of 26 May 2026 — original enacted text",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131531",
+          "locator": "I.3(b), new urban-planning Article L300-6-2 I bis; subsection IV constitutional rejection"
+        },
+        {
+          "title": "French Senate report 634, 28 May 2024: existing Article 15 data-centre proposal",
+          "url": "https://www.senat.fr/rap/l23-634/l23-6343.html",
+          "locator": "Section D; report date and pre-existing Article 15"
+        },
+        {
+          "title": "French Senate report 634, full text",
+          "url": "https://www.senat.fr/rap/l23-634/l23-634_mono.html",
+          "locator": "Article 15, section 2 explicitly describes extending PINM to data centres; Article 27 discussion dates bill filing to 24 April 2024"
+        }
+      ]
+    },
+    {
+      "id": "EU08",
+      "date": "2025",
+      "region": "France / EU implementation",
+      "payer": "MISTRAL AI",
+      "recipient": "Own lobbying operation and unitemized recipients",
+      "type": "Organisation-wide lobbying expenditure",
+      "amount_text": "2025: at least 25,000 and less than 50,000; comparative 2024: at least 10,000 and less than 25,000",
+      "currency": "EUR",
+      "period": "Calendar 2025, with separate calendar-2024 comparator",
+      "status": "Declared expenditure; years not summed",
+      "policy_link": "Requests cover adapting the GPAI Code to model developers, research-tax-credit eligibility for rented computing, data-centre siting and electricity pricing. Commission lists Mistral as a GPAI Code signatory.",
+      "limit": "Participation and signature are established, not acceptance of all demands or causation. Code signature does not remove underlying statutory obligations.",
+      "overlap": "Yearly aggregate; no consultancy allocation or cross-register reconciliation available.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "HATVP: Mistral AI",
+          "url": "https://www.hatvp.fr/fiche-organisation/?organisation=952418325",
+          "locator": "2025 financial declaration and four activities; 2024 financial comparator"
+        },
+        {
+          "title": "European Commission: The General-Purpose AI Code of Practice",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+          "locator": "Code scope and signatories list"
+        }
+      ]
+    },
+    {
+      "id": "EU09",
+      "date": "2025",
+      "region": "Germany",
+      "payer": "OpenAI Ireland Ltd",
+      "recipient": "Own and commissioned lobbying; individual cost recipients not itemized here",
+      "type": "Organisation-wide lobbying expenditure",
+      "amount_text": "180,001–190,000",
+      "currency": "EUR",
+      "period": "Calendar 2025",
+      "status": "Declared expenditure",
+      "policy_link": "Names competitive German implementation of the EU AI Act and lists Bitkom e.V. and GovTech Deutschland e.V. memberships.",
+      "limit": "Membership dues are not disclosed by this evidence. Government adoption of requested policy is not established.",
+      "overlap": "Aggregate cannot be added to EU01 or other consultants without reconciling period and included costs.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "Bundestag Lobbyregister: OpenAI Ireland Ltd",
+          "url": "https://www.lobbyregister.bundestag.de/suche/R006620",
+          "locator": "2025 expenditure, memberships and competitive AI Act implementation proposal"
+        }
+      ]
+    },
+    {
+      "id": "R08",
+      "date": "2025",
+      "region": "United States / international policy",
+      "payer": "Google",
+      "recipient": "Atlantic Council",
+      "type": "Think-tank funding",
+      "amount_text": "USD250,000–499,999 cash received",
+      "currency": "USD",
+      "period": "1 January–31 December 2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Financial support to an international-policy institution.",
+      "limit": "No grant terms, earmarked recommendation or law change established.",
+      "overlap": "One donor band, not a precise amount.",
+      "source_access": "Recipient's 2025 cash honor roll read",
+      "sources": [
+        {
+          "title": "Atlantic Council 2025 contributors",
+          "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+          "locator": "USD250,000–499,999; Google"
+        }
+      ]
+    },
+    {
+      "id": "R09",
+      "date": "2025",
+      "region": "United States / international policy",
+      "payer": "Microsoft Corp.",
+      "recipient": "Atlantic Council",
+      "type": "Think-tank funding",
+      "amount_text": "USD100,000–249,999 cash received",
+      "currency": "USD",
+      "period": "Calendar 2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Institutional financial relationship.",
+      "limit": "Funding does not by itself establish editorial control or legislative effect.",
+      "overlap": "Keep separate from other Microsoft-funded institutions.",
+      "source_access": "Recipient disclosure read",
+      "sources": [
+        {
+          "title": "Atlantic Council 2025 contributors",
+          "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+          "locator": "USD100,000–249,999; Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "R10",
+      "date": "2025",
+      "region": "United States / international policy",
+      "payer": "Meta",
+      "recipient": "Atlantic Council",
+      "type": "Think-tank funding",
+      "amount_text": "USD100,000–249,999 cash received",
+      "currency": "USD",
+      "period": "Calendar 2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Institutional financial relationship.",
+      "limit": "Specific policy purchase not established.",
+      "overlap": "No summing with unrelated funding periods.",
+      "source_access": "Recipient disclosure read",
+      "sources": [
+        {
+          "title": "Atlantic Council 2025 contributors",
+          "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+          "locator": "USD100,000–249,999; Meta"
+        }
+      ]
+    },
+    {
+      "id": "R11",
+      "date": "2025",
+      "region": "United States / international policy",
+      "payer": "Amazon Web Services",
+      "recipient": "Atlantic Council",
+      "type": "Think-tank funding",
+      "amount_text": "USD500,000–999,999 cash received",
+      "currency": "USD",
+      "period": "Calendar 2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Institutional financial relationship.",
+      "limit": "No company-specific legislative outcome established.",
+      "overlap": "Amazon.com, Inc. has a separate disclosed band; no consolidated Amazon total is claimed.",
+      "source_access": "Recipient disclosure read",
+      "sources": [
+        {
+          "title": "Atlantic Council 2025 contributors",
+          "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+          "locator": "USD500,000–999,999; Amazon Web Services"
+        }
+      ]
+    },
+    {
+      "id": "R18",
+      "date": "2025",
+      "region": "United States / international policy",
+      "payer": "Google",
+      "recipient": "USCIB and other listed policy-engaged organizations",
+      "type": "Membership / contribution relationship",
+      "amount_text": "Amounts undisclosed in reviewed list",
+      "currency": "UNDISCLOSED",
+      "period": "2025 membership list, released on transparency page updated February 2026",
+      "status": "Company-disclosed organizational relationship",
+      "policy_link": "USCIB appears among funded memberships; its 2026 UN AI submission supplies a concrete later advocacy channel.",
+      "limit": "Membership does not establish agreement with every position or earmarking for a particular submission. Corporate political contributions and employee NetPAC money are separate categories.",
+      "overlap": "Do not count a membership listing as an additional measured payment.",
+      "source_access": "Original company list and policy page read",
+      "sources": [
+        {
+          "title": "Google 2025 public-policy memberships",
+          "url": "https://services.google.com/fh/files/misc/2025_memberships_for_google_public_policy_transparency_page.pdf",
+          "locator": "US Council for International Business and international business associations"
+        },
+        {
+          "title": "Google public-policy transparency",
+          "url": "https://www.google.com/publicpolicy/transparency/",
+          "locator": "Political spending, third-party funding rules and February 2026 update"
+        },
+        {
+          "title": "USCIB written submission to UN Global AI Dialogue",
+          "url": "https://uscib.org/uscib-content/uploads/2026/05/USCIBWrittenSubmissionUNGlobalAIDIalogueMay2026-1.pdf",
+          "locator": "7 May 2026"
+        }
+      ]
+    },
+    {
+      "id": "G03",
+      "date": "2025-01-21",
+      "region": "UAE / Japan / United States",
+      "payer": "Announced initial equity funders: SoftBank, OpenAI, Oracle and MGX",
+      "recipient": "U.S. Stargate infrastructure",
+      "type": "Project investment intention and announced equity-funder roles",
+      "amount_text": "USD 500 billion intended over four years; USD 100 billion to begin deployment; individual funder amounts undisclosed",
+      "currency": "USD",
+      "period": "Four years from January 2025 announcement",
+      "status": "Project-level intentions; announcement does not prove full funding or individual paid contributions",
+      "policy_link": "SoftBank assigned financial responsibility, OpenAI operational responsibility, Masayoshi Son chairmanship; Microsoft is named a technology partner, not an initial equity funder.",
+      "limit": "MGX contribution and ownership percentages are undisclosed. MGX's OpenAI portfolio listing establishes a separate holding, not its amount or transaction dates. No entire OpenAI round is assigned to MGX.",
+      "overlap": "Do not add project targets to financing later spent within the project. G04 is a related but geographically separate deployment; its U.S.-investment allocation is unspecified.",
+      "source_access": "OpenAI original announcement, Abu Dhabi government formation record and MGX portfolio opened.",
+      "sources": [
+        {
+          "title": "Announcing The Stargate Project",
+          "url": "https://openai.com/index/announcing-the-stargate-project/",
+          "locator": "January 21, 2025; investment intention and initial funder/partner paragraphs"
+        },
+        {
+          "title": "Abu Dhabi Launches Comprehensive Global Investment Strategy on Artificial Intelligence",
+          "url": "https://www.mediaoffice.abudhabi/en/technology/abu-dhabi-launches-comprehensive-global-investment-strategy-on-artificial-intelligence/",
+          "locator": "March 11, 2024; AIATC creation of MGX, foundational partners and board"
+        },
+        {
+          "title": "MGX Our Portfolio",
+          "url": "https://www.mgx.ae/our-portfolio",
+          "locator": "OpenAI portfolio entry; no investment amount or stake disclosed"
+        },
+        {
+          "title": "Mubadala Investment Company Board of Directors Endorses New Structure",
+          "url": "https://www.mubadala.com/en/news/mubadala-investment-company-board-directors-endorses-new-structure",
+          "locator": "Opening paragraph identifies Mubadala as wholly owned by Abu Dhabi government"
+        }
+      ]
+    },
+    {
+      "id": "CN01",
+      "date": "2025-01-23",
+      "region": "China",
+      "payer": "Guozhitou (Shanghai) Private Equity Fund Management and National Integrated Circuit Industry Investment Fund Phase III as initiating entities",
+      "recipient": "National AI Industry Investment Fund partnership, Xuhui, Shanghai",
+      "type": "State-linked investment fund capitalization",
+      "amount_text": "CNY60,000,000,000 stated fund contribution scale",
+      "currency": "CNY",
+      "period": "Fund establishment reported January 2025",
+      "status": "Government-reported establishment and capitalization scale; paid-in capital and portfolio disbursements not verified",
+      "policy_link": "Shanghai government identifies the semiconductor fund as state-capital-backed and describes this AI fund as a national industrial-development instrument.",
+      "limit": "English entity names are descriptive translations of 国智投（上海）私募基金管理有限公司 and 国家集成电路产业投资基金三期股份有限公司. The source does not allocate the full amount to individual payers or portfolio companies, nor establish a corporate lobbying payment.",
+      "overlap": "Fund capitalization and later investments of that capital must not be added as independent spending.",
+      "source_access": "Original Shanghai government Chinese-language report read; English summary prepared by coordinator",
+      "sources": [
+        {
+          "title": "Shanghai government: national AI fund established in Xuhui",
+          "url": "https://www.shanghai.gov.cn/nw15343/20250123/76167eae0a624d569fc71fe6627e5334.html?siteId=1",
+          "locator": "23 January 2025; opening two paragraphs; 600亿元"
+        }
+      ]
+    },
+    {
+      "id": "CN02",
+      "date": "2025-02-24",
+      "region": "China / international cloud infrastructure",
+      "payer": "Alibaba Group",
+      "recipient": "Own cloud computing and AI infrastructure; contractor-level allocations undisclosed",
+      "type": "Infrastructure commitment",
+      "amount_text": "At least CNY380,000,000,000 over three years",
+      "currency": "CNY",
+      "period": "Three years from February 2025 announcement",
+      "status": "Company-announced capital commitment; full disbursement not verified",
+      "policy_link": "Establishes private corporate expansion in AI infrastructure; the reviewed announcement supplies no specific government concession.",
+      "limit": "Not a payment to government or evidence of receiving CN01 funds. A shared country and policy focus do not establish a money edge between these records.",
+      "overlap": "Do not add a company-provided USD translation to the same CNY amount.",
+      "source_access": "Original company announcement read",
+      "sources": [
+        {
+          "title": "Alibaba to invest RMB380 billion in AI and cloud infrastructure",
+          "url": "https://www.alibabagroup.com/en-US/document-1830678592242057216",
+          "locator": "24 February 2025; opening paragraph"
+        }
+      ]
+    },
+    {
+      "id": "R07",
+      "date": "2025-03-06",
+      "region": "South Africa",
+      "payer": "Microsoft",
+      "recipient": "South African cloud and AI infrastructure",
+      "type": "Infrastructure commitment",
+      "amount_text": "ZAR5,400,000,000 additional investment planned",
+      "currency": "ZAR",
+      "period": "By end of 2027, as stated in original company announcement",
+      "status": "Announced commitment",
+      "policy_link": "Investment and certification support announced with the national government; commercial and skills-development alignment is documented.",
+      "limit": "Not established as money paid to officials or as completed expenditure. Use the original 2027 deadline rather than inconsistent summaries.",
+      "overlap": "Earlier ZAR20.4bn investment is separate historical spending, not another component of the new ZAR5.4bn.",
+      "source_access": "Original company announcement read",
+      "sources": [
+        {
+          "title": "Microsoft invests ZAR5.4bn in South Africa",
+          "url": "https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/",
+          "locator": "Additional investment and deadline"
+        }
+      ]
+    },
+    {
+      "id": "W02",
+      "date": "2025-04-03",
+      "region": "United Kingdom",
+      "payer": "Google UK Ltd",
+      "recipient": "Damian Hinds MP",
+      "type": "Disclosed in-kind hospitality",
+      "amount_text": "GBP 435 in-kind value",
+      "currency": "GBP",
+      "period": "Received and accepted 3 April 2025; registered 17 April 2025",
+      "status": "Reported accommodation and hospitality received, not a cash donation",
+      "policy_link": "Overnight stay at Ditchley Park for the AI Parliamentary Scheme by Demos and Google.",
+      "limit": "A disclosed benefit and policy-engagement setting; no legislative concession, vote or quid pro quo established.",
+      "overlap": "The source repeats 'value GBP 435' in the description. This is one benefit, not GBP 870.",
+      "source_access": "Original parliamentary register indexed text verified. Direct PDF opening returned unsupported application/octet-stream content; no visual-page verification claimed.",
+      "sources": [
+        {
+          "title": "House of Commons Register of Members' Financial Interests, 14 July 2025",
+          "url": "https://qna.files.parliament.uk/qna-attachments/1825097/original/250714%20%281%29.pdf",
+          "locator": "Printed page 439; Hinds, Damian; category 3, Gifts, benefits and hospitality from UK sources"
+        }
+      ]
+    },
+    {
+      "id": "G06",
+      "date": "2025-05-13",
+      "region": "Saudi Arabia / United States; UAE in export approval record",
+      "payer": "HUMAIN",
+      "recipient": "NVIDIA-based Saudi infrastructure and relevant suppliers",
+      "type": "Infrastructure partnership and subsequent conditional export authorization",
+      "amount_text": "Price/payments undisclosed; up to 500 MW over five years; first phase described as 18,000 GB300 system",
+      "currency": "Not disclosed",
+      "period": "May 13, 2025 partnership; November 19, 2025 export announcement",
+      "status": "Announced project and conditional purchase approvals; no payment, shipment or operating-capacity verification",
+      "policy_link": "Commerce announced advanced-chip export approvals for G42 and HUMAIN, described as up to 35,000 NVIDIA GB300-equivalent chips, conditioned on security/reporting requirements.",
+      "limit": "Full licences unavailable; avoid assuming exact correspondence to the May project, assigning prices, or treating authorization as delivery. Preserve Commerce wording rather than invent an aggregate count.",
+      "overlap": "Potential downstream use of HUMAIN financing such as G05 is unallocated. GPU equivalents across architectures are not interchangeable unit counts.",
+      "source_access": "NVIDIA primary announcement opened. Commerce primary statement read through official search-index text; direct open returned HTTP 403.",
+      "sources": [
+        {
+          "title": "HUMAIN and NVIDIA Announce Strategic Partnership",
+          "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+          "locator": "May 13, 2025; Powering AI Factories of Tomorrow"
+        },
+        {
+          "title": "Statement on UAE and Saudi Chip Exports",
+          "url": "https://www.commerce.gov/news/press-releases/2025/11/statement-uae-and-saudi-chip-exports",
+          "locator": "November 19, 2025; approval scope and conditions"
+        }
+      ]
+    },
+    {
+      "id": "EU01",
+      "date": "2025-05-19",
+      "region": "Germany",
+      "payer": "OpenAI Ireland Ltd",
+      "recipient": "GC Germany GmbH",
+      "type": "Consultancy receipts disclosed by recipient",
+      "amount_text": "1–50,000",
+      "currency": "EUR",
+      "period": "June–December 2024; filing dated 19 May 2025",
+      "status": "Declared funds received; not independently audited invoices",
+      "policy_link": "Mandate explicitly includes German implementation of the EU AI Act and contacts with Bundestag and ministry personnel. No attributable adopted amendment identified.",
+      "limit": "Historical filing. Current GC entry is marked former lobbyist from 10 July 2026; no inference about current representation.",
+      "overlap": "Do not add consultancy receipts to client aggregate lobbying expenditure without reconciling scope and period.",
+      "source_access": "PRIMARY_READ",
+      "sources": [
+        {
+          "title": "Bundestag Lobbyregister: GC Germany GmbH, historical filing",
+          "url": "https://www.lobbyregister.bundestag.de/media/a3/ab/521487/Lobbyregister-Registereintraege-Detailansicht-R007050-2025-05-19_18-08-03.pdf",
+          "locator": "Pages 4–5; OpenAI mandate and received-funds band"
+        },
+        {
+          "title": "Bundestag Lobbyregister: GC Germany GmbH current entry",
+          "url": "https://www.lobbyregister.bundestag.de/suche/R007050",
+          "locator": "Former-lobbyist status dated 10 July 2026"
+        }
+      ]
+    },
+    {
+      "id": "G04",
+      "date": "2025-05-22",
+      "region": "UAE / United States",
+      "payer": "G42/partners for UAE compute; UAE investors for reciprocal U.S. investment",
+      "recipient": "Stargate UAE and unspecified U.S. Stargate infrastructure allocation",
+      "type": "Infrastructure partnership and bilateral investment facilitation",
+      "amount_text": "Dollar allocation undisclosed; 1 GW Stargate UAE cluster, 200 MW expected in 2026, within planned 5 GW campus",
+      "currency": "Not disclosed",
+      "period": "Bilateral framework May 15, 2025; project announcement May 22, 2025",
+      "status": "Announced agreement and capacity targets; commissioning and full funding not verified",
+      "policy_link": "U.S.-UAE AI Acceleration Partnership facilitates technology cooperation and inward UAE-fund investments into the U.S.; establishes a working-group commitment.",
+      "limit": "Direct negotiated policy/investment connection is documented. No undisclosed quid pro quo, actual nationwide subscription purchase or completed capacity is established.",
+      "overlap": "1 GW is a subset of the broader 5 GW campus. Reciprocal U.S. investment is unspecified; do not attribute the UAE's wider USD 1.4 trillion pledge to this project.",
+      "source_access": "OpenAI page opened. Commerce original official text available through search index; direct page returned HTTP 403.",
+      "sources": [
+        {
+          "title": "Introducing Stargate UAE",
+          "url": "https://openai.com/index/introducing-stargate-uae/",
+          "locator": "May 22, 2025; dual investments and government coordination"
+        },
+        {
+          "title": "UAE/US Framework on Advanced Technology Cooperation",
+          "url": "https://www.commerce.gov/news/press-releases/2025/05/uae/us-framework-advanced-technology-cooperation",
+          "locator": "May 15, 2025; 1 GW/5 GW, inward investments and working group"
+        }
+      ]
+    },
+    {
+      "id": "R12",
+      "date": "2025-06-30",
+      "region": "Africa / international policy",
+      "payer": "Google",
+      "recipient": "Carnegie Endowment for International Peace — Africa Program",
+      "type": "Think-tank funding",
+      "amount_text": "USD100,000–249,999 cash received",
+      "currency": "USD",
+      "period": "1 July 2024–30 June 2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Named programme funding.",
+      "limit": "No grant conditions or attributable legal outcome established.",
+      "overlap": "Different donor entry from Google India.",
+      "source_access": "Annual report donor table read",
+      "sources": [
+        {
+          "title": "Carnegie 2025 annual report",
+          "url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+          "locator": "PDF pp.34–35; cash-period statement and Google/Africa entry"
+        }
+      ]
+    },
+    {
+      "id": "R13",
+      "date": "2025-06-30",
+      "region": "India",
+      "payer": "Google India Private Ltd.",
+      "recipient": "Carnegie India",
+      "type": "Think-tank funding",
+      "amount_text": "USD25,000–99,999 cash received",
+      "currency": "USD",
+      "period": "Carnegie FY2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Programme support.",
+      "limit": "Does not establish control of research.",
+      "overlap": "Preserve paying legal entity.",
+      "source_access": "Annual report read",
+      "sources": [
+        {
+          "title": "Carnegie 2025 annual report",
+          "url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+          "locator": "PDF p.37, printed p.35"
+        }
+      ]
+    },
+    {
+      "id": "R14",
+      "date": "2025-06-30",
+      "region": "India",
+      "payer": "Microsoft Corporation (India) Private Limited",
+      "recipient": "Carnegie India",
+      "type": "Think-tank funding",
+      "amount_text": "USD25,000–99,999 cash received",
+      "currency": "USD",
+      "period": "Carnegie FY2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Programme support.",
+      "limit": "Grant terms and legal effect unknown.",
+      "overlap": "Do not merge with Microsoft parent disclosures.",
+      "source_access": "Annual report read",
+      "sources": [
+        {
+          "title": "Carnegie 2025 annual report",
+          "url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+          "locator": "PDF p.37, printed p.35"
+        }
+      ]
+    },
+    {
+      "id": "R15",
+      "date": "2025-06-30",
+      "region": "India",
+      "payer": "Facebook India Online Services Pvt. Ltd.",
+      "recipient": "Carnegie India",
+      "type": "Think-tank funding",
+      "amount_text": "USD25,000–99,999 cash received",
+      "currency": "USD",
+      "period": "Carnegie FY2025",
+      "status": "Recipient-disclosed donor band",
+      "policy_link": "Programme support.",
+      "limit": "No purchased recommendation established.",
+      "overlap": "Preserve entity distinct from Meta Platform Inc.",
+      "source_access": "Annual report read",
+      "sources": [
+        {
+          "title": "Carnegie 2025 annual report",
+          "url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+          "locator": "PDF p.37, printed p.35"
+        }
+      ]
+    },
+    {
+      "id": "R16",
+      "date": "2025-06-30",
+      "region": "United States / international policy",
+      "payer": "Microsoft Corporation",
+      "recipient": "Brookings Institution",
+      "type": "Think-tank support, mixed cash/contracts/in-kind",
+      "amount_text": "USD100,000–249,999 support band",
+      "currency": "USD",
+      "period": "1 July 2024–30 June 2025",
+      "status": "Recipient-disclosed mixed-category contribution band",
+      "policy_link": "Financial/support relationship with a research institution used as a source in the earlier chronology; relevant transparency context.",
+      "limit": "Report combines cash, contracts and in-kind support. Funding does not invalidate every Brookings finding or establish influence on its earlier genealogy article.",
+      "overlap": "Not comparable to cash-only donor lists without a breakdown.",
+      "source_access": "Recipient honor roll read",
+      "sources": [
+        {
+          "title": "Brookings fiscal 2025 honor roll",
+          "url": "https://www.brookings.edu/wp-content/uploads/2026/03/Brookings-Intitution-Honor-Roll-2025-Fiscal-Year.pdf",
+          "locator": "PDF pp.2–3, USD100,000–249,999; opening category definition"
+        },
+        {
+          "title": "Brookings finances and independence",
+          "url": "https://www.brookings.edu/about-us/finances/",
+          "locator": "Research independence safeguards"
+        }
+      ]
+    },
+    {
+      "id": "W03",
+      "date": "2025-07-21",
+      "region": "United Kingdom",
+      "payer": "No payer established; Department for Science, Innovation and Technology and OpenAI are the parties",
+      "recipient": "DSIT and OpenAI, reciprocal memorandum participants",
+      "type": "Unpriced government-company memorandum",
+      "amount_text": "No monetary amount disclosed",
+      "currency": null,
+      "period": "Memorandum published 21 July 2025",
+      "status": "Published voluntary, legally nonbinding statement of intent",
+      "policy_link": "Public-sector AI adoption, potential AI Growth Zone participation, sovereign capabilities and technical exchanges with the AI Security Institute.",
+      "limit": "The memorandum expressly does not prejudice future procurement. No purchase, investment delivery, payment or legally binding financial commitment established.",
+      "overlap": "Do not treat possible future procurement or infrastructure participation as additional committed money.",
+      "source_access": "Government HTML text opened and reviewed, including the final nonbinding paragraph.",
+      "sources": [
+        {
+          "title": "Memorandum of Understanding between UK and OpenAI on AI opportunities",
+          "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+          "locator": "Sections 2–4 and final paragraph"
+        }
+      ]
+    },
+    {
+      "id": "W06",
+      "date": "2025-08-25",
+      "region": "Canada",
+      "payer": "OpenAI OpCo LLC, registered consultant client; fee not disclosed",
+      "recipient": "Dev Saxena, SDS Global Strategies, consultant; communication participant Mark Schaan, Deputy Secretary to the Cabinet, Privy Council Office",
+      "type": "Unpriced registered lobbying relationship and government communication",
+      "amount_text": "Consultant fee not disclosed; no payment to the public official established",
+      "currency": null,
+      "period": "Communication 25 August 2025; posted 15 September 2025; registration version 21 August–8 December 2025",
+      "status": "Registered communication 382096-646755 and consultant undertaking",
+      "policy_link": "Registered objectives include AI development/adoption, Canadian competitiveness and G7 leadership involving AI, energy and infrastructure.",
+      "limit": "Registration objectives are not proof that every listed subject was discussed at this meeting. No successful policy outcome or particular amount paid was established.",
+      "overlap": "One meeting record and its related registration describe the same relationship; do not count them as separate payments.",
+      "source_access": "Original registry indexed text reviewed. Direct communication and monthly-list opening attempts were inaccessible or returned 403; no complete register export claimed.",
+      "sources": [
+        {
+          "title": "Office of the Commissioner of Lobbying: OpenAI monthly communications, August 2025",
+          "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/mnthlyClntCmmnctns?clientOrgCorpId=382096&month=7&year=2025",
+          "locator": "Communication 382096-646755; Mark Schaan; 25 August 2025"
+        },
+        {
+          "title": "OpenAI OpCo LLC / Dev Saxena consultant registration",
+          "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/vwRg?blnk=1&cno=382096&regId=973289",
+          "locator": "Registration 961686-382096; Subject Matter Details; version 21 August–8 December 2025"
+        }
+      ]
+    },
+    {
+      "id": "R03",
+      "date": "2025-10-14",
+      "region": "India",
+      "payer": "Google",
+      "recipient": "Visakhapatnam AI hub and associated infrastructure; partner allocations undisclosed",
+      "type": "Infrastructure commitment",
+      "amount_text": "Approximately USD15,000,000,000 planned",
+      "currency": "USD",
+      "period": "2026–2030",
+      "status": "Announced commitment; government confirms groundbreaking 28 April 2026",
+      "policy_link": "Infrastructure developed with AdaniConneX and Airtel/Nxtra; government ministers participated in the milestone.",
+      "limit": "Not USD15bn paid to the government, nor evidence all funds were spent. Contracts, incentives and disbursement schedule were not obtained.",
+      "overlap": "Hub, energy and connectivity components belong to the same headline package.",
+      "source_access": "Company announcement and government milestone record read",
+      "sources": [
+        {
+          "title": "Google's first AI hub in India",
+          "url": "https://blog.google/intl/en-in/company-news/our-first-ai-hub-in-india-powered-by-a-15-billion-investment/",
+          "locator": "Investment amount, five-year period and partners"
+        },
+        {
+          "title": "Government of India: AI hub groundbreaking",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2256187&lang=1&reg=20",
+          "locator": "28 April 2026 milestone"
+        }
+      ]
+    },
+    {
+      "id": "G02",
+      "date": "2025-11-03",
+      "region": "UAE / United States",
+      "payer": "Microsoft",
+      "recipient": "UAE infrastructure, operations and G42",
+      "type": "Mixed investment and operating expenditure program",
+      "amount_text": "USD 15.2 billion headline: over USD 7.3 billion projected through end-2025 and over USD 7.9 billion planned for 2026-2029",
+      "currency": "USD",
+      "period": "2023-2029",
+      "status": "Mixed existing activity and forecasts; end-2025 figure was prospective at publication; full expenditure not independently verified",
+      "policy_link": "Company reports September 2025 U.S. export licences, subject to safeguards, enabling additional GPU shipments.",
+      "limit": "Not one recipient payment or all new money. Licence equivalents are not shipment or deployment receipts.",
+      "overlap": "The end-2025 figure includes G01, over USD 4.6 billion capex and over USD 1.2 billion operating expense/COGS. Do not add chip-equivalent quantities to G06 across unlike units.",
+      "source_access": "Primary company disclosure opened.",
+      "sources": [
+        {
+          "title": "Microsoft's $15.2 billion USD investment in the UAE",
+          "url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/",
+          "locator": "Our investment numbers; An investment in world-leading technology"
+        }
+      ]
+    },
+    {
+      "id": "R04",
+      "date": "2025-12-09",
+      "region": "India",
+      "payer": "Microsoft",
+      "recipient": "Indian cloud/AI infrastructure, operations and skilling; contractor shares undisclosed",
+      "type": "Infrastructure commitment",
+      "amount_text": "USD17,500,000,000 planned; described as additional to January 2025 USD3bn commitment",
+      "currency": "USD",
+      "period": "2026–2029",
+      "status": "Company-announced investment programme",
+      "policy_link": "Announcement connects investment with government digital programmes, including e-Shram and National Career Service integrations.",
+      "limit": "Government programme integration does not prove payment for a policy change. Budget is not verified outturn or public subsidy.",
+      "overlap": "Earlier USD3bn has a separate period and scope; no combined spending total is calculated.",
+      "source_access": "Original company disclosure read",
+      "sources": [
+        {
+          "title": "Microsoft invests US$17.5 billion in India",
+          "url": "https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/",
+          "locator": "Investment period, earlier commitment and integrations"
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "date": "2026-01-21",
+      "region": "Thailand / United States",
+      "payer": "Google",
+      "recipient": "Bangkok cloud-region and Chonburi data-centre infrastructure",
+      "type": "Infrastructure investment commitment with subsequent operating milestone",
+      "amount_text": "USD 1 billion / THB 36 billion announced September 30, 2024",
+      "currency": "USD; company-provided THB equivalent",
+      "period": "Commitment September 30, 2024; Bangkok cloud launch January 21, 2026",
+      "status": "Cloud-region launch company-confirmed; full budget expenditure and separate data-centre completion not established",
+      "policy_link": "Announced with prime minister after November 2023 government agreement covering infrastructure, responsible AI, cloud-first policies and skills.",
+      "limit": "Domestic processing and compliance access do not establish that Google changed Thai privacy law.",
+      "overlap": "January 2026 launch is a milestone within the USD 1bn plan, not an additional USD 1bn investment. Economic-value projections are not cash.",
+      "source_access": "Original company press release and subsequent launch article opened.",
+      "sources": [
+        {
+          "title": "Google Announces Plans to Invest US$1 Billion in Thailand",
+          "url": "https://www.googlecloudpresscorner.com/2024-09-30-Google-Announces-Plans-to-Invest-US-1-Billion-to-Build-Data-Center-and-Cloud-Region-in-Thailand,-Support-Initiatives-to-Expand-AI-Opportunities-for-Thais",
+          "locator": "September 30, 2024; government agreement, amount, Bangkok and Chonburi"
+        },
+        {
+          "title": "Google Cloud launches new region in Bangkok",
+          "url": "https://cloud.google.com/blog/products/infrastructure/google-cloud-launches-new-region-in-bangkok-thailand",
+          "locator": "January 21, 2026; launch as milestone within USD 1bn investment"
+        }
+      ]
+    },
+    {
+      "id": "EU11",
+      "date": "2026-09-29",
+      "region": "European Union",
+      "payer": "Google Ireland Limited and its affiliates",
+      "recipient": "FTI Consulting Belgium",
+      "type": "Intermediary fee band reported by registry mirror",
+      "amount_text": "200,000–299,999",
+      "currency": "EUR",
+      "period": "Declaration dated 29 September 2026, associated with mirror's 2025 reporting dataset",
+      "status": "SECONDARY_LEAD_NOT_PRIMARY_VERIFIED",
+      "policy_link": "Named consultancy relationship; no firm-specific AI Act instruction or policy outcome established.",
+      "limit": "Financial row was read only in a secondary registry mirror. Official register produced a page shell after an earlier rate-limit response; original financial declaration was not independently read.",
+      "overlap": "Likely represented within company aggregate EU lobbying costs; do not add as extra spending.",
+      "source_access": "SECONDARY_LEAD_NOT_PRIMARY_VERIFIED",
+      "sources": [
+        {
+          "title": "LobbyingSoftware: Google Ireland Limited and its affiliates",
+          "url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+          "locator": "2025 activity and intermediary declaration dated 29 September 2026"
+        },
+        {
+          "title": "EU Transparency Register: original Google entry locator",
+          "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+          "locator": "Original locator only; financial contents not returned"
+        }
+      ]
+    },
+    {
+      "id": "G08",
+      "date": "2026-10-01",
+      "region": "Japan / United States",
+      "payer": "SoftBank Group through SoftBank Vision Fund 2",
+      "recipient": "OpenAI",
+      "type": "Completed equity-financing rounds and cumulative investment update",
+      "amount_text": "2025 own funding USD 7.5bn plus USD 22.5bn; USD 11bn others made that round USD 41bn. Separate 2026 USD 30bn completed October 1. Company reports cumulative USD 64.6bn and approximately 13% ownership.",
+      "currency": "USD",
+      "period": "2025 closings and separate 2026 follow-on; cumulative as of October 1, 2026",
+      "status": "Company-reported completed financing; no independent bank-payment audit",
+      "policy_link": "Corporate equity and strategic relationship. No Japanese government concession or financing established by these payment disclosures.",
+      "limit": "October USD 10bn tranche funded from senior-note proceeds. Economic stake does not by itself establish governance control. Do not equate SVF2 with sovereign-backed SVF1.",
+      "overlap": "Cumulative USD 64.6bn includes prior investments; do not add the 2025/2026 rounds again. Third-party round funding is not SoftBank's own contribution.",
+      "source_access": "Both company completion releases and primary JPX-hosted financial filing opened.",
+      "sources": [
+        {
+          "title": "Completion of Additional $22.5 Billion Investment in OpenAI",
+          "url": "https://group.softbank/en/news/press/20251231",
+          "locator": "December 31, 2025; December 26 closing, own versus syndicated funds, then approximately 11% interest"
+        },
+        {
+          "title": "Execution of Follow-on Investment (Third Tranche) in OpenAI",
+          "url": "https://group.softbank/en/news/press/20261001",
+          "locator": "October 1, 2026; USD 30bn completion, USD 64.6bn cumulative, approximately 13%, senior-note financing"
+        },
+        {
+          "title": "SoftBank Group consolidated financial report for year ended March 31, 2026",
+          "url": "https://www2.jpx.co.jp/disc/99840/140120260507517661.pdf",
+          "locator": "Financial-report p.18; SVF2 capital commitments distinguish company/MgmtCo from SVF1; MgmtCo capital not paid at period end"
+        }
+      ]
+    },
+    {
+      "id": "EU12",
+      "date": "2026-10-02",
+      "region": "European Union",
+      "payer": "Microsoft Corporation",
+      "recipient": "APCO Worldwide",
+      "type": "Consultancy fee band reported from client and recipient declarations by registry mirror",
+      "amount_text": "200,000–299,999 on each reporting side; not two amounts to sum",
+      "currency": "EUR",
+      "period": "Client declaration 2 October 2026; recipient declaration 20 October 2026; underlying financial period not independently confirmed",
+      "status": "SECONDARY_LEAD_NOT_PRIMARY_VERIFIED",
+      "policy_link": "General consultancy relationship. Specific demand and resulting policy outcome unestablished.",
+      "limit": "Original financial filings not independently read. Two matching bands may describe the same relationship. Do not equate this mandate with EARE funding without a breakdown.",
+      "overlap": "Do not double-count client and consultant declarations, add to Microsoft aggregate EU costs, or sum with EU05 without reconciliation.",
+      "source_access": "SECONDARY_LEAD_NOT_PRIMARY_VERIFIED",
+      "sources": [
+        {
+          "title": "LobbyingSoftware: Microsoft Corporation",
+          "url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+          "locator": "APCO intermediary declaration 2 October and client declaration 20 October 2026"
+        }
+      ]
+    },
+    {
+      "id": "EU05",
+      "date": "2026-11-01",
+      "region": "European Union",
+      "payer": "Microsoft; paying legal entity not specified by this source",
+      "recipient": "APCO-run European Alliance for Research Excellence secretariat; precise contracting payee not specified",
+      "type": "Coalition-secretariat funding relationship",
+      "amount_text": "Undisclosed; not zero",
+      "currency": "NOT_DISCLOSED",
+      "period": "Relationship observed 1 November 2026; coalition founded 2017; relevant manifesto covers 2024–2029; payment dates undisclosed",
+      "status": "Funding relationship expressly disclosed, amount unreported",
+      "policy_link": "EARE advocates broader AI-training data access and ending commercial/noncommercial distinctions. Its own governance disclosure says positions require member consensus.",
+      "limit": "No precise payment or resulting legislative change established. Member consensus cautions against treating every coalition position as a unilateral funder instruction.",
+      "overlap": "May overlap Microsoft-to-APCO spending; no breakdown establishes whether it does. Do not add to EU12.",
+      "source_access": "PRIMARY_DISCLOSURE_READ; manifesto text returned in indexed search; direct PDF fetch timed out",
+      "sources": [
+        {
+          "title": "EARE: Get in touch — funding and governance disclosure",
+          "url": "https://eare.eu/get-in-touch/",
+          "locator": "Secretariat governance paragraph: APCO operates secretariat and Microsoft funds activities"
+        },
+        {
+          "title": "EARE policy priorities for the next mandate, 2024–2029",
+          "url": "https://eare.eu/app/uploads/2025/10/EARE-MANIFESTO_Final.pdf",
+          "locator": "The Path Forward and About Us"
+        }
+      ]
+    },
+    {
+      "id": "G05",
+      "date": "2026-11-01",
+      "region": "Saudi Arabia",
+      "payer": "Aramco through a wholly owned subsidiary; PIF contributes assets/capabilities",
+      "recipient": "HUMAIN",
+      "type": "Closed equity and asset-contribution transaction",
+      "amount_text": "Approximately SAR 9.9 billion (company equivalent USD 2.6 billion) cash contributions in 2026 plus AI, compute and digital assets; Aramco 49%, PIF 51%",
+      "currency": "SAR; company-provided USD equivalent",
+      "period": "Closing announced November 1, 2026; cash contributions described for 2026",
+      "status": "Company-announced closed transaction; individual cash-payment dates and asset valuations undisclosed",
+      "policy_link": "State-linked consolidation supports Saudi AI industrial policy and public/private-sector applications.",
+      "limit": "Intra-Saudi flow, not automatically a cross-border payment or a payment to NVIDIA. Planned 3 GW by 2030 is not delivered capacity.",
+      "overlap": "Supersedes October 28, 2025 nonbinding term-sheet status and earlier wholly-PIF-owned description. Cannot add capital subsequently spent on G06 without tracing downstream use.",
+      "source_access": "Aramco November 1, 2026 closing page directly opened; PIF original launch and term sheet examined.",
+      "sources": [
+        {
+          "title": "PIF and Aramco close HUMAIN transaction to accelerate HUMAIN's global growth",
+          "url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth",
+          "locator": "November 1, 2026; opening bullets and transaction paragraphs"
+        },
+        {
+          "title": "HRH Crown Prince launches HUMAIN as global AI powerhouse",
+          "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse/",
+          "locator": "May 12, 2025; PIF ownership and Crown Prince chairmanship at launch"
+        },
+        {
+          "title": "PIF and Aramco agree for Aramco to acquire a significant minority stake in HUMAIN",
+          "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/pif-and-aramco-agree-for-aramco-to-acquire-a-significant-minority-stake-in-humain-with-pif-retaining-majority-ownership/",
+          "locator": "October 28, 2025; nonbinding term sheet and conditions, superseded by closing"
+        }
+      ]
+    }
+  ],
+  "source_register": [
+    {
+      "title": "American Loan Bill, Commons, 12 October 1915",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1915/oct/12/american-loan-bill",
+      "locator": "Chancellor McKenna's statement of loan terms",
+      "records": [
+        "R01"
+      ],
+      "capture": {
+        "url": "https://api.parliament.uk/historic-hansard/commons/1915/oct/12/american-loan-bill",
+        "title": "American Loan Bill, Commons, 12 October 1915",
+        "records": [
+          "R01"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:22.162Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://api.parliament.uk/historic-hansard/commons/1915/oct/12/american-loan-bill",
+        "content_type": "text/html",
+        "path": "source-captures/001-api.parliament.uk.html",
+        "bytes": 221297,
+        "sha256": "e498f859a6456187a11bed6c480187a3f6dc8bf57d4eb6a5163816956937d759",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "The Dawes Plan, the Young Plan, German Reparations, and Inter-allied War Debts",
+      "url": "https://history.state.gov/milestones/1921-1936/dawes",
+      "locator": "Dawes Plan and loan-reparations-debt circuit",
+      "records": [
+        "R02"
+      ],
+      "capture": {
+        "url": "https://history.state.gov/milestones/1921-1936/dawes",
+        "title": "The Dawes Plan, the Young Plan, German Reparations, and Inter-allied War Debts",
+        "records": [
+          "R02"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:22.972Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://history.state.gov/milestones/1921-1936/dawes",
+        "content_type": "text/html;charset=utf-8",
+        "path": "source-captures/002-history.state.gov.html",
+        "bytes": 33431,
+        "sha256": "c0e1d8583514b9652c3c54af6b9a2ce0648150eb740510ea20c07c8436fe7008",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Google's first AI hub in India",
+      "url": "https://blog.google/intl/en-in/company-news/our-first-ai-hub-in-india-powered-by-a-15-billion-investment/",
+      "locator": "Investment amount, five-year period and partners",
+      "records": [
+        "R03"
+      ],
+      "capture": {
+        "url": "https://blog.google/intl/en-in/company-news/our-first-ai-hub-in-india-powered-by-a-15-billion-investment/",
+        "title": "Google's first AI hub in India",
+        "records": [
+          "R03"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:23.461Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://blog.google/intl/en-in/company-news/our-first-ai-hub-in-india-powered-by-a-15-billion-investment/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/003-blog.google.html",
+        "bytes": 272429,
+        "sha256": "fa65ee1de9bd1d8683e416ac3ca7427c5d45809edc786f47106b3d2860fc443e",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Government of India: AI hub groundbreaking",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2256187&lang=1&reg=20",
+      "locator": "28 April 2026 milestone",
+      "records": [
+        "R03"
+      ],
+      "capture": {
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2256187&lang=1&reg=20",
+        "title": "Government of India: AI hub groundbreaking",
+        "records": [
+          "R03"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:24.074Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2256187&lang=1&reg=20",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/004-www.pib.gov.in.html",
+        "bytes": 106216,
+        "sha256": "94a1da760231c191abf97989090cb3c8250388c1a8204699570cd737d40b1bf5",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Microsoft invests US$17.5 billion in India",
+      "url": "https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/",
+      "locator": "Investment period, earlier commitment and integrations",
+      "records": [
+        "R04"
+      ],
+      "capture": {
+        "url": "https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/",
+        "title": "Microsoft invests US$17.5 billion in India",
+        "records": [
+          "R04"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:25.491Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/005-news.microsoft.com.html",
+        "bytes": 157431,
+        "sha256": "1e12800e58899b984fd03ac0f5b008aa2683fe0eb4fecbe46bd15f55e0598ebc",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Microsoft and G42 announce Kenya digital ecosystem initiative",
+      "url": "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/",
+      "locator": "Financing, five pillars and conditional operation",
+      "records": [
+        "R05"
+      ],
+      "capture": {
+        "url": "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/",
+        "title": "Microsoft and G42 announce Kenya digital ecosystem initiative",
+        "records": [
+          "R05"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:26.162Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/006-news.microsoft.com.html",
+        "bytes": 149508,
+        "sha256": "e1d7305fc6c4cb5bdee35f5f41d3bf90075c44bb8d0b850e8c4eaebda6d32990",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Microsoft announces 14.7 billion reais investment in Brazil",
+      "url": "https://news.microsoft.com/pt-br/microsoft-announces-14-7-billion-reais-investment-over-three-years-in-cloud-and-ai-infrastructure-and-provide-ai-training-at-scale-to-upskill-5-million-people-in-brazil/",
+      "locator": "Three-year investment and partnerships",
+      "records": [
+        "R06"
+      ],
+      "capture": {
+        "url": "https://news.microsoft.com/pt-br/microsoft-announces-14-7-billion-reais-investment-over-three-years-in-cloud-and-ai-infrastructure-and-provide-ai-training-at-scale-to-upskill-5-million-people-in-brazil/",
+        "title": "Microsoft announces 14.7 billion reais investment in Brazil",
+        "records": [
+          "R06"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:26.514Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://news.microsoft.com/pt-br/microsoft-announces-14-7-billion-reais-investment-over-three-years-in-cloud-and-ai-infrastructure-and-provide-ai-training-at-scale-to-upskill-5-million-people-in-brazil/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/007-news.microsoft.com.html",
+        "bytes": 122476,
+        "sha256": "56c1e7c6f65c350f98c676c64b051596beffe036f31250f998d83f0c35274e42",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Microsoft invests ZAR5.4bn in South Africa",
+      "url": "https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/",
+      "locator": "Additional investment and deadline",
+      "records": [
+        "R07"
+      ],
+      "capture": {
+        "url": "https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/",
+        "title": "Microsoft invests ZAR5.4bn in South Africa",
+        "records": [
+          "R07"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:26.805Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/008-news.microsoft.com.html",
+        "bytes": 142110,
+        "sha256": "2faad6d8f95383d4bedd5da69b7cd1f347d640e50ed18b5ca77e8768fd54eae9",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Atlantic Council 2025 contributors",
+      "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+      "locator": "USD250,000–499,999; Google",
+      "records": [
+        "R08",
+        "R09",
+        "R10",
+        "R11"
+      ],
+      "capture": {
+        "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+        "title": "Atlantic Council 2025 contributors",
+        "records": [
+          "R08",
+          "R09",
+          "R10",
+          "R11"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:27.064Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/2025-honor-roll-of-contributors/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/009-www.atlanticcouncil.org.html",
+        "bytes": 494442,
+        "sha256": "72de732a2a38b0a51e4ad625d072da9ad6445b4c11faea3901de0c1d0bd1576c",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Carnegie 2025 annual report",
+      "url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+      "locator": "PDF pp.34–35; cash-period statement and Google/Africa entry",
+      "records": [
+        "R12",
+        "R13",
+        "R14",
+        "R15"
+      ],
+      "capture": {
+        "url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+        "title": "Carnegie 2025 annual report",
+        "records": [
+          "R12",
+          "R13",
+          "R14",
+          "R15"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:27.500Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://assets.carnegieendowment.org/files/2025_AnnualReport_final-1.pdf",
+        "content_type": "application/pdf",
+        "path": "source-captures/010-assets.carnegieendowment.org.pdf",
+        "bytes": 9678768,
+        "sha256": "8bdb1f8b3f2d43c6abfc407c2a791261213753dcbe13838e3f2a37e1695bf970",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Brookings fiscal 2025 honor roll",
+      "url": "https://www.brookings.edu/wp-content/uploads/2026/03/Brookings-Intitution-Honor-Roll-2025-Fiscal-Year.pdf",
+      "locator": "PDF pp.2–3, USD100,000–249,999; opening category definition",
+      "records": [
+        "R16"
+      ],
+      "capture": {
+        "url": "https://www.brookings.edu/wp-content/uploads/2026/03/Brookings-Intitution-Honor-Roll-2025-Fiscal-Year.pdf",
+        "title": "Brookings fiscal 2025 honor roll",
+        "records": [
+          "R16"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:32.977Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.brookings.edu/wp-content/uploads/2026/03/Brookings-Intitution-Honor-Roll-2025-Fiscal-Year.pdf",
+        "content_type": "application/pdf",
+        "path": "source-captures/011-www.brookings.edu.pdf",
+        "bytes": 198422,
+        "sha256": "6e46a4f22986bdb110713a7dc73b994a17e434ad82f54d652586d1212119b93c",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Brookings finances and independence",
+      "url": "https://www.brookings.edu/about-us/finances/",
+      "locator": "Research independence safeguards",
+      "records": [
+        "R16"
+      ],
+      "capture": {
+        "url": "https://www.brookings.edu/about-us/finances/",
+        "title": "Brookings finances and independence",
+        "records": [
+          "R16"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:33.316Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.brookings.edu/about-us/finances/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/012-www.brookings.edu.html",
+        "bytes": 128734,
+        "sha256": "c160a5e138bd9b3a2204b7f6724e684b8e5f72ccf7a759c087766af913147037",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "Microsoft trade-association memberships FY2024",
+      "url": "https://aka.ms/AdvocacyTradeMembershipsFY24",
+      "locator": "US Council for International Business; right column Amount Used for Non-Deductible Expenses",
+      "records": [
+        "R17"
+      ],
+      "capture": {
+        "url": "https://aka.ms/AdvocacyTradeMembershipsFY24",
+        "title": "Microsoft trade-association memberships FY2024",
+        "records": [
+          "R17"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:33.479Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/FY24-Trade-Association-Memberships.pdf",
+        "content_type": "application/pdf",
+        "path": "source-captures/013-aka.ms.pdf",
+        "bytes": 155099,
+        "sha256": "8d0e61d90bf9f40ec8385ac0f556d6439db0c242a68e31d2803d9b5076cd94cb",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "USCIB written submission to UN Global AI Dialogue",
+      "url": "https://uscib.org/uscib-content/uploads/2026/05/USCIBWrittenSubmissionUNGlobalAIDIalogueMay2026-1.pdf",
+      "locator": "7 May 2026, two-page submission",
+      "records": [
+        "R17",
+        "R18"
+      ],
+      "capture": {
+        "url": "https://uscib.org/uscib-content/uploads/2026/05/USCIBWrittenSubmissionUNGlobalAIDIalogueMay2026-1.pdf",
+        "title": "USCIB written submission to UN Global AI Dialogue",
+        "records": [
+          "R17",
+          "R18"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:35.108Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://uscib.org/uscib-content/uploads/2026/05/USCIBWrittenSubmissionUNGlobalAIDIalogueMay2026-1.pdf",
+        "content_type": "application/pdf",
+        "path": "source-captures/014-uscib.org.pdf",
+        "bytes": 167589,
+        "sha256": "f14e601ea678d7eb1a24724c669fb5b5705f2dbbca76831fd12b5658554c385a",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "USCIB digital policy",
+      "url": "https://uscib.org/digital-policy/",
+      "locator": "Member involvement and international policy venues",
+      "records": [
+        "R17"
+      ],
+      "capture": {
+        "url": "https://uscib.org/digital-policy/",
+        "title": "USCIB digital policy",
+        "records": [
+          "R17"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:36.176Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://uscib.org/digital-policy/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/015-uscib.org.html",
+        "bytes": 134890,
+        "sha256": "f05016c19c90f73291b767d131a2046854d33e2c7ce4f0b9c757cf0433210f34",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Google 2025 public-policy memberships",
+      "url": "https://services.google.com/fh/files/misc/2025_memberships_for_google_public_policy_transparency_page.pdf",
+      "locator": "US Council for International Business and international business associations",
+      "records": [
+        "R18"
+      ],
+      "capture": {
+        "url": "https://services.google.com/fh/files/misc/2025_memberships_for_google_public_policy_transparency_page.pdf",
+        "title": "Google 2025 public-policy memberships",
+        "records": [
+          "R18"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:37.516Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://services.google.com/fh/files/misc/2025_memberships_for_google_public_policy_transparency_page.pdf",
+        "content_type": "application/pdf",
+        "path": "source-captures/016-services.google.com.pdf",
+        "bytes": 237680,
+        "sha256": "8ee8449a6c844d5848dc71f2b38e122b71ef20fabe39c9f252b7af8cfb09a521",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Google public-policy transparency",
+      "url": "https://www.google.com/publicpolicy/transparency/",
+      "locator": "Political spending, third-party funding rules and February 2026 update",
+      "records": [
+        "R18"
+      ],
+      "capture": {
+        "url": "https://www.google.com/publicpolicy/transparency/",
+        "title": "Google public-policy transparency",
+        "records": [
+          "R18"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:38.230Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.google.com/publicpolicy/transparency/",
+        "content_type": "text/html",
+        "path": "source-captures/017-www.google.com.html",
+        "bytes": 119654,
+        "sha256": "7fb5508bbbe72010fae4d6ab48c746e947c2ffd1e35d9dad8f15fa5426cb1c4c",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Shanghai government: national AI fund established in Xuhui",
+      "url": "https://www.shanghai.gov.cn/nw15343/20250123/76167eae0a624d569fc71fe6627e5334.html?siteId=1",
+      "locator": "23 January 2025; opening two paragraphs; 600亿元",
+      "records": [
+        "CN01"
+      ],
+      "capture": {
+        "url": "https://www.shanghai.gov.cn/nw15343/20250123/76167eae0a624d569fc71fe6627e5334.html?siteId=1",
+        "title": "Shanghai government: national AI fund established in Xuhui",
+        "records": [
+          "CN01"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:38.904Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.shanghai.gov.cn/nw15343/20250123/76167eae0a624d569fc71fe6627e5334.html?siteId=1",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/018-www.shanghai.gov.cn.html",
+        "bytes": 13495,
+        "sha256": "3fd0ee04d7d778e58e8592dba2ce72efc91173600405c808fbc1a2ebf3a80514",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Alibaba to invest RMB380 billion in AI and cloud infrastructure",
+      "url": "https://www.alibabagroup.com/en-US/document-1830678592242057216",
+      "locator": "24 February 2025; opening paragraph",
+      "records": [
+        "CN02"
+      ],
+      "capture": {
+        "url": "https://www.alibabagroup.com/en-US/document-1830678592242057216",
+        "title": "Alibaba to invest RMB380 billion in AI and cloud infrastructure",
+        "records": [
+          "CN02"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:41.090Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.alibabagroup.com/en-US/document-1830678592242057216",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/019-www.alibabagroup.com.html",
+        "bytes": 70857,
+        "sha256": "a4885cca2a347d01efb4be9ec34f88080732fb198145433663d2ad500858340a",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Bundestag Lobbyregister: GC Germany GmbH, historical filing",
+      "url": "https://www.lobbyregister.bundestag.de/media/a3/ab/521487/Lobbyregister-Registereintraege-Detailansicht-R007050-2025-05-19_18-08-03.pdf",
+      "locator": "Pages 4–5; OpenAI mandate and received-funds band",
+      "records": [
+        "EU01"
+      ],
+      "capture": {
+        "url": "https://www.lobbyregister.bundestag.de/media/a3/ab/521487/Lobbyregister-Registereintraege-Detailansicht-R007050-2025-05-19_18-08-03.pdf",
+        "title": "Bundestag Lobbyregister: GC Germany GmbH, historical filing",
+        "records": [
+          "EU01"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:42.178Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.lobbyregister.bundestag.de/media/a3/ab/521487/Lobbyregister-Registereintraege-Detailansicht-R007050-2025-05-19_18-08-03.pdf",
+        "content_type": "application/pdf",
+        "path": "source-captures/020-www.lobbyregister.bundestag.de.pdf",
+        "bytes": 292875,
+        "sha256": "d70bb9971d6d488faab1d982eb6a6e893b870a7719dda0361194a25b9dd0978c",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Bundestag Lobbyregister: GC Germany GmbH current entry",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R007050",
+      "locator": "Former-lobbyist status dated 10 July 2026",
+      "records": [
+        "EU01"
+      ],
+      "capture": {
+        "url": "https://www.lobbyregister.bundestag.de/suche/R007050",
+        "title": "Bundestag Lobbyregister: GC Germany GmbH current entry",
+        "records": [
+          "EU01"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:43.817Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.lobbyregister.bundestag.de/suche/R007050",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "source-captures/021-www.lobbyregister.bundestag.de.html",
+        "bytes": 56078,
+        "sha256": "140410f92273a1883381debff8fcdd556ab4040d3cfa339755811efc5ad5d117",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Bundestag Lobbyregister: Miller & Meier Consulting GmbH",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R000709",
+      "locator": "Mandate 10, Microsoft Deutschland GmbH; calendar-2025 received funds",
+      "records": [
+        "EU02"
+      ],
+      "capture": {
+        "url": "https://www.lobbyregister.bundestag.de/suche/R000709",
+        "title": "Bundestag Lobbyregister: Miller & Meier Consulting GmbH",
+        "records": [
+          "EU02"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:44.516Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.lobbyregister.bundestag.de/suche/R000709",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "source-captures/022-www.lobbyregister.bundestag.de.html",
+        "bytes": 186738,
+        "sha256": "02857f1aade9d1d910f03789c869db83edd0601e674552e966fa8a5f7d01f2c5",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Bundestag Lobbyregister: 365 Sherpas BPI | 365 Sherpas GmbH",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R001824",
+      "locator": "Google Germany GmbH mandate; calendar-2025 received funds",
+      "records": [
+        "EU03"
+      ],
+      "capture": {
+        "url": "https://www.lobbyregister.bundestag.de/suche/R001824",
+        "title": "Bundestag Lobbyregister: 365 Sherpas BPI | 365 Sherpas GmbH",
+        "records": [
+          "EU03"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:44.855Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.lobbyregister.bundestag.de/suche/R001824",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "source-captures/023-www.lobbyregister.bundestag.de.html",
+        "bytes": 320523,
+        "sha256": "f2533ecda4749c68ad53545d2fc5983cd62f7cb621e957e025778b26d31ed4fa",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Bundestag Lobbyregister: Johanssen+Kretschmer Strategische Kommunikation GmbH",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R002324",
+      "locator": "Google Germany GmbH mandate and calendar-2025 received-funds band",
+      "records": [
+        "EU04"
+      ],
+      "capture": {
+        "url": "https://www.lobbyregister.bundestag.de/suche/R002324",
+        "title": "Bundestag Lobbyregister: Johanssen+Kretschmer Strategische Kommunikation GmbH",
+        "records": [
+          "EU04"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:45.239Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.lobbyregister.bundestag.de/suche/R002324",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "source-captures/024-www.lobbyregister.bundestag.de.html",
+        "bytes": 139492,
+        "sha256": "aa52a2cf2f6fed099842e55b5da7361a91d2d8283ea69e3f9462ca56c5fc68af",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Bundestag policy mandate RV0013794: national sovereignty requirements for cloud providers",
+      "url": "https://www.lobbyregister.bundestag.de/inhalte-der-interessenvertretung/regelungsvorhabensuche/RV0013794/540785",
+      "locator": "Description, recorded 17 December 2024, and associated Google mandate",
+      "records": [
+        "EU04"
+      ],
+      "capture": {
+        "url": "https://www.lobbyregister.bundestag.de/inhalte-der-interessenvertretung/regelungsvorhabensuche/RV0013794/540785",
+        "title": "Bundestag policy mandate RV0013794: national sovereignty requirements for cloud providers",
+        "records": [
+          "EU04"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:45.607Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.lobbyregister.bundestag.de/inhalte-der-interessenvertretung/regelungsvorhabensuche/RV0013794/540785",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "source-captures/025-www.lobbyregister.bundestag.de.html",
+        "bytes": 26971,
+        "sha256": "498fa4b90aa1095f26003eea0fe22304abbd8ae297b30bdc8741dfc746ac12c4",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "EARE: Get in touch — funding and governance disclosure",
+      "url": "https://eare.eu/get-in-touch/",
+      "locator": "Secretariat governance paragraph: APCO operates secretariat and Microsoft funds activities",
+      "records": [
+        "EU05"
+      ],
+      "capture": {
+        "url": "https://eare.eu/get-in-touch/",
+        "title": "EARE: Get in touch — funding and governance disclosure",
+        "records": [
+          "EU05"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:45.956Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://eare.eu/get-in-touch/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/026-eare.eu.html",
+        "bytes": 63466,
+        "sha256": "c43ec4c4beb60f9a028197dc7d00aad6ffe412deb6d12cb0fa8493dceb5f72fc",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "EARE policy priorities for the next mandate, 2024–2029",
+      "url": "https://eare.eu/app/uploads/2025/10/EARE-MANIFESTO_Final.pdf",
+      "locator": "The Path Forward and About Us",
+      "records": [
+        "EU05"
+      ],
+      "capture": {
+        "url": "https://eare.eu/app/uploads/2025/10/EARE-MANIFESTO_Final.pdf",
+        "title": "EARE policy priorities for the next mandate, 2024–2029",
+        "records": [
+          "EU05"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:47.512Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://eare.eu/app/uploads/2025/10/EARE-MANIFESTO_Final.pdf",
+        "content_type": "application/pdf",
+        "status": "NOT_CAPTURED",
+        "error": "The operation was aborted due to timeout"
+      }
+    },
+    {
+      "title": "HATVP: Microsoft France",
+      "url": "https://www.hatvp.fr/fiche-organisation/?organisation=327733184",
+      "locator": "Financial period 1 July 2024–30 June 2025; activity 0V5XMTGH, published 26 September 2025",
+      "records": [
+        "EU06"
+      ],
+      "capture": {
+        "url": "https://www.hatvp.fr/fiche-organisation/?organisation=327733184",
+        "title": "HATVP: Microsoft France",
+        "records": [
+          "EU06"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:56.522Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.hatvp.fr/fiche-organisation/?organisation=327733184",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/028-www.hatvp.fr.html",
+        "bytes": 310732,
+        "sha256": "0f94588fd8b59ba6edecdb3ecb9dbddfa624e200601ad63c6938289feaf96231",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Article 35, Law 2026-403 of 26 May 2026 — original enacted text",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131531",
+      "locator": "I.3(b), new urban-planning Article L300-6-2 I bis; subsection IV constitutional rejection",
+      "records": [
+        "EU06"
+      ],
+      "capture": {
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131531",
+        "title": "Article 35, Law 2026-403 of 26 May 2026 — original enacted text",
+        "records": [
+          "EU06"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:58.591Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131531",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/029-www.legifrance.gouv.fr.html",
+        "bytes": 5745,
+        "sha256": "8d06adf06d0a03bad5568dad734ddbb56a700a6c5368fecd5d4edc8418c172c9",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "French Senate report 634, 28 May 2024: existing Article 15 data-centre proposal",
+      "url": "https://www.senat.fr/rap/l23-634/l23-6343.html",
+      "locator": "Section D; report date and pre-existing Article 15",
+      "records": [
+        "EU06"
+      ],
+      "capture": {
+        "url": "https://www.senat.fr/rap/l23-634/l23-6343.html",
+        "title": "French Senate report 634, 28 May 2024: existing Article 15 data-centre proposal",
+        "records": [
+          "EU06"
+        ],
+        "retrieved_utc": "2026-11-01T16:21:59.862Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.senat.fr/rap/l23-634/l23-6343.html",
+        "content_type": "text/html",
+        "path": "source-captures/030-www.senat.fr.html",
+        "bytes": 114448,
+        "sha256": "205e7ca8d818ee2b5a7626f82254d6b3b7e422787011dfdeb92e5224ba0b54c1",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "French Senate report 634, full text",
+      "url": "https://www.senat.fr/rap/l23-634/l23-634_mono.html",
+      "locator": "Article 15, section 2 explicitly describes extending PINM to data centres; Article 27 discussion dates bill filing to 24 April 2024",
+      "records": [
+        "EU06"
+      ],
+      "capture": {
+        "url": "https://www.senat.fr/rap/l23-634/l23-634_mono.html",
+        "title": "French Senate report 634, full text",
+        "records": [
+          "EU06"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:01.484Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.senat.fr/rap/l23-634/l23-634_mono.html",
+        "content_type": "text/html",
+        "path": "source-captures/031-www.senat.fr.html",
+        "bytes": 1676964,
+        "sha256": "21ef661e95d6ab44421202313a4bf88d5cf8bdb4e0e8673a1700b40944a69c01",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "HATVP: Google France",
+      "url": "https://www.hatvp.fr/fiche-organisation/?organisation=443061841",
+      "locator": "Calendar-2023 expenditure and activity 0V2P94PV",
+      "records": [
+        "EU07"
+      ],
+      "capture": {
+        "url": "https://www.hatvp.fr/fiche-organisation/?organisation=443061841",
+        "title": "HATVP: Google France",
+        "records": [
+          "EU07"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:04.881Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.hatvp.fr/fiche-organisation/?organisation=443061841",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/032-www.hatvp.fr.html",
+        "bytes": 2165843,
+        "sha256": "fa095af67182c03f1aeb1d1e514d0e77349f57f89b5399ad28f2066987469004",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "HATVP: Mistral AI",
+      "url": "https://www.hatvp.fr/fiche-organisation/?organisation=952418325",
+      "locator": "2025 financial declaration and four activities; 2024 financial comparator",
+      "records": [
+        "EU08"
+      ],
+      "capture": {
+        "url": "https://www.hatvp.fr/fiche-organisation/?organisation=952418325",
+        "title": "HATVP: Mistral AI",
+        "records": [
+          "EU08"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:06.575Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.hatvp.fr/fiche-organisation/?organisation=952418325",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/033-www.hatvp.fr.html",
+        "bytes": 72191,
+        "sha256": "fe18ea802326dad0b60491bc512d1df7cde1ba648518d4e7979885c23c827499",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "European Commission: The General-Purpose AI Code of Practice",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "locator": "Code scope and signatories list",
+      "records": [
+        "EU08"
+      ],
+      "capture": {
+        "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+        "title": "European Commission: The General-Purpose AI Code of Practice",
+        "records": [
+          "EU08"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:06.973Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/034-digital-strategy.ec.europa.eu.html",
+        "bytes": 60928,
+        "sha256": "21b0f0f55af331167735aa910c07c5a6c8f1475d5f7227d1199da0b895d299e0",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Bundestag Lobbyregister: OpenAI Ireland Ltd",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R006620",
+      "locator": "2025 expenditure, memberships and competitive AI Act implementation proposal",
+      "records": [
+        "EU09"
+      ],
+      "capture": {
+        "url": "https://www.lobbyregister.bundestag.de/suche/R006620",
+        "title": "Bundestag Lobbyregister: OpenAI Ireland Ltd",
+        "records": [
+          "EU09"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:07.690Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.lobbyregister.bundestag.de/suche/R006620",
+        "content_type": "text/html;charset=UTF-8",
+        "path": "source-captures/035-www.lobbyregister.bundestag.de.html",
+        "bytes": 59091,
+        "sha256": "bf44b4a24bed2fcb6f3bec9c5e8e5917b34c9bb05030fc12ed94308109f71cbc",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "French Senate inquiry: Piloter la commande publique au service de la souveraineté économique",
+      "url": "https://www.senat.fr/rap/r24-830-1/r24-830-115.html",
+      "locator": "UGAP cloud procurement section; 2024 sales and footnotes 479–481",
+      "records": [
+        "EU10"
+      ],
+      "capture": {
+        "url": "https://www.senat.fr/rap/r24-830-1/r24-830-115.html",
+        "title": "French Senate inquiry: Piloter la commande publique au service de la souveraineté économique",
+        "records": [
+          "EU10"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:08.504Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.senat.fr/rap/r24-830-1/r24-830-115.html",
+        "content_type": "text/html",
+        "path": "source-captures/036-www.senat.fr.html",
+        "bytes": 342757,
+        "sha256": "5a050c38c917c643acace56d84bfcf8db9630e05afda4f3abd255d25246a971a",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "LobbyingSoftware: Google Ireland Limited and its affiliates",
+      "url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+      "locator": "2025 activity and intermediary declaration dated 29 September 2026",
+      "records": [
+        "EU11"
+      ],
+      "capture": {
+        "url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+        "title": "LobbyingSoftware: Google Ireland Limited and its affiliates",
+        "records": [
+          "EU11"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:10.391Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/037-lobbyingsoftware.com.html",
+        "bytes": 25145,
+        "sha256": "c8b28f4b111b69e5fe199ce32fd70688ea49bfc9e49be1d3b07bde407688747c",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "EU Transparency Register: original Google entry locator",
+      "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+      "locator": "Original locator only; financial contents not returned",
+      "records": [
+        "EU11"
+      ],
+      "capture": {
+        "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+        "title": "EU Transparency Register: original Google entry locator",
+        "records": [
+          "EU11"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:11.415Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/038-transparency-register.europa.eu.html",
+        "bytes": 72880,
+        "sha256": "12cc4fc9ab15b6a7fd32640c96ca7cd8b13759e798e5889a293793fd5d03f0f6",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "LobbyingSoftware: Microsoft Corporation",
+      "url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+      "locator": "APCO intermediary declaration 2 October and client declaration 20 October 2026",
+      "records": [
+        "EU12"
+      ],
+      "capture": {
+        "url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+        "title": "LobbyingSoftware: Microsoft Corporation",
+        "records": [
+          "EU12"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:12.033Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/039-lobbyingsoftware.com.html",
+        "bytes": 43012,
+        "sha256": "54b72ea193a953d00009badd7af80382b3a39678d5eb64eaa7d7d7e657be5248",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Microsoft invests $1.5 billion in Abu Dhabi's G42",
+      "url": "https://news.microsoft.com/source/2024/04/16/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/",
+      "locator": "April 16, 2024; investment, board, Azure and IGAA paragraphs",
+      "records": [
+        "G01"
+      ],
+      "capture": {
+        "url": "https://news.microsoft.com/source/2024/04/16/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/",
+        "title": "Microsoft invests $1.5 billion in Abu Dhabi's G42",
+        "records": [
+          "G01"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:12.465Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://news.microsoft.com/source/2024/04/16/microsoft-invests-1-5-billion-in-abu-dhabis-g42-to-accelerate-ai-development-and-global-expansion/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/040-news.microsoft.com.html",
+        "bytes": 145107,
+        "sha256": "73ca25093525c846f2b346ce9ca94450eec4df054470d61a7795fde5f049159e",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Microsoft's $15.2 billion USD investment in the UAE",
+      "url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/",
+      "locator": "Our investment numbers; USD 1.5 billion equity component",
+      "records": [
+        "G01",
+        "G02"
+      ],
+      "capture": {
+        "url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/",
+        "title": "Microsoft's $15.2 billion USD investment in the UAE",
+        "records": [
+          "G01",
+          "G02"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:12.836Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://blogs.microsoft.com/on-the-issues/2025/11/03/microsofts-15-2-billion-usd-investment-in-the-uae/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/041-blogs.microsoft.com.html",
+        "bytes": 180339,
+        "sha256": "64f577be18c7cfbe54243191d3ba6fc0a5255baea136a134ea4b13577672f037",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Announcing The Stargate Project",
+      "url": "https://openai.com/index/announcing-the-stargate-project/",
+      "locator": "January 21, 2025; investment intention and initial funder/partner paragraphs",
+      "records": [
+        "G03"
+      ],
+      "capture": {
+        "url": "https://openai.com/index/announcing-the-stargate-project/",
+        "title": "Announcing The Stargate Project",
+        "records": [
+          "G03"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:13.135Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://openai.com/index/announcing-the-stargate-project/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/042-openai.com.html",
+        "bytes": 9910,
+        "sha256": "64405dd4e900a4f225cf60dc2c809aa161b6835a480c2cc688c72909b280abfd",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "Abu Dhabi Launches Comprehensive Global Investment Strategy on Artificial Intelligence",
+      "url": "https://www.mediaoffice.abudhabi/en/technology/abu-dhabi-launches-comprehensive-global-investment-strategy-on-artificial-intelligence/",
+      "locator": "March 11, 2024; AIATC creation of MGX, foundational partners and board",
+      "records": [
+        "G03"
+      ],
+      "capture": {
+        "url": "https://www.mediaoffice.abudhabi/en/technology/abu-dhabi-launches-comprehensive-global-investment-strategy-on-artificial-intelligence/",
+        "title": "Abu Dhabi Launches Comprehensive Global Investment Strategy on Artificial Intelligence",
+        "records": [
+          "G03"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:13.399Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.mediaoffice.abudhabi/en/technology/abu-dhabi-launches-comprehensive-global-investment-strategy-on-artificial-intelligence/",
+        "content_type": "text/html;charset=utf-8",
+        "path": "source-captures/043-www.mediaoffice.abudhabi.html",
+        "bytes": 48127,
+        "sha256": "5ee50e5c582f839465d3a2a62fdd46113ff2adec6459a739b8c164cd2f6aecbf",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "MGX Our Portfolio",
+      "url": "https://www.mgx.ae/our-portfolio",
+      "locator": "OpenAI portfolio entry; no investment amount or stake disclosed",
+      "records": [
+        "G03"
+      ],
+      "capture": {
+        "url": "https://www.mgx.ae/our-portfolio",
+        "title": "MGX Our Portfolio",
+        "records": [
+          "G03"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:15.528Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.mgx.ae/our-portfolio",
+        "content_type": "text/html; charset=UTF-8",
+        "status": "NOT_CAPTURED",
+        "error": "The operation was aborted due to timeout"
+      }
+    },
+    {
+      "title": "Mubadala Investment Company Board of Directors Endorses New Structure",
+      "url": "https://www.mubadala.com/en/news/mubadala-investment-company-board-directors-endorses-new-structure",
+      "locator": "Opening paragraph identifies Mubadala as wholly owned by Abu Dhabi government",
+      "records": [
+        "G03"
+      ],
+      "capture": {
+        "url": "https://www.mubadala.com/en/news/mubadala-investment-company-board-directors-endorses-new-structure",
+        "title": "Mubadala Investment Company Board of Directors Endorses New Structure",
+        "records": [
+          "G03"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:24.539Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.mubadala.com/en/news/mubadala-investment-company-board-directors-endorses-new-structure",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/045-www.mubadala.com.html",
+        "bytes": 65858,
+        "sha256": "cf0f52ade83d70bc9f11d8f17b0c4d55e38039f583b358c8481f0ebb80053527",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Introducing Stargate UAE",
+      "url": "https://openai.com/index/introducing-stargate-uae/",
+      "locator": "May 22, 2025; dual investments and government coordination",
+      "records": [
+        "G04"
+      ],
+      "capture": {
+        "url": "https://openai.com/index/introducing-stargate-uae/",
+        "title": "Introducing Stargate UAE",
+        "records": [
+          "G04"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:26.048Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://openai.com/index/introducing-stargate-uae/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/046-openai.com.html",
+        "bytes": 9889,
+        "sha256": "02c3cfff02ad911349922851a90093cd3e2b2ea7fdb3031ecaada69b39e9638b",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "UAE/US Framework on Advanced Technology Cooperation",
+      "url": "https://www.commerce.gov/news/press-releases/2025/05/uae/us-framework-advanced-technology-cooperation",
+      "locator": "May 15, 2025; 1 GW/5 GW, inward investments and working group",
+      "records": [
+        "G04"
+      ],
+      "capture": {
+        "url": "https://www.commerce.gov/news/press-releases/2025/05/uae/us-framework-advanced-technology-cooperation",
+        "title": "UAE/US Framework on Advanced Technology Cooperation",
+        "records": [
+          "G04"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:26.325Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.commerce.gov/news/press-releases/2025/05/uae/us-framework-advanced-technology-cooperation",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/047-www.commerce.gov.html",
+        "bytes": 5837,
+        "sha256": "79dad020c7df2830e1e5a1ae992fa0740ae5204cedb321c6eb67c65c55e5709d",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "PIF and Aramco close HUMAIN transaction to accelerate HUMAIN's global growth",
+      "url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth",
+      "locator": "November 1, 2026; opening bullets and transaction paragraphs",
+      "records": [
+        "G05"
+      ],
+      "capture": {
+        "url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth",
+        "title": "PIF and Aramco close HUMAIN transaction to accelerate HUMAIN's global growth",
+        "records": [
+          "G05"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:26.639Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/048-www.aramco.com.html",
+        "bytes": 509980,
+        "sha256": "4ce0e52f3f9cb9462660ff531e3b4ada456e66dd96b8d319321d973cefab23ab",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "HRH Crown Prince launches HUMAIN as global AI powerhouse",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse/",
+      "locator": "May 12, 2025; PIF ownership and Crown Prince chairmanship at launch",
+      "records": [
+        "G05"
+      ],
+      "capture": {
+        "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse/",
+        "title": "HRH Crown Prince launches HUMAIN as global AI powerhouse",
+        "records": [
+          "G05"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:28.850Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/hrh-crown-prince-launches-humain-as-global-ai-powerhouse/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/049-www.pif.gov.sa.html",
+        "bytes": 5683,
+        "sha256": "27df58be875e01979226003a87e52310a60bf7a40f1ee3c9362f2ef95b377ae2",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "PIF and Aramco agree for Aramco to acquire a significant minority stake in HUMAIN",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/pif-and-aramco-agree-for-aramco-to-acquire-a-significant-minority-stake-in-humain-with-pif-retaining-majority-ownership/",
+      "locator": "October 28, 2025; nonbinding term sheet and conditions, superseded by closing",
+      "records": [
+        "G05"
+      ],
+      "capture": {
+        "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/pif-and-aramco-agree-for-aramco-to-acquire-a-significant-minority-stake-in-humain-with-pif-retaining-majority-ownership/",
+        "title": "PIF and Aramco agree for Aramco to acquire a significant minority stake in HUMAIN",
+        "records": [
+          "G05"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:30.258Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2025/pif-and-aramco-agree-for-aramco-to-acquire-a-significant-minority-stake-in-humain-with-pif-retaining-majority-ownership/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/050-www.pif.gov.sa.html",
+        "bytes": 5683,
+        "sha256": "642d450cc61a9971764f1bce1c32e858ed71775c5c223e52ffe7536b70dc3a48",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "HUMAIN and NVIDIA Announce Strategic Partnership",
+      "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+      "locator": "May 13, 2025; Powering AI Factories of Tomorrow",
+      "records": [
+        "G06"
+      ],
+      "capture": {
+        "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+        "title": "HUMAIN and NVIDIA Announce Strategic Partnership",
+        "records": [
+          "G06"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:30.329Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/051-nvidianews.nvidia.com.html",
+        "bytes": 75695,
+        "sha256": "0ae00b6d1fb670cb692ea1aae63cc8db53f2d1f9950f26c5c764e6566ed95e0f",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Statement on UAE and Saudi Chip Exports",
+      "url": "https://www.commerce.gov/news/press-releases/2025/11/statement-uae-and-saudi-chip-exports",
+      "locator": "November 19, 2025; approval scope and conditions",
+      "records": [
+        "G06"
+      ],
+      "capture": {
+        "url": "https://www.commerce.gov/news/press-releases/2025/11/statement-uae-and-saudi-chip-exports",
+        "title": "Statement on UAE and Saudi Chip Exports",
+        "records": [
+          "G06"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:30.763Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.commerce.gov/news/press-releases/2025/11/statement-uae-and-saudi-chip-exports",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/052-www.commerce.gov.html",
+        "bytes": 5780,
+        "sha256": "10fff53778d21a25a91479d20bcfbc4d04a22f35cb53d52d3b6fb3e452f0ff55",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "PIF and Google Cloud to create advanced AI hub in Saudi Arabia",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2024/pif-and-google-cloud-to-create-advanced-ai-hub-in-saudi-arabia/",
+      "locator": "October 30, 2024; regulatory conditions, FII8 and commissioned GDP projection",
+      "records": [
+        "G07"
+      ],
+      "capture": {
+        "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2024/pif-and-google-cloud-to-create-advanced-ai-hub-in-saudi-arabia/",
+        "title": "PIF and Google Cloud to create advanced AI hub in Saudi Arabia",
+        "records": [
+          "G07"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:30.893Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2024/pif-and-google-cloud-to-create-advanced-ai-hub-in-saudi-arabia/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/053-www.pif.gov.sa.html",
+        "bytes": 5683,
+        "sha256": "faadbd81e3f116bd615e1fdbd6b9373efb7d7e74e02ca24e666e2b8006016884",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "Completion of Additional $22.5 Billion Investment in OpenAI",
+      "url": "https://group.softbank/en/news/press/20251231",
+      "locator": "December 31, 2025; December 26 closing, own versus syndicated funds, then approximately 11% interest",
+      "records": [
+        "G08"
+      ],
+      "capture": {
+        "url": "https://group.softbank/en/news/press/20251231",
+        "title": "Completion of Additional $22.5 Billion Investment in OpenAI",
+        "records": [
+          "G08"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:30.951Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://group.softbank/en/news/press/20251231",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/054-group.softbank.html",
+        "bytes": 191498,
+        "sha256": "32aa0744cc412416220a8fb2d5a22dfc1065e8c90500d2d5e4dfe0e839966d6b",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Execution of Follow-on Investment (Third Tranche) in OpenAI",
+      "url": "https://group.softbank/en/news/press/20261001",
+      "locator": "October 1, 2026; USD 30bn completion, USD 64.6bn cumulative, approximately 13%, senior-note financing",
+      "records": [
+        "G08"
+      ],
+      "capture": {
+        "url": "https://group.softbank/en/news/press/20261001",
+        "title": "Execution of Follow-on Investment (Third Tranche) in OpenAI",
+        "records": [
+          "G08"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:31.550Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://group.softbank/en/news/press/20261001",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/055-group.softbank.html",
+        "bytes": 194682,
+        "sha256": "75ce17dcc518248bf06077f728b4de5b6f06c5d7ab1a398e011e9868e1faf425",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "SoftBank Group consolidated financial report for year ended March 31, 2026",
+      "url": "https://www2.jpx.co.jp/disc/99840/140120260507517661.pdf",
+      "locator": "Financial-report p.18; SVF2 capital commitments distinguish company/MgmtCo from SVF1; MgmtCo capital not paid at period end",
+      "records": [
+        "G08"
+      ],
+      "capture": {
+        "url": "https://www2.jpx.co.jp/disc/99840/140120260507517661.pdf",
+        "title": "SoftBank Group consolidated financial report for year ended March 31, 2026",
+        "records": [
+          "G08"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:31.720Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www2.jpx.co.jp/disc/99840/140120260507517661.pdf",
+        "content_type": "application/pdf",
+        "path": "source-captures/056-www2.jpx.co.jp.pdf",
+        "bytes": 722352,
+        "sha256": "d2ef6681256ddcd0bbb95bfbb6e9610e5ac3d62a8e858b1474e9ac99265efa90",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "SoftBank cloud-program supply-assurance plan certification",
+      "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240510_01/",
+      "locator": "May 10, 2024; JPY 150bn plan, JPY 42.1bn maximum assistance, earlier JPY 5.3bn and NVIDIA deployment",
+      "records": [
+        "G09"
+      ],
+      "capture": {
+        "url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240510_01/",
+        "title": "SoftBank cloud-program supply-assurance plan certification",
+        "records": [
+          "G09"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:34.054Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.softbank.jp/corp/news/press/sbkk/2024/20240510_01/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/057-www.softbank.jp.html",
+        "bytes": 101163,
+        "sha256": "eb4598aa3df0ec18b89bd58a907c0d6fc10853ddeed67d7cd427caccf2b69d72",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "METI minister post-Cabinet press conference",
+      "url": "https://www.meti.go.jp/speeches/kaiken/2024/20240510001.html",
+      "locator": "May 10, 2024; Economic Security Promotion Act certification question, maximum JPY 42.1bn",
+      "records": [
+        "G09"
+      ],
+      "capture": {
+        "url": "https://www.meti.go.jp/speeches/kaiken/2024/20240510001.html",
+        "title": "METI minister post-Cabinet press conference",
+        "records": [
+          "G09"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:34.389Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.meti.go.jp/speeches/kaiken/2024/20240510001.html",
+        "content_type": "text/html",
+        "path": "source-captures/058-www.meti.go.jp.html",
+        "bytes": 5045,
+        "sha256": "201d4364a8fcd39b8f36f0cce7715401602c8b568f47aad4dd7bbf2fd7bafe29",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "SKT partnership announcement",
+      "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+      "locator": "August 15, 2023; additional investment and commercial partnership",
+      "records": [
+        "G10"
+      ],
+      "capture": {
+        "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+        "title": "SKT partnership announcement",
+        "records": [
+          "G10"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:34.581Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.anthropic.com/news/skt-partnership-announcement",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/059-www.anthropic.com.html",
+        "bytes": 133765,
+        "sha256": "46bd2ceed55c32961971097288ac2f79be079952bf386f004f16247d014e1c93",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Google's US$2 Billion Investment to Power Malaysia's Digital Future",
+      "url": "https://blog.google/intl/en-my/company-news/technology/2024_05_advancing-malaysia-together/",
+      "locator": "May 30, 2024; commitment, Elmina Business Park and Cloud First Policy",
+      "records": [
+        "G11"
+      ],
+      "capture": {
+        "url": "https://blog.google/intl/en-my/company-news/technology/2024_05_advancing-malaysia-together/",
+        "title": "Google's US$2 Billion Investment to Power Malaysia's Digital Future",
+        "records": [
+          "G11"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:34.910Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://blog.google/intl/en-my/company-news/technology/2024_05_advancing-malaysia-together/",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/060-blog.google.html",
+        "bytes": 287207,
+        "sha256": "d677ed020c77e0866c240e0e4ad4e21f963db3f164fddd763c852fb805b1a391",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Google Announces Plans to Invest US$1 Billion in Thailand",
+      "url": "https://www.googlecloudpresscorner.com/2024-09-30-Google-Announces-Plans-to-Invest-US-1-Billion-to-Build-Data-Center-and-Cloud-Region-in-Thailand,-Support-Initiatives-to-Expand-AI-Opportunities-for-Thais",
+      "locator": "September 30, 2024; government agreement, amount, Bangkok and Chonburi",
+      "records": [
+        "G12"
+      ],
+      "capture": {
+        "url": "https://www.googlecloudpresscorner.com/2024-09-30-Google-Announces-Plans-to-Invest-US-1-Billion-to-Build-Data-Center-and-Cloud-Region-in-Thailand,-Support-Initiatives-to-Expand-AI-Opportunities-for-Thais",
+        "title": "Google Announces Plans to Invest US$1 Billion in Thailand",
+        "records": [
+          "G12"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:35.347Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.googlecloudpresscorner.com/2024-09-30-Google-Announces-Plans-to-Invest-US-1-Billion-to-Build-Data-Center-and-Cloud-Region-in-Thailand,-Support-Initiatives-to-Expand-AI-Opportunities-for-Thais",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/061-www.googlecloudpresscorner.com.html",
+        "bytes": 61828,
+        "sha256": "ef57ab3234b2a1a2bb56f79b76aa074811050d2acd7fbae359577a4ccfb802b5",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Google Cloud launches new region in Bangkok",
+      "url": "https://cloud.google.com/blog/products/infrastructure/google-cloud-launches-new-region-in-bangkok-thailand",
+      "locator": "January 21, 2026; launch as milestone within USD 1bn investment",
+      "records": [
+        "G12"
+      ],
+      "capture": {
+        "url": "https://cloud.google.com/blog/products/infrastructure/google-cloud-launches-new-region-in-bangkok-thailand",
+        "title": "Google Cloud launches new region in Bangkok",
+        "records": [
+          "G12"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:35.923Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://cloud.google.com/blog/products/infrastructure/google-cloud-launches-new-region-in-bangkok-thailand",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/062-cloud.google.com.html",
+        "bytes": 251554,
+        "sha256": "fb5ea7ccadc63e606a924528061c2a0b2be1fa0766bb91a6dcf2cf29ac2b0480",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "Contract for the supply of Microsoft M365 E5 Software Renewal",
+      "url": "https://www.contractsfinder.service.gov.uk/Notice/Attachment/a4d1c11a-eb38-4f1f-ac6c-6bd1d3bbdeda",
+      "locator": "Customer and supplier details; Section B; Call Off Contract Charges; reference CCSO19A38",
+      "records": [
+        "W01"
+      ],
+      "capture": {
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/Attachment/a4d1c11a-eb38-4f1f-ac6c-6bd1d3bbdeda",
+        "title": "Contract for the supply of Microsoft M365 E5 Software Renewal",
+        "records": [
+          "W01"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:38.979Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://www.contractsfinder.service.gov.uk/Notice/Attachment/a4d1c11a-eb38-4f1f-ac6c-6bd1d3bbdeda",
+        "content_type": "text/html",
+        "path": "source-captures/063-www.contractsfinder.service.gov.uk.html",
+        "bytes": 118,
+        "sha256": "58bf2215b395dcac74c009aa98701854e43cbe54a1cd3a95fee6a647ca9910d4",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "UK Parliament written question 44: Ministry of Defence procurement",
+      "url": "https://questions-statements.parliament.uk/written-questions/detail/2019-12-19/44/",
+      "locator": "Table of contracts over GBP 100 million: Microsoft M365 E5 Software Renewal / Software Box Ltd",
+      "records": [
+        "W01"
+      ],
+      "capture": {
+        "url": "https://questions-statements.parliament.uk/written-questions/detail/2019-12-19/44/",
+        "title": "UK Parliament written question 44: Ministry of Defence procurement",
+        "records": [
+          "W01"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:39.483Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://questions-statements.parliament.uk/written-questions/detail/2019-12-19/44/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/064-questions-statements.parliament.uk.html",
+        "bytes": 5766,
+        "sha256": "fa19694b120357ba1ff4d55ce03a54b7ed24e93643f05a64b9b5e01eac4a2306",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "House of Commons Register of Members' Financial Interests, 14 July 2025",
+      "url": "https://qna.files.parliament.uk/qna-attachments/1825097/original/250714%20%281%29.pdf",
+      "locator": "Printed page 439; Hinds, Damian; category 3, Gifts, benefits and hospitality from UK sources",
+      "records": [
+        "W02"
+      ],
+      "capture": {
+        "url": "https://qna.files.parliament.uk/qna-attachments/1825097/original/250714%20%281%29.pdf",
+        "title": "House of Commons Register of Members' Financial Interests, 14 July 2025",
+        "records": [
+          "W02"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:39.703Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://qna.files.parliament.uk/qna-attachments/1825097/original/250714%20%281%29.pdf",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/065-qna.files.parliament.uk.html",
+        "bytes": 5775,
+        "sha256": "fa96b074e2a0cb9d1198339cf60ec4f35ca959d6fe138af6d9b0fd179cc013fa",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "Memorandum of Understanding between UK and OpenAI on AI opportunities",
+      "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+      "locator": "Sections 2–4 and final paragraph",
+      "records": [
+        "W03"
+      ],
+      "capture": {
+        "url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+        "title": "Memorandum of Understanding between UK and OpenAI on AI opportunities",
+        "records": [
+          "W03"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:40.095Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-openai-on-ai-opportunities/memorandum-of-understanding-between-uk-and-openai-on-ai-opportunities",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/066-www.gov.uk.html",
+        "bytes": 79194,
+        "sha256": "bc50eaf950cfad646b35faef1eaf8c755f3873dcde2b0a12548321dd63ce96a6",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Shared Services Canada: Government of Canada enables a more Modern and Accessible Public Service",
+      "url": "https://www.newswire.ca/news-releases/government-of-canada-enables-a-more-modern-and-accessible-public-service-819446329.html",
+      "locator": "16 April 2019 release; paragraph beginning 'The agreement, valued' and adjacent description of covered software",
+      "records": [
+        "W04"
+      ],
+      "capture": {
+        "url": "https://www.newswire.ca/news-releases/government-of-canada-enables-a-more-modern-and-accessible-public-service-819446329.html",
+        "title": "Shared Services Canada: Government of Canada enables a more Modern and Accessible Public Service",
+        "records": [
+          "W04"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:41.133Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://www.newswire.ca/news-releases/government-of-canada-enables-a-more-modern-and-accessible-public-service-819446329.html",
+        "content_type": "text/html",
+        "path": "source-captures/067-www.newswire.ca.html",
+        "bytes": 179698,
+        "sha256": "fef01da2550da7354f270e26ed1093ffc6c74aa4949ee4b81a9d98cc6e9970a7",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "CRTC Status Report on the Implementation of the Online News Act 2024–2025",
+      "url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+      "locator": "Progress to Date: paragraph confirming the first CAD 100 million payment in December 2024",
+      "records": [
+        "W05"
+      ],
+      "capture": {
+        "url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+        "title": "CRTC Status Report on the Implementation of the Online News Act 2024–2025",
+        "records": [
+          "W05"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:41.445Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/068-crtc.gc.ca.html",
+        "bytes": 21741,
+        "sha256": "4835e8684294a5c17079ec8d8fc472440a1b848a555e332847c25aa05f6f2a30",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "Online News Decision CRTC 2024-262",
+      "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+      "locator": "Paragraphs 18–21, 72–85; contribution, scope, conditions and term of exemption",
+      "records": [
+        "W05"
+      ],
+      "capture": {
+        "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+        "title": "Online News Decision CRTC 2024-262",
+        "records": [
+          "W05"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:41.796Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/069-crtc.gc.ca.html",
+        "bytes": 21726,
+        "sha256": "b9fcdad4cc24e2e55acc01b8b51e568d204b2e555b94fd086a6ab63720ac56e0",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "Office of the Commissioner of Lobbying: OpenAI monthly communications, August 2025",
+      "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/mnthlyClntCmmnctns?clientOrgCorpId=382096&month=7&year=2025",
+      "locator": "Communication 382096-646755; Mark Schaan; 25 August 2025",
+      "records": [
+        "W06"
+      ],
+      "capture": {
+        "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/mnthlyClntCmmnctns?clientOrgCorpId=382096&month=7&year=2025",
+        "title": "Office of the Commissioner of Lobbying: OpenAI monthly communications, August 2025",
+        "records": [
+          "W06"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:42.051Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/mnthlyClntCmmnctns?clientOrgCorpId=382096&month=7&year=2025",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/070-lobbycanada.gc.ca.html",
+        "bytes": 22020,
+        "sha256": "eeb97d6654c62f2d39a479d4aa3b00c112b6a1ea131a04ed87c1228a25a32d4a",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "OpenAI OpCo LLC / Dev Saxena consultant registration",
+      "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/vwRg?blnk=1&cno=382096&regId=973289",
+      "locator": "Registration 961686-382096; Subject Matter Details; version 21 August–8 December 2025",
+      "records": [
+        "W06"
+      ],
+      "capture": {
+        "url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/vwRg?blnk=1&cno=382096&regId=973289",
+        "title": "OpenAI OpCo LLC / Dev Saxena consultant registration",
+        "records": [
+          "W06"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:42.361Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/vwRg?blnk=1&cno=382096&regId=973289",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/071-lobbycanada.gc.ca.html",
+        "bytes": 21926,
+        "sha256": "b5d3f5c339e7036528808803d48af176f7410fa4b8da0cd7e235876e23d0227f",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "ASPI Annual Report 2023–24 funding annex",
+      "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2025-03/ASPI%20Funding%202023-24.pdf?VersionId=GsXfp4y_oklpcSHqbirBC0VQKo3ni8ED",
+      "locator": "Printed page 120, Table 18, three Microsoft rows; PDF page 6",
+      "records": [
+        "W07",
+        "W08"
+      ],
+      "capture": {
+        "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2025-03/ASPI%20Funding%202023-24.pdf?VersionId=GsXfp4y_oklpcSHqbirBC0VQKo3ni8ED",
+        "title": "ASPI Annual Report 2023–24 funding annex",
+        "records": [
+          "W07",
+          "W08"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:42.572Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2025-03/ASPI%20Funding%202023-24.pdf?VersionId=GsXfp4y_oklpcSHqbirBC0VQKo3ni8ED",
+        "content_type": "application/pdf",
+        "path": "source-captures/072-ad-aspi.s3.ap-southeast-2.amazonaws.com.pdf",
+        "bytes": 144564,
+        "sha256": "8529380ecea1aa5a5c03d2e07e6e16ca5d554c2d1ca794b2172e294c51e0acf4",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "ASPI Annual Report 2023–24",
+      "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2024-12/ASPI%20Annual%20Report%202023-24%20FINAL.pdf?VersionId=fsxJkRgk5M3iL_yUEn0I1k0uBuW5ZI.i",
+      "locator": "Financial statements, Basis of Preparation: presentation in Australian dollars",
+      "records": [
+        "W07"
+      ],
+      "capture": {
+        "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2024-12/ASPI%20Annual%20Report%202023-24%20FINAL.pdf?VersionId=fsxJkRgk5M3iL_yUEn0I1k0uBuW5ZI.i",
+        "title": "ASPI Annual Report 2023–24",
+        "records": [
+          "W07"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:44.903Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2024-12/ASPI%20Annual%20Report%202023-24%20FINAL.pdf?VersionId=fsxJkRgk5M3iL_yUEn0I1k0uBuW5ZI.i",
+        "content_type": "application/pdf",
+        "status": "NOT_CAPTURED",
+        "error": "The operation was aborted due to timeout"
+      }
+    },
+    {
+      "title": "Getting regulation right: approaches to improving Australia's cybersecurity",
+      "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-08/Getting%20regulation%20right_0.pdf?VersionId=27eJCaHSxaRgp7c42Kks977jANz3gdhZ",
+      "locator": "Inside front cover, PDF page 2, Microsoft funding acknowledgment; printed pages 3 and 19–20, recommendations",
+      "records": [
+        "W07"
+      ],
+      "capture": {
+        "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-08/Getting%20regulation%20right_0.pdf?VersionId=27eJCaHSxaRgp7c42Kks977jANz3gdhZ",
+        "title": "Getting regulation right: approaches to improving Australia's cybersecurity",
+        "records": [
+          "W07"
+        ],
+        "retrieved_utc": "2026-11-01T16:22:53.914Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-08/Getting%20regulation%20right_0.pdf?VersionId=27eJCaHSxaRgp7c42Kks977jANz3gdhZ",
+        "content_type": "application/pdf",
+        "path": "source-captures/074-ad-aspi.s3.ap-southeast-2.amazonaws.com.pdf",
+        "bytes": 1893799,
+        "sha256": "1c232b88f81f581746a3c3136de6dc129d6860b3c59de88959d8c256f1007ba9",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Digital Rights Watch donation transparency",
+      "url": "https://digitalrightswatch.org.au/about/donation-transparency/",
+      "locator": "Financial year 2024–25, Donations, Google Australia",
+      "records": [
+        "W09"
+      ],
+      "capture": {
+        "url": "https://digitalrightswatch.org.au/about/donation-transparency/",
+        "title": "Digital Rights Watch donation transparency",
+        "records": [
+          "W09"
+        ],
+        "retrieved_utc": "2026-11-01T16:23:01.785Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://digitalrightswatch.org.au/about/donation-transparency/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/075-digitalrightswatch.org.au.html",
+        "bytes": 14076,
+        "sha256": "51ccd6d95eb281d0ce2c64799bc7695ae2f2559ebf39a597bd6b96d0a8652ee0",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "Digital Rights Watch donations policy",
+      "url": "https://digitalrightswatch.org.au/about/donations-policy/",
+      "locator": "Independence and influence; Project-based funding",
+      "records": [
+        "W09"
+      ],
+      "capture": {
+        "url": "https://digitalrightswatch.org.au/about/donations-policy/",
+        "title": "Digital Rights Watch donations policy",
+        "records": [
+          "W09"
+        ],
+        "retrieved_utc": "2026-11-01T16:23:02.912Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://digitalrightswatch.org.au/about/donations-policy/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/076-digitalrightswatch.org.au.html",
+        "bytes": 13844,
+        "sha256": "532239ab277777ec493235a007323df9a8884d6a002453990d8f35f6680247ee",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "The Internet Search Engine Services Online Safety Code Explainer",
+      "url": "https://digitalrightswatch.org.au/2026/01/04/the-internet-search-engine-services-online-safety-code-explainer/",
+      "locator": "4 January 2026; Where we should invest",
+      "records": [
+        "W09"
+      ],
+      "capture": {
+        "url": "https://digitalrightswatch.org.au/2026/01/04/the-internet-search-engine-services-online-safety-code-explainer/",
+        "title": "The Internet Search Engine Services Online Safety Code Explainer",
+        "records": [
+          "W09"
+        ],
+        "retrieved_utc": "2026-11-01T16:23:03.001Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://digitalrightswatch.org.au/2026/01/04/the-internet-search-engine-services-online-safety-code-explainer/",
+        "content_type": "text/html; charset=UTF-8",
+        "path": "source-captures/077-digitalrightswatch.org.au.html",
+        "bytes": 16354,
+        "sha256": "083725c5d948268b731edb3f505cb6201ca1c9d5726a11f776ec9fc163040437",
+        "status": "HTTP_SUCCESS_REQUIRES_CONTENT_REVIEW"
+      }
+    },
+    {
+      "title": "NSW Microsoft License Service Provider contract 4600003029-1",
+      "url": "https://buy.nsw.gov.au/notices/E4CE218D-7364-463E-881D3213B0373860",
+      "locator": "Estimated amount payable including GST; supplier; effective and end dates; description; amendments",
+      "records": [
+        "W10"
+      ],
+      "capture": {
+        "url": "https://buy.nsw.gov.au/notices/E4CE218D-7364-463E-881D3213B0373860",
+        "title": "NSW Microsoft License Service Provider contract 4600003029-1",
+        "records": [
+          "W10"
+        ],
+        "retrieved_utc": "2026-11-01T16:23:03.239Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 403,
+        "final_url": "https://buy.nsw.gov.au/notices/E4CE218D-7364-463E-881D3213B0373860",
+        "content_type": "text/html",
+        "path": "source-captures/078-buy.nsw.gov.au.html",
+        "bytes": 919,
+        "sha256": "d10cc2ebf5c36ac566c952d753d98240b128975da656a8191943104e1728d52c",
+        "status": "HTTP_ERROR_RESPONSE_PRESERVED"
+      }
+    },
+    {
+      "title": "2025 Global Technology Summit, organizer programme",
+      "url": "https://carnegieendowment.org/events/2025/01/2025-global-technology-summit",
+      "locator": "Opening event description and speaker programme; narrative gives April 10–12, while page header uses different date rendering",
+      "records": [
+        "R13",
+        "R14",
+        "R15"
+      ],
+      "capture": {
+        "url": "https://carnegieendowment.org/events/2025/01/2025-global-technology-summit",
+        "title": "Carnegie India and Ministry of External Affairs: 2025 Global Technology Summit",
+        "records": [
+          "R13",
+          "R14",
+          "R15"
+        ],
+        "retrieved_utc": "2026-11-01T16:23:03.513Z",
+        "request": "Unauthenticated public HTTPS GET; no access controls bypassed",
+        "http_status": 200,
+        "final_url": "https://carnegieendowment.org/events/2025/01/2025-global-technology-summit",
+        "content_type": "text/html; charset=utf-8",
+        "path": "source-captures/079-carnegieendowment.org.html",
+        "bytes": 428506,
+        "sha256": "4181bd881e188e6bcc10b4dd2089a97c14b39130dcbda53cfc10f6ed94039d5e",
+        "status": "POSSIBLE_ACCESS_CHALLENGE_RESPONSE_PRESERVED"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "agent": "Praise",
+      "scope": "European recipients and policy filings; cross-review of 52 initial records",
+      "result": "Found the uncited Kenya status assertion, corrected in the normalized successor. Confirmed the French pre-existing-proposal caveat. Not an independent audit of every source."
+    },
+    {
+      "agent": "Worship",
+      "scope": "UK, Canada and Australia",
+      "result": "Ten records with legal recipients, source locators, mixed-value and procurement limitations."
+    },
+    {
+      "agent": "G Man",
+      "scope": "Gulf and Asia; bounded secondary weather literature review",
+      "result": "Twelve financial records, state-control context and overlap cautions; scientific work kept separate."
+    },
+    {
+      "agent": "Gaucia Actual — Root (Codex)",
+      "scope": "Reconciliation, Africa/India/Latin America/China, institution funding, historical flows and arithmetic",
+      "result": "Primary-source checks and reverse chronology; two China records added after Praise's 52-record review and identified separately."
+    }
+  ],
+  "publication": "Prepared for review; not newly published. Prior corporate-investigation release and historical research packet remain unchanged."
+}

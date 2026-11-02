@@ -1,0 +1,133 @@
+{
+  "meaning": "Recomputation of specified arithmetic, not verification of underlying financial statements",
+  "calculations": [
+    {
+      "id": "C01",
+      "records": [
+        "W07"
+      ],
+      "description": "Microsoft's three disclosed ASPI FY2023–24 lines",
+      "operation": "sum",
+      "inputs": [
+        290909.1,
+        79800,
+        50000
+      ],
+      "formula": "290909.10 + 79800 + 50000",
+      "expected": 420709.1,
+      "unit": "AUD",
+      "limit": "Subtotal only; not a total of worldwide Microsoft influence spending, and no allocation to the separate policy report.",
+      "result": 420709.1,
+      "status": "RECOMPUTED_AND_MATCHED"
+    },
+    {
+      "id": "C02",
+      "records": [
+        "W08"
+      ],
+      "description": "AWS's two disclosed ASPI FY2023–24 lines",
+      "operation": "sum",
+      "inputs": [
+        50000,
+        50000
+      ],
+      "formula": "50000 + 50000",
+      "expected": 100000,
+      "unit": "AUD",
+      "limit": "Two distinct reported receipt lines; included within ASPI's wider table total.",
+      "result": 100000,
+      "status": "RECOMPUTED_AND_MATCHED"
+    },
+    {
+      "id": "C03",
+      "records": [
+        "W01"
+      ],
+      "description": "UK procurement maximum less initial contract value",
+      "operation": "subtract",
+      "inputs": [
+        285839932.5,
+        190559955
+      ],
+      "formula": "285839932.50 - 190559955",
+      "expected": 95279977.5,
+      "unit": "GBP excluding VAT",
+      "limit": "Difference in contractual values, not proof the options were exercised or paid.",
+      "result": 95279977.5,
+      "status": "RECOMPUTED_AND_MATCHED"
+    },
+    {
+      "id": "C04",
+      "records": [
+        "EU10"
+      ],
+      "description": "Microsoft solutions' share of reported UGAP cloud-market sales",
+      "operation": "ratio_percent",
+      "inputs": [
+        8100000,
+        44000000
+      ],
+      "formula": "8100000 / 44000000 * 100",
+      "expected": 18.4090909091,
+      "unit": "percent",
+      "limit": "Approximately 18.4% of this reported 2024 market, not all French public cloud procurement; source values are rounded.",
+      "result": 18.409090909090907,
+      "status": "RECOMPUTED_AND_MATCHED"
+    },
+    {
+      "id": "C05",
+      "records": [
+        "G08"
+      ],
+      "description": "SoftBank's own stated 2025 OpenAI tranches",
+      "operation": "sum",
+      "inputs": [
+        7500000000,
+        22500000000
+      ],
+      "formula": "7500000000 + 22500000000",
+      "expected": 30000000000,
+      "unit": "USD",
+      "limit": "USD11bn from other investors makes the whole round USD41bn; it is not another SoftBank payment. Later cumulative figures already include these amounts.",
+      "result": 30000000000,
+      "status": "RECOMPUTED_AND_MATCHED"
+    },
+    {
+      "id": "C06",
+      "records": [
+        "R01"
+      ],
+      "description": "Quoted 1915 issue-to-syndicate price spread applied to face value",
+      "operation": "spread",
+      "inputs": [
+        98,
+        96,
+        500000000
+      ],
+      "formula": "(98 - 96) / 100 * 500000000",
+      "expected": 10000000,
+      "unit": "1915 nominal USD",
+      "limit": "Mechanical gross price spread before distribution costs or risk; not net profit or independently verified cash retained.",
+      "result": 10000000,
+      "status": "RECOMPUTED_AND_MATCHED"
+    },
+    {
+      "id": "C07",
+      "records": [
+        "G02"
+      ],
+      "description": "Microsoft UAE headline division",
+      "operation": "sum",
+      "inputs": [
+        7300000000,
+        7900000000
+      ],
+      "formula": "7300000000 + 7900000000",
+      "expected": 15200000000,
+      "unit": "USD headline approximation",
+      "limit": "The company uses rounded/minimum figures and combines projected spending through 2025 with future plans. Not proof of paid cash; the G42 USD1.5bn is already included.",
+      "result": 15200000000,
+      "status": "RECOMPUTED_AND_MATCHED"
+    }
+  ]
+}
