@@ -1,0 +1,31 @@
+{
+  "retrieved": "2026-11-01",
+  "records": [
+    {
+      "number": 2648,
+      "url": "https://github.com/microsoft/responsible-ai-toolbox/pull/2648",
+      "title": "Fix raiutils conversion boundaries and JSON-safe NumPy scalars",
+      "author": "0-Actual",
+      "created_at": "2026-10-17T00:40:32Z",
+      "merged_at": "2026-10-19T14:47:54Z",
+      "merge_commit_sha": "fc9c99d8aa8cf8ee46018ee315a749a46609abed",
+      "head_sha": "78972dbbf14224e408a3238bb9e8443be16f7020",
+      "repository": "microsoft/responsible-ai-toolbox",
+      "evidence": "UPSTREAM_SOURCE_ACCEPTANCE",
+      "scope": "Acceptance of this contribution; does not prove purchase, use of the entire project or downstream product deployment."
+    },
+    {
+      "number": 2649,
+      "url": "https://github.com/microsoft/responsible-ai-toolbox/pull/2649",
+      "title": "Correct error-analysis metrics, cohort outcomes and regression residuals",
+      "author": "0-Actual",
+      "created_at": "2026-10-17T00:55:41Z",
+      "merged_at": "2026-10-19T16:36:47Z",
+      "merge_commit_sha": "96fa79d73c6be21f6e525f07ff1afabca4747963",
+      "head_sha": "0673c5ac69948f9e3976895991db02b79af167d8",
+      "repository": "microsoft/responsible-ai-toolbox",
+      "evidence": "UPSTREAM_SOURCE_ACCEPTANCE",
+      "scope": "Acceptance of this contribution; does not prove purchase, use of the entire project or downstream product deployment."
+    }
+  ]
+}

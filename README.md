@@ -5,6 +5,10 @@ Documentary preparation with GAUCIA through ChatGPT/Codex.
 
 This publication records the development timeline of Quantum.Earth.Laing using dated evidence recovered from the owner's research records. It publishes event summaries, dates, attribution and evidence boundaries. The October 17 expanded edition adds retained research source, data, GAUCIA application sources and the QRF documentary record. Raw personal interactions, credentials and uncleared private material remain outside the public selection.
 
+## Evidence and accountability — November 2, 2026
+
+[Read the complete new publication](records/2026-11-02-evidence-and-accountability/README.md): all retained public evidence, 28 fully rendered project comparisons, 13 purchase/licensing records and the preserved corporate investigation. The [system error account](records/2026-11-02-evidence-and-accountability/SYSTEM-ERROR-ACCOUNT.md) explains ChatGPT/Codex assembly and checking failures; [validation results](records/2026-11-02-evidence-and-accountability/validation-results.json) document reproducible checks and controlled reproductions. Earlier editions remain unchanged. New original material is CC BY 4.0 and new code MIT, under the edition's license scope.
+
 ## Money, policy and prior-work evidence — November 1, 2026
 
 [Read the new research edition](records/2026-11-01-money-policy-and-prior-work/README.md): selected U.S. money-and-policy cases across 1776–2026, slavery and institutional continuity, the saved international financial calculations, 28 recovered project comparisons and 13 purchase/licensing records. Sources, counterevidence, original data and a reproducible verifier accompany the findings. The new investigation uses CC BY 4.0 and its verification code MIT; historical source editions retain their terms.

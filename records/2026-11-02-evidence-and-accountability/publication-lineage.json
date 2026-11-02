@@ -1,0 +1,404 @@
+{
+  "schema": "qel.new-publication-lineage.v1",
+  "edition": "2026-11-02-evidence-and-accountability",
+  "preparedUtc": "2026-11-02T13:27:44.525724+00:00",
+  "owner": "Sherman Gaucia Laing",
+  "assistance": "ChatGPT/Codex in the owner-designated Gaucia Actual coordination role",
+  "meaning": "New publication. Original editions remain unchanged. Retained source content is reused with explicit lineage, not presented as newly discovered evidence.",
+  "previousCommit": "cd40ae27cebca3b46d3eaa2b478bd8b86e5e17d6",
+  "previousEditionUrl": "https://github.com/0-Actual/sherman-gaucia-laing-research-record/tree/cd40ae27cebca3b46d3eaa2b478bd8b86e5e17d6/records/2026-11-01-money-policy-and-prior-work",
+  "originalMoneyFiles": [
+    {
+      "path": "calculation-index.json",
+      "bytes": 26142,
+      "sha256": "5d4915bf73330eac104ae5e6cf1c2b3ebc69f0897b37efebcfb17d18320eb699",
+      "git_blob_sha1": "973e742195edf8246daf1a02b6dc560309a18619"
+    },
+    {
+      "path": "company-financial-index.json",
+      "bytes": 2269,
+      "sha256": "3e31f02b7f0a358170fcf994f2d09b2d3fb95e0915da258813f25ac8378cfcc8",
+      "git_blob_sha1": "1d9eb91f87f7f96cb9877dabcd7a78457e75a20b"
+    },
+    {
+      "path": "correlation-matrix.json",
+      "bytes": 37353,
+      "sha256": "5eba5fa79c995fb81d6fdcd026d9bee878dfa145beedd3da13d889c6de1821b8",
+      "git_blob_sha1": "599c01eaa8904c0ca11b600945081a8fd46492f6"
+    },
+    {
+      "path": "direct-connections.json",
+      "bytes": 1421,
+      "sha256": "685d82101336a16fae723138ae51babaac2c1c921525a2ea074ce785664e4e95",
+      "git_blob_sha1": "4254a7f69327463d8b2a50da181d197f36a4599f"
+    },
+    {
+      "path": "financial/history/evidence.json",
+      "bytes": 59234,
+      "sha256": "3b0464ba45a5c4d6ba0bf4485cab26d4c019cc8608c0fa74e4925f5a4b531c83",
+      "git_blob_sha1": "a5eaf9cd3137b25f36a2223da969ccf33bb08cb5"
+    },
+    {
+      "path": "financial/international-first/calculation-audit.json",
+      "bytes": 3991,
+      "sha256": "ca2677e5a20fc406ec3af351084408824f79d09bc9d57a5d80e30f063552cc40",
+      "git_blob_sha1": "b4de2157499a26002df903effbfb2df065ed17d5"
+    },
+    {
+      "path": "financial/international-first/evidence.json",
+      "bytes": 175451,
+      "sha256": "15f8e18e55ce376b281cdf9a3e12ab33382ed63bf292c6fe5b04eb544ba0a78a",
+      "git_blob_sha1": "7aff607ec3b4afafcd1d8119b92e8eef5a877bba"
+    },
+    {
+      "path": "financial/international-followthrough/calculation-audit.json",
+      "bytes": 19558,
+      "sha256": "b18147ee7cb9e8b0ff2f5e096f98c05638231e985e467fa69418d96f7b025447",
+      "git_blob_sha1": "64662e9d2318a0d4cf7d2780d8de1b1f754eb789"
+    },
+    {
+      "path": "financial/international-followthrough/cjc-payment-analysis.json",
+      "bytes": 253184,
+      "sha256": "302beac7ff4cef8bd84d0528a62a2ba0298f2748e2401d2f90e8b287b6edd786",
+      "git_blob_sha1": "829d4accd2938facd23f28149e748c86a212c8a9"
+    },
+    {
+      "path": "financial/international-followthrough/cjc-year1-source-date-ambiguous.csv",
+      "bytes": 38189,
+      "sha256": "a508682c61b1e8f790f8c1a5170e1b27784542563bca0c2083cc9da92e36856f",
+      "git_blob_sha1": "0d2bb978191a73e8b2943963ad3eb2c98c3dcc91"
+    },
+    {
+      "path": "financial/international-followthrough/cjc-year2-2026-08-19.csv",
+      "bytes": 47383,
+      "sha256": "86f804867b6e631a6366fb0d58b9eef6357b6016d5343b6982ccacec852dea50",
+      "git_blob_sha1": "044cb1c8cdd89e93bc2693b2f5ce47fb1576cec3"
+    },
+    {
+      "path": "financial/international-followthrough/evidence.json",
+      "bytes": 110592,
+      "sha256": "4cc0be1767907f132ced7577fb52f46a71ea1fd0b4aa26d5f8405e3592ab1915",
+      "git_blob_sha1": "c4989f4860107060a9199266c31ac6fb166b69a9"
+    },
+    {
+      "path": "financial/international-followthrough/sources/eu-official-target-0801162959-21.xml",
+      "bytes": 15150,
+      "sha256": "86cb35fcd1455d6e2251f4623c17fa7a686de00f6dd1cdaffa97b3d98324de9f",
+      "git_blob_sha1": "02ef02f644e817a03a2c0f27877feba37615df6b"
+    },
+    {
+      "path": "financial/international-followthrough/sources/eu-official-target-29896393398-67.xml",
+      "bytes": 77134,
+      "sha256": "1762974978f02f9f3279f34c3bdfcb92c1c2f48c4c4f8b22f28ae688c2467cd1",
+      "git_blob_sha1": "4609d1f6fc9d75d2928eddd004f6e8444951f4e2"
+    },
+    {
+      "path": "financial/international-followthrough/sources/eu-official-target-81995781088-41.xml",
+      "bytes": 31479,
+      "sha256": "f186d0bab7e52153570feaa7b579c44f5e8af2354faf0aca2ec49a791e4c401d",
+      "git_blob_sha1": "864764345099e4bf507de687cc3e4f8f8740d3b6"
+    },
+    {
+      "path": "financial/international-followthrough/verify-payments.py",
+      "bytes": 1131,
+      "sha256": "6b9309ee022cfc514d5a21f1b3de69c473a865a2fce4aa297c9dc7ed00eee49f",
+      "git_blob_sha1": "2f2eb026e836ff766a0825aa1b54c465f84aef93"
+    },
+    {
+      "path": "FINANCIAL-CALCULATIONS.md",
+      "bytes": 4011,
+      "sha256": "79ae616031e4f526aa0932002fdb5bb660055d0af6638c83a325e6fa9e4a0a3b",
+      "git_blob_sha1": "964e7c5fe4f86a3d5b1fafeddca53f8ca5d57cf2"
+    },
+    {
+      "path": "LICENSE-MIT.txt",
+      "bytes": 1077,
+      "sha256": "b0b42b30ed78ba058fc5a7f02c43efcfe876fbddea53e888ca5c1f8c7c066372",
+      "git_blob_sha1": "644bb9c1663fea033379c6e78c6aa50877976f17"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 1037,
+      "sha256": "6a4d27d54b88a74a7bceba6137ebedbde39ddf8c910071473601678c2b97ce69",
+      "git_blob_sha1": "dd9166fa7218f4e10fd638febc3a26b270467eda"
+    },
+    {
+      "path": "MONEY-AND-US-POLICY.md",
+      "bytes": 37947,
+      "sha256": "1a0c24eaee668722b0f9b7b369c96dbd0d650a73615fa29d6c091f68c3a2f1b6",
+      "git_blob_sha1": "a51d7ce6067c0e36ebba96b112ea59a5198f142b"
+    },
+    {
+      "path": "policy/us-policy-1776-1860.json",
+      "bytes": 13783,
+      "sha256": "35d0c51964554eb4f37a8399f13412ca24dfdddd6804779bc77892d9a2991d96",
+      "git_blob_sha1": "d6c56ca51fc59576e8df70b49fb2465cb1c8dc13"
+    },
+    {
+      "path": "policy/us-policy-1861-1945.json",
+      "bytes": 12291,
+      "sha256": "04e6e86df4c22e045cb8452341a96a60df18e758c9a7ba3e6a3bf9e14e39130d",
+      "git_blob_sha1": "dc17d1f891161b17db26d861ba4e78c3789abfa7"
+    },
+    {
+      "path": "policy/us-policy-1946-2026.json",
+      "bytes": 18997,
+      "sha256": "02465d69463813ac8878cf9f90a6a77edc642b8edc577c72d9fb890204d1abf6",
+      "git_blob_sha1": "0aae3e1e40fa4966f292b015944da181f539807b"
+    },
+    {
+      "path": "policy/us-policy-context.json",
+      "bytes": 2547,
+      "sha256": "dfb8998ba1c9a6306f5e10d287922d16a6f456cc357b2e224ab32e1f9f961129",
+      "git_blob_sha1": "5a06dfba29aa64270b98a6908fc21816cadea317"
+    },
+    {
+      "path": "policy-cases.json",
+      "bytes": 43687,
+      "sha256": "7bfae234297ad76acfc04f557bba38007ab933d36346549ea0f146988435c2df",
+      "git_blob_sha1": "5856a3401f81859eb459f15ac7694629a1e81403"
+    },
+    {
+      "path": "prior-work/corrected-comparisons.json",
+      "bytes": 451501,
+      "sha256": "5b655e05775be3508a4a57e7618d63d9ebb44fd67ba04998596b77a28e3c831d",
+      "git_blob_sha1": "aef6682369b3e00a9080481b7cae904e8633f9e0"
+    },
+    {
+      "path": "prior-work/prior-work-public.json",
+      "bytes": 289580,
+      "sha256": "b3094f255109ade62560608a409e58f1ccf16895c3efffe07c20db23eec49f2f",
+      "git_blob_sha1": "8c9bece63abcdd3e3a56a3e57a1ae8de730625ba"
+    },
+    {
+      "path": "prior-work/timeline-public.json",
+      "bytes": 138873,
+      "sha256": "7c6f831b0574a7ed5743fec37f005a885e51dc2016206abff139ca85a98d0735",
+      "git_blob_sha1": "978bad5e38404dcbd076a0c03fbf7dfb8de1b5ff"
+    },
+    {
+      "path": "PROJECT-COMPARISONS.md",
+      "bytes": 28881,
+      "sha256": "f38cb86dc94b8ecc8ce0f73190f3eca91998f23c14b3ede6ff9424724bf66298",
+      "git_blob_sha1": "66b406e18bb4095cf1210af77881b6f06a7b472e"
+    },
+    {
+      "path": "publication-manifest.json",
+      "bytes": 8850,
+      "sha256": "04ddfa693f35f77c17774da770af1c62b03c631465c0d844579750c9a602ed1d",
+      "git_blob_sha1": "7afdd2a843aa85c428511234cbb5408fa481d299"
+    },
+    {
+      "path": "PUBLICATION-REVIEW.md",
+      "bytes": 2225,
+      "sha256": "5c500b8622a153816fb1cf1d262c089b4180e3407b507ca6565be5803fc7c19e",
+      "git_blob_sha1": "c076e2d91ea3400eea39231180ece01392cb3e30"
+    },
+    {
+      "path": "purchases.json",
+      "bytes": 22963,
+      "sha256": "ca716d2f6352e22dca996b834e5fdd187cfea6b456e2e71d8b2317e06c29897a",
+      "git_blob_sha1": "2cc43892eaccc85a87a61b9e22c85af1b667acbb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3976,
+      "sha256": "b23b566030ef8c2e9d68bdff4e0f3bfeff97f8e2f51a660de95822ba1e6ec754",
+      "git_blob_sha1": "f83decb32c1a8fcd1a1bcaa11cb1e0d7ec556782"
+    },
+    {
+      "path": "SLAVERY-AND-CONTINUITY.md",
+      "bytes": 5963,
+      "sha256": "ec1fa064ab46b4dbc1fa5ae1ce2c686095dd8b641f13b5defc8649347b91dd87",
+      "git_blob_sha1": "8b12ca372dda47f10eac0e3f232e5700d2bdcc61"
+    },
+    {
+      "path": "slavery-continuity.json",
+      "bytes": 9811,
+      "sha256": "0bc4616e407e9972340cab852c8373d24c95c0673c95e16785a6e2ad4459a5b3",
+      "git_blob_sha1": "2a77117939692db893b80c572e61ebd68baf71ff"
+    },
+    {
+      "path": "source-index.json",
+      "bytes": 75969,
+      "sha256": "053350e407e3558aaa6480079f123b18f1e0549711329199ef9de98752ea24d4",
+      "git_blob_sha1": "9428674c7993ed16334c18e8c38a0b0f77a79a7f"
+    },
+    {
+      "path": "verify_release.py",
+      "bytes": 1852,
+      "sha256": "3583755a7138e76f8d49e305a1b50244a5ec40a811254cca7221575c85543c55",
+      "git_blob_sha1": "4c9217d5a25913c5c39e96522bf9f56f13c20c55"
+    }
+  ],
+  "originalCorporateFiles": [
+    {
+      "path": "corporate-investigation/corporate/calculate.py",
+      "bytes": 12981,
+      "sha256": "e979c4dd54ebacc6810920d311a6b6fa4affec6434e0c17e55737352ce59ea4d",
+      "git_blob_sha1": "b86bb2566b080dbde084111d2cf6b536017680ac"
+    },
+    {
+      "path": "corporate-investigation/corporate/CORRECTIONS.md",
+      "bytes": 3299,
+      "sha256": "e8e4b5bdfb8ee38b4e92ee76e77f2be5f3c09e00f02a7780c563fcb7f0ddff8b",
+      "git_blob_sha1": "027c2606a39767e731acc9439416fa1949c20207"
+    },
+    {
+      "path": "corporate-investigation/corporate/expected_outputs.json",
+      "bytes": 12560,
+      "sha256": "a1cebded2e15deb5daad4015f88c3f11721a678d830d5ef1a777b402e88cb559",
+      "git_blob_sha1": "66351a910e5e1d3502acc45a85cd2897cd005145"
+    },
+    {
+      "path": "corporate-investigation/corporate/external_audit_register.json",
+      "bytes": 727,
+      "sha256": "6669ba5a0116cd174215ab52878ac22677bdf590085876f138d1939ecfb17625",
+      "git_blob_sha1": "e5da08a6c7aa376b890b2b064f916956f075b54c"
+    },
+    {
+      "path": "corporate-investigation/corporate/extract_source_totals.py",
+      "bytes": 1453,
+      "sha256": "82e151295d86d45c5a2ae3c3e19086582bffb6f1d38f2a56b041e0ed29d056f4",
+      "git_blob_sha1": "7ed89d5d8bc7f6d46c3e58399417d990a3a21e45"
+    },
+    {
+      "path": "corporate-investigation/corporate/google_ld2_quarter_inputs.json",
+      "bytes": 10415,
+      "sha256": "82e2786fac56ad907dc61cf6e087159cac0dd2bd55230f84ad61d66df584a94d",
+      "git_blob_sha1": "e080ba3e7e6d2dda9e9f2e8377f62eaed383cc1a"
+    },
+    {
+      "path": "corporate-investigation/corporate/input_bindings.json",
+      "bytes": 12265,
+      "sha256": "7dc2074eb5561a0c63eb47d6f981b20463a088bb788fef9f336405d374740990",
+      "git_blob_sha1": "366bf9ac364c592e7237122403d4c4abf1feb15e"
+    },
+    {
+      "path": "corporate-investigation/corporate/inputs.json",
+      "bytes": 3117,
+      "sha256": "add863290b06b2358b84d8ae0da3d1c865328b24d99c5e028e934a01b1d98bce",
+      "git_blob_sha1": "4c9c000036d2228a32c79eeb10cb3ea9fe1dc828"
+    },
+    {
+      "path": "corporate-investigation/corporate/lobbying_msft_openai_inputs.json",
+      "bytes": 13250,
+      "sha256": "de18a1b9faa7d9675ac57d3463fedff59319e92cea2bc78e9a8cf83ba5675c75",
+      "git_blob_sha1": "fad566f0e3cdd70ec312ffd70ccd60ce0ce28cea"
+    },
+    {
+      "path": "corporate-investigation/corporate/MANIFEST.json",
+      "bytes": 3269,
+      "sha256": "8f33cac4113079765862a8b92c643dc780a2868edc8cabfd63e0f8f39784763a",
+      "git_blob_sha1": "35ed8b263416210509a92ea86fb9326421384780"
+    },
+    {
+      "path": "corporate-investigation/corporate/msvp_pac_reproduction_status.json",
+      "bytes": 1488,
+      "sha256": "eeef99335dc8a099525791cd5457984ad379f94e5393eb57efda40e38424ba9f",
+      "git_blob_sha1": "10281d44a901ec779b51ffb198ba0f791dc4dc39"
+    },
+    {
+      "path": "corporate-investigation/corporate/README.txt",
+      "bytes": 3952,
+      "sha256": "141ee79774c21f1da93d1f5994b62d23051b0b154a2de3fcbf2dedcd377d6c33",
+      "git_blob_sha1": "25b0bb07a50d49de25eb9c9db5523e931d102778"
+    },
+    {
+      "path": "corporate-investigation/corporate/REPORT.md",
+      "bytes": 22043,
+      "sha256": "8a7279ce333f758a48401a04b8aa1e379733148694fd2889d1384734a0891195",
+      "git_blob_sha1": "ed17b62368cc18e2d3f861e0db3ca864d114d921"
+    },
+    {
+      "path": "corporate-investigation/corporate/reproduce_msvp_pac.py",
+      "bytes": 6919,
+      "sha256": "1b95e621097c2db74e8576a34fe4f82e4446ee9e61022c16002c8ccbe40100d7",
+      "git_blob_sha1": "f602e3c1b49361e2c28a46919c163bc7b4d466d0"
+    },
+    {
+      "path": "corporate-investigation/corporate/source_capture_manifest.json",
+      "bytes": 23137,
+      "sha256": "794803006ebccac0148593364e3cd0045ab304f07655aa76488b95be9ad17991",
+      "git_blob_sha1": "a958520d14fdf9ab1400e3362020528f69184554"
+    },
+    {
+      "path": "corporate-investigation/corporate/source_extraction_crosscheck.json",
+      "bytes": 1087,
+      "sha256": "3c2de58557b8c8de70420730522835e48ab4a8ad2b15f6f25cc20407270b18c3",
+      "git_blob_sha1": "878ca55ed0d52f0386d14dc38464dc8e1e729156"
+    },
+    {
+      "path": "corporate-investigation/corporate/source_register.csv",
+      "bytes": 18320,
+      "sha256": "45741fc1b9755676d1fb544f3885f5da1d600470383d201dacab8a75a995842f",
+      "git_blob_sha1": "cd3c73a77320fee5c8d20ef5580c453d27e71f75"
+    },
+    {
+      "path": "corporate-investigation/corporate/SOURCE_REGISTER.md",
+      "bytes": 12371,
+      "sha256": "fb8e03c2f9112af13f543124602fe3d1cde4747e584603f1e23d90ad44b07f0e",
+      "git_blob_sha1": "f69e4a832c52f98cd30528a6c378c1b1436858fd"
+    },
+    {
+      "path": "corporate-investigation/corporate/verify.py",
+      "bytes": 8738,
+      "sha256": "16f50a8796b0a26888a085a539b7d84a53843cec3f8441bf9312d4871a8096f7",
+      "git_blob_sha1": "f1507ff2acdc4977d670229fb5abc6c9040e3921"
+    },
+    {
+      "path": "corporate-investigation/corporate/verify_google_ld2.py",
+      "bytes": 6113,
+      "sha256": "0243f8399093b4b35c0104afc8067ff97ae8a410b5407ed03b7f7d39edf87c91",
+      "git_blob_sha1": "34322d5e5a1332a1ddf60751e01576c6467eeef1"
+    },
+    {
+      "path": "corporate-investigation/corporate/verify_manifest.py",
+      "bytes": 1327,
+      "sha256": "67f3585a475b35436526e53ae881f873207ac85a67d76c98820f9b9f3543b4e2",
+      "git_blob_sha1": "695de4756d485b27a793061eaaf954b2c11f4cee"
+    },
+    {
+      "path": "corporate-investigation/LICENSE-MIT.txt",
+      "bytes": 1077,
+      "sha256": "b0b42b30ed78ba058fc5a7f02c43efcfe876fbddea53e888ca5c1f8c7c066372",
+      "git_blob_sha1": "644bb9c1663fea033379c6e78c6aa50877976f17"
+    },
+    {
+      "path": "corporate-investigation/LICENSE.md",
+      "bytes": 2215,
+      "sha256": "95fd7f52f5bfbd055db655be9084ede2e989126ef51ad49ecee4029e48a86677",
+      "git_blob_sha1": "1cb943836d7cc3b38cac73841c5a8e5a34f7cd2b"
+    },
+    {
+      "path": "corporate-investigation/publication-manifest.json",
+      "bytes": 5881,
+      "sha256": "1b40f1eeffefa8801621d4580e4520697ac4875326e3bfb0ff8600210dd89222",
+      "git_blob_sha1": "63445133bc2107a5fb703c532620a55a9bfb9486"
+    },
+    {
+      "path": "corporate-investigation/PUBLICATION-REVIEW.md",
+      "bytes": 3753,
+      "sha256": "cfc8f4571822ed455589c0a1151af4fdf98df2fea0e5b472ce0c18bb07721b0d",
+      "git_blob_sha1": "cd6a0147bf21f973e8398dbf9a10ec62ae2b3624"
+    },
+    {
+      "path": "corporate-investigation/README.md",
+      "bytes": 4721,
+      "sha256": "f96000c2be58240da1e442b036fdd6e51384bfa1540d2052a5efe5f6411fea4d",
+      "git_blob_sha1": "eb4d397002637dae30904dc411ed91ff0d769c64"
+    }
+  ],
+  "scope": "All 37 original money-edition files accounted for; all 26 corporate-edition files included unchanged. New reports/index/verification replace their roles only within this new publication. Raw private chats, security controls, confidential unrelated work and unavailable source captures are outside the public research selection.",
+  "changes": {
+    "source-index.json": "New full index with literal resolving paths",
+    "PROJECT-COMPARISONS.md": "Full rendering of every retained comparison field",
+    "slavery-continuity.json": "Explicit SL03 amount, annual basis and population qualifications; original numerical inputs unchanged",
+    "calculation-index.json": "SLC06 annual unit explicit; arithmetic inputs and results unchanged",
+    "SLAVERY-AND-CONTINUITY.md": "Self-contained SL03 prose and SLC06 annual unit",
+    "verify_release.py": "Explicit runtime validation and expected population checks",
+    "README.md": "New publication navigation",
+    "PUBLICATION-REVIEW.md": "New verification and completeness boundaries",
+    "publication-manifest.json": "Manifest for this new publication only"
+  }
+}

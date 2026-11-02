@@ -1,0 +1,367 @@
+{
+  "alphabet": {
+    "Brin_specified_vote_fraction": {
+      "denominator": 4727151841,
+      "numerator": 1196479083,
+      "percentage_1dp": "25.3",
+      "percentage_6dp": "25.310782"
+    },
+    "Brin_specified_votes": 3589437249,
+    "Page_class_B_vote_fraction": {
+      "denominator": 4727151841,
+      "numerator": 1296837200,
+      "percentage_1dp": "27.4",
+      "percentage_6dp": "27.433796"
+    },
+    "Page_class_B_votes": 3890511600,
+    "combined_specified_founder_vote_fraction": {
+      "denominator": 4727151841,
+      "numerator": 2493316283,
+      "percentage_1dp": "52.7",
+      "percentage_6dp": "52.744578"
+    },
+    "combined_specified_founder_votes": 7479948849,
+    "record_date": "2026-04-06",
+    "scope": "Voting fractions of the specified holdings and Class A/B voting denominator; not an economic-ownership percentage.",
+    "total_class_A_B_votes": 14181455523
+  },
+  "arithmetic_policy": {
+    "integer_counts": "Exact arithmetic on supplied reported integers.",
+    "money": "Exact arithmetic on reported numbers, retaining source rounding and estimate status; not exact underlying dollars.",
+    "rounding": "ROUND_HALF_UP; six decimal places for audit percentages and one for concise display.",
+    "source_validation": "Provenance and source-date checks are separate from arithmetic verification."
+  },
+  "bilderberg": {
+    "all_three_co_list_count": 0,
+    "all_three_co_listed_years": [],
+    "interpretation": "List presence and Jaccard describe overlap in published lists. They do not establish attendance, a meeting, agreement, intent, or influence.",
+    "listed_year_counts": {
+      "Altman": 2,
+      "Nadella": 2,
+      "Smith": 1
+    },
+    "listed_years": {
+      "Altman": [
+        2022,
+        2023
+      ],
+      "Nadella": [
+        2023,
+        2025
+      ],
+      "Smith": [
+        2026
+      ]
+    },
+    "pairs": {
+      "Altman__Nadella": {
+        "co_list_count": 1,
+        "co_listed_years": [
+          2023
+        ],
+        "jaccard": {
+          "denominator": 3,
+          "numerator": 1,
+          "percentage_1dp": "33.3",
+          "percentage_6dp": "33.333333"
+        },
+        "union_count": 3,
+        "union_years": [
+          2022,
+          2023,
+          2025
+        ]
+      },
+      "Altman__Smith": {
+        "co_list_count": 0,
+        "co_listed_years": [],
+        "jaccard": {
+          "denominator": 1,
+          "numerator": 0,
+          "percentage_1dp": "0.0",
+          "percentage_6dp": "0.000000"
+        },
+        "union_count": 3,
+        "union_years": [
+          2022,
+          2023,
+          2026
+        ]
+      },
+      "Nadella__Smith": {
+        "co_list_count": 0,
+        "co_listed_years": [],
+        "jaccard": {
+          "denominator": 1,
+          "numerator": 0,
+          "percentage_1dp": "0.0",
+          "percentage_6dp": "0.000000"
+        },
+        "union_count": 3,
+        "union_years": [
+          2023,
+          2025,
+          2026
+        ]
+      }
+    },
+    "person_year_entries": 5,
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ]
+  },
+  "cutoff_date": "2026-10-31",
+  "fec": {
+    "committees": {
+      "Google": {
+        "line_23_fraction_of_total_disbursements": {
+          "denominator": 180583407,
+          "numerator": 166538432,
+          "percentage_1dp": "92.2",
+          "percentage_6dp": "92.222444"
+        },
+        "period_description": "Cycle shown by the source; exact dates supplied in the parent source index.",
+        "reported_line_23_usd": "1665384.32",
+        "reported_total_disbursements_usd": "1805834.07",
+        "total_less_line_23_usd": "140449.75"
+      },
+      "Microsoft": {
+        "line_23_fraction_of_total_disbursements": {
+          "denominator": 73842443,
+          "numerator": 65325000,
+          "percentage_1dp": "88.5",
+          "percentage_6dp": "88.465383"
+        },
+        "period_description": "2025 through 2026-10-14",
+        "reported_line_23_usd": "1306500.00",
+        "reported_total_disbursements_usd": "1476848.86",
+        "total_less_line_23_usd": "170348.86"
+      }
+    },
+    "interpretation": "Calculations describe the named committee filings, not corporate treasury contributions. Total disbursements and Line 23 are distinct reporting fields."
+  },
+  "google_corporate_disclosures": {
+    "2025_less_2020_reported_usd": 8564275,
+    "2025_less_2020_rows": 190,
+    "2025_to_2020_amount_ratio": {
+      "denominator": 21512,
+      "numerator": 364083,
+      "percentage_1dp": "1692.5",
+      "percentage_6dp": "1692.464671"
+    },
+    "2025_vs_2020_amount_growth": {
+      "denominator": 21512,
+      "numerator": 342571,
+      "percentage_1dp": "1592.5",
+      "percentage_6dp": "1592.464671"
+    },
+    "interpretation": "Selected rows are a subset of the reported total and are not added a second time. Reported sums preserve the disclosures' scope; no recipient-intent or influence conclusion follows.",
+    "other_rows_reported_usd": 3102075,
+    "period_note": "The parent source index must support the Q4 2020 period assignment; a filename or separator alone is insufficient.",
+    "row_counts": {
+      "2020": 74,
+      "2025": 264
+    },
+    "selected_rows_already_in_2025_total": {
+      "California_Leads": 5000000,
+      "Trump_inaugural": 1000000
+    },
+    "selected_rows_combined_reported_usd": 6000000,
+    "selected_rows_fraction_of_2025_total": {
+      "denominator": 121361,
+      "numerator": 80000,
+      "percentage_1dp": "65.9",
+      "percentage_6dp": "65.919035"
+    },
+    "sums_reported_usd": {
+      "2020": 537800,
+      "2025": 9102075
+    }
+  },
+  "lobbying": {
+    "cross_company_spending_ranking": null,
+    "entities": {
+      "Google": {
+        "method": "A",
+        "periods": {
+          "2020": {
+            "quarter_count": 4,
+            "sum_reported_estimates_usd": 7530000
+          },
+          "2025": {
+            "quarter_count": 4,
+            "sum_reported_estimates_usd": 13100000
+          },
+          "2026_Jan_Sep": {
+            "quarter_count": 3,
+            "sum_reported_estimates_usd": 9660000
+          }
+        },
+        "within_entity_comparisons": {
+          "2025_Jan_Sep_sum_reported_estimates_usd": 9750000,
+          "2025_less_base_year_reported_estimates_usd": 5570000,
+          "2025_vs_base_year_change_fraction": {
+            "denominator": 753,
+            "numerator": 557,
+            "percentage_1dp": "74.0",
+            "percentage_6dp": "73.970784"
+          },
+          "2026_Jan_Sep_less_2025_Jan_Sep_reported_estimates_usd": -90000,
+          "2026_Jan_Sep_vs_2025_Jan_Sep_change_fraction": {
+            "denominator": 325,
+            "numerator": -3,
+            "percentage_1dp": "-0.9",
+            "percentage_6dp": "-0.923077"
+          },
+          "annual_base_year": "2020"
+        }
+      },
+      "Microsoft": {
+        "method": "C",
+        "periods": {
+          "2020": {
+            "quarter_count": 4,
+            "sum_reported_estimates_usd": 9374000
+          },
+          "2025": {
+            "quarter_count": 4,
+            "sum_reported_estimates_usd": 9360000
+          },
+          "2026_Jan_Sep": {
+            "quarter_count": 3,
+            "sum_reported_estimates_usd": 7520000
+          }
+        },
+        "within_entity_comparisons": {
+          "2025_Jan_Sep_sum_reported_estimates_usd": 6940000,
+          "2025_less_base_year_reported_estimates_usd": -14000,
+          "2025_vs_base_year_change_fraction": {
+            "denominator": 4687,
+            "numerator": -7,
+            "percentage_1dp": "-0.1",
+            "percentage_6dp": "-0.149349"
+          },
+          "2026_Jan_Sep_less_2025_Jan_Sep_reported_estimates_usd": 580000,
+          "2026_Jan_Sep_vs_2025_Jan_Sep_change_fraction": {
+            "denominator": 347,
+            "numerator": 29,
+            "percentage_1dp": "8.4",
+            "percentage_6dp": "8.357349"
+          },
+          "annual_base_year": "2020"
+        }
+      },
+      "OpenAI": {
+        "method": "A",
+        "method_status": "Parent source check verified Method A on all 12 selected self-filed LD-2 reports, with amendments replacing originals; provenance is in package/lobbying_msft_openai_inputs.json.",
+        "periods": {
+          "2024": {
+            "quarter_count": 4,
+            "sum_reported_estimates_usd": 1760000
+          },
+          "2025": {
+            "quarter_count": 4,
+            "sum_reported_estimates_usd": 2990000
+          },
+          "2026_Jan_Sep": {
+            "quarter_count": 3,
+            "sum_reported_estimates_usd": 3750000
+          }
+        },
+        "within_entity_comparisons": {
+          "2025_Jan_Sep_sum_reported_estimates_usd": 2100000,
+          "2025_less_base_year_reported_estimates_usd": 1230000,
+          "2025_vs_base_year_change_fraction": {
+            "denominator": 176,
+            "numerator": 123,
+            "percentage_1dp": "69.9",
+            "percentage_6dp": "69.886364"
+          },
+          "2026_Jan_Sep_less_2025_Jan_Sep_reported_estimates_usd": 1650000,
+          "2026_Jan_Sep_vs_2025_Jan_Sep_change_fraction": {
+            "denominator": 14,
+            "numerator": 11,
+            "percentage_1dp": "78.6",
+            "percentage_6dp": "78.571429"
+          },
+          "annual_base_year": "2024"
+        }
+      }
+    },
+    "interpretation": "Sums retain the filings' reported-estimate status. Microsoft Method C differs from Google and OpenAI Method A. No cross-company spending ranking or annualization of January-September figures is produced."
+  },
+  "microsoft_financial": {
+    "commercial_to_total_revenue_comparison": {
+      "denominator": 92279,
+      "numerator": 10000,
+      "percentage_1dp": "10.8",
+      "percentage_6dp": "10.836702"
+    },
+    "funded_fraction_of_reported_commitment": {
+      "denominator": 13,
+      "numerator": 12,
+      "percentage_1dp": "92.3",
+      "percentage_6dp": "92.307692"
+    },
+    "interpretation": "The revenue ratio compares reported revenue recognized from commercial arrangements with OpenAI with reported total Microsoft quarter revenue. It is not a counterfactual causal incrementality estimate, profit share, governance or control measure, or policy-bias measure. The funding difference is not a determination of legally payable debt.",
+    "precision_note": "Billion-dollar inputs are reported rounded amounts; quarter revenue is reported in millions. Ratios are approximate descriptions of underlying dollars.",
+    "reported_commitment_less_funded_billions": "1.0"
+  },
+  "mobvoi": {
+    "box_19_fraction_of_stated_issued_shares": {
+      "denominator": 1537700537,
+      "numerator": 90011944,
+      "percentage_1dp": "5.9",
+      "percentage_6dp": "5.853672"
+    },
+    "box_19_minus_calculated_retained_shares": 100,
+    "box_20_minus_calculated_retained_shares": 0,
+    "calculated_retained_shares": 90011844,
+    "interpretation": "Arithmetic agrees with Box 20 and differs from Box 19 by 100 shares. It does not determine authoritative legal disclosure or establish that the issued-share denominator applied at the pre-sale date.",
+    "pre_sale_fraction_of_stated_issued_shares": {
+      "denominator": 1537700537,
+      "numerator": 143326844,
+      "percentage_1dp": "9.3",
+      "percentage_6dp": "9.320855"
+    },
+    "retained_fraction_of_stated_issued_shares": {
+      "denominator": 1537700537,
+      "numerator": 90011844,
+      "percentage_1dp": "5.9",
+      "percentage_6dp": "5.853665"
+    },
+    "sold_fraction_of_pre_sale_holding": {
+      "denominator": 35831711,
+      "numerator": 13328750,
+      "percentage_1dp": "37.2",
+      "percentage_6dp": "37.198196"
+    },
+    "sold_fraction_of_stated_issued_shares": {
+      "denominator": 1537700537,
+      "numerator": 53315000,
+      "percentage_1dp": "3.5",
+      "percentage_6dp": "3.467190"
+    }
+  },
+  "schema_version": 1,
+  "unsupported_inferential_metrics": {
+    "empirical_accuracy": null,
+    "intent_probability": null,
+    "precision": null,
+    "reason": "No independently labeled validation denominator or identified model for intent is supplied. Undefined quantities remain null and are not set to zero.",
+    "recall": null
+  },
+  "vnet": {
+    "interpretation": "The source index defines the share classes, date, and rights represented by this numerator and denominator; the fraction alone does not establish voting power.",
+    "supplied_fraction": {
+      "denominator": 71207115,
+      "numerator": 27101008,
+      "percentage_1dp": "38.1",
+      "percentage_6dp": "38.059410"
+    }
+  }
+}

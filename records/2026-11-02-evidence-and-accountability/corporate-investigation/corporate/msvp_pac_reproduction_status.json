@@ -1,0 +1,21 @@
+{
+  "audit_cutoff_date": "2026-10-31",
+  "committee_id": "C00227546",
+  "source": "U.S. Federal Election Commission processed Schedule B API",
+  "verification_status": "unavailable_for_publication_ranking",
+  "publication_instruction": "Remove the recipient ranking. It could not be reproduced from retained source bytes during packaging.",
+  "frozen_filters": {
+    "two_year_transaction_period": 2026,
+    "line_number": "F3X-23",
+    "min_date": "2025-01-01",
+    "max_date": "2026-08-31",
+    "per_page": 100,
+    "sort": "-disbursement_date"
+  },
+  "attempted_public_url": "https://api.open.fec.gov/v1/schedules/schedule_b/?committee_id=C00227546&two_year_transaction_period=2026&per_page=100&sort=-disbursement_date&api_key=DEMO_KEY&line_number=F3X-23&max_date=2026-08-31&min_date=2025-01-01",
+  "fresh_replay_result": "HTTP 429 Too Many Requests",
+  "raw_source_sha256": null,
+  "limitation": "Original responses were not retained. Retrospective source hashes cannot be generated. Prior conversational counts and rankings are not represented here as an archived verified dataset.",
+  "reproduction_script": "reproduce_msvp_pac.py",
+  "script_behavior": "Uses Python standard library, follows FEC pagination.last_indexes, excludes memoed_subtotal rows, groups recipient_committee_id aliases, preserves raw responses in an internal cache outside the public package, and emits only committee aggregates plus source hashes/public URLs. Offline replay verifies retained page hashes."
+}

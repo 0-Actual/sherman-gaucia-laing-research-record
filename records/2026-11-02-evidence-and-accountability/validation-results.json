@@ -1,0 +1,292 @@
+{
+  "schema": "qel.new-edition-validation.v1",
+  "verifiedUtc": "2026-11-02T14:50:55.674924+00:00",
+  "newEditionPositive": {
+    "corporate": [
+      {
+        "exit_code": 0,
+        "script": "corporate-investigation/corporate/verify_manifest.py",
+        "stderr": "",
+        "stdout": "PASS: 20 payload byte counts and SHA-256 digests\nIntegrity only: no owner signature or source-truth certification."
+      },
+      {
+        "exit_code": 0,
+        "script": "corporate-investigation/corporate/verify.py",
+        "stderr": "",
+        "stdout": "PASS: calculator was rerun and matched expected_outputs.json byte for byte\nPASS: repeated calculator runs were identical\nPASS: 149 independent rational, decimal, count, and policy checks\nScope: arithmetic verification only; source truth and causal influence are not measured"
+      }
+    ],
+    "counts": {
+      "arithmetic_results": 26,
+      "comparison_rows": 28,
+      "conclusion_leaves": 227,
+      "corporate_validator_processes": 2,
+      "edition_files": 77,
+      "financial_calculations": 19,
+      "license_relocations": 1,
+      "manifest_payload_files": 76,
+      "payment_csvs": 2,
+      "payment_rows": 870,
+      "procurement_calculations": 1,
+      "purchase_rows": 13,
+      "slavery_calculations": 6,
+      "source_json_files": 34,
+      "source_occurrences": 415,
+      "source_urls": 373,
+      "verified_day_gaps": 34
+    },
+    "limits": [
+      "Internal content, reference and calculation verification, not independent external source re-verification.",
+      "Hashes establish byte consistency, not truth, authorship, legality or causal influence.",
+      "Historical datasets and their qualified conclusions remain attributed; this verifier does not authorize publication."
+    ],
+    "payments": {
+      "csv_files": 2,
+      "payment_rows": 870,
+      "snapshots": [
+        {
+          "currency": "CAD",
+          "file": "cjc-year2-2026-08-19.csv",
+          "payment_rows": 425,
+          "sha256": "86f804867b6e631a6366fb0d58b9eef6357b6016d5343b6982ccacec852dea50",
+          "sum_cents": 10254440981,
+          "top_10_sum_cents": 5066745971
+        },
+        {
+          "currency": "CAD",
+          "file": "cjc-year1-source-date-ambiguous.csv",
+          "payment_rows": 445,
+          "sha256": "a508682c61b1e8f790f8c1a5170e1b27784542563bca0c2083cc9da92e36856f",
+          "sum_cents": 9622867558,
+          "top_10_sum_cents": 4603456195
+        }
+      ]
+    },
+    "publicationPerformed": false,
+    "record_group_counts": {
+      "company-financial-index.json": 3,
+      "financial/history/evidence.json": 30,
+      "financial/international-first/evidence.json": 54,
+      "financial/international-followthrough/evidence.json": 32,
+      "policy-cases.json": 13,
+      "prior-work/corrected-comparisons.json": 28,
+      "purchases.json": 13
+    },
+    "schema": "qel.research-edition-verification.v1",
+    "status": "PASS"
+  },
+  "newEditionRegression": {
+    "checks_executed": 22,
+    "originalCandidateModified": false,
+    "publicationPerformed": false,
+    "results": [
+      {
+        "case": "valid_baseline",
+        "exit_code": 0,
+        "expected_rejection": null,
+        "optimized": false
+      },
+      {
+        "case": "valid_baseline",
+        "exit_code": 0,
+        "expected_rejection": null,
+        "optimized": true
+      },
+      {
+        "case": "omit_financial",
+        "exit_code": 1,
+        "expected_rejection": "arithmetic.financial.ids",
+        "optimized": false
+      },
+      {
+        "case": "omit_financial",
+        "exit_code": 1,
+        "expected_rejection": "arithmetic.financial.ids",
+        "optimized": true
+      },
+      {
+        "case": "omit_slavery",
+        "exit_code": 1,
+        "expected_rejection": "arithmetic.slavery.ids",
+        "optimized": false
+      },
+      {
+        "case": "omit_slavery",
+        "exit_code": 1,
+        "expected_rejection": "arithmetic.slavery.ids",
+        "optimized": true
+      },
+      {
+        "case": "omit_required_file",
+        "exit_code": 1,
+        "expected_rejection": "manifest.required_original_or_new_file_omitted",
+        "optimized": false
+      },
+      {
+        "case": "omit_required_file",
+        "exit_code": 1,
+        "expected_rejection": "manifest.required_original_or_new_file_omitted",
+        "optimized": true
+      },
+      {
+        "case": "empty_correlation_links",
+        "exit_code": 1,
+        "expected_rejection": "correlations.required_membership",
+        "optimized": false
+      },
+      {
+        "case": "empty_correlation_links",
+        "exit_code": 1,
+        "expected_rejection": "correlations.required_membership",
+        "optimized": true
+      },
+      {
+        "case": "empty_company_links",
+        "exit_code": 1,
+        "expected_rejection": "company_index.required_membership",
+        "optimized": false
+      },
+      {
+        "case": "empty_company_links",
+        "exit_code": 1,
+        "expected_rejection": "company_index.required_membership",
+        "optimized": true
+      },
+      {
+        "case": "whitespace_reference",
+        "exit_code": 1,
+        "expected_rejection": "reference.path_whitespace_or_missing",
+        "optimized": false
+      },
+      {
+        "case": "whitespace_reference",
+        "exit_code": 1,
+        "expected_rejection": "reference.path_whitespace_or_missing",
+        "optimized": true
+      },
+      {
+        "case": "url_not_in_reference",
+        "exit_code": 1,
+        "expected_rejection": "sources.url_absent_in_reference",
+        "optimized": false
+      },
+      {
+        "case": "url_not_in_reference",
+        "exit_code": 1,
+        "expected_rejection": "sources.url_absent_in_reference",
+        "optimized": true
+      },
+      {
+        "case": "omit_conclusion",
+        "exit_code": 1,
+        "expected_rejection": "coverage.leaf_count",
+        "optimized": false
+      },
+      {
+        "case": "omit_conclusion",
+        "exit_code": 1,
+        "expected_rejection": "coverage.leaf_count",
+        "optimized": true
+      },
+      {
+        "case": "alter_report_payload",
+        "exit_code": 1,
+        "expected_rejection": "coverage.report_payload_differs",
+        "optimized": false
+      },
+      {
+        "case": "alter_report_payload",
+        "exit_code": 1,
+        "expected_rejection": "coverage.report_payload_differs",
+        "optimized": true
+      },
+      {
+        "case": "payment_sum",
+        "exit_code": 1,
+        "expected_rejection": "payments.sum_cents",
+        "optimized": false
+      },
+      {
+        "case": "payment_sum",
+        "exit_code": 1,
+        "expected_rejection": "payments.sum_cents",
+        "optimized": true
+      }
+    ],
+    "schema": "qel.research-verifier-regressions.v1",
+    "status": "PASS"
+  },
+  "oldVerifierControlledReproduction": [
+    {
+      "case": "baseline",
+      "optimized": false,
+      "financialRecordsPresent": 19,
+      "slaveryRecordsPresent": 6,
+      "procurementResultPresent": 500000,
+      "exitCode": 0,
+      "stdout": "cjc-year2-2026-08-19.csv 425 rows 102544409.81 CAD top10 percent 49.41026020226699\ncjc-year1-source-date-ambiguous.csv 445 rows 96228675.58 CAD top10 percent 47.83871509457597\nOriginal source bytes and arithmetic match; no files changed.\nPASS: 36 payload identities; 13 purchase rows; 28 prior comparison rows; 26 arithmetic results; recorded-day gaps; 2 original payment CSVs.\n",
+      "errorClass": null
+    },
+    {
+      "case": "baseline",
+      "optimized": true,
+      "financialRecordsPresent": 19,
+      "slaveryRecordsPresent": 6,
+      "procurementResultPresent": 500000,
+      "exitCode": 0,
+      "stdout": "cjc-year2-2026-08-19.csv 425 rows 102544409.81 CAD top10 percent 49.41026020226699\ncjc-year1-source-date-ambiguous.csv 445 rows 96228675.58 CAD top10 percent 47.83871509457597\nOriginal source bytes and arithmetic match; no files changed.\nPASS: 36 payload identities; 13 purchase rows; 28 prior comparison rows; 26 arithmetic results; recorded-day gaps; 2 original payment CSVs.\n",
+      "errorClass": null
+    },
+    {
+      "case": "omit_25_calculations",
+      "optimized": false,
+      "financialRecordsPresent": 0,
+      "slaveryRecordsPresent": 0,
+      "procurementResultPresent": 500000,
+      "exitCode": 0,
+      "stdout": "cjc-year2-2026-08-19.csv 425 rows 102544409.81 CAD top10 percent 49.41026020226699\ncjc-year1-source-date-ambiguous.csv 445 rows 96228675.58 CAD top10 percent 47.83871509457597\nOriginal source bytes and arithmetic match; no files changed.\nPASS: 36 payload identities; 13 purchase rows; 28 prior comparison rows; 26 arithmetic results; recorded-day gaps; 2 original payment CSVs.\n",
+      "errorClass": null
+    },
+    {
+      "case": "omit_25_calculations",
+      "optimized": true,
+      "financialRecordsPresent": 0,
+      "slaveryRecordsPresent": 0,
+      "procurementResultPresent": 500000,
+      "exitCode": 0,
+      "stdout": "cjc-year2-2026-08-19.csv 425 rows 102544409.81 CAD top10 percent 49.41026020226699\ncjc-year1-source-date-ambiguous.csv 445 rows 96228675.58 CAD top10 percent 47.83871509457597\nOriginal source bytes and arithmetic match; no files changed.\nPASS: 36 payload identities; 13 purchase rows; 28 prior comparison rows; 26 arithmetic results; recorded-day gaps; 2 original payment CSVs.\n",
+      "errorClass": null
+    },
+    {
+      "case": "alter_procurement_result",
+      "optimized": false,
+      "financialRecordsPresent": 19,
+      "slaveryRecordsPresent": 6,
+      "procurementResultPresent": 500001,
+      "exitCode": 1,
+      "stdout": "",
+      "errorClass": "AssertionError"
+    },
+    {
+      "case": "alter_procurement_result",
+      "optimized": true,
+      "financialRecordsPresent": 19,
+      "slaveryRecordsPresent": 6,
+      "procurementResultPresent": 500001,
+      "exitCode": 0,
+      "stdout": "cjc-year2-2026-08-19.csv 425 rows 102544409.81 CAD top10 percent 49.41026020226699\ncjc-year1-source-date-ambiguous.csv 445 rows 96228675.58 CAD top10 percent 47.83871509457597\nOriginal source bytes and arithmetic match; no files changed.\nPASS: 36 payload identities; 13 purchase rows; 28 prior comparison rows; 26 arithmetic results; recorded-day gaps; 2 original payment CSVs.\n",
+      "errorClass": null
+    }
+  ],
+  "historicalVerifierSha256": "3583755a7138e76f8d49e305a1b50244a5ec40a811254cca7221575c85543c55",
+  "originalEditionsModified": false,
+  "publicationPerformed": false,
+  "limits": "Tests verify specified local properties. Historical fixtures are intentionally changed copies. They do not establish past execution with optimization, source truth, causation or intent.",
+  "validatedCandidateStage": "77-file candidate before this receipt and final explanatory prose were added; final package bytes are verified separately after rebuilding the manifest.",
+  "preparationIssue": {
+    "issue": "First regression attempt could not copy long nested fixture paths on Windows.",
+    "response": "Used a shorter explicitly selected scratch directory on the same USB and repeated the complete suite.",
+    "finalRegressionChecksPassed": 22,
+    "researchInputsChanged": false
+  }
+}

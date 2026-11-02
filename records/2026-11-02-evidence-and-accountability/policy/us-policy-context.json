@@ -1,0 +1,26 @@
+{
+  "schema":"qel-us-policy-context/1",
+  "findings":[
+    {
+      "id":"CONTEXT1776",
+      "date":"1776–1778",
+      "title":"French assistance and the choice of commercial alliance",
+      "payer":"French Crown, routed through Beaumarchais and Roderigue Hortalez and Company",
+      "recipient":"American military supply effort",
+      "amount":1000000,
+      "currency":"French livres, historical nominal amount",
+      "measurement":"Initial covert support described by Library of Congress; institutional historical synthesis, not a newly reconciled payment ledger",
+      "mechanism":"American need for overseas military supplies shaped negotiations over commercial terms and alliance. Congress adopted the Model Treaty on September 17, 1776; agreements with France followed in 1778.",
+      "policy_instrument":"Model Treaty of 1776 and Franco-American commercial/alliance treaties of 1778",
+      "outcome":"Financing and diplomacy interacted. This is foreign state support of the Revolution, not domestic campaign finance or proof of a purchased vote.",
+      "evidence_strength":"Institutional historical synthesis linking finance, procurement and diplomacy; exact accounting status disputed in historical records.",
+      "counterevidence":"The State Department history records disagreement over whether early aid was a gift or loan. France also pursued strategic interests against Britain. Do not add repeated descriptions of the same funds or assume a dollar conversion.",
+      "lineage":{"actor_role":"Vergennes: French foreign minister; Beaumarchais: commercial intermediary; American commissioners negotiated assistance.","continuity_boundary":"Specific state-credit and treaty relationship, not evidence of an unbroken secret control structure through 2026."},
+      "sources":[
+        {"url":"https://blogs.loc.gov/international-collections/2021/06/the-franco-american-revolution-part-1/","title":"Library of Congress, The Franco-American Revolution Part 1","locator":"Paragraph on initial clandestine aid and the one-million-livre trading firm"},
+        {"url":"https://history.state.gov/milestones/1776-1783/model-treaty","title":"Office of the Historian, The Model Treaty 1776","locator":"Opening and congressional instructions paragraphs; retired historical series"},
+        {"url":"https://history.state.gov/milestones/1784-1800/loans","title":"Office of the Historian, U.S. Debt and Foreign Loans 1775–1795","locator":"Early French aid and disputed gift/loan status; retired historical series"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "field_bindings": [
+    {
+      "input_path": "alphabet.*",
+      "sources": [
+        "S06"
+      ],
+      "observation_date": "2026-04-06",
+      "limit": "A/B vote denominator; not complete equity ownership or October snapshot"
+    },
+    {
+      "input_path": "microsoft_financial.*",
+      "sources": [
+        "S05"
+      ],
+      "observation_date": "2026-09-30",
+      "limit": "Quarter ended September 30; commitment and commercial revenue inputs rounded billions"
+    },
+    {
+      "input_path": "mobvoi.*",
+      "sources": [
+        "S14"
+      ],
+      "observation_date": "2025-02-18",
+      "filed_date": "2025-02-19",
+      "limit": "Retain Box19/20 100-share inconsistency and exact stated issued-share denominator"
+    },
+    {
+      "input_path": "vnet.*",
+      "sources": [
+        "S15",
+        "VNET-rights"
+      ],
+      "observation_date": "2026-09-21",
+      "denominator_date": "2026-06-30",
+      "limit": "Ordinary shares, not parent Microsoft ownership or voting power"
+    },
+    {
+      "input_path": "google_corporate_disclosures.*",
+      "sources": [
+        "S16",
+        "S17"
+      ],
+      "periods": [
+        "2020 full calendar",
+        "2025 full calendar"
+      ],
+      "limit": "Selected disclosed corporate rows; no combined PAC total; 2020 includes pre-window months"
+    },
+    {
+      "input_path": "fec.Microsoft",
+      "sources": [
+        "S21"
+      ],
+      "period": "2025-01-01/2026-10-14",
+      "limit": "Committee summary, not company treasury; recipient ranking excluded"
+    },
+    {
+      "input_path": "fec.Google",
+      "sources": [
+        "S22"
+      ],
+      "period": "2025-01-01/2026-10-14",
+      "limit": "Committee summary, not company treasury"
+    },
+    {
+      "input_path": "bilderberg.*",
+      "sources": [
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30"
+      ],
+      "period": "2022/2026",
+      "limit": "Three selected public leaders; published list inclusion, not independently verified attendance or motive"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2020[0]",
+      "amount_usd": 2394000,
+      "sources": [
+        "Microsoft-LD2-2020-Q1"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2020[1]",
+      "amount_usd": 2910000,
+      "sources": [
+        "Microsoft-LD2-2020-Q2"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2020[2]",
+      "amount_usd": 1880000,
+      "sources": [
+        "Microsoft-LD2-2020-Q3"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2020[3]",
+      "amount_usd": 2190000,
+      "sources": [
+        "Microsoft-LD2-2020-Q4"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2025[0]",
+      "amount_usd": 2350000,
+      "sources": [
+        "Microsoft-LD2-2025-Q1"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2025[1]",
+      "amount_usd": 2570000,
+      "sources": [
+        "Microsoft-LD2-2025-Q2"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2025[2]",
+      "amount_usd": 2020000,
+      "sources": [
+        "Microsoft-LD2-2025-Q3"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2025[3]",
+      "amount_usd": 2420000,
+      "sources": [
+        "Microsoft-LD2-2025-Q4"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2026_Jan_Sep[0]",
+      "amount_usd": 2390000,
+      "sources": [
+        "Microsoft-LD2-2026-Q1"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2026_Jan_Sep[1]",
+      "amount_usd": 2690000,
+      "sources": [
+        "Microsoft-LD2-2026-Q2"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Microsoft.quarters_reported_estimate_usd.2026_Jan_Sep[2]",
+      "amount_usd": 2440000,
+      "sources": [
+        "Microsoft-LD2-2026-Q3"
+      ],
+      "method": "C",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2020[0]",
+      "amount_usd": 1800000,
+      "sources": [
+        "Google-LD2-2020-Q1"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2020[1]",
+      "amount_usd": 1690000,
+      "sources": [
+        "Google-LD2-2020-Q2"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2020[2]",
+      "amount_usd": 1930000,
+      "sources": [
+        "Google-LD2-2020-Q3"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2020[3]",
+      "amount_usd": 2110000,
+      "sources": [
+        "Google-LD2-2020-Q4"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2025[0]",
+      "amount_usd": 3010000,
+      "sources": [
+        "Google-LD2-2025-Q1"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2025[1]",
+      "amount_usd": 3170000,
+      "sources": [
+        "Google-LD2-2025-Q2"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2025[2]",
+      "amount_usd": 3570000,
+      "sources": [
+        "Google-LD2-2025-Q3"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2025[3]",
+      "amount_usd": 3350000,
+      "sources": [
+        "Google-LD2-2025-Q4"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2026_Jan_Sep[0]",
+      "amount_usd": 2860000,
+      "sources": [
+        "Google-LD2-2026-Q1"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2026_Jan_Sep[1]",
+      "amount_usd": 3570000,
+      "sources": [
+        "Google-LD2-2026-Q2"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.Google.quarters_reported_estimate_usd.2026_Jan_Sep[2]",
+      "amount_usd": 3230000,
+      "sources": [
+        "Google-LD2-2026-Q3"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2024[0]",
+      "amount_usd": 340000,
+      "sources": [
+        "OpenAI-LD2-2024-Q1"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2024[1]",
+      "amount_usd": 480000,
+      "sources": [
+        "OpenAI-LD2-2024-Q2"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2024[2]",
+      "amount_usd": 430000,
+      "sources": [
+        "OpenAI-LD2-2024-Q3"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2024[3]",
+      "amount_usd": 510000,
+      "sources": [
+        "OpenAI-LD2-2024-Q4"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2025[0]",
+      "amount_usd": 560000,
+      "sources": [
+        "OpenAI-LD2-2025-Q1"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2025[1]",
+      "amount_usd": 620000,
+      "sources": [
+        "OpenAI-LD2-2025-Q2"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2025[2]",
+      "amount_usd": 920000,
+      "sources": [
+        "OpenAI-LD2-2025-Q3"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2025[3]",
+      "amount_usd": 890000,
+      "sources": [
+        "OpenAI-LD2-2025-Q4"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2026_Jan_Sep[0]",
+      "amount_usd": 1020000,
+      "sources": [
+        "OpenAI-LD2-2026-Q1"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2026_Jan_Sep[1]",
+      "amount_usd": 1200000,
+      "sources": [
+        "OpenAI-LD2-2026-Q2"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    },
+    {
+      "input_path": "lobbying.OpenAI.quarters_reported_estimate_usd.2026_Jan_Sep[2]",
+      "amount_usd": 1530000,
+      "sources": [
+        "OpenAI-LD2-2026-Q3"
+      ],
+      "method": "A",
+      "limit": "Reported expense/estimate; amendments replace originals; no outside-firm double counting"
+    }
+  ],
+  "scope": "Traceability, not source-truth certification"
+}

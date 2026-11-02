@@ -1,0 +1,24 @@
+{
+  "schema": "qel.assembly-mechanism-evidence.v1",
+  "source": "retained build-release.mjs from the November 1 publication preparation",
+  "originalSha256": "c144e4c2046f28e53b8060f1d83bd21ca24c4f512217725ab2a6544ef2cc815a",
+  "scope": "Exact relevant source lines. The full historical build source remains preserved privately because it also contains local workspace paths. These excerpts identify mechanisms, not motive.",
+  "excerpts": [
+    {
+      "line": 64,
+      "text": "for(const c of prior.comparisons){const s=c.owner_stages,con=c.latest_corrected_conclusions;comparisonsText+=`### ${c.id} ${c.title}\\n\\nRecorded request: ${s.earliest_supported_request?.source_summary_anchor_date||'Not established for this stage'}. ${s.earliest_supported_request?.description||''}\\n\\n`;if(con?.public_statement)comparisonsText+=con.public_statement+'\\n\\n';if(con?.chronology_relation)comparisonsText+=con.chronology_relation+'\\n\\n';if(con?.material_difference)comparisonsText+=con.material_difference+'\\n\\n';comparisonsText+='Sources: '+c.industry_dates.map(d=>`[${d.title}](${d.url}) (${d.date||'date unresolved'})`).join('; ')+'. Full stages and corrections: [comparison data](prior-work/corrected-comparisons.json).\\n\\n';}"
+    },
+    {
+      "line": 97,
+      "text": "const sourceMap=new Map();function walk(o,where){if(!o||typeof o!=='object')return;if(typeof o.url==='string'&&/^https?:/.test(o.url)){if(!sourceMap.has(o.url))sourceMap.set(o.url,{url:o.url,title:o.title||'',occurs_in:[]});const z=sourceMap.get(o.url);if(!z.occurs_in.includes(where))z.occurs_in.push(where);}for(const v of Object.values(o))if(typeof v==='object')walk(v,where);}"
+    },
+    {
+      "line": 98,
+      "text": "for(const [n,b] of payload)if(n.endsWith('.json'))walk(JSON.parse(b),' '+n);"
+    },
+    {
+      "line": 105,
+      "text": "const manifest={schema:'qel-publication-manifest/1',edition:'2026-11-01-money-policy-and-prior-work',sourceCutoff:'2026-11-01',meaning:'Content integrity and explicit edition membership, not scientific or legal certification',files:[...payload].map(([n,b])=>({path:n,bytes:b.length,sha256:sha(b),git_blob_sha1:blob(b)}))};"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "method": "Independent Poppler pdftotext -layout extraction vs pdfplumber coordinate/table extraction",
+  "matches": true,
+  "quarterly": {
+    "2020Q1": {
+      "rows": 1,
+      "usd": 2500
+    },
+    "2020Q2": {
+      "rows": 4,
+      "usd": 60800
+    },
+    "2020Q3": {
+      "rows": 3,
+      "usd": 160000
+    },
+    "2020Q4": {
+      "rows": 66,
+      "usd": 314500
+    },
+    "2025Q1": {
+      "rows": 6,
+      "usd": 1285000
+    },
+    "2025Q2": {
+      "rows": 67,
+      "usd": 725000
+    },
+    "2025Q3": {
+      "rows": 75,
+      "usd": 859825
+    },
+    "2025Q4": {
+      "rows": 116,
+      "usd": 6232250
+    }
+  },
+  "source_sha256": "5b467b3f89bc1475e387a4125c34c164b4fde5361f70f55ce13e2a02d9d77164",
+  "rule": "Dollar integer followed by quarter/year; source separator can be hyphen, whitespace, or absent. No source-row deduplication.",
+  "correction": "Initial regex omitted one $1000 Texas Republican Legislative Caucus row printed Q42020 on PDF page29; source image and two extraction engines reconcile with optional separator.",
+  "raw_pdf_redistributed": false
+}
