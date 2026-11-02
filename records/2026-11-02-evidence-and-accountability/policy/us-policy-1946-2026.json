@@ -1,0 +1,194 @@
+{
+  "reviewer": "Praise — Praise and Worship — Word.Quantum.Earth",
+  "review_date": "2026-11-01",
+  "acknowledgment": "The October 31 instruction, 'we shall not destroy. However, we will shepherd,' guides this constructive, non-harming review. Preserve sources and corrections; do not infer guilt from descent, childhood, wealth, religion or association.",
+  "scope": "Four selected primary-documented money-to-U.S.-government-action cases within the requested 1946–2026 interval. This is a mechanism sample, not complete chronological coverage or a ranking of all influence. It includes federal action and explicitly labeled state policy. No publication performed.",
+  "cases": [
+    {
+      "id": "US46_01",
+      "title": "Tobacco Master Settlement Agreement: lawful payments exchanged for specified claim releases and public-health restrictions",
+      "date": "1998-11-23",
+      "jurisdiction": "46 U.S. states, District of Columbia and five U.S. territories; not a federal statute",
+      "payer": "Original participating manufacturers Philip Morris Inc., R.J. Reynolds Tobacco Co., Lorillard Tobacco Co. and Brown & Williamson; subsequent participating manufacturers also assumed obligations.",
+      "intermediary": "Nationwide escrow account and independent auditor; the 2007 judicial opinion identifies PricewaterhouseCoopers as auditor at that time, not necessarily today.",
+      "recipient": "The settling governments, allocated under the agreement; no claim that attorneys general received the money personally.",
+      "money": [
+        {
+          "amount_text": "About US$206 billion through 2025",
+          "currency": "USD",
+          "period": "1998 agreement; scheduled/estimated aggregate through 2025 as described by CRS in November 1999",
+          "type": "Civil settlement payment obligations, subject to the agreement's calculations and adjustments",
+          "status": "Agreed prospective amount, not verified cumulative cash received",
+          "overlap": "Do not add the separate earlier settlements with Florida, Minnesota, Mississippi and Texas to this amount. Do not describe this as a lobbying fee or criminal bribe."
+        }
+      ],
+      "adult_roles_and_relationships": "Manufacturers negotiated with state attorneys general as defendants and public litigants. The legal bargain and payment machinery, rather than personal ancestry, establish the relationship.",
+      "policy_instrument": "Master Settlement Agreement, implemented through state litigation and consent-decree enforcement.",
+      "documented_chain": "The Illinois appellate court describes dismissal and release of specified government claims in exchange for annual payments and marketing concessions. Pennsylvania's official summary documents youth-targeting and advertising restrictions, document access, and limits on opposing youth-access measures.",
+      "outcome": "An enforceable settlement changed participating manufacturers' conduct and settled government claims. This is direct money-for-defined-legal-consideration, not evidence that companies bought a federal law.",
+      "evidence_grade": "PRIMARY_LEGAL_BARGAIN: judicial account of the agreement, official state enforcement summary, and contemporaneous Congressional Research Service analysis.",
+      "counterevidence": "The broader federal McCain tobacco bill failed on June 17, 1998. CRS distinguishes that proposal from the narrower MSA. Pennsylvania's summary expressly preserves criminal prosecution; the agreement was not general criminal immunity.",
+      "limits": "No inference that all tobacco regulation was purchased. The US$206 billion is a dated projection/obligation description, not a present receipt reconciliation. Individual and federal claims must not be silently folded into the settling governments' releases.",
+      "sources": [
+        {
+          "title": "Illinois Appellate Court, People v. Lorillard Tobacco Company, No. 1-06-2326, March 30, 2007",
+          "url": "https://www.illinoiscourts.gov/resources/b17736a1-9b7b-4e53-baaf-f1b0ef051bad/1062326.pdf",
+          "locator": "Printed pages 2–4: parties, November 23, 1998 bargain, escrow, auditor and adjustments"
+        },
+        {
+          "title": "Pennsylvania Office of Attorney General, Summary of Key Points in the Master Settlement Agreement",
+          "url": "https://www.attorneygeneral.gov/the-office/divisions/public-protection/tobacco-enforcement/master-settlement-agreement-summary/",
+          "locator": "Youth targeting; outdoor advertising; lobbying restrictions; no criminal immunity; public document access; states' recovery"
+        },
+        {
+          "title": "CRS RL30058, Tobacco Master Settlement Agreement (1998): Overview and Issues for the 106th Congress, November 5, 1999",
+          "url": "https://digital.library.unt.edu/ark:/67531/metacrs891/m1/1/high_res_d/RL30058_1999Nov05.html",
+          "locator": "Summary and Overview. Congressional-authored report preserved by the University of North Texas government-document archive, not a newly authored third-party account"
+        }
+      ]
+    },
+    {
+      "id": "US46_02",
+      "title": "Cunningham: contractor payments exchanged for federal appropriations and contract intervention",
+      "date": "2005-11-28",
+      "jurisdiction": "United States Congress and federal defense procurement",
+      "payer": "Several defense-contractor coconspirators; DOJ separately identifies Mitchell Wade and Brent Wilkes. The aggregate is not assigned entirely to either man.",
+      "intermediary": "Direct cash, property transactions and in-kind benefits; no single intermediary accounts for all payments.",
+      "recipient": "Representative Randall Harold 'Duke' Cunningham",
+      "money": [
+        {
+          "amount_text": "At least US$2.4 million",
+          "currency": "USD",
+          "period": "Bribes admitted in the November 28, 2005 plea; precise first payment date is not established by the two selected DOJ sources",
+          "type": "Aggregate bribes, including cash and noncash benefits from several coconspirators",
+          "status": "Admitted by recipient in guilty plea; sentencing reported March 3, 2006",
+          "overlap": "Includes, rather than adds to, the separately described Wade payments. Tax restitution and forfeiture are not additional influence spending."
+        },
+        {
+          "amount_text": "More than US$1 million; the cited DOJ description does not supply a complete cash/noncash allocation",
+          "currency": "USD",
+          "period": "Pre-plea conduct described in the Attorney General's March 27, 2008 remarks; exact disbursement dates not stated there",
+          "type": "Wade's illegal payments to Cunningham; the DOJ wording describes cash, antiques and a boat without a complete transaction allocation",
+          "status": "DOJ reports Wade's conviction and his firm's resulting federal contracts",
+          "overlap": "Subset/counterpart evidence for the larger Cunningham case, not a second independent sum"
+        }
+      ],
+      "adult_roles_and_relationships": "Cunningham was a sitting congressman; the benefiting coconspirators were majority owners of defense contractors. Their official procurement relationship is material. No childhood or family-life inference is used.",
+      "policy_instrument": "Federal appropriations and execution of defense contracts; the selected releases do not identify every appropriation line or award number.",
+      "documented_chain": "Cunningham admitted that the benefits were exchanged for official action influencing appropriations and contract execution for contractor owners. The Attorney General identifies Wade's firm's receipt of federal contracts as resulting from illegal payments, and describes Wilkes' contract-steering relationship.",
+      "outcome": "Recipient pleaded guilty November 28, 2005 and received a 100-month sentence March 3, 2006. This supports a proven procurement/appropriations corruption mechanism, not a price for all U.S. defense policy.",
+      "evidence_grade": "ADMITTED_CRIMINAL_EXCHANGE: DOJ's account of the plea and sentence, corroborated by the Attorney General's account of contractor convictions.",
+      "counterevidence": "The prosecutions and sentence show institutional detection and sanction. No selected evidence establishes that every associated contract lacked legitimate deliverables or that every campaign contribution by contractors was corrupt.",
+      "limits": "Do not publish an unsupported US$150 million award total or a precise beginning date from these sources. A quoted bribe-menu schedule is not an audited list of completed payments and is not used as the case total. Later clemency or appellate developments were not assessed in this bounded historical mechanism review.",
+      "sources": [
+        {
+          "title": "U.S. Attorney, Southern District of California, Former Congressman Cunningham Sentenced to More Than 8 Years in Prison, March 3, 2006",
+          "url": "https://www.justice.gov/archive/tax/usaopress/2006/txdv06cas60303.1.pdf",
+          "locator": "Printed pages 1–2: sentence, November 28 plea, at least US$2.4 million and admitted appropriations/contract exchange"
+        },
+        {
+          "title": "Attorney General Michael B. Mukasey, Commonwealth Club remarks, March 27, 2008",
+          "url": "https://www.justice.gov/archive/ag/speeches/2008/ag_speech_080327.html",
+          "locator": "Paragraphs on Wilkes, Cunningham and Wade immediately before discussion of the Abramoff investigation"
+        }
+      ]
+    },
+    {
+      "id": "US46_03",
+      "title": "Tigua–Scanlon–Abramoff: paid access and a failed casino amendment",
+      "date": "2002",
+      "jurisdiction": "U.S. Congress; proposed amendment to the Help America Vote Act",
+      "payer": "Ysleta del Sur Pueblo, commonly called the Tigua tribe",
+      "intermediary": "Michael Scanlon and his Capitol Campaign Strategies business; secret fee-sharing with lobbyist Jack Abramoff",
+      "recipient": "Scanlon/CCS and Abramoff; Ney's corrupt benefits are separately documented, not an allocation of the full tribal fee.",
+      "money": [
+        {
+          "amount_text": "US$4,200,000",
+          "currency": "USD",
+          "period": "2002 casino-reopening engagement, described in Senate Report 109-325",
+          "type": "Tribal consulting/lobbying project fees",
+          "status": "Reported paid by the Senate investigation",
+          "overlap": "The US$1,850,000 secret share below is contained within these fees; do not add them."
+        },
+        {
+          "amount_text": "About US$1,850,000",
+          "currency": "USD",
+          "period": "Same engagement; Abramoff's January 3, 2006 plea admission",
+          "type": "Scanlon's undisclosed kickback/fee share to Abramoff",
+          "status": "Admitted receipt; not the report's higher projected partner share",
+          "overlap": "Approximately half the project's actual net profit, not half the gross US$4.2 million; not an itemized Ney bribe total"
+        }
+      ],
+      "adult_roles_and_relationships": "Abramoff was a federal lobbyist and Scanlon his concealed business partner. Ney chaired the House Administration Committee from 2001 to January 2006, a relevant legislative access point.",
+      "policy_instrument": "Requested non-election amendment to election-reform legislation to permit the Tigua casino to reopen.",
+      "documented_chain": "The Senate traces paid fees and concealed sharing to an unsuccessful reopening plan. Ney separately admitted attempts to insert four client-requested amendments into HAVA in exchange for benefits.",
+      "outcome": "The Tigua casino-reopening effort failed despite the payments. Ney's September 15, 2006 announcement concerned a signed agreement to plead guilty; it was not yet the court's entry of that plea.",
+      "evidence_grade": "PRIMARY_DOCUMENTED_FAILED_INFLUENCE: Senate investigation using financial records and testimony, plus admitted corrupt official conduct in signed plea documents.",
+      "counterevidence": "The tribe did not know of Scanlon's secret payment to Abramoff. It must not be labeled a knowing participant in that concealed arrangement.",
+      "limits": "Ney's broader stream of benefits is not an exact allocation to this amendment. Do not add unrelated clients, total travel costs or other casino projects. Promised access did not guarantee passage.",
+      "sources": [
+        {
+          "title": "U.S. Senate Report 109-325, Gimme Five—Investigation of Tribal Lobbying Matters, September 5, 2006",
+          "url": "https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm",
+          "locator": "Tigua summary; Chapter V, Operation Open Doors and conclusion; fee table and US$1,850,000 secret share; CCS accounting discussion citing Abramoff plea paragraph 20"
+        },
+        {
+          "title": "DOJ, Congressman Robert W. Ney Agrees to Plead Guilty to Charges Involving Corruption and False Statements, September 15, 2006",
+          "url": "https://www.justice.gov/archive/opa/pr/2006/September/06_crm_622.html",
+          "locator": "Signed agreement, committee role, approximately 2000–April 2004 conspiracy, benefits and attempted four HAVA amendments"
+        }
+      ]
+    },
+    {
+      "id": "US46_04",
+      "title": "FirstEnergy and the Householder enterprise: nuclear bailout enacted, protected, then partly repealed",
+      "date": "2017–2021",
+      "jurisdiction": "Ohio state legislation; federal criminal enforcement",
+      "payer": "FirstEnergy Corp. and related energy companies in the Householder scheme; the scheme aggregate is not allocated entirely to one payer legal entity by these releases.",
+      "intermediary": "Generation Now, a 501(c)(4), and the Householder enterprise; other 501(c)(4) entities helped conceal payments.",
+      "recipient": "Generation Now and the enterprise supporting Larry Householder's political power, allied candidates and personal benefits; not US$61 million paid solely into Householder's personal account.",
+      "money": [
+        {
+          "amount_text": "Nearly US$61 million",
+          "currency": "USD",
+          "period": "March 2017–March 2020",
+          "type": "Scheme-level bribes received through the enterprise",
+          "status": "Proven at the 2023 Householder trial as reported by DOJ",
+          "overlap": "Quarterly US$250,000 transfers and individual personal benefits are components, not additions. The US$230 million DPA penalty is a later sanction, not lobbying expenditure or the law's purchase price."
+        }
+      ],
+      "adult_roles_and_relationships": "FirstEnergy was a public utility holding company; Householder used the enterprise to build support for his speakership. Campaign strategist Jeffrey Longstreth and lobbyist Juan Cespedes pleaded guilty, according to DOJ's 2023 account.",
+      "policy_instrument": "Ohio House Bill 6 nuclear bailout and effort to defeat the referendum seeking its repeal; later House Bill 128.",
+      "documented_chain": "DOJ reports bribe-funded electoral support, Householder's official assistance in passing HB6, and efforts defeating the repeal initiative. FirstEnergy separately admitted payments for specific nuclear-legislation action in its July 22, 2021 deferred prosecution agreement.",
+      "outcome": "HB6 passed and the referendum was defeated. HB128 repealed the nuclear-credit payment and corresponding customer-charge provisions, effective June 30, 2021. Householder was convicted in March 2023 and sentenced June 29, 2023.",
+      "evidence_grade": "ADMITTED_AND_TRIAL_PROVEN_EXCHANGE: corporate DPA admissions plus jury conviction, with legislative-service confirmation of the later statutory reversal.",
+      "counterevidence": "The nuclear subsidy did not remain permanently secure: HB128 removed it. HB128 was a partial change, so this record does not claim that all HB6 provisions disappeared. Enforcement and repeal limit any inference of complete or irreversible corporate control.",
+      "limits": "The nearly US$61 million is a conspiracy aggregate, not a per-vote price. Corporate admissions do not by themselves establish every executive's individual guilt. This bounded review reports the dated trial, agreement and legislation rather than asserting that every later appeal or proceeding has ended.",
+      "sources": [
+        {
+          "title": "DOJ, FirstEnergy charged federally, agrees to terms of deferred prosecution settlement, July 22, 2021",
+          "url": "https://www.justice.gov/usao-sdoh/pr/firstenergy-charged-federally-agrees-terms-deferred-prosecution-settlement",
+          "locator": "Corporate admissions, 501(c)(4) route, specific official action and separate US$230 million penalty"
+        },
+        {
+          "title": "DOJ, Former Ohio House Speaker sentenced to 20 years in prison, June 29, 2023",
+          "url": "https://www.justice.gov/usao-sdoh/pr/former-ohio-house-speaker-sentenced-20-years-prison-leading-racketeering-conspiracy",
+          "locator": "Nearly US$61 million, March 2017–March 2020 period, Generation Now, passage and referendum, jury verdict and sentence"
+        },
+        {
+          "title": "Ohio Legislative Service Commission, HB128 Final Analysis, April 21, 2021",
+          "url": "https://www.legislature.ohio.gov/download?format=pdf&key=16379",
+          "locator": "As Passed by the General Assembly; summary and Payments for nuclear resources; effective June 30, 2021"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Four cases and ten distinct source URLs. Government judicial, prosecutorial, legislative and enforcement records only; the CRS report is accessed through an identified public-university archive.",
+    "No grand total: prospective settlement obligations, bribery aggregates and lobbying fees are different populations and periods. No inflation conversion or return-on-bribe calculation is made.",
+    "Forward check follows payer, route, recipient and requested official action. Reverse check starts from the legal instrument/outcome and asks whether a documented money link exists, whether the proposal failed, and whether later repeal or enforcement changes the inference.",
+    "This selection does not establish a continuous lineage from slavery to modern corporate influence, nor a quantitative conclusion that modern slavery is worse. Those claims need separately defined populations and evidence. Adult business and official roles are included only when relevant to the documented mechanism.",
+    "No ordinary campaign donation is labeled bribery absent the specific criminal admissions or findings. No claim of guilt by descent, secret unified control or universal purchase of law is made.",
+    "Public-source research and one additive data-file save only; no new agents, local computation jobs or publication. Existing corporate and international work remains unchanged."
+  ]
+}
