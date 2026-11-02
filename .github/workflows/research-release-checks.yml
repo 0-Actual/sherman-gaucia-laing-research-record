@@ -42,6 +42,13 @@ jobs:
         run: python -B records/2026-10-17-priority-zero-expanded/test_release_verifier.py
       - name: Verify money and policy research evidence
         run: python -B records/2026-11-01-money-policy-and-prior-work/verify_release.py
+      - name: Verify complete evidence and accountability edition
+        run: python -B records/2026-11-02-evidence-and-accountability/verify_release.py
+      - name: Exercise evidence completeness under normal and optimized Python
+        shell: bash
+        run: |
+          mkdir -p "$RUNNER_TEMP/evidence-checks"
+          python -B records/2026-11-02-evidence-and-accountability/helpers/regression_checks.py --root records/2026-11-02-evidence-and-accountability --scratch "$RUNNER_TEMP/evidence-checks"
       - name: Verify the exact owner-signed historical attestation
         if: runner.os == 'Linux'
         run: python -B verify_publications.py attestation
