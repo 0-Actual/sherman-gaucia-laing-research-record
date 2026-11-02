@@ -1,0 +1,2076 @@
+{
+  "schema": "word-quantum-earth.influence-followthrough.v1",
+  "createdUtc": "2026-11-01T18:07:43.848Z",
+  "cutoff": "2026-11-01",
+  "scope": "Additive international follow-through to the 54-record first pass. Canada, Australia, EU and India selected to test specific gaps, not a representative global sample. Worldwide history and other countries remain in the earlier research.",
+  "owner": "Sherman G. Laing",
+  "coordinator": "Gaucia Actual — Root (Codex)",
+  "findings": [
+    {
+      "id": "AU01",
+      "date": "2021-02-23",
+      "title": "Facebook expressly linked restoring news to negotiated government changes",
+      "finding": "Facebook's 22 February 2021 Pacific-time update, corresponding to 23 February in Australia, says discussions with Treasurer Frydenberg and Minister Fletcher produced changes addressing its concerns, enabling restoration of news and further journalism investment. Fletcher later publicly confirmed intense negotiations with Mark Zuckerberg before restoration and passage.",
+      "evidence_level": "Company attribution, corroborated as to negotiations by a participating minister",
+      "money_status": "No price for the political negotiation or precise publisher payment disclosed",
+      "limit": "Demonstrates acknowledged bargaining and commercial pressure, not bribery. The company describes its own success; the minister describes the government's success. This source pair does not allocate authorship of each amendment. This is platform-news policy, not AI-model legislation.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Facebook: changes to sharing and viewing news in Australia",
+          "url": "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/",
+          "locator": "Update 22 February 2021, 8:20 PM PT; original 17 February restriction announcement"
+        },
+        {
+          "title": "Paul Fletcher: Governing in the Internet Age",
+          "url": "https://www.paulfletcher.com.au/past-ministerial-speeches/national-press-club-governing-in-the-internet-age",
+          "locator": "6 October 2021; Online Platforms and Competition section"
+        }
+      ],
+      "region": "Australia"
+    },
+    {
+      "id": "EF05",
+      "date": "2022-10-20",
+      "title": "Primary AI Act request and later provision: GitHub open-source exemption",
+      "finding": "GitHub's dated position paper asks to expand the research/development exemption to shared open-source code and models, and proposes scope language protecting open-source AI before deployment while retaining high-risk coverage. The Commission's later official text shows Article 2(8) excluding pre-market research/development, and Article 2(12) exempting free/open-source AI systems except high-risk systems and those under Articles 5 or 50. This is a concrete documented request followed by a partly corresponding legal provision, not an attributed causal finding.",
+      "evidence_level": "PRIMARY_REQUEST_AND_PRIMARY_LEGAL_TEXT_PARTIAL_ALIGNMENT",
+      "money_status": "No fee, donation or payment attached to this clause was established; do not connect it to EU11/EU12 bands.",
+      "limit": "Reverse check: the paper itself builds on a Parliament Legal Affairs Committee report dated 12 September 2022 and text considered by Axel Voss. Thus the proposal history predates GitHub's 20 October paper; GitHub cannot be labelled the originator from this evidence. No primary legislative statement was found crediting GitHub as the cause of adoption. The Commission service page identifies its legal text as consolidated at 27 July 2026; it is not a frozen 2024 page.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "EU AI Act — GitHub Position Paper, 20 October 2022",
+          "url": "https://github.blog/wp-content/uploads/2023/02/GitHub_Position_Paper-AI_Act.pdf",
+          "locator": "Printed pages 4 and 6: recommendations 3 and 5, proposed scope language and explicit references to earlier parliamentary text. PDF contains seven pages; date is on first page."
+        },
+        {
+          "title": "European Commission AI Act Service Desk — Article 2: Scope",
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-2",
+          "locator": "Paragraphs 8 and 12; page's consolidated-version disclaimer."
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "AU02",
+      "date": "2022-11",
+      "title": "Treasury attributed commercial deals to regulatory pressure but could not audit their prices",
+      "finding": "Australia's Treasury review concluded that over 30 Google/Meta agreements were unlikely without the code. It also stated that parties had not supplied the confidential agreements. Its reference to more than A$200m came from Rod Sims's estimate, not a transaction audit. The report names recipients and documents differing outcomes, including publishers unable to secure deals.",
+      "evidence_level": "Government evaluation with explicit access and measurement limits",
+      "money_status": "A$200m-plus is an attributed estimate; no verified aggregate disbursement established here",
+      "limit": "A declared estimate must not be converted into exact paid cash. Treasury's counterfactual assessment is an evaluative conclusion rather than an experimental causal estimate. The code incentivized private deals, so statutory adoption and actual receipt are separate questions.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Australian Treasury: the code's first year of operation",
+          "url": "https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf",
+          "locator": "Printed pp.1,4–9; p.8 footnote24 distinguishes Sims's estimate from unavailable agreement terms"
+        }
+      ],
+      "region": "Australia"
+    },
+    {
+      "id": "CA01",
+      "date": "2023-09-02",
+      "title": "The draft exemption threshold was a revenue proxy, not a fixed C$172 million statutory bill",
+      "finding": "The Online News Act received royal assent on June 22, 2023; its main application and bargaining provisions commenced December 19. Sections 11 and 84 establish exemption criteria and regulation-making authority. The September 2 draft proposed a sustainability threshold: relevant intermediary global revenue × Canada's share of global GDP (approximately 2%) × 4%. Unrelated company revenue was excluded. This was an exemption criterion for negotiated agreements, not 4% of all Alphabet revenue or a fixed amount written into the Act.",
+      "evidence_level": "Primary statute and proposed regulation with explanatory statement",
+      "money_status": "Proposed threshold; neither an assessed tax nor a verified payment",
+      "limit": "The reviewed draft does not state C$172 million. Exact application would require the relevant revenue, GDP inputs and valuation period; no reconstruction from guessed inputs is presented.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "Online News Act, S.C. 2023, c. 23",
+          "url": "https://laws.justice.gc.ca/eng/acts/O-9.3/FullText.html",
+          "locator": "Assent heading; sections 11, 84 and commencement notes following section 93"
+        },
+        {
+          "title": "Proposed Online News Act regulations, Canada Gazette Part I, September 2, 2023",
+          "url": "https://gazette.gc.ca/rp-pr/p1/2023/2023-09-02/html/reg1-eng.html",
+          "locator": "Regulatory Impact Analysis Statement: Contribution to the sustainability of the Canadian news marketplace; Intermediary global revenue; Canadian share of global GDP"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "CA08",
+      "date": "2023-11-29",
+      "title": "C$172 million is documented as an expectation, not a proved enforceable liability",
+      "finding": "In the November 29 Senate debate, Senator Julie Miville-Dechêne contrasted the C$100 million agreement with an expected C$172 million. Government Representative Marc Gold welcomed the agreement but did not supply a C$172 million calculation. On December 1, MP Martin Champoux likewise referred to about C$172 million previously discussed; Parliamentary Secretary Francis Drouin confirmed the C$100 million indexed agreement.",
+      "evidence_level": "Primary parliamentary records of attributed statements",
+      "money_status": "Expected amount discussed by legislators versus announced agreement; neither statement is proof of a C$172 million payment or assessment",
+      "limit": "No originating government model establishing the C$172 million estimate was located. Do not label the difference a forgiven debt, tax cut or verified saving. The documentary regulatory changes in CA02 stand independently of this missing model.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "Senate Debates, November 29, 2023, Issue 164",
+          "url": "https://sencanada.ca/en/content/sen/chamber/441/debates/164db_2023-11-29-e",
+          "locator": "Canadian Heritage — Online News Act; Miville-Dechêne and Gold exchange, approximately 14:40"
+        },
+        {
+          "title": "House of Commons Debates, December 1, 2023, Sitting 260",
+          "url": "https://www.ourcommons.ca/documentviewer/en/44-1/house/sitting-260/hansard",
+          "locator": "News Media Industry; Champoux and Drouin exchange, between 11:50 and 11:55"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "CA02",
+      "date": "2023-12-15",
+      "title": "Government expressly connected changes to Google's stated concerns",
+      "finding": "The final regulations' explanatory statement says Google objected that the draft formula created a floor without a ceiling and uncertain liability. The formula was removed; a C$100 million annually indexed provision for the largest search engine was added to secure Google's continued participation. The notification period also changed from 30 to 180 days following Google's concerns. On November 29, Minister Pascale St-Onge publicly described weeks of discussions leading to the C$100 million, single-collective arrangement. The final instrument was registered December 15, 2023 and published January 3, 2024.",
+      "evidence_level": "Primary final regulation, government explanation and ministerial statement",
+      "money_status": "Annual monetary exemption benchmark, indexed; not a political donation or payment to government",
+      "limit": "This documents a government-acknowledged response to corporate representations. It does not establish bribery or exclusive corporate authorship. The explanatory statement is not itself the regulation.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "Online News Act Application and Exemption Regulations, SOR/2023-276",
+          "url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-01-03/html/sor-dors276-eng.html",
+          "locator": "Sections 3 and 9(2); Regulatory Impact Analysis Statement: Prepublication results, Notification period, and Sustainability criterion"
+        },
+        {
+          "title": "Minister St-Onge statement on next steps for the Online News Act",
+          "url": "https://www.canada.ca/en/canadian-heritage/news/2023/11/statement-by-minister-st-onge-on-next-steps-for-the-online-news-act.html",
+          "locator": "November 29, 2023 statement: annual contribution and single-collective option"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "CA03",
+      "date": "2024-10-28",
+      "title": "The regulator imposed limits rather than granting an unconditional exemption",
+      "finding": "Google signed its CJC agreement June 6, 2024. The October 28 decision granted a five-year Google Search exemption, with payment due within 60 days. It capped administrative deductions at 2%, prohibited membership fees, and limited Google's indemnity claims and set-offs to the administrative allowance. The regulator rejected an uncapped indemnity because it could endanger news funding.",
+      "evidence_level": "Primary regulatory decision",
+      "money_status": "Conditions on contribution handling and potential withholding; not evidence any indemnity was collected",
+      "limit": "The exemption is a specific statutory arrangement, not general immunity from Canadian law. Financial support does not establish editorial control.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "Online News Decision CRTC 2024-262",
+          "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+          "locator": "Summary; paragraphs 8, Administrative expenses, and paragraphs 61–66"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "CA04",
+      "date": "2025-07-21",
+      "title": "An early downstream snapshot identifies actual named payees",
+      "finding": "The CRTC's first report lists CJC payments totalling C$55,244,356.52 to 338 news businesses by July 21, 2025. Selected legal-name rows: Canadian Broadcasting Corporation C$6,860,000.00; Bell Media Inc. C$5,324,700.70; Postmedia Network Inc. C$4,268,319.33; The Globe and Mail Inc. C$2,062,409.41; Metroland Media Group Ltd. C$1,953,750.36; Aboriginal Peoples Television Network Incorporated C$216,749.07; Tyee Independent Media Society C$128,596.81; Investigative Journalism Foundation of Canada C$38,264.05.",
+      "evidence_level": "Regulator's published reproduction of CJC recipient data",
+      "money_status": "Reported paid by cutoff, not merely pledged; partial first-year snapshot",
+      "limit": "These are selected rows, not an ownership-consolidated ranking. Recipient businesses can operate multiple outlets. Do not extrapolate each payment to a final annual entitlement or treat this snapshot as a bank audit.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "Independent Auditor's Report on the Impact of the Online News Act 2024–2025",
+          "url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+          "locator": "Distribution of funds; full alphabetical recipient appendix, named rows and total; footnote explaining CJC name-source corrections"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "IN03",
+      "date": "2025-10-11",
+      "title": "Energy support specifies public concessions and reimbursement ceilings, not verified payments",
+      "finding": "The G.O.40 copy specifies INR 1/kWh support capped at INR 4,800 crore; electricity-duty exemption, INR 1,200 crore; transmission-charge exemption, INR 4,000 crore; renewable/carbon-free cross-subsidy-charge exemption, INR 4,500 crore; and electrical-infrastructure reimbursement, INR 500 crore. Tariff/duty years 11–15 depend on milestones; transmission/cross-subsidy relief spans 20 years. Banking charges are excluded.",
+      "evidence_level": "GOVERNMENT_ORDER_TEXT_ON_THIRD_PARTY_HOST_OFFICIAL_COPY_NOT_RETRIEVED",
+      "money_status": "APPROVED_CONCESSION_CEILINGS_IN_ORDER_COPY_DISBURSEMENT_UNVERIFIED",
+      "limit": "These are concession ceilings. Actual treasury releases, utility settlements and consumer-rate effects remain unverified.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Andhra Pradesh ITE&C G.O.Ms.No.40, third-party copy",
+          "url": "https://www.scribd.com/document/1061400516/2025ITC-38488-MS40-E-Google",
+          "locator": "2025-10-11; paragraph 5, Fiscal Incentives items 8–13"
+        }
+      ],
+      "region": "India"
+    },
+    {
+      "id": "IN04",
+      "date": "2025-10-11",
+      "title": "Tax, land and capital assistance have different fiscal mechanisms",
+      "finding": "The same order copy provides a 25% land discount, stamp/registration exemption, 10% plant-and-machinery subsidy capped at INR 2,129 crore, and net-SGST reimbursements capped at INR 2,245 crore for construction and INR 1,745 crore for leasing. Its overall incentive ceiling is INR 22,002 crore.",
+      "evidence_level": "GOVERNMENT_ORDER_TEXT_ON_THIRD_PARTY_HOST_OFFICIAL_COPY_NOT_RETRIEVED",
+      "money_status": "CONDITIONAL_PUBLIC_SUPPORT_NOT_A_CASH_PAYMENT",
+      "limit": "Underlying transactions and realized land-discount value remain unverified. Component caps must not be added to the overall ceiling.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Andhra Pradesh ITE&C G.O.Ms.No.40, third-party copy",
+          "url": "https://www.scribd.com/document/1061400516/2025ITC-38488-MS40-E-Google",
+          "locator": "Paragraph 5, Fiscal Incentives items 1–5 and 14"
+        }
+      ],
+      "region": "India"
+    },
+    {
+      "id": "IN06",
+      "date": "2025-10-11",
+      "title": "A documented procurement-access provision stops short of an awarded cloud contract",
+      "finding": "G.O.40's copy says the state will consider Google Cloud for government data services subject to procurement rules.",
+      "evidence_level": "GOVERNMENT_ORDER_TEXT_ON_THIRD_PARTY_HOST_OFFICIAL_COPY_NOT_RETRIEVED",
+      "money_status": "PROCUREMENT_CONSIDERATION_NO_AWARDED_CONTRACT_OR_PAYMENT_VERIFIED",
+      "limit": "This is documented access language; it does not prove exclusive procurement, an award, bribery or secret intent.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Andhra Pradesh ITE&C G.O.Ms.No.40, third-party copy",
+          "url": "https://www.scribd.com/document/1061400516/2025ITC-38488-MS40-E-Google",
+          "locator": "Paragraph 5, Non-Fiscal Incentives item 2: Cloud Partnership and Procurement"
+        }
+      ],
+      "region": "India"
+    },
+    {
+      "id": "IN01",
+      "date": "2025-11-28",
+      "title": "Nxtra Vizag received a disclosed private capital subscription, corroborated by audited parent cash flow",
+      "finding": "Airtel's incorporation filing identifies INR 50 million (INR 5 crore) initial cash subscription in Nxtra Vizag Limited, incorporated on 2025-11-28 as a wholly owned subsidiary of Nxtra Data Limited. The filing reports Airtel's 75.96% interest in Nxtra Data at that date. Nxtra Data's audited FY2026 standalone cash-flow statement subsequently records INR 50 million invested in its subsidiary, and consolidated note 3 identifies the new Nxtra Vizag subsidiary.",
+      "evidence_level": "ORIGINAL_COMPANY_REGULATORY_FILING_AND_AUDITED_FINANCIAL_RESULTS",
+      "money_status": "REPORTED_CASH_SUBSCRIPTION_CORROBORATED_BY_ANNUAL_AUDITED_CASH_OUTFLOW",
+      "limit": "Incorporation date is not an independently established bank-transfer date. This is subsidiary equity, not proof of government subsidy receipt, construction spending, or Google paying the full hub budget. The dated ownership percentage must not be assumed current indefinitely.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Bharti Airtel Regulation 30 disclosure: incorporation of Nxtra Vizag Limited",
+          "url": "https://assets.airtel.in/static-assets/cms/investor/docs/Reg30DisclosureNxtraVizag.pdf",
+          "locator": "2025-11-28; Annexure A, items 1 and 7–10, PDF pages 2–3"
+        },
+        {
+          "title": "Nxtra Data audited standalone and consolidated FY2026 results",
+          "url": "https://assets.airtel.in/nxtra/pdf/Financial-Documents/STXIntimation_Nxtra_results_March31_2026.pdf",
+          "locator": "Released 2026-05-11; PDF page 7, standalone cash flow: investment in subsidiary (50), INR millions; page 16, consolidated note 3"
+        }
+      ],
+      "region": "India"
+    },
+    {
+      "id": "CA11",
+      "date": "2026-01",
+      "title": "An original receipt statement differs from the later available-funding figure",
+      "finding": "CJC's January update reports receipt of C$102,418,842 for Year 2. The later CRTC report presents C$102.5m as available funding and a 2.5% inflation adjustment. The difference is C$81,158. The January update separately reports C$96,223,110.32 distributed to459 businesses as of December19,2025, with payments continuing.",
+      "evidence_level": "TWO ATTRIBUTED PRIMARY STATEMENTS; RECONCILIATION UNRESOLVED",
+      "money_status": "CJC-reported receipt versus regulator's available-funding figure; different measures",
+      "limit": "Do not silently replace the reported receipt with C$102.5m, infer a short payment, or assign adjustments without a cash bridge. The older459-recipient count cannot establish attrition relative to later445-row data.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "CJC January update",
+          "url": "https://cjc-ccj.ca/en/january-update/",
+          "locator": "Year1 Disbursements and Year2 Funding Secured"
+        },
+        {
+          "title": "CRTC 2025–2026 impact report",
+          "url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+          "locator": "Year2 Distribution of Funds and footnote6"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "IN05",
+      "date": "2026-02-27",
+      "title": "Land orders identify the legal recipients and a lease structure",
+      "finding": "The G.O.2 copy expands approved land from 480 to 601.4 acres after Raiden/Adani representations. The G.O.4 copy records APIIC provisional allotments at Tarluvada and Rambilli on 2026-02-20, then approves allotment to Adani Infra's wholly owned SPVs: Vizag Mega Data Center Park, 266.6 acres; Vizag Hyperscale Data Center Park, 160 acres; and Vizag Rambilli Data Center Park, 174.8 acres. Adavivaram–Mudasarlova is specified as a 30-year lease through APIIC after an Endowments Department lease to APIIC.",
+      "evidence_level": "DATED_GOVERNMENT_ORDER_COPIES_WITH_IDENTIFIED_PRIOR_ALLOTMENT_RECORDS_NOT_OFFICIALLY_AUTHENTICATED",
+      "money_status": "LAND_ALLOTMENT_AND_LEASE_APPROVALS_NOT_PROOF_OF_PAID_PRICE_OR_COMPLETED_TITLE_TRANSFER",
+      "limit": "The underlying provisional letters, executed deeds, valuation, rent payments and compensation records were not obtained. These are dated approvals, not a verified current final acreage. G.O.4 refers several requested relaxations and incentive revisions for examination; it does not establish that all requests were granted.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Andhra Pradesh ITE&C G.O.Ms.No.2, third-party copy",
+          "url": "https://www.scribd.com/document/1059730399/2026ITC-40508-MS2-E",
+          "locator": "2026-02-18; paragraphs 3–8: representations, requested SPVs, approved acreage, further examination"
+        },
+        {
+          "title": "Andhra Pradesh ITE&C G.O.Ms.No.4, third-party copy",
+          "url": "https://www.scribd.com/document/1054630282/2026ITC-40674-MS4-E",
+          "locator": "2026-02-27; reference 5; paragraphs 5 and 6(a)–(e)"
+        }
+      ],
+      "region": "India"
+    },
+    {
+      "id": "IN02",
+      "date": "2026-03-31",
+      "title": "Audited infrastructure cash spending exists, but the disclosed total covers the whole Nxtra group",
+      "finding": "Nxtra's audited consolidated FY2026 cash flow records INR 13,108 million paid for property, plant, equipment, intangibles and capital work in progress. It also records INR 8,499 million net operating cash and INR 7,541 million net short-term borrowing proceeds. These are company-group cash flows, rather than announced future investment.",
+      "evidence_level": "ORIGINAL_AUDITED_COMPANY_FINANCIAL_RESULTS",
+      "money_status": "ACTUAL_REPORTED_GROUP_CASH_FLOWS_NOT_PROJECT_ALLOCATED",
+      "limit": "The published line does not allocate payments to Visakhapatnam or identify individual vendors. Do not attribute the entire INR 13,108 million to Google's hub, or equate borrowings with a government contribution. Subscription capital and spending can represent successive stages of the same money; do not add them as independent investment.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Nxtra Data audited standalone and consolidated FY2026 results",
+          "url": "https://assets.airtel.in/nxtra/pdf/Financial-Documents/STXIntimation_Nxtra_results_March31_2026.pdf",
+          "locator": "PDF page 15, audited consolidated statement of cash flows; columns FY2026 versus FY2025; INR millions"
+        }
+      ],
+      "region": "India"
+    },
+    {
+      "id": "CA07",
+      "date": "2026-04-28",
+      "title": "Administrative reporting exists, but exact expenditure remains unverified here",
+      "finding": "CRTC intended annual requests for CJC financial statements, audits and administrative-expense accounts. CJC bylaw 8.4 requires annual audited statements and member access. The 2026 impact report says actual 2025 administration was below the 2% allowance, without an exact figure. The public recipient pages provide original CSV links for downstream reconciliation.",
+      "evidence_level": "Regulatory reporting requirement, corporate bylaw and published report",
+      "money_status": "C$2 million is a Year 1 ceiling, not demonstrated spending",
+      "limit": "Audited financial statements and an exact expense breakdown were not located in this bounded review; that does not establish absence or noncompliance. CSV contents remain unparsed by this reviewer. Later coordinator analysis is in CA09–CA11; original reviewer input remains preserved.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "Online News Decision CRTC 2024-262",
+          "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+          "locator": "Transparency reporting, paragraphs 59–60, especially 60(d)"
+        },
+        {
+          "title": "CJC bylaws as amended April 28, 2026",
+          "url": "https://cjc-ccj.ca/app/uploads/2026/04/2026-04-28-cjc-ccj-bylaws-en.pdf",
+          "locator": "Section 8.4, printed page 26 (PDF page index 25)"
+        },
+        {
+          "title": "Independent Auditor's Report on the Impact of the Online News Act 2025–2026",
+          "url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+          "locator": "Year 1: Distribution of Funds, administrative allowance paragraph"
+        },
+        {
+          "title": "CJC Year 1 funding recipients",
+          "url": "https://cjc-ccj.ca/en/funding-recipients/fund-beneficiaries-year-1/",
+          "locator": "Page update April 30, 2026; Download CSV link"
+        },
+        {
+          "title": "Original CJC Year 1 payments-to-date CSV",
+          "url": "https://cjc-ccj.ca/app/uploads/2026/06/cjc-ccj_2026-03-06_payments-to-date_en.csv",
+          "locator": "Linked original raw file; filename March 6 differs from page date and June upload folder; contents not parsed"
+        },
+        {
+          "title": "CJC current funding recipients",
+          "url": "https://cjc-ccj.ca/en/funding-recipients/",
+          "locator": "Page update August 19, 2026; Download CSV link"
+        },
+        {
+          "title": "Original CJC Year 2 payments-to-date CSV",
+          "url": "https://cjc-ccj.ca/app/uploads/2026/08/cjc-ccj_2026-08-19_payments-to-date_en.csv",
+          "locator": "Linked original raw file dated August 19, 2026; contents not parsed"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "IN07",
+      "date": "2026-04-28",
+      "title": "Google and infrastructure partner confirm construction start",
+      "finding": "Google's infrastructure executive reports groundbreaking and entry into the construction phase on 2026-04-28, naming AdaniConneX and Nxtra by Airtel. Adani's same-day release locates the ceremony at Tarluvada and identifies three data-centre campuses. This is an implementation milestone beyond a memorandum or investment announcement.",
+      "evidence_level": "ORIGINAL_COMPANY_STATEMENTS_FROM_PROJECT_OPERATOR_AND_INFRASTRUCTURE_PARTNER",
+      "money_status": "CONSTRUCTION_START_REPORTED_SPEND_TO_DATE_UNDISCLOSED",
+      "limit": "Company confirmation is not an independent site inspection, commissioning certificate, operational-service verification or audited project cost. The releases do not establish full-budget disbursement. The review has no verified live service or completed campus claim.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "Google AI Hub: Scaling India's AI Infrastructure and Community Impact",
+          "url": "https://blog.google/intl/en-in/google-ai-hub-scaling-indias-ai-infrastructure-and-community-impact/",
+          "locator": "2026-04-28; Bikash Koley; opening construction-phase announcement"
+        },
+        {
+          "title": "Google Breaks Ground on India AI Hub",
+          "url": "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem",
+          "locator": "2026-04-28; opening paragraphs, Tarluvada ceremony and three-campus description"
+        }
+      ],
+      "region": "India"
+    },
+    {
+      "id": "CA06",
+      "date": "2026-06-03",
+      "title": "CJC explains the rollover and second payment's timing",
+      "finding": "CJC's Spring 2026 update says Google's second settlement arrived in December 2025. It reports C$98 million of Year 2 disbursements at that earlier stage and C$2.2 million carried forward from Year 1 interest, unspent compensation and administration fees. It also acknowledges a March publisher-payment delay while employee-assessment data errors were corrected.",
+      "evidence_level": "Original recipient-administrator statement",
+      "money_status": "Reported received, disbursed and carried forward; three distinct amounts/states",
+      "limit": "The CJC news index identifies publication as June 3, 2026. The update does not split the C$2.2 million among its components. Its C$98 million snapshot predates the August total and must not be added to it.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "CJC Spring Update",
+          "url": "https://cjc-ccj.ca/en/spring-update-2/",
+          "locator": "Program Updates: Year 2 Disbursements; paragraphs on rollover, December receipt and March correction"
+        },
+        {
+          "title": "CJC news index",
+          "url": "https://cjc-ccj.ca/en/latest-news/",
+          "locator": "Spring Update, June3,2026"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "CA10",
+      "date": "2026-08-19",
+      "title": "Ten listed legal entities receive 49.41% of the Year 2 table's payments",
+      "finding": "Grouping only identical legal-name strings, the largest ten entries total C$50,667,459.71 of C$102,544,409.81, or 49.4102602%. The complete table, source row locators and exact-cent calculations are retained.",
+      "evidence_level": "REPRODUCIBLE DESCRIPTIVE CONCENTRATION; INDEPENDENT RECALCULATION",
+      "money_status": "Share of listed recipient payments, not political donations",
+      "limit": "This is a distribution statistic, not a measure of editorial influence, corruption or ultimate-owner concentration. Common-parent ownership was not consolidated; a listed legal entity may operate several outlets.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "CJC Year 2 original payment CSV",
+          "url": "https://cjc-ccj.ca/app/uploads/2026/08/cjc-ccj_2026-08-19_payments-to-date_en.csv",
+          "locator": "All named recipient rows; top-ten exact legal-name sums"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "AU04",
+      "date": "2026-08-26",
+      "title": "The new distribution law creates a public funding route, not evidence of completed payouts",
+      "finding": "The News Journalism Payments Act provides for scheme funding based on collected bargaining charges, distribution to eligible recipients and reporting. Sections82–84 provide public recipient information, aggregate information and annual reporting.",
+      "evidence_level": "Enacted statutory pathway",
+      "money_status": "Legal authority for future/actual implementation; no distribution ledger obtained in this pass",
+      "limit": "A statutory funding mechanism does not establish that a particular platform has paid or a publisher has received money. Implementation instruments and actual financial reports are required to close that link.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "News Journalism Payments Act 2026",
+          "url": "https://www.legislation.gov.au/C2026A00075/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+          "locator": "Sections40–47 and82–84"
+        }
+      ],
+      "region": "Australia"
+    },
+    {
+      "id": "AU03",
+      "date": "2026-08-27",
+      "title": "The enacted Australian charge is 2.75%, superseding earlier draft-rate headlines",
+      "finding": "The Charge Act commenced 27 August 2026; section3(2) sets 2.75%. The Administration Act uses a statutory revenue base and a A$250m liability threshold. Eligible publisher expenditure can offset liability at 150%, or 200% for qualifying smaller news groups, with a one-quarter-of-charge cap per group and an overall liability cap.",
+      "evidence_level": "Enacted primary legislation; charge register marked in force",
+      "money_status": "Statutory calculation rules, not measured corporate taxes paid",
+      "limit": "Earlier draft rates do not describe the enacted rate. Corporate liability needs the defined revenue base, eligibility and offsets; no company's actual payment is calculated. The enactment counters an inference that major platforms invariably obtain reduced obligations.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "News Media Bargaining Charge Act 2026",
+          "url": "https://www.legislation.gov.au/C2026A00078/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+          "locator": "Sections2–3; commencement and 2.75% rate"
+        },
+        {
+          "title": "News Media Bargaining (Administration) Act 2026",
+          "url": "https://www.legislation.gov.au/C2026A00077/asmade/2026-08-26/text/original/pdf",
+          "locator": "Sections2,13–14,20; commencement, threshold, base and offset limits"
+        },
+        {
+          "title": "Charge Act current register entry",
+          "url": "https://www.legislation.gov.au/C2026A00078/asmade",
+          "locator": "In force; latest version 26 August 2026"
+        }
+      ],
+      "region": "Australia"
+    },
+    {
+      "id": "CA05",
+      "date": "2026-10-23",
+      "title": "Later reports show larger payouts and distinguish two funding years",
+      "finding": "CRTC reports Year 1 payouts of C$96,732,819 to 445 businesses as of June 30, 2026, against C$100 million available. Year 2 payouts were C$102,544,410 to 425 businesses as of August 19, 2026, against an indexed annual base of C$102.5 million. Footnotes attribute differences to administration, verification adjustments, interest and carryovers. The report has category totals, not a full recipient appendix.",
+      "evidence_level": "Published statutory impact report using CJC data",
+      "money_status": "Reported disbursements at stated cutoffs; Year 2 contains prior-year adjustments",
+      "limit": "Different cohorts and dates prevent treating the difference as like-for-like recipient growth. Totals alone do not reconcile bank balances.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "Independent Auditor's Report on the Impact of the Online News Act 2025–2026",
+          "url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+          "locator": "Year 1 and Year 2 Distribution of Funds tables; footnotes 1 and 6; modified October 23, 2026"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "EF08",
+      "date": "2026-10-31",
+      "title": "Microsoft–APCO: both declared bands primary-confirmed, different periods",
+      "finding": "Microsoft Corporation declares APCO Worldwide costs EUR 200000–299999 for raw dates 2025-07-01/2026-06-01, updated 2026-10-02T10:33:25.600+00:00. APCO Worldwide (entityForm Inc.) declares Microsoft Corporation revenue EUR 200000–299999 for 2025-01-01/2025-12-01, updated 2026-10-20T08:56:26.553+00:00. APCO lists privacy, data, CSAM, transatlantic relations and trade.",
+      "evidence_level": "PRIMARY_CURRENT_EXPORT_COUNTERPART_RECORDS_READ",
+      "money_status": "Self-declared cost/revenue ranges; different periods; neither additive payments nor invoice verification.",
+      "limit": "Literal first-of-month endDate values retained. Do not invent month-end dates. Current export is not an October-date archived capture; no AI Act fee allocation or causal attribution.",
+      "prior_record_ids": [
+        "EU12",
+        "EF03"
+      ],
+      "sources": [
+        {
+          "title": "Official EU Transparency Register XML export — Microsoft Corporation 0801162959-21",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-0801162959-21.xml; financialData/closedYear: dates; intermediaries/intermediary[name=APCO Worldwide]/representationCosts/range"
+        },
+        {
+          "title": "Official EU Transparency Register XML export — APCO Worldwide 81995781088-41",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-81995781088-41.xml; financialData/closedYear: dates; clients/client[name=Microsoft Corporation]/revenue/range and proposal"
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "EF09",
+      "date": "2026-10-31",
+      "title": "FTI confirms Google-labelled revenue; exact Google payer remains unresolved",
+      "finding": "FTI Consulting Belgium, ID 29896393398-67, entityForm SA, declares client Google revenue EUR 200000–299999 for raw dates 2025-01-01/2025-12-01. Updated 2026-10-26T09:58:58.229+00:00. Listed topics concern environmental claims, energy and sustainability, not an explicit AI Act mandate.",
+      "evidence_level": "PRIMARY_CURRENT_EXPORT_RECIPIENT_RECORD_READ",
+      "money_status": "FTI self-declared estimated revenue band; no bank-transfer proof.",
+      "limit": "Google Ireland’s own complete record was not recovered within the saved prefix. The label Google does not identify the paying affiliate. No silent normalization of raw dates.",
+      "prior_record_ids": [
+        "EU11",
+        "EF02"
+      ],
+      "sources": [
+        {
+          "title": "Official EU Transparency Register XML export — FTI Consulting Belgium 29896393398-67",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-29896393398-67.xml; financialData/closedYear: dates; clients/client[name=Google]/revenue/range and proposal"
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "CA09",
+      "date": "2026-11-01",
+      "title": "Original recipient tables reconcile Year 2, while Year 1 remains a different snapshot",
+      "finding": "The August 19 Year 2 CSV has 425 named recipient rows totalling C$102,544,409.81; its own total matches, and the regulator's whole-dollar total rounds to C$102,544,410. The older 445-row CSV totals C$96,228,675.58, C$504,143.42 below the regulator's June 30 Year 1 figure. Its accounting cutoff is ambiguous.",
+      "evidence_level": "ROOT COMPUTATION FROM ORIGINAL PUBLIC CSV; INDEPENDENT READ-ONLY RECALCULATION BY PRAISE",
+      "money_status": "Source-reported paid amounts; not bank-confirmed transfers",
+      "limit": "The discrepancy is not evidence of missing money. Year 2 CBC row426 has no application ID and must be included. Rows156 and173 share ID IA-0000001301 but name different businesses, amounts and subclasses; both remain. Year 2 has423 distinct nonblank application IDs, not425. Year 1 row locators are generated, not application IDs.",
+      "prior_record_ids": [
+        "W05"
+      ],
+      "sources": [
+        {
+          "title": "CJC Year 2 original payment CSV",
+          "url": "https://cjc-ccj.ca/app/uploads/2026/08/cjc-ccj_2026-08-19_payments-to-date_en.csv",
+          "locator": "425 named rows, CBC row426, total row429"
+        },
+        {
+          "title": "CJC Year 1 original payment CSV",
+          "url": "https://cjc-ccj.ca/app/uploads/2026/06/cjc-ccj_2026-03-06_payments-to-date_en.csv",
+          "locator": "445 headerless rows; filename and upload folder are not independently verified cutoffs"
+        },
+        {
+          "title": "CRTC 2025–2026 impact report",
+          "url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+          "locator": "Year1 June30 and Year2 August19 distribution tables"
+        }
+      ],
+      "region": "Canada"
+    },
+    {
+      "id": "EF01",
+      "date": "2026-11-01",
+      "title": "Official definition of intermediary cost and revenue bands",
+      "finding": "The official guidance specifies a closed accounting period of 12 consecutive months, which need not coincide with the calendar year. A client reports an estimated annual cost band for each intermediary for its latest closed financial year. An intermediary reports estimated revenue from each client for its own latest closed financial year. Current-year relationships are also named without an associated amount. Declaration/update dates therefore do not establish the financial period, and client cost and intermediary revenue declarations are not two independently additive payments.",
+      "evidence_level": "PRIMARY_GUIDANCE_READ",
+      "money_status": "Definitions of self-declared estimates, not invoice or cash-transfer verification.",
+      "limit": "The reporting rule cannot supply the missing start/end dates for a particular inaccessible filing. Different entities may have different financial years.",
+      "prior_record_ids": [
+        "EU11",
+        "EU12"
+      ],
+      "sources": [
+        {
+          "title": "EU Transparency Register — Guidelines",
+          "url": "https://transparency-register.europa.eu/guidelines_en",
+          "locator": "Heading 14: Most recent financial year closed; hiring intermediaries; intermediary client revenue. Retrieved lines 400–402, 426–434, 458–488."
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "EF02",
+      "date": "2026-11-01",
+      "title": "FTI primary record corroborates the band; exact Google payer remains unresolved",
+      "finding": "FTI’s current original record now corroborates the Google-labelled EUR 200000–299999 band. The Google Ireland-specific declaration remains unrecovered.",
+      "evidence_level": "PRIMARY_RECIPIENT_RECORD_PARTIAL_CORROBORATION",
+      "money_status": "FTI self-declared Google-labelled revenue band; Google Ireland client declaration not recovered.",
+      "limit": "Exact paying affiliate and historical September filing contents remain unresolved; see EF09.",
+      "prior_record_ids": [
+        "EU11"
+      ],
+      "sources": [
+        {
+          "title": "Google Ireland Limited and its affiliates — secondary register mirror",
+          "url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+          "locator": "Registry details, annual activity table and intermediary declarations; current indexed mirror retrieved on 1 November 2026."
+        },
+        {
+          "title": "Official EU register profile, identification 03181945560-59",
+          "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+          "locator": "ACCESS_LIMIT: retrieval returned a 64-line navigation shell, not the organisation's substantive data."
+        },
+        {
+          "title": "Official EU Transparency Register XML export — FTI Consulting Belgium 29896393398-67",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-29896393398-67.xml; financialData/closedYear: dates; clients/client[name=Google]/revenue/range and proposal"
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "EF03",
+      "date": "2026-11-01",
+      "title": "Microsoft–APCO declarations confirmed in current original records",
+      "finding": "Both Microsoft and APCO current original records confirm EUR 200000–299999, but their raw reporting periods differ; see EF08.",
+      "evidence_level": "PRIMARY_COUNTERPART_DECLARATIONS_DIFFERENT_PERIODS",
+      "money_status": "Self-declared cost and revenue ranges for different raw periods; not two additive payments.",
+      "limit": "Do not add the ranges or equate the covered periods. Exact historical filing versions and invoices are not verified.",
+      "prior_record_ids": [
+        "EU12",
+        "EU05"
+      ],
+      "sources": [
+        {
+          "title": "Microsoft Corporation — secondary register mirror",
+          "url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+          "locator": "Registry details; APCO rows dated 2026-10-02 and 2026-10-20; lobbying-firms summary."
+        },
+        {
+          "title": "Official EU register profile, identification 0801162959-21",
+          "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=0801162959-21",
+          "locator": "ACCESS_LIMIT: web retrieval reported the URL inaccessible; no original record extracted."
+        },
+        {
+          "title": "Official EU Transparency Register XML export — Microsoft Corporation 0801162959-21",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-0801162959-21.xml; financialData/closedYear: dates; intermediaries/intermediary[name=APCO Worldwide]/representationCosts/range"
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "EF04",
+      "date": "2026-11-01",
+      "title": "Official metadata and a bounded current export recovered",
+      "finding": "Official metadata and current distribution URLs were recovered. The correct metadata has 49 distributions. Normal HTTP retrieval reached real XML; the first 100000000 bytes and three complete target records are now preserved.",
+      "evidence_level": "PRIMARY_METADATA_AND_PARTIAL_EXPORT_RECOVERED",
+      "money_status": "Capture evidence; specific financial records in EF08 and EF09.",
+      "limit": "The prior failed web-tool observations remain historical. Recovery did not fetch the whole export or the June archive, and does not establish historical October snapshot contents.",
+      "prior_record_ids": [
+        "EU11",
+        "EU12"
+      ],
+      "sources": [
+        {
+          "title": "EU data portal — Transparency Register dataset",
+          "url": "https://data.europa.eu/data/datasets/transparency-register",
+          "locator": "Dataset description, 45 distributions and daily/historical cadence; indexed official metadata readable, direct open returned no readable lines."
+        },
+        {
+          "title": "European Commission public daily XML download endpoint",
+          "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest",
+          "locator": "Attempted once in this pass; tool returned inaccessible URL. Endpoint was located through a third-party technical reference; no bytes or export schema independently recovered."
+        },
+        {
+          "title": "EU data catalogue API candidate — dataset record",
+          "url": "https://data.europa.eu/api/hub/search/datasets/transparency-register",
+          "locator": "Attempted public metadata route; inaccessible through this web tool; endpoint validity not confirmed."
+        },
+        {
+          "title": "EU data catalogue API candidate — RDF record",
+          "url": "https://data.europa.eu/api/hub/repo/datasets/transparency-register.rdf",
+          "locator": "Attempted public metadata route; inaccessible through this web tool; endpoint validity not confirmed."
+        },
+        {
+          "title": "Current XML distribution",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-current-2026-11-01.xml-response.bin"
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "EF06",
+      "date": "2026-11-01",
+      "title": "Counterevidence: open-source treatment is not blanket deregulation",
+      "finding": "Article 53(2) exempts qualifying open-source general-purpose models only from the documentation duties in paragraph 1(a) and (b); models with systemic risks cannot use that exception. Copyright-policy and public training-content-summary duties in paragraph 1(c) and (d) remain. Recital 103 distinguishes non-monetised repository sharing from monetised components. These limits prevent describing the open-source result as complete acceptance of a broad model exemption.",
+      "evidence_level": "PRIMARY_LEGAL_TEXT_READ",
+      "money_status": "No monetary attribution established.",
+      "limit": "The exact beneficiary of a legal exception requires facts about the model, licence, availability and use. A matching policy preference is not proof that spending bought the provision. The service text is the current consolidated presentation, not independently recovered historical negotiation text.",
+      "prior_record_ids": [],
+      "sources": [
+        {
+          "title": "European Commission AI Act Service Desk — Article 53",
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+          "locator": "Paragraphs 1(a)–(d), 2 and 4; consolidated-version disclaimer."
+        },
+        {
+          "title": "European Commission AI Act Service Desk — Recital 103",
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-103",
+          "locator": "Free/open-source components, monetisation and open repositories."
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "EF07",
+      "date": "2026-11-01",
+      "title": "Official metadata recovered: current and historical distribution links verified",
+      "finding": "The saved official metadata contains 49 distributions, superseding the indexed 45-distribution description. It directly supplies the current XML and XLS URLs and a June 2026 historical XLS. The metadata modified field is 2026-08-24; it is not an individual filing date.",
+      "evidence_level": "PRIMARY_METADATA_READ_FROM_SAVED_CAPTURE",
+      "money_status": "No amount is established by catalogue metadata.",
+      "limit": "This resolves the earlier web-extraction limitation. The June snapshot was not downloaded and cannot certify October filings.",
+      "prior_record_ids": [
+        "EF04",
+        "EU11",
+        "EU12"
+      ],
+      "sources": [
+        {
+          "title": "EU data portal — Transparency Register metadata",
+          "url": "https://data.europa.eu/api/hub/search/datasets/transparency-register",
+          "locator": "Previously saved official JSON sources/030.bin; result.distributions; 59997 bytes; SHA256 9b4f4d2b7148938e9308cd66a605048ad4ca69dd0511982646700b7185dee56a"
+        },
+        {
+          "title": "Current official XML distribution",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "Metadata distribution c682866d-c0a1-492c-873d-2d851e8df4a5"
+        },
+        {
+          "title": "Current official Excel distribution",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxls_en",
+          "locator": "Metadata distribution 9a34217f-fb4a-49c9-a0e1-8bf5769dd471; not downloaded"
+        },
+        {
+          "title": "June 2026 official historical Excel distribution",
+          "url": "https://data.europa.eu/data-management/store/api/data/sg/01M323P8DK5V7A6V68YHXDPSDJ",
+          "locator": "Metadata distribution 2d02fa3a-e293-40a3-9581-978a291e2abc; issued 2026-06-30; not downloaded"
+        }
+      ],
+      "region": "European Union"
+    },
+    {
+      "id": "EF10",
+      "date": "2026-11-01",
+      "title": "Bounded official XML retrieval: complete target records within a partial export",
+      "finding": "HTTP 200 returned XML. Header exportDate is 2026-10-31T21:00:00.019+00:00, with 18019 declared registrants. The 100000000-byte prefix contains 15212 complete record elements; three target elements were extracted byte-for-byte.",
+      "evidence_level": "OBSERVED_HTTP_CAPTURE_AND_LOCAL_BYTE_READBACK",
+      "money_status": "Capture provenance, not a payment claim.",
+      "limit": "The next received chunk would exceed the explicit cap; only remaining allowed bytes were written and the stream was aborted. The entire XML export is incomplete and was not validated as a complete document.",
+      "prior_record_ids": [
+        "EF04"
+      ],
+      "sources": [
+        {
+          "title": "Official current XML export",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-current-2026-11-01.xml-response.bin; exact target offsets and readback details in captures"
+        }
+      ],
+      "region": "European Union"
+    }
+  ],
+  "source_register": [
+    {
+      "title": "Facebook: changes to sharing and viewing news in Australia",
+      "url": "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/",
+      "locator": "Update 22 February 2021, 8:20 PM PT; original 17 February restriction announcement",
+      "records": [
+        "AU01"
+      ],
+      "capture": {
+        "url": "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/",
+        "title": "Facebook: changes to sharing and viewing news in Australia",
+        "records": [
+          "AU01"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:08.004Z",
+        "path": "sources/001.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/",
+        "bytes": 714731,
+        "sha256": "f2d7761aed27724091d5a2c0e8d54db42e38431e2813befa86a342a266f16337",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:10.276Z"
+      }
+    },
+    {
+      "title": "Paul Fletcher: Governing in the Internet Age",
+      "url": "https://www.paulfletcher.com.au/past-ministerial-speeches/national-press-club-governing-in-the-internet-age",
+      "locator": "6 October 2021; Online Platforms and Competition section",
+      "records": [
+        "AU01"
+      ],
+      "capture": {
+        "url": "https://www.paulfletcher.com.au/past-ministerial-speeches/national-press-club-governing-in-the-internet-age",
+        "title": "Paul Fletcher: Governing in the Internet Age",
+        "records": [
+          "AU01"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:08.189Z",
+        "path": "sources/002.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://www.paulfletcher.com.au/past-ministerial-speeches/national-press-club-governing-in-the-internet-age",
+        "bytes": 49879,
+        "sha256": "4c12429ee84e447b226ac5e8c3cbfcba93d4c931ea4e5929251ef2d2826556d6",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:09.514Z"
+      }
+    },
+    {
+      "title": "Australian Treasury: the code's first year of operation",
+      "url": "https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf",
+      "locator": "Printed pp.1,4–9; p.8 footnote24 distinguishes Sims's estimate from unavailable agreement terms",
+      "records": [
+        "AU02"
+      ],
+      "capture": {
+        "url": "https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf",
+        "title": "Australian Treasury: the code's first year of operation",
+        "records": [
+          "AU02"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:09.515Z",
+        "path": "sources/003.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "final_url": "https://treasury.gov.au/sites/default/files/2022-11/p2022-343549.pdf",
+        "bytes": 571969,
+        "sha256": "b972a1111f12454d20c5b91efdee5fbff17647bb3305f127e4f954fd86018a8f",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:13.234Z"
+      }
+    },
+    {
+      "title": "News Media Bargaining Charge Act 2026",
+      "url": "https://www.legislation.gov.au/C2026A00078/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+      "locator": "Sections2–3; commencement and 2.75% rate",
+      "records": [
+        "AU03"
+      ],
+      "capture": {
+        "url": "https://www.legislation.gov.au/C2026A00078/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+        "title": "News Media Bargaining Charge Act 2026",
+        "records": [
+          "AU03"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:10.277Z",
+        "path": "sources/004.bin",
+        "http_status": 200,
+        "content_type": "text/html",
+        "final_url": "https://www.legislation.gov.au/C2026A00078/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+        "bytes": 11689,
+        "sha256": "6c583d50fc32d6e62321107ff4768379ed174e99e108add5ee1c0a74426c3c3a",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:11.183Z"
+      }
+    },
+    {
+      "title": "News Media Bargaining (Administration) Act 2026",
+      "url": "https://www.legislation.gov.au/C2026A00077/asmade/2026-08-26/text/original/pdf",
+      "locator": "Sections2,13–14,20; commencement, threshold, base and offset limits",
+      "records": [
+        "AU03"
+      ],
+      "capture": {
+        "url": "https://www.legislation.gov.au/C2026A00077/asmade/2026-08-26/text/original/pdf",
+        "title": "News Media Bargaining (Administration) Act 2026",
+        "records": [
+          "AU03"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:11.183Z",
+        "path": "sources/005.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "final_url": "https://www.legislation.gov.au/C2026A00077/asmade/2026-08-26/text/original/pdf",
+        "bytes": 379382,
+        "sha256": "75c776b75f43f8006ad8dc2fca6359c856bec74438236afa74820a0ec3b9e496",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:12.648Z"
+      }
+    },
+    {
+      "title": "Charge Act current register entry",
+      "url": "https://www.legislation.gov.au/C2026A00078/asmade",
+      "locator": "In force; latest version 26 August 2026",
+      "records": [
+        "AU03"
+      ],
+      "capture": {
+        "url": "https://www.legislation.gov.au/C2026A00078/asmade",
+        "title": "Charge Act current register entry",
+        "records": [
+          "AU03"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:12.648Z",
+        "path": "sources/006.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://www.legislation.gov.au/C2026A00078/asmade",
+        "bytes": 76307,
+        "sha256": "dc5271714a21c6efe4c9611b44eec051177d7501bddc0a785da04a04d559264e",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:13.780Z"
+      }
+    },
+    {
+      "title": "News Journalism Payments Act 2026",
+      "url": "https://www.legislation.gov.au/C2026A00075/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+      "locator": "Sections40–47 and82–84",
+      "records": [
+        "AU04"
+      ],
+      "capture": {
+        "url": "https://www.legislation.gov.au/C2026A00075/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+        "title": "News Journalism Payments Act 2026",
+        "records": [
+          "AU04"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:13.235Z",
+        "path": "sources/007.bin",
+        "http_status": 200,
+        "content_type": "text/html",
+        "final_url": "https://www.legislation.gov.au/C2026A00075/asmade/2026-08-26/text/original/epub/OEBPS/document_1/document_1.html",
+        "bytes": 396696,
+        "sha256": "7b1dfc52473f7742478510db67a0ddcb93fa4558811edd852adbdc12425ecd90",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:14.195Z"
+      }
+    },
+    {
+      "title": "Online News Act, S.C. 2023, c. 23",
+      "url": "https://laws.justice.gc.ca/eng/acts/O-9.3/FullText.html",
+      "locator": "Assent heading; sections 11, 84 and commencement notes following section 93",
+      "records": [
+        "CA01"
+      ],
+      "capture": {
+        "url": "https://laws.justice.gc.ca/eng/acts/O-9.3/FullText.html",
+        "title": "Online News Act, S.C. 2023, c. 23",
+        "records": [
+          "CA01"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:13.780Z",
+        "path": "sources/008.bin",
+        "http_status": 200,
+        "content_type": "text/html",
+        "final_url": "https://laws.justice.gc.ca/eng/acts/O-9.3/FullText.html",
+        "bytes": 151786,
+        "sha256": "e7e4543eff003d6ca3185cb1c6786b8dc0aced4d97d5d0330be186c2be16d906",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:15.236Z"
+      }
+    },
+    {
+      "title": "Proposed Online News Act regulations, Canada Gazette Part I, September 2, 2023",
+      "url": "https://gazette.gc.ca/rp-pr/p1/2023/2023-09-02/html/reg1-eng.html",
+      "locator": "Regulatory Impact Analysis Statement: Contribution to the sustainability of the Canadian news marketplace; Intermediary global revenue; Canadian share of global GDP",
+      "records": [
+        "CA01"
+      ],
+      "capture": {
+        "url": "https://gazette.gc.ca/rp-pr/p1/2023/2023-09-02/html/reg1-eng.html",
+        "title": "Proposed Online News Act regulations, Canada Gazette Part I, September 2, 2023",
+        "records": [
+          "CA01"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:14.195Z",
+        "path": "sources/009.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://gazette.gc.ca/rp-pr/p1/2023/2023-09-02/html/reg1-eng.html",
+        "bytes": 85985,
+        "sha256": "e76694b5da903b6496a0d1a7f315b1489213fb7bef4a827f80eade04d9c2d3a7",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:14.868Z"
+      }
+    },
+    {
+      "title": "Online News Act Application and Exemption Regulations, SOR/2023-276",
+      "url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-01-03/html/sor-dors276-eng.html",
+      "locator": "Sections 3 and 9(2); Regulatory Impact Analysis Statement: Prepublication results, Notification period, and Sustainability criterion",
+      "records": [
+        "CA02"
+      ],
+      "capture": {
+        "url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-01-03/html/sor-dors276-eng.html",
+        "title": "Online News Act Application and Exemption Regulations, SOR/2023-276",
+        "records": [
+          "CA02"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:14.869Z",
+        "path": "sources/010.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-01-03/html/sor-dors276-eng.html",
+        "bytes": 91325,
+        "sha256": "75175779e46087f5b36ade510bf05bf6398bbf3ca454dc0257e9663d9c352283",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:15.668Z"
+      }
+    },
+    {
+      "title": "Minister St-Onge statement on next steps for the Online News Act",
+      "url": "https://www.canada.ca/en/canadian-heritage/news/2023/11/statement-by-minister-st-onge-on-next-steps-for-the-online-news-act.html",
+      "locator": "November 29, 2023 statement: annual contribution and single-collective option",
+      "records": [
+        "CA02"
+      ],
+      "capture": {
+        "url": "https://www.canada.ca/en/canadian-heritage/news/2023/11/statement-by-minister-st-onge-on-next-steps-for-the-online-news-act.html",
+        "title": "Minister St-Onge statement on next steps for the Online News Act",
+        "records": [
+          "CA02"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:15.237Z",
+        "path": "sources/011.bin",
+        "http_status": 200,
+        "content_type": "text/html;charset=utf-8",
+        "final_url": "https://www.canada.ca/en/canadian-heritage/news/2023/11/statement-by-minister-st-onge-on-next-steps-for-the-online-news-act.html",
+        "bytes": 26830,
+        "sha256": "b57d44136670aff955f5a4e90e73090ede7993b804b29a3cd12a4cf859af0cd6",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:15.707Z"
+      }
+    },
+    {
+      "title": "Online News Decision CRTC 2024-262",
+      "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+      "locator": "Summary; paragraphs 8, Administrative expenses, and paragraphs 61–66",
+      "records": [
+        "CA03",
+        "CA07"
+      ],
+      "capture": {
+        "url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+        "title": "Online News Decision CRTC 2024-262",
+        "records": [
+          "CA03",
+          "CA07"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:15.668Z",
+        "path": "sources/012.bin",
+        "http_status": 403,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://crtc.gc.ca/eng/archive/2024/2024-262.htm",
+        "bytes": 21727,
+        "sha256": "19ac5f8a9c8827a55dfc0a14437dc27f1e2f6705b8195364548fd8f6f08af4ad",
+        "status": "HTTP_ERROR_BODY_PRESERVED",
+        "capture_finished_utc": "2026-11-01T17:59:16.016Z"
+      }
+    },
+    {
+      "title": "Independent Auditor's Report on the Impact of the Online News Act 2024–2025",
+      "url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+      "locator": "Distribution of funds; full alphabetical recipient appendix, named rows and total; footnote explaining CJC name-source corrections",
+      "records": [
+        "CA04"
+      ],
+      "capture": {
+        "url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+        "title": "Independent Auditor's Report on the Impact of the Online News Act 2024–2025",
+        "records": [
+          "CA04"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:15.708Z",
+        "path": "sources/013.bin",
+        "http_status": 403,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://crtc.gc.ca/eng/publications/reports/ona25.htm",
+        "bytes": 21742,
+        "sha256": "4c7d491f7c79324d0554d65bdf124c0272412cdebddbc89adc9ee436fb20e5bd",
+        "status": "HTTP_ERROR_BODY_PRESERVED",
+        "capture_finished_utc": "2026-11-01T17:59:15.994Z"
+      }
+    },
+    {
+      "title": "Independent Auditor's Report on the Impact of the Online News Act 2025–2026",
+      "url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+      "locator": "Year 1 and Year 2 Distribution of Funds tables; footnotes 1 and 6; modified October 23, 2026",
+      "records": [
+        "CA05",
+        "CA07",
+        "CA09",
+        "CA11"
+      ],
+      "capture": {
+        "url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+        "title": "Independent Auditor's Report on the Impact of the Online News Act 2025–2026",
+        "records": [
+          "CA05",
+          "CA07",
+          "CA09",
+          "CA11"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:15.994Z",
+        "path": "sources/014.bin",
+        "http_status": 403,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://crtc.gc.ca/eng/publications/reports/ona26.htm",
+        "bytes": 21742,
+        "sha256": "62f6e55304b1a314c0b545ec92bcc8a633673d45e6b6bc4c2360d2499cf3cf64",
+        "status": "HTTP_ERROR_BODY_PRESERVED",
+        "capture_finished_utc": "2026-11-01T17:59:16.165Z"
+      }
+    },
+    {
+      "title": "CJC Spring Update",
+      "url": "https://cjc-ccj.ca/en/spring-update-2/",
+      "locator": "Program Updates: Year 2 Disbursements; paragraphs on rollover, December receipt and March correction",
+      "records": [
+        "CA06"
+      ],
+      "capture": {
+        "url": "https://cjc-ccj.ca/en/spring-update-2/",
+        "title": "CJC Spring Update",
+        "records": [
+          "CA06"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.016Z",
+        "path": "sources/015.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://cjc-ccj.ca/en/spring-update-2/",
+        "bytes": 63635,
+        "sha256": "044a8c336f2eb66b48cdbe6e95693ab903228bb70f0a69f9a149cb03a0fb9dc0",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:16.523Z"
+      }
+    },
+    {
+      "title": "CJC news index",
+      "url": "https://cjc-ccj.ca/en/latest-news/",
+      "locator": "Spring Update, June3,2026",
+      "records": [
+        "CA06"
+      ],
+      "capture": {
+        "title": "CJC news index",
+        "url": "https://cjc-ccj.ca/en/latest-news/",
+        "locator": "Spring Update, June3,2026",
+        "records": [
+          "CA06"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:38.312Z",
+        "path": "sources/044.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://cjc-ccj.ca/en/latest-news/",
+        "bytes": 76843,
+        "sha256": "40fc09e02dd9dc9a6b481f855f7e7ed515bd477387814e11642802e4c7ae3fc9",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:38.467Z"
+      }
+    },
+    {
+      "title": "CJC bylaws as amended April 28, 2026",
+      "url": "https://cjc-ccj.ca/app/uploads/2026/04/2026-04-28-cjc-ccj-bylaws-en.pdf",
+      "locator": "Section 8.4, printed page 26 (PDF page index 25)",
+      "records": [
+        "CA07"
+      ],
+      "capture": {
+        "url": "https://cjc-ccj.ca/app/uploads/2026/04/2026-04-28-cjc-ccj-bylaws-en.pdf",
+        "title": "CJC bylaws as amended April 28, 2026",
+        "records": [
+          "CA07"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.165Z",
+        "path": "sources/016.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "final_url": "https://cjc-ccj.ca/app/uploads/2026/04/2026-04-28-cjc-ccj-bylaws-en.pdf",
+        "bytes": 364128,
+        "sha256": "5447a5f9332a2a287136a9403fa0cf0afc4e3f06653f09a077a9e7e263d12b0b",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:16.873Z"
+      }
+    },
+    {
+      "title": "CJC Year 1 funding recipients",
+      "url": "https://cjc-ccj.ca/en/funding-recipients/fund-beneficiaries-year-1/",
+      "locator": "Page update April 30, 2026; Download CSV link",
+      "records": [
+        "CA07"
+      ],
+      "capture": {
+        "url": "https://cjc-ccj.ca/en/funding-recipients/fund-beneficiaries-year-1/",
+        "title": "CJC Year 1 funding recipients",
+        "records": [
+          "CA07"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.523Z",
+        "path": "sources/017.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://cjc-ccj.ca/en/funding-recipients/fund-beneficiaries-year-1/",
+        "bytes": 49706,
+        "sha256": "17765b80bfd2b087f336366008679f5cd2c6f3b986131b3e661b8c7b89a02590",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:16.638Z"
+      }
+    },
+    {
+      "title": "Original CJC Year 1 payments-to-date CSV",
+      "url": "https://cjc-ccj.ca/app/uploads/2026/06/cjc-ccj_2026-03-06_payments-to-date_en.csv",
+      "locator": "Linked original raw file; filename March 6 differs from page date and June upload folder; contents not parsed",
+      "records": [
+        "CA07",
+        "CA09"
+      ],
+      "capture": {
+        "url": "https://cjc-ccj.ca/app/uploads/2026/06/cjc-ccj_2026-03-06_payments-to-date_en.csv",
+        "title": "Original CJC Year 1 payments-to-date CSV",
+        "records": [
+          "CA07",
+          "CA09"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.638Z",
+        "capture_basis": "Existing original CSV from this research pass; not refetched",
+        "path": "sources/018.csv",
+        "http_status": 200,
+        "content_type": "text/csv",
+        "final_url": "https://cjc-ccj.ca/app/uploads/2026/06/cjc-ccj_2026-03-06_payments-to-date_en.csv",
+        "bytes": 38189,
+        "sha256": "a508682c61b1e8f790f8c1a5170e1b27784542563bca0c2083cc9da92e36856f",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:16.648Z"
+      }
+    },
+    {
+      "title": "CJC current funding recipients",
+      "url": "https://cjc-ccj.ca/en/funding-recipients/",
+      "locator": "Page update August 19, 2026; Download CSV link",
+      "records": [
+        "CA07"
+      ],
+      "capture": {
+        "url": "https://cjc-ccj.ca/en/funding-recipients/",
+        "title": "CJC current funding recipients",
+        "records": [
+          "CA07"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.649Z",
+        "path": "sources/019.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://cjc-ccj.ca/en/funding-recipients/",
+        "bytes": 50832,
+        "sha256": "64295577a46672d2b41fd6bf05c28c06c1744d28ba133c98c0b8078fdeee30a3",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:16.906Z"
+      }
+    },
+    {
+      "title": "Original CJC Year 2 payments-to-date CSV",
+      "url": "https://cjc-ccj.ca/app/uploads/2026/08/cjc-ccj_2026-08-19_payments-to-date_en.csv",
+      "locator": "Linked original raw file dated August 19, 2026; contents not parsed",
+      "records": [
+        "CA07",
+        "CA09",
+        "CA10"
+      ],
+      "capture": {
+        "url": "https://cjc-ccj.ca/app/uploads/2026/08/cjc-ccj_2026-08-19_payments-to-date_en.csv",
+        "title": "Original CJC Year 2 payments-to-date CSV",
+        "records": [
+          "CA07",
+          "CA09",
+          "CA10"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.873Z",
+        "capture_basis": "Existing original CSV from this research pass; not refetched",
+        "path": "sources/020.csv",
+        "http_status": 200,
+        "content_type": "text/csv",
+        "final_url": "https://cjc-ccj.ca/app/uploads/2026/08/cjc-ccj_2026-08-19_payments-to-date_en.csv",
+        "bytes": 47383,
+        "sha256": "86f804867b6e631a6366fb0d58b9eef6357b6016d5343b6982ccacec852dea50",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:16.882Z"
+      }
+    },
+    {
+      "title": "Senate Debates, November 29, 2023, Issue 164",
+      "url": "https://sencanada.ca/en/content/sen/chamber/441/debates/164db_2023-11-29-e",
+      "locator": "Canadian Heritage — Online News Act; Miville-Dechêne and Gold exchange, approximately 14:40",
+      "records": [
+        "CA08"
+      ],
+      "capture": {
+        "url": "https://sencanada.ca/en/content/sen/chamber/441/debates/164db_2023-11-29-e",
+        "title": "Senate Debates, November 29, 2023, Issue 164",
+        "records": [
+          "CA08"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.882Z",
+        "path": "sources/021.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://sencanada.ca/en/content/sen/chamber/441/debates/164db_2023-11-29-e",
+        "bytes": 126411,
+        "sha256": "9e957785dd5859d5c527d51ce7e0a8b6e3f9acc4a284c400843399d20cc6f108",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:17.704Z"
+      }
+    },
+    {
+      "title": "House of Commons Debates, December 1, 2023, Sitting 260",
+      "url": "https://www.ourcommons.ca/documentviewer/en/44-1/house/sitting-260/hansard",
+      "locator": "News Media Industry; Champoux and Drouin exchange, between 11:50 and 11:55",
+      "records": [
+        "CA08"
+      ],
+      "capture": {
+        "url": "https://www.ourcommons.ca/documentviewer/en/44-1/house/sitting-260/hansard",
+        "title": "House of Commons Debates, December 1, 2023, Sitting 260",
+        "records": [
+          "CA08"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:16.906Z",
+        "path": "sources/022.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://www.ourcommons.ca/documentviewer/en/44-1/house/sitting-260/hansard",
+        "bytes": 832807,
+        "sha256": "3577a06ecedd3ed74db7b166357f2c41ff286d32f449d3b5615af3f3598bff86",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:19.239Z"
+      }
+    },
+    {
+      "title": "EU Transparency Register — Guidelines",
+      "url": "https://transparency-register.europa.eu/guidelines_en",
+      "locator": "Heading 14: Most recent financial year closed; hiring intermediaries; intermediary client revenue. Retrieved lines 400–402, 426–434, 458–488.",
+      "records": [
+        "EF01"
+      ],
+      "capture": {
+        "url": "https://transparency-register.europa.eu/guidelines_en",
+        "title": "EU Transparency Register — Guidelines",
+        "records": [
+          "EF01"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:17.705Z",
+        "path": "sources/023.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://transparency-register.europa.eu/guidelines_en",
+        "bytes": 160928,
+        "sha256": "1845fc9a11906146de315e3d4503ca17b7e2a753c9c51dc56e14437bf5f5a62f",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:18.414Z"
+      }
+    },
+    {
+      "title": "Google Ireland Limited and its affiliates — secondary register mirror",
+      "url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+      "locator": "Registry details, annual activity table and intermediary declarations; current indexed mirror retrieved on 1 November 2026.",
+      "records": [
+        "EF02"
+      ],
+      "capture": {
+        "url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+        "title": "Google Ireland Limited and its affiliates — secondary register mirror",
+        "records": [
+          "EF02"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:18.414Z",
+        "path": "sources/024.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://lobbyingsoftware.com/org/16955/google-ireland-limited-and-its-affiliates",
+        "bytes": 25145,
+        "sha256": "c8b28f4b111b69e5fe199ce32fd70688ea49bfc9e49be1d3b07bde407688747c",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:18.973Z"
+      }
+    },
+    {
+      "title": "Official EU register profile, identification 03181945560-59",
+      "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+      "locator": "ACCESS_LIMIT: retrieval returned a 64-line navigation shell, not the organisation's substantive data.",
+      "records": [
+        "EF02"
+      ],
+      "capture": {
+        "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+        "title": "Official EU register profile, identification 03181945560-59",
+        "records": [
+          "EF02"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:18.973Z",
+        "path": "sources/025.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=03181945560-59",
+        "bytes": 72880,
+        "sha256": "12cc4fc9ab15b6a7fd32640c96ca7cd8b13759e798e5889a293793fd5d03f0f6",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:19.447Z"
+      }
+    },
+    {
+      "title": "Official EU Transparency Register XML export — FTI Consulting Belgium 29896393398-67",
+      "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+      "locator": "sources/eu-official-target-29896393398-67.xml; financialData/closedYear: dates; clients/client[name=Google]/revenue/range and proposal",
+      "records": [
+        "EF02",
+        "EF03",
+        "EF04",
+        "EF07",
+        "EF08",
+        "EF09",
+        "EF10"
+      ],
+      "capture": {
+        "status": "PARTIAL_OFFICIAL_EXPORT_WITH_THREE_COMPLETE_TARGET_RECORDS",
+        "captures": [
+          {
+            "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+            "path": "sources/eu-official-current-2026-11-01.xml-response.bin",
+            "startedAt": "2026-11-01T18:01:07.381Z",
+            "limitBytes": 100000000,
+            "timeoutMs": 60000,
+            "status": "SIZE_LIMIT_PARTIAL_BODY",
+            "bytes": 100000000,
+            "httpStatus": 200,
+            "finalUrl": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest",
+            "contentType": "application/octet-stream;charset=UTF-8",
+            "contentLength": null,
+            "error": "This operation was aborted",
+            "errorCause": null,
+            "finishedAt": "2026-11-01T18:02:01.939Z",
+            "sha256": "b9f761b62fe9ca8ad63d90529988825c48e99d7e3a975cb9657f2a44a36b47d9",
+            "truncated": true,
+            "limitReason": "100000000-byte cap reached; stream aborted before end of export",
+            "etag": null,
+            "etagStatus": "NOT_RECORDED",
+            "lastModified": null,
+            "lastModifiedStatus": "NOT_RECORDED",
+            "exportDate": "2026-10-31T21:00:00.019+00:00",
+            "declaredNumberOfIR": 18019,
+            "completeRecordElementsInSavedPrefix": 15212,
+            "readbackVerified": true,
+            "completeExport": false
+          },
+          {
+            "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+            "path": "sources/eu-official-target-29896393398-67.xml",
+            "sha256": "1762974978f02f9f3279f34c3bdfcb92c1c2f48c4c4f8b22f28ae688c2467cd1",
+            "bytes": 77134,
+            "status": "COMPLETE_TARGET_RECORD_EXTRACT_READBACK_VERIFIED",
+            "sourcePath": "sources/eu-official-current-2026-11-01.xml-response.bin",
+            "sourceByteOffset": 54004463,
+            "sourceByteLength": 77134,
+            "registerId": "29896393398-67",
+            "exportDate": "2026-10-31T21:00:00.019+00:00",
+            "validation": {
+              "exactSourceByteSlice": true,
+              "startsWithRecordTag": true,
+              "endsWithRecordTag": true,
+              "openingRecordTags": 1,
+              "closingRecordTags": 1,
+              "identifierCount": 1
+            }
+          },
+          {
+            "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+            "path": "sources/eu-official-target-81995781088-41.xml",
+            "sha256": "f186d0bab7e52153570feaa7b579c44f5e8af2354faf0aca2ec49a791e4c401d",
+            "bytes": 31479,
+            "status": "COMPLETE_TARGET_RECORD_EXTRACT_READBACK_VERIFIED",
+            "sourcePath": "sources/eu-official-current-2026-11-01.xml-response.bin",
+            "sourceByteOffset": 86480194,
+            "sourceByteLength": 31479,
+            "registerId": "81995781088-41",
+            "exportDate": "2026-10-31T21:00:00.019+00:00",
+            "validation": {
+              "exactSourceByteSlice": true,
+              "startsWithRecordTag": true,
+              "endsWithRecordTag": true,
+              "openingRecordTags": 1,
+              "closingRecordTags": 1,
+              "identifierCount": 1
+            }
+          },
+          {
+            "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+            "path": "sources/eu-official-target-0801162959-21.xml",
+            "sha256": "86cb35fcd1455d6e2251f4623c17fa7a686de00f6dd1cdaffa97b3d98324de9f",
+            "bytes": 15150,
+            "status": "COMPLETE_TARGET_RECORD_EXTRACT_READBACK_VERIFIED",
+            "sourcePath": "sources/eu-official-current-2026-11-01.xml-response.bin",
+            "sourceByteOffset": 90853234,
+            "sourceByteLength": 15150,
+            "registerId": "0801162959-21",
+            "exportDate": "2026-10-31T21:00:00.019+00:00",
+            "validation": {
+              "exactSourceByteSlice": true,
+              "startsWithRecordTag": true,
+              "endsWithRecordTag": true,
+              "openingRecordTags": 1,
+              "closingRecordTags": 1,
+              "identifierCount": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "title": "Microsoft Corporation — secondary register mirror",
+      "url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+      "locator": "Registry details; APCO rows dated 2026-10-02 and 2026-10-20; lobbying-firms summary.",
+      "records": [
+        "EF03"
+      ],
+      "capture": {
+        "url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+        "title": "Microsoft Corporation — secondary register mirror",
+        "records": [
+          "EF03"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:19.239Z",
+        "path": "sources/026.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://lobbyingsoftware.com/org/13993/microsoft-corporation",
+        "bytes": 43012,
+        "sha256": "54b72ea193a953d00009badd7af80382b3a39678d5eb64eaa7d7d7e657be5248",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:19.351Z"
+      }
+    },
+    {
+      "title": "Official EU register profile, identification 0801162959-21",
+      "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=0801162959-21",
+      "locator": "ACCESS_LIMIT: web retrieval reported the URL inaccessible; no original record extracted.",
+      "records": [
+        "EF03"
+      ],
+      "capture": {
+        "url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=0801162959-21",
+        "title": "Official EU register profile, identification 0801162959-21",
+        "records": [
+          "EF03"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:19.351Z",
+        "path": "sources/027.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://transparency-register.europa.eu/search-register-or-update/organisation-detail_en?id=0801162959-21",
+        "bytes": 73360,
+        "sha256": "12cac8ba8f8e215a81e1c366e2c6398cdf9ea3de0358b605d39c005d093ec0f5",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:19.934Z"
+      }
+    },
+    {
+      "title": "EU data portal — Transparency Register dataset",
+      "url": "https://data.europa.eu/data/datasets/transparency-register",
+      "locator": "Dataset description, 45 distributions and daily/historical cadence; indexed official metadata readable, direct open returned no readable lines.",
+      "records": [
+        "EF04"
+      ],
+      "capture": {
+        "url": "https://data.europa.eu/data/datasets/transparency-register",
+        "title": "EU data portal — Transparency Register dataset",
+        "records": [
+          "EF04"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:19.447Z",
+        "path": "sources/028.bin",
+        "http_status": 200,
+        "content_type": "text/html",
+        "final_url": "https://data.europa.eu/data/datasets/transparency-register",
+        "bytes": 1599,
+        "sha256": "6c25d8e78e6c165067d88d1fe7b81899a3e2274ce9562521110a84d7254d82e4",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:19.833Z"
+      }
+    },
+    {
+      "title": "European Commission public daily XML download endpoint",
+      "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest",
+      "locator": "Attempted once in this pass; tool returned inaccessible URL. Endpoint was located through a third-party technical reference; no bytes or export schema independently recovered.",
+      "records": [
+        "EF04"
+      ],
+      "capture": {
+        "url": "https://ec.europa.eu/transparencyregister/public/files/ODP/download/XML/latest",
+        "title": "European Commission public daily XML download endpoint",
+        "records": [
+          "EF04"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:19.834Z",
+        "status": "NOT_CAPTURED",
+        "error": "The operation was aborted due to timeout",
+        "capture_finished_utc": "2026-11-01T17:59:37.840Z"
+      }
+    },
+    {
+      "title": "EU data catalogue API candidate — dataset record",
+      "url": "https://data.europa.eu/api/hub/search/datasets/transparency-register",
+      "locator": "Attempted public metadata route; inaccessible through this web tool; endpoint validity not confirmed.",
+      "records": [
+        "EF04",
+        "EF07"
+      ],
+      "capture": {
+        "url": "https://data.europa.eu/api/hub/search/datasets/transparency-register",
+        "title": "EU data catalogue API candidate — dataset record",
+        "records": [
+          "EF04"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:19.934Z",
+        "path": "sources/030.bin",
+        "http_status": 200,
+        "content_type": "application/json",
+        "final_url": "https://data.europa.eu/api/hub/search/datasets/transparency-register",
+        "bytes": 59997,
+        "sha256": "9b4f4d2b7148938e9308cd66a605048ad4ca69dd0511982646700b7185dee56a",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:21.025Z"
+      }
+    },
+    {
+      "title": "EU data catalogue API candidate — RDF record",
+      "url": "https://data.europa.eu/api/hub/repo/datasets/transparency-register.rdf",
+      "locator": "Attempted public metadata route; inaccessible through this web tool; endpoint validity not confirmed.",
+      "records": [
+        "EF04"
+      ],
+      "capture": {
+        "url": "https://data.europa.eu/api/hub/repo/datasets/transparency-register.rdf",
+        "title": "EU data catalogue API candidate — RDF record",
+        "records": [
+          "EF04"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:21.025Z",
+        "path": "sources/031.bin",
+        "http_status": 200,
+        "content_type": "application/rdf+xml; charset=UTF-8",
+        "final_url": "https://data.europa.eu/api/hub/repo/datasets/transparency-register.rdf",
+        "bytes": 70022,
+        "sha256": "bb5374da32bd5ff772ab0109d00d58ccb4225a91c08c8937fa9f8906561d1e19",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:21.398Z"
+      }
+    },
+    {
+      "title": "EU AI Act — GitHub Position Paper, 20 October 2022",
+      "url": "https://github.blog/wp-content/uploads/2023/02/GitHub_Position_Paper-AI_Act.pdf",
+      "locator": "Printed pages 4 and 6: recommendations 3 and 5, proposed scope language and explicit references to earlier parliamentary text. PDF contains seven pages; date is on first page.",
+      "records": [
+        "EF05"
+      ],
+      "capture": {
+        "url": "https://github.blog/wp-content/uploads/2023/02/GitHub_Position_Paper-AI_Act.pdf",
+        "title": "EU AI Act — GitHub Position Paper, 20 October 2022",
+        "records": [
+          "EF05"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:21.399Z",
+        "path": "sources/032.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "final_url": "https://github.blog/wp-content/uploads/2023/02/GitHub_Position_Paper-AI_Act.pdf",
+        "bytes": 184395,
+        "sha256": "7a13680d331b7e2562fe9bef4f0ae548abbd52a3737109a53e49ddaa1c5a5570",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:21.908Z"
+      }
+    },
+    {
+      "title": "European Commission AI Act Service Desk — Article 2: Scope",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-2",
+      "locator": "Paragraphs 8 and 12; page's consolidated-version disclaimer.",
+      "records": [
+        "EF05"
+      ],
+      "capture": {
+        "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-2",
+        "title": "European Commission AI Act Service Desk — Article 2: Scope",
+        "records": [
+          "EF05"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:21.909Z",
+        "path": "sources/033.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-2",
+        "bytes": 92196,
+        "sha256": "fc9a809e66664aa1ea19c695b26a59a42ebf56e99aec639d92e2ff70d34ab742",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:22.738Z"
+      }
+    },
+    {
+      "title": "European Commission AI Act Service Desk — Article 53",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+      "locator": "Paragraphs 1(a)–(d), 2 and 4; consolidated-version disclaimer.",
+      "records": [
+        "EF06"
+      ],
+      "capture": {
+        "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+        "title": "European Commission AI Act Service Desk — Article 53",
+        "records": [
+          "EF06"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:22.739Z",
+        "path": "sources/034.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+        "bytes": 89660,
+        "sha256": "a6e0733bd7cff054b968c7ddd2105bb5234339b0a9f756fcd6795efb60b36f36",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:23.109Z"
+      }
+    },
+    {
+      "title": "European Commission AI Act Service Desk — Recital 103",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-103",
+      "locator": "Free/open-source components, monetisation and open repositories.",
+      "records": [
+        "EF06"
+      ],
+      "capture": {
+        "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-103",
+        "title": "European Commission AI Act Service Desk — Recital 103",
+        "records": [
+          "EF06"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:23.109Z",
+        "path": "sources/035.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/recital-103",
+        "bytes": 81024,
+        "sha256": "364b35529a241b84199a4258e2379e482e37e9a4a3e105ab09c5e190e0461915",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:23.481Z"
+      }
+    },
+    {
+      "title": "Bharti Airtel Regulation 30 disclosure: incorporation of Nxtra Vizag Limited",
+      "url": "https://assets.airtel.in/static-assets/cms/investor/docs/Reg30DisclosureNxtraVizag.pdf",
+      "locator": "2025-11-28; Annexure A, items 1 and 7–10, PDF pages 2–3",
+      "records": [
+        "IN01"
+      ],
+      "capture": {
+        "url": "https://assets.airtel.in/static-assets/cms/investor/docs/Reg30DisclosureNxtraVizag.pdf",
+        "title": "Bharti Airtel Regulation 30 disclosure: incorporation of Nxtra Vizag Limited",
+        "records": [
+          "IN01"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:23.482Z",
+        "path": "sources/036.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "final_url": "https://assets.airtel.in/static-assets/cms/investor/docs/Reg30DisclosureNxtraVizag.pdf",
+        "bytes": 288370,
+        "sha256": "e767dadfa1333f8431398af62a22c97cf4643d1fb4b683deb7b47bc62b53f240",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:26.836Z"
+      }
+    },
+    {
+      "title": "Nxtra Data audited standalone and consolidated FY2026 results",
+      "url": "https://assets.airtel.in/nxtra/pdf/Financial-Documents/STXIntimation_Nxtra_results_March31_2026.pdf",
+      "locator": "Released 2026-05-11; PDF page 7, standalone cash flow: investment in subsidiary (50), INR millions; page 16, consolidated note 3",
+      "records": [
+        "IN01",
+        "IN02"
+      ],
+      "capture": {
+        "url": "https://assets.airtel.in/nxtra/pdf/Financial-Documents/STXIntimation_Nxtra_results_March31_2026.pdf",
+        "title": "Nxtra Data audited standalone and consolidated FY2026 results",
+        "records": [
+          "IN01",
+          "IN02"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:26.837Z",
+        "path": "sources/037.pdf",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "final_url": "https://assets.airtel.in/nxtra/pdf/Financial-Documents/STXIntimation_Nxtra_results_March31_2026.pdf",
+        "bytes": 8928831,
+        "sha256": "9ec0376e75c9a2cf139baa0d49e0ea49581bc030fbc62c13b64f51aa502f80a4",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:35.532Z"
+      }
+    },
+    {
+      "title": "Andhra Pradesh ITE&C G.O.Ms.No.40, third-party copy",
+      "url": "https://www.scribd.com/document/1061400516/2025ITC-38488-MS40-E-Google",
+      "locator": "2025-10-11; paragraph 5, Fiscal Incentives items 8–13",
+      "records": [
+        "IN03",
+        "IN04",
+        "IN06"
+      ],
+      "capture": {
+        "url": "https://www.scribd.com/document/1061400516/2025ITC-38488-MS40-E-Google",
+        "title": "Andhra Pradesh ITE&C G.O.Ms.No.40, third-party copy",
+        "records": [
+          "IN03",
+          "IN04",
+          "IN06"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:35.532Z",
+        "path": "sources/038.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://www.scribd.com/document/1061400516/2025ITC-38488-MS40-E-Google",
+        "bytes": 1139805,
+        "sha256": "a181ea94cfd93a844a764924d7df41ff7fdf396d7ade95ba86cfc791718e4cb7",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:36.309Z"
+      }
+    },
+    {
+      "title": "Andhra Pradesh ITE&C G.O.Ms.No.2, third-party copy",
+      "url": "https://www.scribd.com/document/1059730399/2026ITC-40508-MS2-E",
+      "locator": "2026-02-18; paragraphs 3–8: representations, requested SPVs, approved acreage, further examination",
+      "records": [
+        "IN05"
+      ],
+      "capture": {
+        "url": "https://www.scribd.com/document/1059730399/2026ITC-40508-MS2-E",
+        "title": "Andhra Pradesh ITE&C G.O.Ms.No.2, third-party copy",
+        "records": [
+          "IN05"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:36.310Z",
+        "path": "sources/039.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://www.scribd.com/document/1059730399/2026ITC-40508-MS2-E",
+        "bytes": 1139437,
+        "sha256": "12b67782763565336d99cbe18ce189607d3815fd16d70d4c836cad9aec9be52d",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:36.806Z"
+      }
+    },
+    {
+      "title": "Andhra Pradesh ITE&C G.O.Ms.No.4, third-party copy",
+      "url": "https://www.scribd.com/document/1054630282/2026ITC-40674-MS4-E",
+      "locator": "2026-02-27; reference 5; paragraphs 5 and 6(a)–(e)",
+      "records": [
+        "IN05"
+      ],
+      "capture": {
+        "url": "https://www.scribd.com/document/1054630282/2026ITC-40674-MS4-E",
+        "title": "Andhra Pradesh ITE&C G.O.Ms.No.4, third-party copy",
+        "records": [
+          "IN05"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:36.806Z",
+        "path": "sources/040.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://www.scribd.com/document/1054630282/2026ITC-40674-MS4-E",
+        "bytes": 1135742,
+        "sha256": "b8d939037fd75bd6ea7471fedc4813dea7a7aa17a6d2ad863e9ebf930455b6b6",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:37.370Z"
+      }
+    },
+    {
+      "title": "Google AI Hub: Scaling India's AI Infrastructure and Community Impact",
+      "url": "https://blog.google/intl/en-in/google-ai-hub-scaling-indias-ai-infrastructure-and-community-impact/",
+      "locator": "2026-04-28; Bikash Koley; opening construction-phase announcement",
+      "records": [
+        "IN07"
+      ],
+      "capture": {
+        "url": "https://blog.google/intl/en-in/google-ai-hub-scaling-indias-ai-infrastructure-and-community-impact/",
+        "title": "Google AI Hub: Scaling India's AI Infrastructure and Community Impact",
+        "records": [
+          "IN07"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:37.370Z",
+        "path": "sources/041.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://blog.google/intl/en-in/google-ai-hub-scaling-indias-ai-infrastructure-and-community-impact/",
+        "bytes": 272016,
+        "sha256": "fce79ca7b1854c73896dfe82dacfdea39c02cc9dd5a3b1a22d2788664ba94536",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:37.867Z"
+      }
+    },
+    {
+      "title": "Google Breaks Ground on India AI Hub",
+      "url": "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem",
+      "locator": "2026-04-28; opening paragraphs, Tarluvada ceremony and three-campus description",
+      "records": [
+        "IN07"
+      ],
+      "capture": {
+        "url": "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem",
+        "title": "Google Breaks Ground on India AI Hub",
+        "records": [
+          "IN07"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:37.840Z",
+        "path": "sources/042.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "final_url": "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem",
+        "bytes": 1279725,
+        "sha256": "e701d311ab58ae02dc5b22289f5126293b5fc4da3a451ed99e9a169d67fcc8a3",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:43.644Z"
+      }
+    },
+    {
+      "title": "CJC January update",
+      "url": "https://cjc-ccj.ca/en/january-update/",
+      "locator": "Year1 Disbursements and Year2 Funding Secured",
+      "records": [
+        "CA11"
+      ],
+      "capture": {
+        "url": "https://cjc-ccj.ca/en/january-update/",
+        "title": "CJC January update",
+        "records": [
+          "CA11"
+        ],
+        "capture_started_utc": "2026-11-01T17:59:37.867Z",
+        "path": "sources/043.bin",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "final_url": "https://cjc-ccj.ca/en/january-update/",
+        "bytes": 61628,
+        "sha256": "b7e4b38f5528f4dc4a4f1dae1899be8f1567f2c716d6a0a3cbfdc1ae84aeffad",
+        "status": "HTTP_SUCCESS_CONTENT_REVIEW_REQUIRED",
+        "capture_finished_utc": "2026-11-01T17:59:38.312Z"
+      }
+    },
+    {
+      "title": "Current official Excel distribution",
+      "url": "https://transparency-register.europa.eu/odplastorganisationxls_en",
+      "locator": "Metadata distribution 9a34217f-fb4a-49c9-a0e1-8bf5769dd471; not downloaded",
+      "records": [
+        "EF07"
+      ],
+      "capture": {
+        "status": "NOT_CAPTURED_BY_LOCAL_ROUTE"
+      }
+    },
+    {
+      "title": "June 2026 official historical Excel distribution",
+      "url": "https://data.europa.eu/data-management/store/api/data/sg/01M323P8DK5V7A6V68YHXDPSDJ",
+      "locator": "Metadata distribution 2d02fa3a-e293-40a3-9581-978a291e2abc; issued 2026-06-30; not downloaded",
+      "records": [
+        "EF07"
+      ],
+      "capture": {
+        "status": "NOT_CAPTURED_BY_LOCAL_ROUTE"
+      }
+    }
+  ],
+  "corrections": [
+    {
+      "record": "CA06",
+      "change": "CJC's own news index identifies the Spring Update publication as June3,2026. Preserve original reviewer uncertainty and add the resolved date in the normalized successor.",
+      "source": {
+        "title": "CJC news index",
+        "url": "https://cjc-ccj.ca/en/latest-news/",
+        "locator": "Spring Update, June3,2026"
+      }
+    },
+    {
+      "record": "CA07",
+      "change": "The original reviewer's CSV-unparsed statement was true for that review. Root subsequently parsed and Praise independently recalculated; CA09–CA11 carry the later evidence."
+    },
+    {
+      "record": "CA09",
+      "change": "The initial analytical parser required an IA-prefixed ID and omitted CBC. Review of every nonempty excluded row exposed the problem. Revised inclusion uses named recipient/payment fields; original raw bytes and initial analysis remain preserved. Initial totals/concentration are superseded, not additional observations."
+    },
+    {
+      "record": "CA11",
+      "change": "CJC reports exact Year2 receipt C$102418842; CRTC's C$102.5m is retained as a separately attributed available-funding figure, not substituted cash receipt."
+    },
+    {
+      "record": "EF02–EF04",
+      "change": "Later original-export recovery supersedes the initial access limitation. Current paired Microsoft/APCO records and FTI recipient declaration are verified; full export and exact Google client record remain incomplete. Original eu.json remains preserved."
+    },
+    {
+      "record": "EF02",
+      "replacement_finding": "FTI’s current original record now corroborates the Google-labelled EUR 200000–299999 band. The Google Ireland-specific declaration remains unrecovered.",
+      "replacement_limit": "Exact paying affiliate and historical September filing contents remain unresolved; see EF09.",
+      "sources": [
+        {
+          "title": "Official EU Transparency Register XML export — FTI Consulting Belgium 29896393398-67",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-29896393398-67.xml; financialData/closedYear: dates; clients/client[name=Google]/revenue/range and proposal"
+        }
+      ]
+    },
+    {
+      "record": "EF03",
+      "replacement_finding": "Both Microsoft and APCO current original records confirm EUR 200000–299999, but their raw reporting periods differ; see EF08.",
+      "replacement_limit": "Do not add the ranges or equate the covered periods. Exact historical filing versions and invoices are not verified.",
+      "sources": [
+        {
+          "title": "Official EU Transparency Register XML export — Microsoft Corporation 0801162959-21",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-0801162959-21.xml; financialData/closedYear: dates; intermediaries/intermediary[name=APCO Worldwide]/representationCosts/range"
+        },
+        {
+          "title": "Official EU Transparency Register XML export — APCO Worldwide 81995781088-41",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-target-81995781088-41.xml; financialData/closedYear: dates; clients/client[name=Microsoft Corporation]/revenue/range and proposal"
+        }
+      ]
+    },
+    {
+      "record": "EF04",
+      "replacement_finding": "Official metadata and current distribution URLs were recovered. The correct metadata has 49 distributions. Normal HTTP retrieval reached real XML; the first 100000000 bytes and three complete target records are now preserved.",
+      "replacement_limit": "The prior failed web-tool observations remain historical. Recovery did not fetch the whole export or the June archive, and does not establish historical October snapshot contents.",
+      "sources": [
+        {
+          "title": "EU data portal — Transparency Register metadata",
+          "url": "https://data.europa.eu/data/datasets/transparency-register",
+          "locator": "Previously saved official JSON sources/030.bin; result.distributions; 59997 bytes; SHA256 9b4f4d2b7148938e9308cd66a605048ad4ca69dd0511982646700b7185dee56a"
+        },
+        {
+          "title": "Current XML distribution",
+          "url": "https://transparency-register.europa.eu/odplastorganisationxml_en",
+          "locator": "sources/eu-official-current-2026-11-01.xml-response.bin"
+        }
+      ]
+    }
+  ],
+  "publication": "Prepared for review; no new publication. Earlier October31 release unchanged."
+}
