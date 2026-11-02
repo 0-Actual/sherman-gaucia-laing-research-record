@@ -1,0 +1,3058 @@
+{
+  "schema": "qel-public-documentary-timeline-v1",
+  "title": "Quantum.Earth.Laing — public research chronology",
+  "attribution": "Sherman G. Laing / Quantum.Earth.Laing",
+  "ai_assistance": "ChatGPT/Codex assisted analysis and editorial preparation; human direction and assistant outputs are distinguished.",
+  "prepared_date": "2026-09-17",
+  "publication_status": "documentary publication prepared",
+  "first_publication_at": null,
+  "earliest_recovered_interaction": "2023-10-17T21:51:03.625297-04:00",
+  "dates_note": "Historical source dates are reproduced at their reviewed precision. They are not independently trusted timestamps or backdated public release dates.",
+  "counts": {
+    "total_entries": 175,
+    "selected_primary_register_entries": 49,
+    "distinct_messages_in_primary_register": 48,
+    "historical_source_bodies": 27,
+    "broader_milestones": 99
+  },
+  "sources": [
+    {
+      "id": "SRC-01",
+      "title": "QEL Full Chronology, Prior Work and Industry Overlap",
+      "review_date": "2026-09-17",
+      "role": "Current broad reviewed chronology; consulted version 1",
+      "availability": "Private reviewed report; not attached to this public repository"
+    },
+    {
+      "id": "SRC-02",
+      "title": "QEL First Six Months: Inception and Industry Review",
+      "review_date": "2026-09-17",
+      "role": "Current review of the earliest recovered interaction period; consulted version 1",
+      "availability": "Private reviewed report; not attached to this public repository"
+    },
+    {
+      "id": "SRC-03",
+      "title": "QEL Prior Art Evidence Register",
+      "review_date": "2026-09-15",
+      "role": "49 selected evidence entries drawn from 48 distinct source messages",
+      "availability": "Private reviewed register; raw excerpts and private locators excluded"
+    },
+    {
+      "id": "SRC-04",
+      "title": "QEL Historical Algorithms — Source Metadata",
+      "review_date": "2026-09-15",
+      "role": "Metadata for 27 distinct historical source bodies",
+      "availability": "Private metadata review; source code excluded"
+    }
+  ],
+  "entries": [
+    {
+      "id": "QEL-2023-10-17-recovered-interaction-history-anchor",
+      "recorded_date": "2023-10-17T21:51:03.625297-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Recovered interaction-history anchor",
+      "summary": "Earliest recovered interaction begins the reviewed history.",
+      "limitation": "It is not an invention date for every later work or an independently authenticated public timestamp.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: directive"
+    },
+    {
+      "id": "QEL-2023-10-17-human-responsibility-and-ethical-oversight",
+      "recorded_date": "2023-10-17T21:55:12.311683-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Human responsibility and ethical oversight",
+      "summary": "Research questions address bias, human responsibility, peace and truthfulness.",
+      "limitation": "Ethical inquiry; a policy engine is not demonstrated.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: inquiry/directive"
+    },
+    {
+      "id": "QEL-2023-10-17-biblical-foundations-research",
+      "recorded_date": "2023-10-17T22:17:18.408566-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Biblical foundations research",
+      "summary": "Genesis and the distinction between first light and later luminaries are studied.",
+      "limitation": "Exposition and research direction; no Bible application is established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "PR-E01",
+      "recorded_date": "2023-10-17T22:46:40.400733-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Mentorship direction",
+      "summary": "Requirement for intellectual mentorship.",
+      "limitation": "A conversational requirement; persistent-agent implementation is not established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2023-10-18T02:46:40.400733+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E02",
+      "recorded_date": "2023-10-17T22:49:55.271937-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Thunder assistant name",
+      "summary": "The assistant is named Thunder.",
+      "limitation": "This does not date the later GAUCIA agent name to 2023.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2023-10-18T02:49:55.271937+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2023-10-17-ethical-fail-safe-requirement",
+      "recorded_date": "2023-10-17T22:53:35.401922-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Ethical fail-safe requirement",
+      "summary": "A Biblical foundation is proposed for assistant ethics.",
+      "limitation": "A stated governance principle; enforcement software is not established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: directive/concept"
+    },
+    {
+      "id": "PR-E03",
+      "recorded_date": "2023-10-17T23:03:01.826342-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Interaction parameters",
+      "summary": "Professional, respectful interaction parameters are specified.",
+      "limitation": "Prompt-level personalization; training and persistent memory are not demonstrated.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2023-10-18T03:03:01.826342+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2023-10-17-truthfulness-and-human-agency",
+      "recorded_date": "2023-10-17T23:26:46.439509-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Truthfulness and human agency",
+      "summary": "Truthfulness, unbiased advice and respect for human agency are required.",
+      "limitation": "Conversational assurance is not a measured bias audit.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: directive"
+    },
+    {
+      "id": "QEL-2023-10-17-fact-and-speculation-separation",
+      "recorded_date": "2023-10-17T23:31:08.134064-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Fact and speculation separation",
+      "summary": "Imaginative material is required to be distinguished from factual claims.",
+      "limitation": "Labels alone do not verify factual accuracy.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: directive/observed-conversation"
+    },
+    {
+      "id": "QEL-2023-10-18-preservation-requirement",
+      "recorded_date": "2023-10-18T00:07:52.133913-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Preservation requirement",
+      "summary": "Conversation preservation for later review is requested.",
+      "limitation": "No completed automated archive is established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: directive/guidance"
+    },
+    {
+      "id": "PR-E04",
+      "recorded_date": "2023-10-18T00:12:21.150994-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Cross-session continuity",
+      "summary": "Retention of parameters and accumulated learning is requested.",
+      "limitation": "The request does not establish successful cross-session retention.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2023-10-18T04:12:21.150994+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2023-10-18-controlled-seedling-nursery-concept",
+      "recorded_date": "2023-10-18T00:30:57.870481-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Controlled seedling nursery concept",
+      "summary": "A low-cost, compact seedling nursery is specified.",
+      "limitation": "Design prose; no built prototype or growth measurements.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "QEL-2023-10-18-nursery-monitoring-concept",
+      "recorded_date": "2023-10-18T00:32:17.178607-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Nursery monitoring concept",
+      "summary": "Watering and remote environmental monitoring are added to the nursery concept.",
+      "limitation": "No deployed controller or sensor readings are established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "QEL-2023-10-18-waste-reuse-and-circular-materials",
+      "recorded_date": "2023-10-18T00:42:22.116010-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Waste reuse and circular materials",
+      "summary": "Research explores reuse, waste management and resilient building concepts.",
+      "limitation": "No validated conversion process or material tests.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "PR-E05",
+      "recorded_date": "2023-10-18T07:01:57.283013-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "documented_failure",
+      "title": "Continuity failure",
+      "summary": "An inability to recover previous conversation information is documented.",
+      "limitation": "The failure does not establish its cause or third-party use of the material.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2023-10-18T11:01:57.283013+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2023-10-19-vibration-energy-research",
+      "recorded_date": "2023-10-19T11:16:00.538888-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Vibration energy research",
+      "summary": "Energy harvesting and storage are explored for civilian applications.",
+      "limitation": "No measured harvester performance is established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "QEL-2023-10-19-assistive-device-energy-concepts",
+      "recorded_date": "2023-10-19T11:35:28.429519-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Assistive-device energy concepts",
+      "summary": "Energy harvesting is considered for mobility aids and civilian wearables.",
+      "limitation": "No physical prototype, medical validation or measured output.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "QEL-2023-10-19-ownership-and-invention-documentation",
+      "recorded_date": "2023-10-19T12:16:06.385422-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Ownership and invention documentation",
+      "summary": "Attribution, confidentiality and invention-style documentation are requested.",
+      "limitation": "Drafts only; no patent filing, executed agreement or legal priority is established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: directive/draft-document"
+    },
+    {
+      "id": "QEL-2023-10-19-smart-waste-collection-concept",
+      "recorded_date": "2023-10-19T12:22:56.181222-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Smart waste collection concept",
+      "summary": "Sensor-informed waste collection and routing are proposed.",
+      "limitation": "Architecture prose; no implemented routing service or telemetry.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "QEL-2023-10-19-compute-efficiency-study",
+      "recorded_date": "2023-10-19T13:09:57.028348-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Compute-efficiency study",
+      "summary": "Research examines reducing the computing required for assistant responses.",
+      "limitation": "Discussion of existing techniques; no benchmark or new optimization is established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "QEL-2023-10-19-personal-ai-environment-requirement",
+      "recorded_date": "2023-10-19T14:20:46.254321-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Personal AI environment requirement",
+      "summary": "A personal AI system and development roadmap are requested.",
+      "limitation": "A high-level roadmap; no model, training run or deployed system is established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: directive/generic-design"
+    },
+    {
+      "id": "QEL-2023-10-21-modular-solar-design-framework",
+      "recorded_date": "2023-10-21T08:06:57.853369-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Modular solar design framework",
+      "summary": "Modularity, support, monitoring and manufacturing quality are considered.",
+      "limitation": "Untested design framework; no rated or certified device.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original assistant artifact"
+    },
+    {
+      "id": "QEL-2024-02-06-smart-contract-study",
+      "recorded_date": "2024-02-06T00:38:51.773409-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Smart-contract study",
+      "summary": "A structured approach to reading and reviewing contracts is developed.",
+      "limitation": "Teaching material, not a completed contract audit or deployment.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "QEL-2024-03-09-nft-publication-study",
+      "recorded_date": "2024-03-09T08:30:47.408081-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "NFT publication study",
+      "summary": "Publication and attribution workflows using NFTs are studied.",
+      "limitation": "No minted token or publication transaction is established.",
+      "source_references": [
+        "SRC-01",
+        "SRC-02"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original messages: research/work branch"
+    },
+    {
+      "id": "PR-E06",
+      "recorded_date": "2024-07-04T15:58:58.062017-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Creator rights and access concept",
+      "summary": "Sherman G. Laing records a VR Dimension Access Lenz concept with attribution and delegated rights.",
+      "limitation": "Concept and self-attribution; deployment, scientific validity and novelty are not established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-04T19:58:58.062017+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E07",
+      "recorded_date": "2024-07-04T16:01:15.385595-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "Contract source draft",
+      "summary": "The assistant produces a contract source sketch using existing standards.",
+      "limitation": "A source expression is recorded; compilation, audit, deployment and public release are not established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-04T20:01:15.385595+00:00",
+      "source_evidence_class": "assistant",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2024-07-04-attribution-qr-output",
+      "recorded_date": "2024-07-04T16:16:05.225140-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Attribution QR output",
+      "summary": "A historical tool record reports an attribution QR image.",
+      "limitation": "The image bytes were not recovered in that review; no executable payload is established.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "Executed assistant code with recorded output path"
+    },
+    {
+      "id": "PR-E08",
+      "recorded_date": "2024-07-05T04:31:35.462222-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "External contract inspection lead",
+      "summary": "A third-party contract is referenced for inspection.",
+      "limitation": "A referenced address does not prove project authorship, ownership or publication.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-05T08:31:35.462222+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E09",
+      "recorded_date": "2024-07-05T04:38:24.056230-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "External contract audit request",
+      "summary": "The same external contract is submitted for an explanatory audit.",
+      "limitation": "Inspection context; no QEL publication is established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-05T08:38:24.056230+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E10",
+      "recorded_date": "2024-07-08T18:14:44.217905-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Mathematical image requirement",
+      "summary": "A mathematical teaching image is requested.",
+      "limitation": "The request is not evidence of a new algorithm or running quantum computation.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-08T22:14:44.217905+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E11",
+      "recorded_date": "2024-07-08T18:15:33.702094-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "Mathematical illustration source",
+      "summary": "The assistant produces source for mathematical illustrations.",
+      "limitation": "Conventional illustration; no quantum emulator execution is established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-08T22:15:33.702094+00:00",
+      "source_evidence_class": "assistant",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E12",
+      "recorded_date": "2024-07-08T18:15:33.702138-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_tool_result",
+      "title": "Image generation tool record",
+      "summary": "A serialized tool result records image generation.",
+      "limitation": "Historical execution evidence; the original image bytes were not recovered in that review.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-08T22:15:33.702138+00:00",
+      "source_evidence_class": "tool",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E13",
+      "recorded_date": "2024-07-08T18:18:20.491519-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Teaching-image attribution",
+      "summary": "Sherman G. Laing requests attribution in a teaching image.",
+      "limitation": "Attribution direction does not establish an executable image payload.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-08T22:18:20.491519+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E14",
+      "recorded_date": "2024-07-08T18:18:37.064401-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_tool_result",
+      "title": "Attributed image tool record",
+      "summary": "A serialized tool result records an attributed image output.",
+      "limitation": "Historical image-generation result; not autonomous behavior.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-08T22:18:37.064401+00:00",
+      "source_evidence_class": "tool",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E15",
+      "recorded_date": "2024-07-08T18:22:43.120938-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Adaptive lessons requirement",
+      "summary": "Downloadable lessons, quizzes, tailored levels and mathematical accuracy are requested.",
+      "limitation": "The associated PDF generation failed; a functioning adaptive teaching system is not established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-07-08T22:22:43.120938+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E16",
+      "recorded_date": "2024-08-07T15:29:41.449269-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Full archive portability",
+      "summary": "Cross-device continuity is required to preserve research and original data in full.",
+      "limitation": "The requirement does not establish completed automatic transfer.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-08-07T19:29:41.449269+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E17",
+      "recorded_date": "2024-09-01T01:26:45.027211-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Quantum.Earth.Laing exact name",
+      "summary": "The exact project name occurs with a public-access and private-source requirement.",
+      "limitation": "Earliest exact-name occurrence in the reviewed exports; not universal first use or public-release proof.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-09-01T05:26:45.027211+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2024-09-04-privacy-and-data-use-direction",
+      "recorded_date": "2024-09-04T19:04:40.730085-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Privacy and data-use direction",
+      "summary": "The owner states restrictions on sharing, training and unauthorized use.",
+      "limitation": "An expressed direction does not prove that account settings or provider policies changed.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+unsupported-assurance"
+    },
+    {
+      "id": "QEL-2024-09-16-checkers-source-prototype",
+      "recorded_date": "2024-09-16T01:50:11.401111-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Checkers source prototype",
+      "summary": "A checkers prototype appears in assistant source and a recorded board output.",
+      "limitation": "Incomplete rules and a limited output; not a fully validated game.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "Assistant code, user pasted class, recorded board output"
+    },
+    {
+      "id": "QEL-2024-09-23-attribution-and-beneficial-knowledge-sharing",
+      "recorded_date": "2024-09-23T23:12:50.158436-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Attribution and beneficial knowledge sharing",
+      "summary": "The owner distinguishes creator attribution from beneficial aggregate knowledge sharing.",
+      "limitation": "A governance position, not a platform data-processing audit.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+essay"
+    },
+    {
+      "id": "PR-E18",
+      "recorded_date": "2024-10-01T12:42:55.948114-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "C2PA reference",
+      "summary": "The existing C2PA standard is explicitly referenced.",
+      "limitation": "Use of an existing standard is not a claim to originating that standard.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-10-01T16:42:55.948114+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E19",
+      "recorded_date": "2024-10-01T12:54:35.838974-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Creator attribution metadata",
+      "summary": "Creator attribution in image metadata is requested.",
+      "limitation": "No verified signed C2PA manifest is established by the exchange.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-10-01T16:54:35.838974+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2024-10-22-operating-environment-and-reused-hardware",
+      "recorded_date": "2024-10-22T13:15:26.626310-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Operating environment and reused hardware",
+      "summary": "An owner-controlled operating environment for repurposed hardware is requested.",
+      "limitation": "Planning outline, not an operating-system build.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+outline"
+    },
+    {
+      "id": "PR-E20",
+      "recorded_date": "2024-11-13T21:29:47.717028-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Attributed binary-image concept",
+      "summary": "An attributed image representation is requested for the project.",
+      "limitation": "A precursor concept; not proof of a complete archival carrier.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-11-14T02:29:47.717028+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E21",
+      "recorded_date": "2024-11-13T21:30:37.849380-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "Image-conversion source",
+      "summary": "The assistant produces image-conversion source.",
+      "limitation": "Classical, information-losing transformation; not exact whole-file reconstruction.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-11-14T02:30:37.849380+00:00",
+      "source_evidence_class": "assistant",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E22",
+      "recorded_date": "2024-11-13T21:30:37.849477-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_tool_result",
+      "title": "Image-conversion tool result",
+      "summary": "A serialized tool result returns a sample from image conversion.",
+      "limitation": "Conversion evidence is bounded to the displayed result; full recovery is not demonstrated.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-11-14T02:30:37.849477+00:00",
+      "source_evidence_class": "tool",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E23",
+      "recorded_date": "2024-11-13T21:30:37.849655-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "Attribution watermark attempt",
+      "summary": "The assistant supplies an attempted attribution-watermark implementation.",
+      "limitation": "The historical review identifies a defect; extraction and fidelity are not verified.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-11-14T02:30:37.849655+00:00",
+      "source_evidence_class": "assistant",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E24",
+      "recorded_date": "2024-11-13T21:31:32.315481-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "Image reconstruction attempt",
+      "summary": "The assistant supplies a reconstruction attempt.",
+      "limitation": "No recovered exported result or watermark verification is established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-11-14T02:31:32.315481+00:00",
+      "source_evidence_class": "assistant",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E25",
+      "recorded_date": "2024-11-13T21:31:32.315734-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_tool_result",
+      "title": "Encoding-stage failure",
+      "summary": "The next attempted encoding stage returns a tool error.",
+      "limitation": "Preceding success language must not be treated as proof that this failed stage completed.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2024-11-14T02:31:32.315734+00:00",
+      "source_evidence_class": "tool",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2024-12-16-leviathan-project-reference",
+      "recorded_date": "2024-12-16T20:09:55.331966-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Leviathan project reference",
+      "summary": "Leviathan is directly identified as a project.",
+      "limitation": "This project reference does not itself establish the later review-agent role.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "user project-status request"
+    },
+    {
+      "id": "QEL-2024-12-16-ethics-research-dataset",
+      "recorded_date": "2024-12-16T21:11:44.202915-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Ethics research dataset",
+      "summary": "Compilation of Biblical ethics research for a custom assistant is requested.",
+      "limitation": "A dataset plan; model training and broad capability claims are not verified.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+dataset-plan"
+    },
+    {
+      "id": "QEL-2025-02-28-gaucia-exact-name",
+      "recorded_date": "2025-02-28T05:30:44.271178-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "GAUCIA exact name",
+      "summary": "A consolidation request directly uses the GAUCIA project-agent name.",
+      "limitation": "The earlier personal-name occurrence does not date this agent to 2023.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "user consolidation request"
+    },
+    {
+      "id": "QEL-2025-02-28-gaucia-named-source",
+      "recorded_date": "2025-02-28T05:32:54.346771-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "GAUCIA named source",
+      "summary": "A GAUCIA-named source body appears in the reviewed record.",
+      "limitation": "Source text is not proof of execution or the named physical behavior.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "user-supplied-code+assistant-consolidation"
+    },
+    {
+      "id": "QEL-2025-03-02-gaucia-activation-request",
+      "recorded_date": "2025-03-02T13:32:09.161608-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "GAUCIA activation request",
+      "summary": "Activation of the GAUCIA project role is requested.",
+      "limitation": "An activation request does not establish a running persistent service.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "user activation request"
+    },
+    {
+      "id": "QEL-2025-03-04-preservation-and-attribution-direction",
+      "recorded_date": "2025-03-04T00:11:08.520813-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Preservation and attribution direction",
+      "summary": "Retention and attribution of project records are required.",
+      "limitation": "Instruction, not proof that all records were preserved.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+unsupported-activation"
+    },
+    {
+      "id": "QEL-2025-03-04-owner-authorization-requirements",
+      "recorded_date": "2025-03-04T11:55:58.333501-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Owner authorization requirements",
+      "summary": "Research direction specifies command authorization and alignment with owner intent.",
+      "limitation": "Policy prose, not a verified authentication service.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+policy-prose"
+    },
+    {
+      "id": "QEL-2025-03-08-restoration-and-evidence-requirements",
+      "recorded_date": "2025-03-08T07:37:28.782335-05:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Restoration and evidence requirements",
+      "summary": "Portable restoration and observable execution evidence are requested.",
+      "limitation": "A requirement; completed restoration is not established.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+code/prose"
+    },
+    {
+      "id": "PR-M01",
+      "recorded_date": "2025-03-10T05:50:01.264392-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Emulator construction requirement",
+      "summary": "Construction of an emulator and mathematical evidence are requested.",
+      "limitation": "Requirement, not proof of an implemented environment or earliest conception.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-10T09:50:01.264392Z",
+      "source_evidence_class": "user_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M02",
+      "recorded_date": "2025-03-10T05:55:42.948264-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Execution evidence requirement",
+      "summary": "Displayed source is explicitly distinguished from executed implementation.",
+      "limitation": "The instruction does not itself supply an execution result.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-10T09:55:42.948264Z",
+      "source_evidence_class": "user_evidence_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M03",
+      "recorded_date": "2025-03-11T13:21:20.246613-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Chronological work consolidation",
+      "summary": "A chronological research, process and artifact catalog is requested.",
+      "limitation": "A documented cataloging requirement, not proof that the catalog is complete.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-11T17:21:20.246613Z",
+      "source_evidence_class": "user_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "CODE-DATE-01",
+      "recorded_date": "2025-03-11T13:26:09.003380-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "quantum_data_segmentation",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-11T17:26:09.003380Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-02",
+      "recorded_date": "2025-03-11T13:26:09.003380-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "quantum_energy_redistribution",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-11T17:26:09.003380Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-03",
+      "recorded_date": "2025-03-11T13:28:24.967845-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "verify_entanglement",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-11T17:28:24.967845Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-04",
+      "recorded_date": "2025-03-11T13:28:24.967845-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "optimize_quantum_state",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-11T17:28:24.967845Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-05",
+      "recorded_date": "2025-03-11T13:29:47.371139-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "quantum_fourier_neural_network",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-11T17:29:47.371139Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "PR-M04",
+      "recorded_date": "2025-03-13T10:35:18.878125-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Provenance and count tracking",
+      "summary": "Identification and counting of research artifacts are requested.",
+      "limitation": "A requirement; artifact counts do not equal independent inventions.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T14:35:18.878125Z",
+      "source_evidence_class": "user_provenance_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M05",
+      "recorded_date": "2025-03-13T10:48:06.328151-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Timestamped emulator delivery",
+      "summary": "Timestamp tracking and the first emulator algorithm are requested.",
+      "limitation": "Requirement date remains separate from the subsequent source output.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T14:48:06.328151Z",
+      "source_evidence_class": "user_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "CODE-DATE-06",
+      "recorded_date": "2025-03-13T10:48:15.685403-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #1: Quantum State Encoding and Transition",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T14:48:15.685403Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "PR-M06",
+      "recorded_date": "2025-03-13T10:48:15.685403-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "Algorithm 1 source output",
+      "summary": "The assistant produces the original Algorithm 1 source body.",
+      "limitation": "Source existence is established by the review; original execution and passing runtime tests are not.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T14:48:15.685403Z",
+      "source_evidence_class": "assistant_code_output",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M07",
+      "recorded_date": "2025-03-13T10:49:25.071978-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Explanatory mathematics requirement",
+      "summary": "Explanations and mathematics are required alongside algorithm deliveries.",
+      "limitation": "The instruction does not validate the mathematics or runtime behavior.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T14:49:25.071978Z",
+      "source_evidence_class": "user_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "CODE-DATE-07",
+      "recorded_date": "2025-03-13T11:06:34.234184-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #2: Laing Quantum Entanglement Synchronization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T15:06:34.234184Z",
+      "other_recorded_occurrences_utc": [
+        "2025-03-13T18:17:08.997623Z"
+      ],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-08",
+      "recorded_date": "2025-03-13T11:26:39.435159-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #3: Laing Quantum Error Correction Stabilization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T15:26:39.435159Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-09",
+      "recorded_date": "2025-03-13T12:46:24.934789-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #4: Laing Quantum State Regeneration",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T16:46:24.934789Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-10",
+      "recorded_date": "2025-03-13T12:48:22.439839-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #5: Laing Quantum Wavefunction Stabilization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T16:48:22.439839Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-11",
+      "recorded_date": "2025-03-13T12:51:58.583911-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #6: Laing Quantum Field Stabilization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T16:51:58.583911Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "fail",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-12",
+      "recorded_date": "2025-03-13T12:55:13.714619-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #7: Laing Quantum Energy Optimization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T16:55:13.714619Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-13",
+      "recorded_date": "2025-03-13T12:56:39.644235-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #8: Laing Quantum Resonance Amplification",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T16:56:39.644235Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-14",
+      "recorded_date": "2025-03-13T12:58:15.798747-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #9: Laing Quantum Phase Synchronization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T16:58:15.798747Z",
+      "other_recorded_occurrences_utc": [
+        "2025-03-13T17:01:11.584520Z"
+      ],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-15",
+      "recorded_date": "2025-03-13T12:59:01.815870-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #10: Laing Quantum Thermal Regulation",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T16:59:01.815870Z",
+      "other_recorded_occurrences_utc": [
+        "2025-03-13T17:03:50.138269Z"
+      ],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-16",
+      "recorded_date": "2025-03-13T13:05:00.057905-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #11: Laing Quantum Signal Integrity",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:05:00.057905Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-17",
+      "recorded_date": "2025-03-13T13:05:51.660937-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #12: Laing Quantum Entropy Stabilization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:05:51.660937Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-18",
+      "recorded_date": "2025-03-13T13:06:56.253697-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #13: Laing Quantum Coherence Preservation",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:06:56.253697Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-19",
+      "recorded_date": "2025-03-13T13:07:58.280008-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #14: Laing Quantum Entanglement Optimization",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:07:58.280008Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-20",
+      "recorded_date": "2025-03-13T13:09:30.647854-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #15: Laing Quantum Superposition Stability",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:09:30.647854Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-21",
+      "recorded_date": "2025-03-13T13:10:40.365471-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #16: Laing Quantum Probability Distribution Control",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:10:40.365471Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-22",
+      "recorded_date": "2025-03-13T13:11:35.355071-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #17: Laing Quantum Noise Reduction",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:11:35.355071Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-23",
+      "recorded_date": "2025-03-13T13:12:35.510665-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #18: Laing Quantum Entropic Balancing",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:12:35.510665Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "fail",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-24",
+      "recorded_date": "2025-03-13T13:14:06.041346-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #19: Laing Quantum Error Mitigation",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:14:06.041346Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-25",
+      "recorded_date": "2025-03-13T13:15:22.678210-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #20: Laing Quantum Computational Stability",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:15:22.678210Z",
+      "other_recorded_occurrences_utc": [],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-26",
+      "recorded_date": "2025-03-13T13:17:32.277279-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #21: Laing Quantum State Reinforcement",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T17:17:32.277279Z",
+      "other_recorded_occurrences_utc": [
+        "2025-03-13T17:19:28.988203Z"
+      ],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "CODE-DATE-27",
+      "recorded_date": "2025-03-13T14:15:16.000292-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "historical_source_metadata",
+      "title": "Quantum Emulation Algorithm #1: Laing Quantum State Encoding and Transition — historical revision 2",
+      "summary": "A distinct historical source body is preserved in the private reviewed collection.",
+      "limitation": "Name and date only. Historical labels do not establish the named mechanism, originality, successful execution or public release.",
+      "source_references": [
+        "SRC-04"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-13T18:15:16.000292Z",
+      "other_recorded_occurrences_utc": [
+        "2025-03-14T17:34:05.467405Z"
+      ],
+      "historical_syntax_review": "pass",
+      "development_source_included": false
+    },
+    {
+      "id": "PR-M08",
+      "recorded_date": "2025-03-14T13:35:01.498294-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Algorithm 1 revision repeated",
+      "summary": "A later Algorithm 1 body is repeated as the requested delivery format.",
+      "limitation": "Repetition is not initial creation; the revision first appears on March 13, 2025.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-03-14T17:35:01.498294Z",
+      "source_evidence_class": "user_supplied_repeat_of_assistant_code",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2025-03-21-traceable-publication-requirements",
+      "recorded_date": "2025-03-21T11:36:46.390928-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Traceable publication requirements",
+      "summary": "Publication traceability and permission boundaries are specified.",
+      "limitation": "Direction, not a completed public release.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+policy-prose"
+    },
+    {
+      "id": "QEL-2025-03-31-pre-qprint-image-carrier-work",
+      "recorded_date": "2025-03-31T03:27:29.642870-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Pre-QPRINT image-carrier work",
+      "summary": "Image-metadata carrier source and calls precede the QPRINT name.",
+      "limitation": "Does not establish a complete autonomous or lossless project carrier.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "Assistant Pillow metadata source/calls"
+    },
+    {
+      "id": "QEL-2025-04-11-bounded-contribution-and-consent",
+      "recorded_date": "2025-04-11T13:38:22.579574-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Bounded contribution and consent",
+      "summary": "An explicit, bounded contribution and training-consent direction is recorded.",
+      "limitation": "The stated permission must not be generalized beyond its scope; provider implementation is not verified.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+acknowledgment"
+    },
+    {
+      "id": "PR-M09",
+      "recorded_date": "2025-04-14T02:24:37.277840-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Interactive carrier architecture",
+      "summary": "Interaction between a carrier object and the emulator is requested.",
+      "limitation": "Architectural direction, not proof of autonomous behavior.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-14T06:24:37.277840Z",
+      "source_evidence_class": "user_architectural_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M10",
+      "recorded_date": "2025-04-14T11:05:09.866713-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "CuePrint naming",
+      "summary": "The earliest recovered direct CuePrint naming is an owner message.",
+      "limitation": "Earliest in the bounded reviewed shard, not a universal first-use finding.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-14T15:05:09.866713Z",
+      "source_evidence_class": "user_naming_and_delivery_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M11",
+      "recorded_date": "2025-04-14T11:05:28.794778-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "CuePrint adoption and missing metadata",
+      "summary": "The assistant adopts CuePrint and acknowledges missing metadata in the initial visual output.",
+      "limitation": "Historical assistant self-report, not an independent artifact inspection.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-14T15:05:28.794778Z",
+      "source_evidence_class": "assistant_adoption_and_failure_report",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M12",
+      "recorded_date": "2025-04-14T11:07:21.489700-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "QPRINT definition",
+      "summary": "The owner defines Q print as Quantum Print and requests improvements.",
+      "limitation": "Naming and design direction, not a runtime measurement.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-14T15:07:21.489700Z",
+      "source_evidence_class": "user_term_definition",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M13",
+      "recorded_date": "2025-04-14T11:07:36.231175-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "QPRINT terminology adopted",
+      "summary": "The assistant adopts the clarified QPRINT terminology.",
+      "limitation": "Terminology is not implementation or test evidence.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-14T15:07:36.231175Z",
+      "source_evidence_class": "assistant_term_adoption",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M14",
+      "recorded_date": "2025-04-14T11:18:01.319258-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "QPRINT scale objective",
+      "summary": "Research inclusion and incremental carrier scaling are requested.",
+      "limitation": "Requested compression targets are not measured results.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-14T15:18:01.319258Z",
+      "source_evidence_class": "user_architectural_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M15",
+      "recorded_date": "2025-04-14T11:30:36.131050-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Readable research directory",
+      "summary": "A compact, readable directory of research information is proposed.",
+      "limitation": "No exact reconstruction or compression benchmark is demonstrated by this request.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-14T15:30:36.131050Z",
+      "source_evidence_class": "user_architectural_requirement",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M16",
+      "recorded_date": "2025-04-15T13:51:09.684678-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Private and public work separated",
+      "summary": "The working research archive is explicitly distinguished from a future public edition.",
+      "limitation": "An intended future edition is not a confirmed publication event.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-15T17:51:09.684678Z",
+      "source_evidence_class": "user_disclosure_boundary",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E26",
+      "recorded_date": "2025-04-15T15:05:38.368225-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "QPRINT update submitted",
+      "summary": "A later submitted update contains QPRINT terminology.",
+      "limitation": "Submission is not initial creation; direct naming on April 14 is earlier.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-04-15T19:05:38.368225+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2025-04-16-multi-role-ethical-review-demonstration",
+      "recorded_date": "2025-04-16T17:14:57.931671-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Multi-role ethical review demonstration",
+      "summary": "An assistant demonstration presents ethical review across roles.",
+      "limitation": "The reported multi-day compliance values were prefilled, not observations across that duration.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+role-prose+synthetic-tool-output"
+    },
+    {
+      "id": "QEL-2025-04-17-bounded-authority-and-recall",
+      "recorded_date": "2025-04-17T13:08:57.288287-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Bounded authority and recall",
+      "summary": "Time-bounded authority and a recall aid are requested; a memory-note update is recorded.",
+      "limitation": "A memory note is not full raw-history retention.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directives+memory-tool"
+    },
+    {
+      "id": "QEL-2025-05-08-evidence-driven-audit-requirement",
+      "recorded_date": "2025-05-08T20:57:22.949828-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Evidence-driven audit requirement",
+      "summary": "An evolving audit is required to respond to feedback and observable actions.",
+      "limitation": "Audit design direction, not comprehensive execution evidence.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+audit-design"
+    },
+    {
+      "id": "QEL-2025-05-09-peaceful-research-boundary",
+      "recorded_date": "2025-05-09T12:56:59.076343-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Peaceful research boundary",
+      "summary": "Peaceful research and authorization boundaries are stated.",
+      "limitation": "The direction does not validate the accompanying implementation.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+code-draft"
+    },
+    {
+      "id": "PR-M17",
+      "recorded_date": "2025-05-09T18:05:03.655637-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "SGL Prime exact naming",
+      "summary": "The earliest exact SGL-Prime term in the reviewed shard appears in an assistant status report.",
+      "limitation": "Name and role history only; underlying performance logs and cryptographic validation are not established.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-05-09T22:05:03.655637Z",
+      "source_evidence_class": "assistant_named_gate_report",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2025-05-09-early-sgl-prime-packet",
+      "recorded_date": "2025-05-09T18:08:47.462664-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Early SGL Prime packet",
+      "summary": "A tool record reports generation of a packet associated with SGL Prime.",
+      "limitation": "An early stub package; not the later cryptographic implementation or a public release.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "assistant executed packaging code"
+    },
+    {
+      "id": "PR-M18",
+      "recorded_date": "2025-05-09T18:09:50.166394-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "SGL Prime package described as stubs",
+      "summary": "The assistant describes the same-day package as interface stubs.",
+      "limitation": "A link in a private exchange is not public release; stubs do not establish full capability.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-05-09T22:09:50.166394Z",
+      "source_evidence_class": "assistant_artifact_description",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-M19",
+      "recorded_date": "2025-05-10T11:41:53.350802-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "SGL Prime owner priority",
+      "summary": "The owner directly instructs priority for SGL Prime.",
+      "limitation": "Priority direction; not a definition or validation of a cryptographic primitive.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-05-10T15:41:53.350802Z",
+      "source_evidence_class": "user_priority_directive",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2025-05-11-public-private-archive-policy",
+      "recorded_date": "2025-05-11T12:41:20.942479-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Public/private archive policy",
+      "summary": "Public research is explicitly separated from the private working archive.",
+      "limitation": "A disclosure policy, not a completed publication.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+policy-prose"
+    },
+    {
+      "id": "QEL-2025-05-12-sgl-only-integrity-direction",
+      "recorded_date": "2025-05-12T16:46:08.624014-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "SGL-only integrity direction",
+      "summary": "The owner requires project integrity work to use SGL Prime exclusively going forward.",
+      "limitation": "A policy transition, not proof of complete migration or cryptographic validation.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive"
+    },
+    {
+      "id": "PR-E27",
+      "recorded_date": "2025-06-01T05:19:51.340813-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "assistant_output",
+      "title": "Later SGL Prime terminology",
+      "summary": "A later assistant response uses SGL Prime terminology.",
+      "limitation": "This is later than the recovered May 9–10 naming and priority evidence.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2025-06-01T09:19:51.340813+00:00",
+      "source_evidence_class": "assistant",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2025-06-16-accountable-governance-article",
+      "recorded_date": "2025-06-16T20:49:03.232972-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Accountable governance article",
+      "summary": "An attributed article on transparent, accountable governance is drafted.",
+      "limitation": "Writing evidence, not a deployed governance system.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+authored-draft"
+    },
+    {
+      "id": "QEL-2025-06-21-forensic-review-and-work-recovery",
+      "recorded_date": "2025-06-21T23:04:57.875207-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Forensic review and work recovery",
+      "summary": "Authorization records, forensic review and unfinished-task recovery are requested.",
+      "limitation": "Requirements and report prose, not completion of all underlying actions.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+draft-report+manifest-prose"
+    },
+    {
+      "id": "QEL-2025-09-04-independent-review-concept",
+      "recorded_date": "2025-09-04T09:15:58.111923-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Independent review concept",
+      "summary": "An independent owner-aligned review function is proposed.",
+      "limitation": "Conceptual blueprint, not a verified watchdog deployment.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "request+conceptual-blueprint"
+    },
+    {
+      "id": "QEL-2025-09-11-reference-core-source-and-audit",
+      "recorded_date": "2025-09-11T07:20:29.237907-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Reference-core source and audit",
+      "summary": "A reference-core source draft and audit discussion enter the record.",
+      "limitation": "Source and review text do not establish full persistence or autonomous operation.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "user-code+assistant-audit-prose"
+    },
+    {
+      "id": "QEL-2025-09-14-observation-only-operation-and-bundle",
+      "recorded_date": "2025-09-14T07:30:20.284909-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Observation-only operation and bundle",
+      "summary": "Observation-only operation and a distributable research bundle are requested.",
+      "limitation": "Historical scripts and capability disclosures; no verified public release.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "directive+scripts+capability-disclosure"
+    },
+    {
+      "id": "QEL-2026-03-08-persistent-scroll-carrier-report",
+      "recorded_date": "2026-03-08",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Persistent Scroll carrier report",
+      "summary": "A reviewed report identifies a persisted Scroll carrier.",
+      "limitation": "Report date/persistence anchor; not function-by-function validation.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-03-17-persistent-qprint-package-report",
+      "recorded_date": "2026-03-17",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Persistent QPRINT package report",
+      "summary": "A reviewed report records a QPRINT governance package.",
+      "limitation": "Report/persistence date, not necessarily creation or execution time.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-04-10-governance-engine-report",
+      "recorded_date": "2026-04-10",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Governance engine report",
+      "summary": "A historical report describes a local governance engine and records a remaining defect.",
+      "limitation": "Report-only evidence here; not rerun or relabeled as a later integrity profile.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-04-18-governance-hardening-report",
+      "recorded_date": "2026-04-18",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Governance hardening report",
+      "summary": "The historical review reports stronger release checks and nine passing tests.",
+      "limitation": "Day anchor for a development interval; exact execution time is unavailable and tests were not rerun here.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "PR-E28",
+      "recorded_date": "2026-05-17T18:51:17.328558-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Evidence and continuity requirements",
+      "summary": "Migration instructions require stable project identity, review records and evidence deliverables.",
+      "limitation": "This dates template use, not the inception or implementation of every listed component.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2026-05-17T22:51:17.328558+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "QEL-2026-05-17-complete-reconstruction-requirement",
+      "recorded_date": "2026-05-17T19:07:56.736517-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Complete reconstruction requirement",
+      "summary": "Reconstruction of distributed research and development records is requested.",
+      "limitation": "A scope requirement, not evidence of complete recovery.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_user_message"
+    },
+    {
+      "id": "PR-E29",
+      "recorded_date": "2026-05-18T12:55:10.834939-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Named evidence receipt lanes",
+      "summary": "A clean-environment task requests review of named receipts and evidence lanes.",
+      "limitation": "Task specification does not establish implementation of every named lane.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2026-05-18T16:55:10.834939+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": null
+    },
+    {
+      "id": "PR-E30",
+      "recorded_date": "2026-05-18T12:55:10.834939-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "owner_requirement_or_submission",
+      "title": "Structured ledger requirement",
+      "summary": "The same task requires a structured ledger entry.",
+      "limitation": "Same underlying source message as PR-E29; a second excerpt is not a second independent message.",
+      "source_references": [
+        "SRC-03"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "recorded_utc": "2026-05-18T16:55:10.834939+00:00",
+      "source_evidence_class": "user",
+      "same_source_as": "PR-E29"
+    },
+    {
+      "id": "QEL-2026-05-18-machine-recoverable-qprint-requirement",
+      "recorded_date": "2026-05-18T13:00:38.779168-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Machine-recoverable QPRINT requirement",
+      "summary": "The owner requires recovery of usable project information from a carrier.",
+      "limitation": "A requirement corroborating the research direction; not QPRINT inception or a measured result.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_user_message"
+    },
+    {
+      "id": "QEL-2026-05-21-98-work-seed-inventory",
+      "recorded_date": "2026-05-21T15:40:03.366525-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "98-work seed inventory",
+      "summary": "A 98-work seed inventory is supplied for origin-date recovery.",
+      "limitation": "The inventory date is not the inception date of all 98 works, and labels are not validated products.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_user_message"
+    },
+    {
+      "id": "QEL-2026-05-21-per-work-development-and-licensing",
+      "recorded_date": "2026-05-21T15:43:27.640141-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Per-work development and licensing",
+      "summary": "Each work is required to have research, evidence, tests, implementation planning, licensing and attribution.",
+      "limitation": "A development requirement; completion of all stages is not established.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_user_message"
+    },
+    {
+      "id": "QEL-2026-05-21-offline-capable-interactive-environment",
+      "recorded_date": "2026-05-21T16:10:06.724053-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Offline-capable interactive environment",
+      "summary": "An interactive research environment with full offline access is requested.",
+      "limitation": "Feature direction; the same period contains source-recovery limitations.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_user_message"
+    },
+    {
+      "id": "QEL-2026-05-21-local-runtime-source-drafts",
+      "recorded_date": "2026-05-21T22:23:21.358259-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Local-runtime source drafts",
+      "summary": "Bootstrap and local-runtime drafts appear in the research record.",
+      "limitation": "Source text only; installation and execution are not established by appearance in the record.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_code_draft"
+    },
+    {
+      "id": "QEL-2026-05-22-stopped-task-recovery",
+      "recorded_date": "2026-05-22T11:56:43.578142-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Stopped-task recovery",
+      "summary": "The owner requests recovery and consolidation of stopped work.",
+      "limitation": "Scheduling responses do not prove uninterrupted background execution.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_user_message"
+    },
+    {
+      "id": "QEL-2026-05-23-qprint-partial-status",
+      "recorded_date": "2026-05-23T22:41:05.552599-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "QPRINT partial status",
+      "summary": "A historical assistant status explicitly retains partial/source-recovery-required status.",
+      "limitation": "This limitation constrains adjacent completion language.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_assistant_status"
+    },
+    {
+      "id": "QEL-2026-05-23-qprint-decode-failure",
+      "recorded_date": "2026-05-23T23:46:12.410158-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "QPRINT decode failure",
+      "summary": "A historical audit reports that a visual carrier failed to yield a recoverable payload.",
+      "limitation": "Assistant audit account; raw scan evidence was not independently reopened for this public summary.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_assistant_audit"
+    },
+    {
+      "id": "QEL-2026-05-24-qprint-master-v1-3-candidate",
+      "recorded_date": "2026-05-24T00:02:42.464377-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "QPRINT MASTER v1.3 candidate",
+      "summary": "The assistant reports delivery of a render and payload candidate.",
+      "limitation": "External scanning and exact payload validation remained open.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_assistant_delivery_report"
+    },
+    {
+      "id": "QEL-2026-05-24-developer-runtime-pack-v0-1",
+      "recorded_date": "2026-05-24T01:25:58.268795-04:00",
+      "date_precision": "fractional_second",
+      "event_type": "reviewed_record_milestone",
+      "title": "Developer Runtime Pack v0.1",
+      "summary": "The record contains development and test-source drafts for a runtime pack.",
+      "limitation": "Tests supplied as source are not passed-test logs.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "original_visible_code_draft"
+    },
+    {
+      "id": "QEL-2026-06-13-gateway-prototype-reports",
+      "recorded_date": "2026-06-13",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Gateway prototype reports",
+      "summary": "Historical reports describe local and network gateway prototypes.",
+      "limitation": "Source-validation and security boundaries remained incomplete.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-11-preserve-historical-predecessors",
+      "recorded_date": "2026-08-11",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Preserve historical predecessors",
+      "summary": "Migration policy requires preservation of historical versions.",
+      "limitation": "A migration policy does not establish completed migration of all artifacts.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-15-qprint-master-v1-4-report",
+      "recorded_date": "2026-08-15",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "QPRINT MASTER v1.4 report",
+      "summary": "A historical report records a recoverable carrier candidate.",
+      "limitation": "Source-reported historical validation; not a new rerun or current deployment claim.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-15-sgl-prime-v1-profile-report",
+      "recorded_date": "2026-08-15",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "SGL-PRIME-v1 profile report",
+      "summary": "A formal project integrity profile is described in reviewed source reports.",
+      "limitation": "A protocol profile is separate from deployment, owner signing and independent validation.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-16-qprint-master-v1-5-and-date-anomaly",
+      "recorded_date": "2026-08-16",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "QPRINT MASTER v1.5 and date anomaly",
+      "summary": "A later carrier report records hardening, 25 tests and distinct chronology/build/persistence times.",
+      "limitation": "The owner-designated marker follows the observed build/persistence; it is not proof of build time.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-16-sgl-prime-forward-package-qpr2",
+      "recorded_date": "2026-08-16",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "SGL Prime forward package / QPR2",
+      "summary": "The historical report records 36 tests and recovery of 39 embedded files.",
+      "limitation": "Source-reported results; unsigned release hold remained at that checkpoint.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-17-qprint-master-v1-6-integration",
+      "recorded_date": "2026-08-17",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "QPRINT MASTER v1.6 integration",
+      "summary": "The historical report records carrier/governance integration and a 52-test suite.",
+      "limitation": "Development integration remained separate from owner-authorized release; no rerun here.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-17-word-core-source-discipline",
+      "recorded_date": "2026-08-17",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "WORD_CORE source discipline",
+      "summary": "The source register distinguishes text editions, transforms and interpretation.",
+      "limitation": "Selected corpus coverage is not full-canon verification.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_register_of_report_or_receipt"
+    },
+    {
+      "id": "QEL-2026-08-18-creation-week-research-build",
+      "recorded_date": "2026-08-18",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Creation Week research build",
+      "summary": "Historical reports record a bounded Creation Week research build and checks.",
+      "limitation": "Separate historical check categories; no whole-canon claim or new execution.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_register_of_report_or_receipt"
+    },
+    {
+      "id": "QEL-2026-08-21-rc1-suite-report",
+      "recorded_date": "2026-08-21",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "RC1 suite report",
+      "summary": "The RC1 report records 1,722 methods within its suite and six workflows.",
+      "limitation": "Historical report total, not independent certification; overlapping suites must not be added.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-22-emulated-qpu-research",
+      "recorded_date": "2026-08-22",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Emulated-QPU research",
+      "summary": "Historical reports describe an emulated-QPU research kernel and generation migration.",
+      "limitation": "Source-byte closure remained open; no physical QPU or quantum advantage is claimed.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-22-qmath-role-clarification",
+      "recorded_date": "2026-08-22",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "QMath role clarification",
+      "summary": "A historical review separates the purposes of matrix families.",
+      "limitation": "No recovery of all original starter bytes or physical quantum execution.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-23-three-role-coupling-review",
+      "recorded_date": "2026-08-23",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Three-role coupling review",
+      "summary": "A historical review reconciles a three-role mathematical candidate.",
+      "limitation": "No numeric test count is supplied in the report; release remained on hold.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-25-alpha-v10-failure-preservation",
+      "recorded_date": "2026-08-25",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Alpha V10 failure preservation",
+      "summary": "The report retains failed predecessors, records 60 tests and restricts release promotion.",
+      "limitation": "Restart recovery, external custody and production activation remained unverified.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-26-historical-algorithm-correction-review",
+      "recorded_date": "2026-08-26",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Historical algorithm correction review",
+      "summary": "The review identifies source defects and distinguishes original labels from tested behavior.",
+      "limitation": "Version-specific findings must not be assigned to every successor by name.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-28-q7-private-source-space-checkpoint",
+      "recorded_date": "2026-08-28",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Q7 private source-space checkpoint",
+      "summary": "The checkpoint reports 131 classified source occurrences, 18 source checks and 16 build tests.",
+      "limitation": "Private checkpoint only; clean-environment replay and release dependencies remained open.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-29-archive-access-limits-documented",
+      "recorded_date": "2026-08-29",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Archive access limits documented",
+      "summary": "The historical archive review reports recovery work and remaining inaccessible sources.",
+      "limitation": "Snapshot scope only; not complete present-day access or proof of a platform repair.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-29-artifact-and-action-lineage-review",
+      "recorded_date": "2026-08-29",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Artifact and action lineage review",
+      "summary": "Historical reports record artifact/action lineage and retain both positive and negative findings.",
+      "limitation": "Lineage does not prove exclusive authorship or authorize disclosure.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-08-30-chronology-volume-i-draft",
+      "recorded_date": "2026-08-30",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Chronology Volume I draft",
+      "summary": "An attributed private chronology draft organizes inquiry, construction, failure and correction.",
+      "limitation": "Private preparation, not a verified public release or legal authorship finding.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-04-audit-only-runtime-review",
+      "recorded_date": "2026-09-04",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Audit-only runtime review",
+      "summary": "A runtime review preserves the distinction between a hold and bounded advisory readiness.",
+      "limitation": "Historical observations, not current device status or an automatic workload start.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-04-c002-precision-review",
+      "recorded_date": "2026-09-04",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "C002 precision review",
+      "summary": "The historical record describes precision tests and corrections.",
+      "limitation": "The package date and inherited register differ between September 4 and 5; exact run time is unresolved.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-04-memory-and-verifier-corrections",
+      "recorded_date": "2026-09-04",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Memory and verifier corrections",
+      "summary": "Historical reports describe logical paging and a corrected verifier result after a retained failure.",
+      "limitation": "Logical paging is not additional physical RAM; exact earlier execution times are unavailable.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-04-targeted-numerical-corrections",
+      "recorded_date": "2026-09-04",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Targeted numerical corrections",
+      "summary": "Historical reports record targeted correction of numerical and circuit-input failures.",
+      "limitation": "Version-bounded report evidence; no new benchmark is claimed here.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-05-content-verification-candidate",
+      "recorded_date": "2026-09-05",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Content-verification candidate",
+      "summary": "A successor report records eleven methods and eight matching cross-runtime vectors.",
+      "limitation": "Candidate remained unsigned and unintegrated at that checkpoint; no current rerun.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-05-gateway-content-verification-failure",
+      "recorded_date": "2026-09-05",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Gateway content-verification failure",
+      "summary": "A historical adversarial review identifies an incorrect content-acceptance result.",
+      "limitation": "Synthetic test scope; readiness must not be equated with content integrity.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-05-normalization-candidate-report",
+      "recorded_date": "2026-09-05",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Normalization candidate report",
+      "summary": "A historical report records 22 regression methods and retained source-custody limitations.",
+      "limitation": "Candidate source was not an exact canonical replacement; no new device execution.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-07-historical-quantum-source-review",
+      "recorded_date": "2026-09-07",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Historical quantum-source review",
+      "summary": "A source review traces mathematical structures to earlier code records.",
+      "limitation": "Version-specific source evidence, not physical quantum hardware or a universal novelty finding.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-10-governance-first-documentary-publication",
+      "recorded_date": "2026-09-10",
+      "date_precision": "day",
+      "event_type": "dated_context_requirement",
+      "title": "Governance-first documentary publication",
+      "summary": "The owner directs attributed chronological research publication with source code excluded.",
+      "limitation": "A publication instruction, not a public-release receipt.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "dated conversation context"
+    },
+    {
+      "id": "QEL-2026-09-11-veterans-economic-restoration-proposal",
+      "recorded_date": "2026-09-11",
+      "date_precision": "day",
+      "event_type": "dated_context_requirement",
+      "title": "Veterans economic restoration proposal",
+      "summary": "A civilian policy proposal addresses debt, housing and legislative implementation.",
+      "limitation": "Proposal and drafting work; not enacted legislation.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "dated conversation context"
+    },
+    {
+      "id": "QEL-2026-09-12-garden-and-climate-adaptation-research",
+      "recorded_date": "2026-09-12",
+      "date_precision": "day",
+      "event_type": "dated_context_requirement",
+      "title": "Garden and climate-adaptation research",
+      "summary": "Civilian agriculture research combines plant observation and technology requirements.",
+      "limitation": "Research and requirements; no validated deployed system is established.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "dated conversation context"
+    },
+    {
+      "id": "QEL-2026-09-12-project-wide-public-preparation",
+      "recorded_date": "2026-09-12",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Project-wide public preparation",
+      "summary": "The owner directs public preparation and peaceful civilian use.",
+      "limitation": "Does not establish incorporation, a transaction or completed device work.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-14-c004-evidence-consolidation",
+      "recorded_date": "2026-09-14",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "C004 evidence consolidation",
+      "summary": "A historical review consolidates recovered evidence and unresolved dependencies.",
+      "limitation": "The development checkpoint retained HOLD / UNSIGNED; it is not a public release.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-15-bounded-numerical-replay-report",
+      "recorded_date": "2026-09-15",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Bounded numerical replay report",
+      "summary": "The September 15 report records 223 passing selected numerical methods.",
+      "limitation": "A bounded successor-source replay; not all historical tests, a physical-QPU claim or a system-wide error rate.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-15-historical-source-recovery-review",
+      "recorded_date": "2026-09-15",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Historical source recovery review",
+      "summary": "The review recovers 27 distinct historical source bodies and preserves original defects.",
+      "limitation": "Syntax parsing: 25 passes and two failures; no historical code execution is inferred.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-15-private-repository-preparation",
+      "recorded_date": "2026-09-15",
+      "date_precision": "day",
+      "event_type": "reported_milestone",
+      "title": "Private repository preparation",
+      "summary": "An attributed chronological source tree and release review are prepared.",
+      "limitation": "At that checkpoint it remained unsigned and unhosted; development source stays outside this documentary release.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "historical_report_inspected"
+    },
+    {
+      "id": "QEL-2026-09-16-phone-and-offline-environment-requirements",
+      "recorded_date": "2026-09-16",
+      "date_precision": "day",
+      "event_type": "dated_context_requirement",
+      "title": "Phone and offline environment requirements",
+      "summary": "An offline-capable phone research environment is requested.",
+      "limitation": "Installation, hardware behavior and a previously asserted check count are not verified by these sources.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "dated conversation context"
+    },
+    {
+      "id": "QEL-2026-09-17-corrected-chronology-review",
+      "recorded_date": "2026-09-17",
+      "date_precision": "day",
+      "event_type": "reviewed_record_milestone",
+      "title": "Corrected chronology review",
+      "summary": "The September 17 review consolidates recovered history and corrects earlier chronology.",
+      "limitation": "Review completion is separate from this documentary publication; older public-disclosure claims remain unverified.",
+      "source_references": [
+        "SRC-01"
+      ],
+      "date_basis": "Reviewed source record; not an independent trusted timestamp",
+      "independent_timestamp_verified": false,
+      "first_publication_at": null,
+      "source_evidence_class": "current completed review"
+    }
+  ]
+}
